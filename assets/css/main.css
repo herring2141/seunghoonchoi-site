@@ -29,6 +29,11 @@ img{max-width:100%;height:auto}
 .brand__mark{font-family:var(--serif);font-weight:700;font-size:18px;color:var(--navy);
   width:40px;height:40px;display:grid;place-items:center;border:1.5px solid var(--navy);border-radius:50%}
 .brand__name{font-family:var(--serif);font-size:19px;font-weight:600;color:var(--ink)}
+.brand__logo{width:34px;height:34px;display:block;transition:transform .35s var(--ease)}
+.brand:hover .brand__logo{transform:rotate(-10deg)}
+.brand__mol line{stroke:var(--navy);stroke-width:1.4;opacity:.5}
+.brand__mol circle{fill:none;stroke:var(--navy);stroke-width:1.6}
+.brand__mol circle.cu{fill:var(--copper);stroke:var(--copper)}
 .nav{display:flex;align-items:center;gap:25px}
 .nav__link{position:relative;font-family:var(--sans);font-size:16.5px;font-weight:500;color:var(--ink-soft);padding:6px 0;transition:color .25s}
 .nav__link::after{content:"";position:absolute;left:0;bottom:-2px;width:0;height:1.5px;background:var(--copper);transition:width .3s var(--ease)}
