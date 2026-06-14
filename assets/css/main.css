@@ -3,7 +3,7 @@
    ============================================================ */
 :root{
   --paper:#F8F6F3; --paper-2:#FCFBF9; --ink:#1B1B1A; --ink-soft:#44423E;
-  --muted:#8A857C; --navy:#0D1B4C; --navy-soft:#2C3A78; --copper:#8A5523; --copper-soft:#A66A30;
+  --muted:#8A857C; --navy:#0D1B4C; --navy-soft:#2C3A78; --copper:#B87333; --copper-soft:#D4955A;
   --hair:rgba(13,27,76,.12); --hair-2:rgba(13,27,76,.07);
   --shadow:0 1px 2px rgba(27,27,26,.04),0 12px 40px rgba(13,27,76,.06);
   --serif:"Playfair Display",Georgia,serif; --serif-en:"Playfair Display",Georgia,serif;
@@ -79,7 +79,8 @@ img{max-width:100%;height:auto}
 .hero__inner{position:relative;z-index:1;max-width:720px}
 .eyebrow{display:flex;align-items:center;gap:14px;margin-bottom:22px;font-size:12.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--copper)}
 .eyebrow__rule{width:42px;height:1.5px;background:var(--copper)}
-.hero__name{font-family:var(--serif);font-weight:700;font-size:clamp(48px,9vw,104px);line-height:.95;letter-spacing:-.02em;color:var(--copper);margin-bottom:18px}
+.hero__name{font-family:var(--serif);font-weight:700;font-size:clamp(48px,9vw,104px);line-height:.95;letter-spacing:-.02em;color:var(--navy);margin-bottom:18px}
+.hero__name-accent{color:var(--copper)}
 .hero__tagline{font-family:var(--serif);font-style:italic;font-size:clamp(19px,2.8vw,27px);color:var(--navy);margin-bottom:22px}
 .hero__intro{font-size:18px;color:var(--ink-soft);max-width:640px}
 .hero__intro p{margin-bottom:.8em}

@@ -14,7 +14,8 @@
   </svg>
   <div class="hero__inner reveal">
     <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
-    <h1 class="hero__name">{{ .Site.Title }}</h1>
+    {{ $nameParts := split .Site.Title " " }}
+    <h1 class="hero__name">{{ index $nameParts 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $nameParts) " " }}</span></h1>
     <p class="hero__tagline">{{ .Site.Params.tagline }}</p>
     <div class="hero__intro">{{ .Content }}</div>
   </div>
