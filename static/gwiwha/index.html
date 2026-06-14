@@ -159,8 +159,8 @@
         <div class="signup" id="signup">
           <h2>새 문제 · 업데이트 소식을 이메일로</h2>
           <p class="sub" style="margin-bottom:4px">문제가 추가되거나 기능이 개선되면 알려드립니다. (스팸 없음, 언제든 해지)</p>
-          <!-- ▼▼▼ 이메일 서비스 연동 자리: 가입 후 form ID를 받아 action에 넣으면 작동합니다 (권장: Kit/ConvertKit, 무료 1만 구독) ▼▼▼ -->
-          <form class="form" action="https://app.kit.com/forms/__KIT_FORM_ID__/subscriptions" method="post" data-sv-form="__KIT_FORM_ID__">
+          <!-- Kit(ConvertKit) inline form #9563658 에 연결됨 -->
+          <form class="form" action="https://app.kit.com/forms/9563658/subscriptions" method="post" data-sv-form="9563658">
             <input type="email" name="email_address" required placeholder="이메일 주소를 입력하세요" aria-label="이메일 주소" />
             <label class="consent">
               <input type="checkbox" required />
@@ -212,6 +212,28 @@
       </div>
     </div>
   </footer>
+
+  <script>
+    // Kit 폼 제출: 페이지에 머문 채 구독 처리 + 감사 메시지
+    (function () {
+      var form = document.querySelector('.form');
+      if (!form) return;
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var data = new FormData(form);
+        var btn = form.querySelector('button[type=submit]');
+        if (btn) { btn.disabled = true; btn.textContent = '보내는 중…'; }
+        fetch(form.action, { method: 'POST', body: data, mode: 'no-cors' })
+          .catch(function () {})
+          .finally(function () {
+            form.innerHTML =
+              '<p style="text-align:center;font-weight:700;color:var(--blue);font-size:1.05rem">구독해 주셔서 감사합니다! 🎉</p>' +
+              '<p style="text-align:center;color:#475569;font-size:.92rem;margin-top:6px">확인 메일을 보내드렸어요. 메일함(스팸함도)에서 확인 버튼을 눌러주세요.</p>' +
+              '<p style="text-align:center;margin-top:14px"><a class="btn btn-primary" href="https://herring2141.github.io/gwiwha/">앱 바로 시작하기</a></p>';
+          });
+      });
+    })();
+  </script>
 
 </body>
 </html>
