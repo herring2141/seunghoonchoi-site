@@ -161,3 +161,15 @@ img{max-width:100%;height:auto}
   *{animation:none!important;scroll-behavior:auto}
   .reveal{opacity:1;transform:none}
 }
+
+/* ---------- App promo card + CTA ---------- */
+.appcard{display:flex;gap:24px;align-items:center;background:var(--navy);color:#EDEBE6;border-radius:16px;padding:clamp(24px,4vw,36px);margin:10px 0 22px;box-shadow:0 22px 60px rgba(13,27,76,.22);flex-wrap:wrap}
+.appcard__icon{width:84px;height:84px;border-radius:20px;flex:none;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+.appcard__body{flex:1;min-width:240px}
+.appcard__body h3{font-family:var(--serif);font-size:24px;color:#fff;margin:0 0 6px}
+.appcard__body p{color:#C7C9D6;font-size:15.5px;margin:0 0 6px}
+.appcard__free{display:inline-block;font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--copper-soft);margin-bottom:8px}
+.cta{display:inline-block;background:var(--copper);color:#fff;font-weight:600;font-size:15px;padding:12px 26px;border-radius:999px;border-bottom:0;transition:transform .25s var(--ease),background .25s}
+.cta:hover{background:var(--copper-soft);transform:translateY(-2px)}
+.post__body .cta{border-bottom:0}
+@media (max-width:560px){ .appcard{flex-direction:column;text-align:center;align-items:center} }
