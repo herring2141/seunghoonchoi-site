@@ -45,11 +45,11 @@ enableEmoji = true
     locale = "ko-KR"
     contentDir = "content/ko"
     weight = 2
-    title = "최승훈"
+    title = "Seunghoon Choi"
     [languages.ko.params]
       role = "Computational Materials Scientist · 작가"
-      tagline = "재료·제조·데이터, 그리고 그 바깥의 글."
-      description = "최승훈 — 계산재료과학자. 연구, 글, 그리고 가이드를 한곳에."
+      tagline = "데이터로 재료와 제조를 연구하고, 그 바깥의 글을 씁니다."
+      description = "최승훈(Seunghoon Choi) — 계산재료과학자이자 작가. 연구, 글, 가이드를 한곳에."
 
 # Section navigation (shared structure; labels via i18n)
 [[menus.main]]
