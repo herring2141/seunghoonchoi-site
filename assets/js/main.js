@@ -18,6 +18,34 @@
     });
   }
 
+  /* Nav dropdowns — click/touch + keyboard (hover handled by CSS) */
+  var toggles = document.querySelectorAll(".nav__toggle");
+  toggles.forEach(function (btn) {
+    var group = btn.closest(".nav__group");
+    if (!group) return;
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      var open = group.classList.toggle("is-open");
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+  });
+  document.addEventListener("click", function (e) {
+    if (e.target.closest(".nav__group")) return;
+    document.querySelectorAll(".nav__group.is-open").forEach(function (g) {
+      g.classList.remove("is-open");
+      var t = g.querySelector(".nav__toggle");
+      if (t) t.setAttribute("aria-expanded", "false");
+    });
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key !== "Escape") return;
+    document.querySelectorAll(".nav__group.is-open").forEach(function (g) {
+      g.classList.remove("is-open");
+      var t = g.querySelector(".nav__toggle");
+      if (t) t.setAttribute("aria-expanded", "false");
+    });
+  });
+
   /* Reveal on scroll */
   var reveals = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window && reveals.length) {

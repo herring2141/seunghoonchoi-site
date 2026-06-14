@@ -20,25 +20,19 @@
   </div>
 </section>
 
-{{ $home := . }}
-{{ $sections := slice "research" "writing" "guides" }}
-{{ range $sections }}
-  {{ $key := . }}
-  {{ with $home.Site.GetPage (printf "/%s" $key) }}
-  <section class="home-sec reveal">
-    <header class="section__head">
-      <h2 class="section__title">{{ i18n $key }}</h2>
-      <a class="link" href="{{ .RelPermalink }}">{{ i18n "view_all" }} →</a>
-    </header>
-    {{ with .Content }}<p class="lede">{{ . | plainify | truncate 160 }}</p>{{ end }}
-    <div class="cards">
-      {{ range (first 3 (.RegularPagesRecursive.ByDate.Reverse)) }}
-        {{ partial "post-card.html" . }}
-      {{ else }}
-        <p class="muted">{{ i18n "no_posts" }}</p>
-      {{ end }}
-    </div>
-  </section>
-  {{ end }}
+{{/* Recent content feed — newly added items across all sections, newest first */}}
+{{ $sections := slice "research" "column" "books" "literature" "youtube" "apps" "career" }}
+{{ $feed := (where .Site.RegularPages "Section" "in" $sections).ByDate.Reverse }}
+{{ with $feed }}
+<section class="home-sec home-feed reveal">
+  <header class="section__head">
+    <h2 class="section__title">{{ i18n "latest" }}</h2>
+  </header>
+  <div class="cards">
+    {{ range first 9 . }}
+      {{ partial "post-card.html" . }}
+    {{ end }}
+  </div>
+</section>
 {{ end }}
 {{ end }}

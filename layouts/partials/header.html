@@ -1,19 +1,54 @@
 {{ $p := . }}
-{{ $sections := slice "home" "research" "writing" "guides" "about" }}
+{{ $home := $p.Site.Home.RelPermalink }}
+{{ $cur := $p.RelPermalink }}
 <header class="topbar">
   <a href="{{ "" | relLangURL }}" class="brand">
     <span class="brand__mark">SC</span>
     <span class="brand__name">{{ .Site.Title }}</span>
   </a>
   <nav class="nav" aria-label="Primary">
-    {{ range $sections }}
-      {{ if eq . "home" }}
-        <a href="{{ "" | relLangURL }}" class="nav__link{{ if eq $p.RelPermalink $p.Site.Home.RelPermalink }} is-active{{ end }}">{{ i18n "home" }}</a>
-      {{ else }}
-        {{ $url := (printf "%s/" .) | relLangURL }}
-        <a href="{{ $url }}" class="nav__link{{ if and (ne $p.RelPermalink ($p.Site.Home.RelPermalink)) (hasPrefix $p.RelPermalink $url) }} is-active{{ end }}">{{ i18n . }}</a>
-      {{ end }}
-    {{ end }}
+    {{/* Home */}}
+    <a href="{{ "" | relLangURL }}" class="nav__link{{ if eq $cur $home }} is-active{{ end }}">{{ i18n "home" }}</a>
+
+    {{/* Research */}}
+    {{ $research := "research/" | relLangURL }}
+    <a href="{{ $research }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $research) }} is-active{{ end }}">{{ i18n "research" }}</a>
+
+    {{/* Writing — dropdown */}}
+    {{ $writingKids := slice "column" "books" "literature" }}
+    {{ $writingActive := false }}
+    {{ range $writingKids }}{{ if and (ne $cur $home) (hasPrefix $cur ((printf "%s/" .) | relLangURL)) }}{{ $writingActive = true }}{{ end }}{{ end }}
+    <div class="nav__group">
+      <button type="button" class="nav__link nav__toggle{{ if $writingActive }} is-active{{ end }}" aria-haspopup="true" aria-expanded="false">{{ i18n "writing" }}<span class="nav__caret" aria-hidden="true">▾</span></button>
+      <div class="nav__menu" role="menu">
+        {{ range $writingKids }}
+          {{ $u := (printf "%s/" .) | relLangURL }}
+          <a role="menuitem" href="{{ $u }}" class="nav__sublink{{ if and (ne $cur $home) (hasPrefix $cur $u) }} is-active{{ end }}">{{ i18n . }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+    {{/* YouTube */}}
+    {{ $youtube := "youtube/" | relLangURL }}
+    <a href="{{ $youtube }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $youtube) }} is-active{{ end }}">{{ i18n "youtube" }}</a>
+
+    {{/* Resources — dropdown */}}
+    {{ $resKids := slice "apps" "career" }}
+    {{ $resActive := false }}
+    {{ range $resKids }}{{ if and (ne $cur $home) (hasPrefix $cur ((printf "%s/" .) | relLangURL)) }}{{ $resActive = true }}{{ end }}{{ end }}
+    <div class="nav__group">
+      <button type="button" class="nav__link nav__toggle{{ if $resActive }} is-active{{ end }}" aria-haspopup="true" aria-expanded="false">{{ i18n "resources" }}<span class="nav__caret" aria-hidden="true">▾</span></button>
+      <div class="nav__menu" role="menu">
+        {{ range $resKids }}
+          {{ $u := (printf "%s/" .) | relLangURL }}
+          <a role="menuitem" href="{{ $u }}" class="nav__sublink{{ if and (ne $cur $home) (hasPrefix $cur $u) }} is-active{{ end }}">{{ i18n . }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+    {{/* About */}}
+    {{ $about := "about/" | relLangURL }}
+    <a href="{{ $about }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $about) }} is-active{{ end }}">{{ i18n "about" }}</a>
   </nav>
   <div class="topbar__right">
     {{ partial "langswitch.html" . }}

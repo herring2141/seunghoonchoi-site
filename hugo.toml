@@ -51,24 +51,8 @@ enableEmoji = true
       tagline = "재료를 계산으로 연구하고, 그 너머의 이야기를 씁니다."
       description = "최승훈(Seunghoon Choi) — 계산재료과학자이자 작가. 연구, 글, 가이드를 한곳에."
 
-# Section navigation (shared structure; labels via i18n)
-[[menus.main]]
-  identifier = "research"
-  name = "Research"
-  pageRef = "/research"
-  weight = 10
-[[menus.main]]
-  identifier = "writing"
-  name = "Writing"
-  pageRef = "/writing"
-  weight = 20
-[[menus.main]]
-  identifier = "guides"
-  name = "Guides"
-  pageRef = "/guides"
-  weight = 30
-[[menus.main]]
-  identifier = "about"
-  name = "About"
-  pageRef = "/about"
-  weight = 40
+# Primary navigation is defined in layouts/partials/header.html with hover
+# dropdowns (홈 · 연구 · 글▾[칼럼·책·문학집] · 유튜브 · 자료▾[앱·커리어가이드] · 소개).
+# Labels come from i18n/{en,ko}.toml keyed by section identifier.
+# Content sections: research, column, books, literature, youtube, apps, career
+# plus the single page about.md.

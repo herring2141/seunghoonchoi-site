@@ -1,10 +1,24 @@
 # Navigation (keyed by menu identifier)
 [research]
 other = "Research"
+# parent dropdown labels
 [writing]
 other = "Writing"
-[guides]
-other = "Guides"
+[resources]
+other = "Resources"
+# leaf sections
+[column]
+other = "Column"
+[books]
+other = "Books"
+[literature]
+other = "Literature"
+[youtube]
+other = "YouTube"
+[apps]
+other = "Apps"
+[career]
+other = "Career Guide"
 [about]
 other = "About"
 

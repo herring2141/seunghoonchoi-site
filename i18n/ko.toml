@@ -1,10 +1,24 @@
 # Navigation (keyed by menu identifier)
 [research]
 other = "연구"
+# parent dropdown labels
 [writing]
 other = "글"
-[guides]
-other = "가이드"
+[resources]
+other = "자료"
+# leaf sections
+[column]
+other = "칼럼"
+[books]
+other = "책"
+[literature]
+other = "문학집"
+[youtube]
+other = "유튜브"
+[apps]
+other = "앱"
+[career]
+other = "커리어가이드"
 [about]
 other = "소개"
 
