@@ -197,3 +197,19 @@ img{max-width:100%;height:auto}
 /* card titles pick up navy on hover, copper meta already */
 .card__title a:hover{color:var(--copper)}
 .tl__body h4{color:var(--navy)}
+
+/* ---------- Korean-native typography (no Latin italics / serif) ---------- */
+:root{--sans-ko:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+body.lang-ko{--serif:var(--sans-ko);--sans:var(--sans-ko)}
+body.lang-ko .hero__tagline,body.lang-ko .post__subtitle,body.lang-ko blockquote,
+body.lang-ko em,body.lang-ko i,body.lang-ko .lede em,body.lang-ko .post__body em,
+body.lang-ko .lede blockquote,body.lang-ko .post__body blockquote{font-style:normal}
+body.lang-ko .hero__tagline{font-weight:600}
+body.lang-ko em,body.lang-ko .lede em,body.lang-ko .post__body em{color:var(--copper);font-weight:600}
+body.lang-ko .hero__name{font-weight:800;font-size:clamp(42px,7.5vw,84px);letter-spacing:-.025em;line-height:1.04}
+body.lang-ko .section__title,body.lang-ko .post__title,body.lang-ko .contact__title,
+body.lang-ko .card__title,body.lang-ko .featured__title,
+body.lang-ko .lede h2,body.lang-ko .post__body h2{font-weight:700;letter-spacing:-.02em}
+body.lang-ko .lede h3,body.lang-ko .post__body h3,body.lang-ko .tl__body h4{font-weight:600;letter-spacing:-.01em}
+body.lang-ko .eyebrow,body.lang-ko .stat__label,body.lang-ko .subhead,body.lang-ko .appcard__free,body.lang-ko .featured__tag{letter-spacing:.01em}
+body.lang-ko .nav__link{font-weight:500}
