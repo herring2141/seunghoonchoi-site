@@ -6,7 +6,7 @@
   --muted:#8A857C; --navy:#0D1B4C; --navy-soft:#2C3A78; --copper:#C0703C; --copper-soft:#D08A4E;
   --hair:rgba(13,27,76,.12); --hair-2:rgba(13,27,76,.07);
   --shadow:0 1px 2px rgba(27,27,26,.04),0 12px 40px rgba(13,27,76,.06);
-  --serif:"Playfair Display",Georgia,serif;
+  --serif:"Playfair Display",Georgia,serif; --serif-en:"Playfair Display",Georgia,serif;
   --sans:"Source Sans 3",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
   --maxw:1120px; --ease:cubic-bezier(.2,.7,.2,1); --header-h:68px;
@@ -233,7 +233,8 @@ body.lang-ko em,body.lang-ko i,body.lang-ko .lede em,body.lang-ko .post__body em
 body.lang-ko .lede blockquote,body.lang-ko .post__body blockquote{font-style:normal}
 body.lang-ko .hero__tagline{font-weight:600}
 body.lang-ko em,body.lang-ko .lede em,body.lang-ko .post__body em{color:var(--copper);font-weight:600}
-body.lang-ko .hero__name{font-weight:800;font-size:clamp(42px,7.5vw,84px);letter-spacing:-.025em;line-height:1.04}
+/* Latin wordmark + numbers use the English serif (Playfair) on the ko site too */
+body.lang-ko .hero__name,body.lang-ko .brand__name,body.lang-ko .brand__mark,body.lang-ko .stat__num{font-family:var(--serif-en)}
 body.lang-ko .section__title,body.lang-ko .post__title,body.lang-ko .contact__title,
 body.lang-ko .card__title,body.lang-ko .featured__title,
 body.lang-ko .lede h2,body.lang-ko .post__body h2{font-weight:700;letter-spacing:-.02em}
