@@ -3,6 +3,10 @@ title: "식물 잎 전기신호 기록용 바이오영감 하이드로젤 전극
 date: 2026-02-28
 categories: ["논문"]
 tags: ["바이오영감", "하이드로젤", "식물전자"]
+doi: "10.7236/IJASC.2026.15.1.241"
+articleTitle: "Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves"
+journal: "International Journal of Advanced Smart Convergence"
+pubyear: 2026
 ---
 ![식물 잎에서 전기신호를 기록하는 문어 영감 하이드로젤 점착 패치](/images/plant-hydrogel-electrode.jpg)
 
