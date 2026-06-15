@@ -25,3 +25,5 @@ Outside research, I write — essays, stories, and guides drawn from an unusual 
 - **University** — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
 - **Personal** — [herring2141@gmail.com](mailto:herring2141@gmail.com)
 - **LinkedIn** — [Connect ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
+- **ORCID** — [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
+- **Google Scholar** — [Profile ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)

@@ -25,3 +25,5 @@ title: "소개"
 - **대학** — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
 - **개인** — [herring2141@gmail.com](mailto:herring2141@gmail.com)
 - **링크드인** — [연결하기 ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
+- **ORCID** — [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
+- **Google Scholar** — [프로필 ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)
