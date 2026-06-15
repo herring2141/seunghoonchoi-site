@@ -13,7 +13,7 @@ image: /images/gwiwha-card.svg
     <span class="appcard__free">무료 · 설치형 웹앱(PWA)</span>
     <h3>귀화시험 종합평가 연습</h3>
     <p>대한민국 귀화 종합평가(필기·작문·구술)를 한 곳에서 연습.</p>
-    <a class="cta" href="https://herring2141.github.io/gwiwha/" target="_blank" rel="noopener">무료로 시작하기 →</a>
+    <a class="cta" href="https://seunghoonchoi-phd.github.io/gwiwha/" target="_blank" rel="noopener">무료로 시작하기 →</a>
   </div>
 </div>
 
@@ -23,7 +23,7 @@ image: /images/gwiwha-card.svg
 - **설치형 PWA** — 휴대폰 홈 화면에 추가하면 앱처럼, 오프라인에서도 사용
 - **100% 무료**
 
-[무료로 시작하기 →](https://herring2141.github.io/gwiwha/)
+[무료로 시작하기 →](https://seunghoonchoi-phd.github.io/gwiwha/)
 
 앱 소개와 시험 정보(평가 종류 차이·작문 주제·예상문제)는 안내 페이지에 정리해 뒀습니다 → [귀화 종합평가 무료 모의고사 안내](/gwiwha/)
 

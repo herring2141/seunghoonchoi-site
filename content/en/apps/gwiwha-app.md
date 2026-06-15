@@ -13,7 +13,7 @@ image: /images/gwiwha-card.svg
     <span class="appcard__free">Free · Installable web app (PWA)</span>
     <h3>귀화시험 종합평가 연습</h3>
     <p>Practice Korea's naturalization comprehensive evaluation — written, essay, and oral — in one place.</p>
-    <a class="cta" href="https://herring2141.github.io/gwiwha/" target="_blank" rel="noopener">Start free →</a>
+    <a class="cta" href="https://seunghoonchoi-phd.github.io/gwiwha/" target="_blank" rel="noopener">Start free →</a>
   </div>
 </div>
 
@@ -23,7 +23,7 @@ A **free practice app** for Korea's naturalization comprehensive evaluation (wri
 - **Installable PWA** — add to your phone's home screen and use it like an app, even offline
 - **100% free**
 
-[Start free →](https://herring2141.github.io/gwiwha/)
+[Start free →](https://seunghoonchoi-phd.github.io/gwiwha/)
 
 A full overview with exam info (test types, essay topics, sample questions) is on the landing page → [Korean naturalization mock exam — free](/gwiwha/)
 
