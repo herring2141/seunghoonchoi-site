@@ -1,0 +1,28 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="loqTitle loqDesc">
+  <title id="loqTitle">llm-office-qa</title>
+  <desc id="loqDesc">A document with body lines and a green check badge, marking objective defects caught without enforcing style.</desc>
+
+  <rect width="512" height="512" fill="#0D1B4C"/>
+
+  <!-- document shadow -->
+  <rect x="126" y="98" width="262" height="316" rx="22" fill="#000000" opacity="0.20"/>
+  <!-- document -->
+  <rect x="118" y="90" width="262" height="316" rx="22" fill="#F8F6F3"/>
+
+  <!-- title bar + copper accent (brand tie) -->
+  <rect x="150" y="128" width="150" height="24" rx="12" fill="#0D1B4C"/>
+  <circle cx="330" cy="140" r="11" fill="#B87333"/>
+
+  <!-- body lines -->
+  <rect x="150" y="190" width="200" height="14" rx="7" fill="#c7cfdd"/>
+  <rect x="150" y="224" width="172" height="14" rx="7" fill="#c7cfdd"/>
+  <rect x="150" y="258" width="200" height="14" rx="7" fill="#c7cfdd"/>
+  <rect x="150" y="292" width="138" height="14" rx="7" fill="#c7cfdd"/>
+
+  <!-- green check badge (objective defects caught) -->
+  <g transform="translate(360,360)">
+    <circle r="68" fill="#0D1B4C"/>
+    <circle r="58" fill="#16a34a"/>
+    <path d="M-27 2 l17 17 l31 -39" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
