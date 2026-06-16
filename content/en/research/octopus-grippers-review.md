@@ -2,7 +2,7 @@
 title: "Octopus-Inspired Soft Grippers — Review in Biomimetics"
 date: 2025-12-04
 categories: ["Publication"]
-tags: ["bio-inspired", "soft robotics"]
+tags: ["bio-inspired", "soft robotics", "octopus", "gripper", "AI"]
 doi: "10.3390/biomimetics10120813"
 articleTitle: "Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence"
 journal: "Biomimetics"

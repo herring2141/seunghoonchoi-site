@@ -111,6 +111,8 @@ img{max-width:100%;height:auto}
 .card__title{font-family:var(--serif);font-size:21px;font-weight:600;line-height:1.25;color:var(--ink)}
 .card__title a{transition:color .2s}.card__title a:hover{color:var(--navy)}
 .card__excerpt{font-size:15px;color:var(--ink-soft);flex:1}
+.card__tags{display:flex;flex-wrap:wrap;gap:8px;margin:2px 0}
+.card__tag{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
 .card.is-hidden{display:none}
 
 /* ---------- Filter chips ---------- */
