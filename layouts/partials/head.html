@@ -6,6 +6,21 @@
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="{{ .Site.Language.LanguageCode | default .Site.Language.Lang }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{- /* Default link-preview image (1200x630). Pages may override via front-matter `ogimage`. */ -}}
+{{ $ogimg := "images/og-default.png" }}{{ with .Params.ogimage }}{{ $ogimg = . }}{{ end }}
+{{ $ogimgURL := $ogimg | absURL }}
+<meta property="og:image" content="{{ $ogimgURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:alt" content="{{ .Site.Title }} — {{ .Site.Params.role }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="twitter:image" content="{{ $ogimgURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="icon" href="/favicon.svg" sizes="any">
@@ -33,6 +48,7 @@
   "alternateName" "최승훈"
   "url" .Site.BaseURL
   "jobTitle" .Site.Params.role
+  "image" (absURL "images/profile.jpg")
   "affiliation" (dict "@type" "Organization" "name" "University of Florida")
   "sameAs" $same
   | jsonify (dict "indent" "  ") | safeJS }}

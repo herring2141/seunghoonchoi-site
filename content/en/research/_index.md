@@ -18,14 +18,14 @@ Computational materials design using first-principles calculations and machine l
 [![Advanced Functional Materials — Back Cover](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
 **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor**
-Seunghoon Choi\*, Kukro Yoon\*, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee, Changhyun Pang.
+Seunghoon Choi, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee, Changhyun Pang.
 *Advanced Functional Materials* 29, no. 50 (2019): 1905808 · **Back Cover · 140+ citations (Google Scholar)**
 
 This work introduced hierarchical conductive microstructures on fiber surfaces to achieve stable electrical responses under large mechanical deformation, demonstrating how microstructure geometry governs electrical transport in stretchable polymer nanocomposites. [View the article ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
 ## Publications
 
-1. **Conductive hierarchical hairy fibers for highly sensitive, stretchable, and water-resistant multimodal gesture-distinguishable sensor, VR applications.** Seunghoon Choi\*, Kukro Yoon\*, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee, Changhyun Pang. *Advanced Functional Materials* 29, no. 50 (2019): 1905808.
+1. **Conductive hierarchical hairy fibers for highly sensitive, stretchable, and water-resistant multimodal gesture-distinguishable sensor, VR applications.** Seunghoon Choi, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee, Changhyun Pang. *Advanced Functional Materials* 29, no. 50 (2019): 1905808.
 2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.** Seunghoon Choi\*, Junwon Jang\*, Junho Lee, Da Wan Kim. *Biomimetics* 2025, 10(12), 813.
 3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.** Subi Jeon\*, Seunghoon Choi\*, Junwon Jang, Jun Young Shim, Da Wan Kim *(co-first author)*. *International Journal of Internet, Broadcasting and Communication*, 2026.
 4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.** Subi Jeon\*, Seunghoon Choi\*, Da Wan Kim *(co-first author)*. *International Journal of Advanced Smart Convergence*, 2026.
@@ -35,7 +35,7 @@ This work introduced hierarchical conductive microstructures on fiber surfaces t
 ## Patents
 
 - **Fiber-Type Sensor and Its Manufacturing Method** — KR 10-2026011 · Registered Sep 20, 2019
-- **Functional Surgical Suture with Micro-structured Surface and Its Manufacturing Method** — KR 10-2019-0061944 · Registered Jun 5, 2019
+- **Functional Surgical Suture with Micro-structured Surface and Its Manufacturing Method** — KR 10-2019-0061944 · Patent application, 2019
 
 ## Awards & Presentations
 
