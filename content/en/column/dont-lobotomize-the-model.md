@@ -1,9 +1,10 @@
 ---
-title: "Don't lobotomize the model"
+title: "Why AI QA tools make output worse — don't lobotomize the model"
 date: 2026-06-16
 categories: ["Essay"]
-tags: ["ai", "tools"]
-subtitle: "Why most AI output checkers make your work worse"
+tags: ["ai", "tools", "LLM"]
+subtitle: "A checker should catch mistakes, not enforce taste"
+description: "Most QA tools for AI-generated PowerPoint, Excel, and Word enforce style and make the output worse — why a checker should catch objective mistakes, not enforce taste. The thinking behind llm-office-qa."
 ---
 I kept hitting the same small humiliations with AI-generated files. A text box whose words ran clean off the edge of a slide. A spreadsheet where my own manual edits had been quietly reverted to a version the model made an hour earlier. Borders that survived on three cells out of five. None of it was a matter of taste. It was just wrong, and I wanted something that caught it before I sent the file out.
 
