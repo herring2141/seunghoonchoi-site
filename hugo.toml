@@ -44,7 +44,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     [languages.en.params]
       role = "Engineer · Content Creator"
       tagline = "Clearing the path I stumbled through, so the next person walks it easier."
-      description = "Seunghoon Choi — Computational Materials Scientist at the University of Florida. Research, writing, and guides."
+      description = "Seunghoon Choi — engineer and content creator. Research, essays, apps, and guides in one place."
   [languages.ko]
     label = "한국어"
     locale = "ko-KR"
@@ -54,7 +54,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     [languages.ko.params]
       role = "공학자 · 콘텐츠 크리에이터"
       tagline = "먼저 헤맨 길을, 다음 사람은 덜 헤매게."
-      description = "최승훈(Seunghoon Choi) — 계산재료과학자이자 작가. 연구, 글, 가이드를 한곳에."
+      description = "최승훈(Seunghoon Choi) — 공학자이자 콘텐츠 크리에이터. 연구, 글, 앱, 가이드를 한곳에."
   [languages.zh]
     label = "中文"
     locale = "zh-CN"
@@ -64,7 +64,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     [languages.zh.params]
       role = "工程师 · 内容创作者"
       tagline = "把我先走过的弯路梳理出来，让后来的人少走一些。"
-      description = "崔承勋（Seunghoon Choi）— 计算材料科学家、作家。研究、写作与实用指南，汇于一处。"
+      description = "崔胜勋（Seunghoon Choi）— 工程师与内容创作者。研究、文章、应用与指南，汇于一处。"
 
 # Primary navigation is defined in layouts/partials/header.html with hover
 # dropdowns (홈 · 연구 · 글▾[칼럼·책·문학집] · 유튜브 · 자료▾[앱·커리어가이드] · 소개).
