@@ -2,7 +2,7 @@
 title: "干湿环境 EMG 控制用仿章鱼黏附电极 — IJIBC"
 date: 2026-02-28
 categories: ["Publication"]
-tags: ["bio-inspired", "electrode", "EMG", "wearable", "biosignal", "octopus"]
+tags: ["bio-inspired", "electrode", "EMG", "wearable", "biosignal"]
 doi: "10.7236/IJIBC.2026.18.1.274"
 articleTitle: "Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions"
 journal: "International Journal of Internet, Broadcasting and Communication"

@@ -13,12 +13,16 @@
     {{ with .Params.subtitle }}<p class="post__subtitle">{{ . }}</p>{{ end }}
   </header>
   <div class="post__body reveal">
+    {{ $toc := printf "%s" .TableOfContents }}
+    {{ if ge (len (findRE "<li" $toc)) 4 }}
+    <details class="post__toc" open><summary>{{ i18n "toc_title" }}</summary>{{ .TableOfContents }}</details>
+    {{ end }}
     {{ .Content }}
   </div>
   {{ with .Params.tags }}
   <div class="post__tags">{{ range . }}<a class="tag" href="{{ "tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>{{ end }}</div>
   {{ end }}
-  {{ if and (not .Date.IsZero) (ne .Section "") }}
+  {{ if and (not .Date.IsZero) (ne .Section "") (not (in (slice "apps" "research") .Section)) }}
   {{ $cite := "" }}
   {{ if eq .Site.Language.Lang "ko" }}{{ $cite = printf "최승훈. 「%s」. Seunghoon Choi (seunghoonchoi.com), %s. %s" .Title (.Date.Format "2006") .Permalink }}
   {{ else if eq .Site.Language.Lang "zh" }}{{ $cite = printf "崔承勋. 《%s》. Seunghoon Choi (seunghoonchoi.com), %s. %s" .Title (.Date.Format "2006") .Permalink }}
@@ -28,6 +32,13 @@
     <p class="cite__text" id="cite-text">{{ $cite }}</p>
     <button class="cite__btn" type="button" data-cite-copy data-copied="{{ i18n "cite_copied" }}">{{ i18n "cite_copy" }}</button>
   </aside>
+  {{ end }}
+  {{ $rel := first 3 ((where (where .Site.RegularPages "Section" .Section) "Permalink" "!=" .Permalink).ByDate.Reverse) }}
+  {{ with $rel }}
+  <nav class="post__more reveal" aria-label="{{ i18n "more_posts" }}">
+    <h2 class="post__more-h">{{ i18n "more_posts" }}</h2>
+    <ul>{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>
+  </nav>
   {{ end }}
 </article>
 {{ end }}

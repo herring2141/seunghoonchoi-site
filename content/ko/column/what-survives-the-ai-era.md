@@ -2,7 +2,7 @@
 title: "AI가 인간을 대체하지 못하는 진짜 이유 — 남는 건 지능이 아니라 현실 연결이다"
 date: 2026-06-20
 categories: ["에세이"]
-tags: ["ai", "agi", "미래", "일자리", "커리어", "생존전략", "인공지능", "자동화", "워크플로", "엔지니어", "llm"]
+tags: ["ai", "agi", "커리어", "생존전략", "일자리"]
 subtitle: "AI 시대에 살아남는 인간은 더 똑똑한 인간이 아니다"
 description: "AGI가 와도 인간에게 남는 일은 지능 경쟁이 아니라 현실 연결이다. AI Workflow Friction, Human Control Point, 인력수요 감쇠진동 — AI 시대 일자리와 생존을 구조로 본다."
 ---

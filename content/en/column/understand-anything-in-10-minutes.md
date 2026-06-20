@@ -2,7 +2,7 @@
 title: "Understand Any New Concept in 10 Minutes — The 9-Box Comprehension Template"
 date: 2026-06-20
 categories: ["Guide"]
-tags: ["learning", "study-method", "metacognition", "comprehension", "note-taking", "prompt-engineering", "ai", "productivity", "schema", "second-brain", "meetings", "knowledge-management"]
+tags: ["learning", "study-method", "metacognition", "comprehension", "ai"]
 subtitle: "A summary is someone else's order; understanding has to be your own structure"
 description: "A 9-box template for getting on top of an unfamiliar concept, paper, or meeting in ten minutes. Instead of summarizing, you break it down into essence, mechanism, and boundaries — and end with the questions you still need answered. Includes a ready-to-use prompt."
 ---

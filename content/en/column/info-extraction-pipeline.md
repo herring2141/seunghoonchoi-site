@@ -2,7 +2,7 @@
 title: "Turning Conversations into Knowledge — My 3-Stage AI Extraction Prompt System"
 date: 2026-06-20
 categories: ["Guide"]
-tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "second-brain", "notion", "productivity", "learning", "note-taking", "chatgpt", "claude"]
+tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "notion"]
 subtitle: "Not a tool that extracts more, but one that discards ruthlessly"
 description: "A 3-stage AI extraction prompt system that keeps only what's worth saving from your AI conversations. The real point isn't extraction — it's the discard criteria. Includes copy-paste prompts you can drop straight into Notion."
 ---

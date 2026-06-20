@@ -2,7 +2,7 @@
 title: "Learning from Meetings That Aren't Yours — An Observation Checklist for Power and Unwritten Rules"
 date: 2026-06-20
 categories: ["Guide"]
-tags: ["meetings", "career", "onboarding", "junior", "metacognition", "observation", "checklist", "organizational-culture", "workplace", "learning", "second-brain"]
+tags: ["meetings", "career", "onboarding", "junior", "metacognition"]
 subtitle: "Turning a meeting you don't own into free practice"
 description: "An observation checklist for pulling decision criteria, problem-solving patterns, organizational power structure, and unwritten rules out of meetings outside your field. Especially useful for new hires and juniors as a metacognition tool."
 ---

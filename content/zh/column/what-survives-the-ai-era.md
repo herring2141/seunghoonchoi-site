@@ -2,7 +2,7 @@
 title: "AI 为什么取代不了你 —— 留下来的不是智能，而是与现实的连接"
 date: 2026-06-20
 categories: ["Essay"]
-tags: ["ai", "agi", "llm", "future-of-work", "career", "automation", "ai-workflow", "knowledge-work", "engineering", "survival-strategy", "productivity"]
+tags: ["ai", "agi", "career", "future-of-work", "survival-strategy"]
 subtitle: "在 AI 时代活下来的人，不是更聪明的人"
 description: "就算 AGI 来了，留给人类的也不是一场智能的比拼，而是与现实的连接。AI Workflow Friction、Human Control Point、人力需求的阻尼振荡 —— 用结构去看 AI 时代的工作与生存。"
 ---

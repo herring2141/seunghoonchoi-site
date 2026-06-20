@@ -103,3 +103,8 @@ other = "Read essays"
 other = "Tools"
 [cta_research]
 other = "Research"
+
+[toc_title]
+other = "Contents"
+[more_posts]
+other = "More like this"

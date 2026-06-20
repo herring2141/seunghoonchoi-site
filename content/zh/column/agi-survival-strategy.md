@@ -2,7 +2,7 @@
 title: "AGI 时代生存策略 12 条 —— 不做留不下任何东西的事"
 date: 2026-06-20
 categories: ["Essay"]
-tags: ["agi", "ai", "llm", "career", "knowledge-management", "second-brain", "productivity", "learning", "positioning", "strategy", "ai-workflow", "future-of-work"]
+tags: ["agi", "ai", "career", "strategy", "positioning"]
 subtitle: "每天用来过滤决策的十二条"
 description: "活过 AGI 时代的 12 条原则。别想着比 AI 更聪明，要留下人类社会真正认可的资产。一套关于复利型积累、定位、关系与用好 AI 的个人策略。"
 ---

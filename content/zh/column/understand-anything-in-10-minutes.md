@@ -2,7 +2,7 @@
 title: "十分钟搞懂任何新概念 —— 九宫格理解模板"
 date: 2026-06-20
 categories: ["Guide"]
-tags: ["learning", "study-method", "metacognition", "comprehension", "note-taking", "prompt-engineering", "ai", "productivity", "schema", "second-brain", "meetings", "knowledge-management"]
+tags: ["learning", "study-method", "metacognition", "comprehension", "ai"]
 subtitle: "摘要是别人的归纳，理解必须是自己的结构"
 description: "用九宫格模板，十分钟拿下一个陌生的概念、论文或会议。不做摘要，而是拆成本质、原理与边界，最后落到你还没搞清楚、需要确认的问题上。附一段可以直接拿去用的提示词。"
 ---

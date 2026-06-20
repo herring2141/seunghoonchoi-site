@@ -103,3 +103,8 @@ other = "글 읽기"
 other = "만든 도구"
 [cta_research]
 other = "연구·성과"
+
+[toc_title]
+other = "목차"
+[more_posts]
+other = "같은 주제 더 보기"

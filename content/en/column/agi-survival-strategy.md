@@ -2,7 +2,7 @@
 title: "12 Principles for the AGI Era — Never Do Work That Leaves Nothing Behind"
 date: 2026-06-20
 categories: ["Essay"]
-tags: ["agi", "ai", "llm", "career", "knowledge-management", "second-brain", "productivity", "learning", "positioning", "strategy", "ai-workflow", "future-of-work"]
+tags: ["agi", "ai", "career", "strategy", "positioning"]
 subtitle: "Twelve rules I use as a daily decision filter"
 description: "Twelve principles for living through the AGI era. Don't try to be smarter than the AI — leave behind real assets that human society recognizes. A personal strategy for compounding work, positioning, relationships, and using AI."
 ---

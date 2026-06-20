@@ -103,3 +103,8 @@ other = "阅读文章"
 other = "工具"
 [cta_research]
 other = "研究成果"
+
+[toc_title]
+other = "目录"
+[more_posts]
+other = "更多相关内容"

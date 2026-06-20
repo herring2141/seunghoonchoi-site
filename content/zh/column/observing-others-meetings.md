@@ -2,7 +2,7 @@
 title: "从不属于你的会议里学习 —— 读出权力结构与潜规则的观察清单"
 date: 2026-06-20
 categories: ["Guide"]
-tags: ["meetings", "career", "onboarding", "junior", "metacognition", "observation", "checklist", "organizational-culture", "workplace", "learning", "second-brain"]
+tags: ["meetings", "career", "onboarding", "junior", "metacognition"]
 subtitle: "把不归你管的会议，变成免费的练习场"
 description: "一份观察清单，教你从本不属于自己领域的会议里，提炼出决策标准、解决问题的套路、组织的权力结构和那些不成文的规矩。对新人和初级员工尤其好用，是一件练元认知的工具。"
 ---
