@@ -6,4 +6,4 @@ tags: ["생체모사"]
 ---
 ![Best Poster Award — 2018 MRS Fall Meeting](/images/mrs-event.jpeg)
 
-문어 빨판에서 영감을 받은 점착·전도성 패치 센서(생체신호 모니터링) 연구로 **2018 MRS Fall Meeting & Exhibition**(보스턴) 포스터 세션에서 **Best Poster Award**를 수상했습니다.
+문어 빨판에서 아이디어를 얻어, 피부에 잘 붙으면서 전기도 통하는 패치형 센서로 생체신호를 읽는 연구를 했습니다. 이 연구로 보스턴에서 열린 **2018 MRS Fall Meeting & Exhibition** 포스터 세션에서 **Best Poster Award**를 받았습니다.

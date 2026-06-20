@@ -11,6 +11,6 @@ pubyear: 2019
 ---
 ![Advanced Functional Materials — Back Cover](/images/afm-backcover.jpeg)
 
-전도성 계층형 헤어리 파이버(고감도·신축성·내습성 멀티모달 제스처 인식 센서) 연구가 *Advanced Functional Materials* 50/2019호의 **백커버(Back Cover)**로 선정되었습니다. 웨어러블 전자소자와 VR 인터페이스 응용 가능성을 조명했습니다.
+표면에 미세한 털을 세운 전도성 섬유로 만든 센서 연구가 *Advanced Functional Materials* 50/2019호의 **백커버(Back Cover)**로 뽑혔습니다. 이 섬유는 작은 자극도 잘 잡아내고, 늘어나도 끊기지 않으며, 물에 닿아도 잘 버티면서 여러 종류의 손동작을 구분합니다. 웨어러블 전자소자와 VR 인터페이스에 어떻게 쓸 수 있는지를 보여준 연구입니다.
 
 [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
