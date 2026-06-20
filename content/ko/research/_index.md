@@ -33,7 +33,7 @@ first-principles 계산과 머신러닝으로 재료를 설계하고, multi-fide
 
 ## 논문
 
-> † 공동 1저자 (equal contribution) · \* 교신저자 · **굵게** = 본인
+<p class="publication-note">표기: † 공동 1저자 · * 교신저자 · 굵은 글씨는 최승훈</p>
 
 1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications.**
    **최승훈**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **제1저자**

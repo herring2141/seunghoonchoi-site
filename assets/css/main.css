@@ -334,3 +334,7 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 .contact-list a{color:var(--navy);font-weight:500;word-break:keep-all;text-align:right}
 .contact-list a:hover{color:var(--copper)}
 @media(max-width:760px){.hsec--contact .contact-list{grid-template-columns:1fr}}
+
+/* publication author-marking legend — quiet note, not a callout */
+.publication-note{margin:.2rem 0 1.4rem;font-size:.9rem;color:var(--muted);font-style:normal;line-height:1.6}
+.publication-note strong{color:var(--ink-soft)}

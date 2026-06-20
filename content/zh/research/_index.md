@@ -33,7 +33,7 @@ title: "研究"
 
 ## 论文
 
-> † 共同第一作者 (equal contribution) · \* 通讯作者 · **粗体** = 本人
+<p class="publication-note">标注: † 共同第一作者 · * 通讯作者 · 粗体为本人</p>
 
 1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications.**
    **崔承勋**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **第一作者**

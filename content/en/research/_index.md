@@ -33,7 +33,7 @@ A review of the structural design strategies and sensing architectures of bio-in
 
 ## Publications
 
-> † co-first author (equal contribution) · \* corresponding author · **bold** = me
+<p class="publication-note">Note: † Equal contribution · * Corresponding author · Bold indicates Seunghoon Choi</p>
 
 1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications.**
    **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **First author**
