@@ -17,7 +17,7 @@ title: "研究"
 
 ## 代表工作
 
-### 导电纤毛纤维传感器 — Advanced Functional Materials 封底
+### 导电纤维传感器
 
 [![Advanced Functional Materials 封底 — 导电分层纤毛纤维传感器](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 

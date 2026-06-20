@@ -17,7 +17,7 @@ Going forward, I want to use computational materials science and machine learnin
 
 ## Selected Work
 
-### Conductive Hairy-Fiber Sensor — Advanced Functional Materials Back Cover
+### Conductive Fiber Sensor
 
 [![Advanced Functional Materials Back Cover — conductive hierarchical hairy-fiber sensor](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 

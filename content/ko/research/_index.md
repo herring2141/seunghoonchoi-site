@@ -17,7 +17,7 @@ title: "연구·성과"
 
 ## 대표 연구
 
-### 전도성 헤어리 파이버 센서 — Advanced Functional Materials Back Cover
+### 전도성 섬유 센서
 
 [![Advanced Functional Materials 백커버 — 전도성 계층형 헤어리 파이버 센서](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
