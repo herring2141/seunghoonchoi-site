@@ -13,11 +13,11 @@ image: /images/reading-trainer-card.svg
     <span class="appcard__free">Free · Installable web app (PWA)</span>
     <h3>ReadFast · Reading speed & comprehension trainer</h3>
     <p>Read English and Chinese faster and more accurately — using only techniques that transfer.</p>
-    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Start free →</a>
+    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>
 
-Want to read English and Chinese faster but distrust the usual speed-reading courses? **ReadFast** implements **only the techniques that actually transfer** in the reading- and learning-science literature. No payment, no sign-up.
+I wanted to read English and Chinese faster too, but I didn't trust the usual speed-reading courses. So I built **ReadFast** around **only the techniques that actually transfer** in the reading- and learning-science literature. No payment, no sign-up.
 
 It rests on one premise — **the bottleneck on reading speed is not your eyes, it's your brain's word processing.** So claims like span-widening, RSVP-as-magic, 10,000 WPM, and PhotoReading are explicitly debunked in the **Why** tab, and the real levers are trained instead.
 
@@ -28,7 +28,7 @@ It rests on one premise — **the bottleneck on reading speed is not your eyes, 
 - **A "Why" tab** — the mechanism, the strength of evidence, and the sources
 - **Installable PWA** — add to your home screen, works offline
 
-[Start free →](/reading-trainer/)
+[Open the app →](/reading-trainer/)
 
 Open source → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
 

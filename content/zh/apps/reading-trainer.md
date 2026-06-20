@@ -13,11 +13,11 @@ image: /images/reading-trainer-card.svg
     <span class="appcard__free">免费 · 可安装网页应用（PWA）</span>
     <h3>ReadFast · 阅读速度与理解训练</h3>
     <p>把英文、中文读得像母语一样又快又准。只用有依据的技术。</p>
-    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">免费开始 →</a>
+    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">打开应用 →</a>
   </div>
 </div>
 
-想提高英文、中文的阅读速度，却又不太信得过市面上的速读课？**ReadFast** 只实现了阅读科学与学习科学文献中**经过验证、真正能迁移的技术**，做成一款免费训练应用。不收费，也不用注册。
+我自己也想把英文、中文读得更快，却信不过市面上的速读课。于是我把阅读科学与学习科学文献中**经过验证、真正能迁移的技术**挑出来，做成了 **ReadFast**。不收费，也不用注册。
 
 它的核心前提只有一条——**阅读速度的瓶颈不在“眼睛”，而在“大脑的词汇处理”。** 所以视幅扩张、RSVP 万能论、一万 WPM、波动阅读法（PhotoReading）这类说法，会在 **「原理」** 标签页里被明确驳斥，取而代之训练的是真正起作用的杠杆。
 
@@ -28,7 +28,7 @@ image: /images/reading-trainer-card.svg
 - **「原理」标签页** —— 讲清为什么有效，以及证据强度和出处
 - **可安装的 PWA** —— 添加到主屏幕就像原生应用，离线也能用
 
-[免费开始 →](/reading-trainer/)
+[打开应用 →](/reading-trainer/)
 
 开源项目 → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
 

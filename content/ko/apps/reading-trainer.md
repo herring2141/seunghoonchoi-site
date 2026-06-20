@@ -13,11 +13,11 @@ image: /images/reading-trainer-card.svg
     <span class="appcard__free">무료 · 설치형 웹앱(PWA)</span>
     <h3>리드패스트 · 읽기 속도·이해 훈련</h3>
     <p>영어·중국어를 “한국어처럼” 빠르고 정확하게. 근거 있는 기법만.</p>
-    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">무료로 시작하기 →</a>
+    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">앱 열기 →</a>
   </div>
 </div>
 
-영어·중국어 읽기 속도를 올리고는 싶은데 시중 속독법이 못 미더우셨나요? **리드패스트**는 읽기과학·학습과학에서 **전이가 검증된 기법만** 구현한 무료 훈련 앱입니다. 결제도 가입도 없습니다.
+저도 영어·중국어를 빠르게 읽고 싶었는데, 시중 속독법은 다 미덥지 않았습니다. 그래서 읽기과학·학습과학에서 **전이가 검증된 기법만** 골라 직접 만든 게 **리드패스트**입니다. 결제도 가입도 없습니다.
 
 전제는 하나입니다 — **읽기 속도를 붙잡는 건 “눈”이 아니라 “뇌의 어휘 처리”다.** 그래서 시야폭 확장·RSVP 만능·1만 WPM·포토리딩 같은 주장은 「원리」 탭에서 왜 안 되는지 분명히 짚고, 대신 실제로 효과 있는 부분을 연습시킵니다.
 
@@ -28,7 +28,7 @@ image: /images/reading-trainer-card.svg
 - **「원리」 탭** — 왜 효과가 있는지, 증거 강도와 출처까지
 - **설치형 PWA** — 홈 화면에 추가하면 앱처럼, 오프라인에서도
 
-[무료로 시작하기 →](/reading-trainer/)
+[앱 열기 →](/reading-trainer/)
 
 오픈소스입니다 → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
 
