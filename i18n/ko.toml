@@ -73,3 +73,11 @@ other = "인용 복사"
 other = "복사됨!"
 [copy_source]
 other = "출처"
+[rf_heading]
+other = "대표 연구"
+[rf_gripper]
+other = "문어 영감 소프트 그리퍼"
+[rf_electrode]
+other = "건·습 환경 EMG 점착 전극"
+[rf_plant]
+other = "식물 잎 하이드로젤 전극"

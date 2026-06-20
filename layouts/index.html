@@ -21,6 +21,23 @@
   </div>
 </section>
 
+{{/* Selected research — make the work tangible right under the hero */}}
+{{ $rfeatured := slice
+  (dict "img" "/images/octopus-grippers-review.jpg" "key" "rf_gripper")
+  (dict "img" "/images/octopus-emg-electrode.jpg" "key" "rf_electrode")
+  (dict "img" "/images/plant-hydrogel-electrode.jpg" "key" "rf_plant") }}
+<section class="home-research reveal" aria-label="{{ i18n "rf_heading" }}">
+  <a class="home-research__more" href="{{ "research" | relLangURL }}">{{ i18n "rf_heading" }} →</a>
+  <div class="home-research__grid">
+    {{ range $rfeatured }}
+    <a class="rfig" href="{{ "research" | relLangURL }}">
+      <img src="{{ .img }}" alt="{{ i18n .key }}" loading="lazy">
+      <span class="rfig__cap">{{ i18n .key }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
 {{/* Recent content feed — newly added items across all sections, newest first */}}
 {{ $sections := slice "research" "column" "books" "literature" "youtube" "apps" "career" }}
 {{ $feed := (where .Site.RegularPages "Section" "in" $sections).ByDate.Reverse }}

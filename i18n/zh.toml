@@ -73,3 +73,11 @@ other = "复制引用"
 other = "已复制！"
 [copy_source]
 other = "来源"
+[rf_heading]
+other = "代表研究"
+[rf_gripper]
+other = "章鱼仿生软体抓手"
+[rf_electrode]
+other = "干湿环境 EMG 粘附电极"
+[rf_plant]
+other = "植物叶片水凝胶电极"

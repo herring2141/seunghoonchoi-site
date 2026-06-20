@@ -73,3 +73,11 @@ other = "Copy citation"
 other = "Copied!"
 [copy_source]
 other = "Source"
+[rf_heading]
+other = "Selected research"
+[rf_gripper]
+other = "Octopus-inspired soft gripper"
+[rf_electrode]
+other = "Dry/wet EMG adhesive electrode"
+[rf_plant]
+other = "Plant-leaf hydrogel electrode"

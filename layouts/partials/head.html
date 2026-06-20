@@ -93,3 +93,8 @@
   | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{ end }}
+{{- /* GoatCounter analytics — production build only, so local `hugo server` visits aren't counted. */ -}}
+{{ if hugo.IsProduction }}
+<script data-goatcounter="https://seunghoonchoi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{{ end }}

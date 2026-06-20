@@ -15,21 +15,36 @@ first-principles 계산과 머신러닝으로 재료를 설계하고, multi-fide
 
 ## 대표 논문
 
-[![Advanced Functional Materials — Back Cover](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
+[![Advanced Functional Materials 백커버 — 전도성 계층형 헤어리 파이버 센서](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
 **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor**
-*Advanced Functional Materials* 29, no. 50 (2019): 1905808 · **Back Cover · 140회+ 피인용 (Google Scholar)**
+**최승훈**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808.
+**제1저자 · Back Cover · 140회+ 피인용 (Google Scholar)**
 
-섬유 표면에 계층적 전도성 미세구조를 도입해 큰 기계적 변형에서도 안정적인 전기 응답을 구현하고, 미세구조 형상이 신축성 고분자 나노복합체의 전기 전도를 어떻게 지배하는지 보인 연구입니다. [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
+섬유 표면에 계층적 전도성 미세구조를 도입해 큰 변형에서도 안정적인 전기 응답을 구현하고, 미세구조 형상이 신축성 나노복합체의 전기 전도를 어떻게 지배하는지 보였습니다. [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
+
+[![문어 영감 소프트 그리퍼 — 흡착컵·팔·하이브리드 구조와 센싱](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
+
+**Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence**
+**최승훈**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813.
+**공동 1저자**
+
+문어에서 영감받은 소프트 그리퍼의 구조 설계 전략과 센싱 아키텍처를 정리하고, 기하 파라미터·소재 선택이 흡착·센싱 성능을 어떻게 좌우하는지 분석한 리뷰입니다. [논문 보기 ↗](https://doi.org/10.3390/biomimetics10120813)
 
 ## 논문
 
-1. **Conductive hierarchical hairy fibers for highly sensitive, stretchable, and water-resistant multimodal gesture-distinguishable sensor, VR applications.** *Advanced Functional Materials* 29, no. 50 (2019): 1905808.
-2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.** *Biomimetics* 2025, 10(12), 813.
-3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.** *IJIBC*, 2026 *(공동 1저자)*.
-4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.** *IJASC*, 2026 *(공동 1저자)*.
+> † 공동 1저자 (equal contribution) · \* 교신저자 · **굵게** = 본인
 
-**진행 중** — *Pilot clinical study of a biomimetic suction patch...* *Journal of Cosmetic Dermatology* (심사 중), 2026.
+1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications.**
+   **최승훈**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **제1저자**
+2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
+   **최승훈**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **공동 1저자**
+3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.**
+   Subi Jeon†, **최승훈**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — **공동 1저자**
+4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
+   Subi Jeon†, **최승훈**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **공동 1저자**
+
+**진행 중** — Pilot clinical study of a biomimetic suction patch (생체모사 흡착 패치 경피전달). *Journal of Cosmetic Dermatology* (심사 중), 2026.
 
 ## 특허
 
