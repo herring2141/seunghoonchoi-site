@@ -1,7 +1,7 @@
 ---
 title: "Seunghoon Choi"
 ---
-I break down complex problems the way an engineer would. It all exists to help other people stumble less and reach good decisions faster.
+I break down complex problems the way an engineer would.<br>It all exists to help other people stumble less and reach good decisions faster.
 
 <div class="stats">
   <div class="stat"><span class="stat__num">140+</span><span class="stat__label">Citations</span></div>
