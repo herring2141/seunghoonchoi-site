@@ -49,7 +49,7 @@
     {{ $sections := slice "research" "column" "books" "literature" "youtube" "apps" "career" }}
     {{ $feed := (where .Site.RegularPages "Section" "in" $sections).ByDate.Reverse }}
     <div class="cards portal__cards">
-      {{ range first 4 $feed }}{{ partial "post-card.html" . }}{{ end }}
+      {{ range first 6 $feed }}{{ partial "post-card.html" . }}{{ end }}
     </div>
     <div class="portal__bands">
       <a class="band" href="{{ "column/" | relLangURL }}">
