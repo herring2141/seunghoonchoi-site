@@ -4,7 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex, nofollow" />
-  <title>관리자 — 글 관리</title>
+  <title>관리자 — 글 편집</title>
+  <script src="https://accounts.google.com/gsi/client" async></script>
   <style>
     :root{
       --paper:#F8F6F3; --ink:#1B1B1A; --ink-soft:#44423E; --muted:#8A857C;
@@ -14,7 +15,7 @@
     *{box-sizing:border-box;margin:0;padding:0}
     body{font-family:'Pretendard',-apple-system,'Apple SD Gothic Neo','Malgun Gothic',system-ui,sans-serif;
       background:var(--paper);color:var(--ink);line-height:1.6;padding:0 0 80px}
-    .wrap{max-width:840px;margin:0 auto;padding:0 20px}
+    .wrap{max-width:880px;margin:0 auto;padding:0 20px}
     header.top{background:var(--navy);color:#fff;padding:22px 0;margin-bottom:28px}
     header.top h1{font-size:1.3rem;font-weight:700}
     header.top p{font-size:.86rem;color:#C7C9D6;margin-top:3px}
@@ -24,8 +25,10 @@
     label{display:block;font-size:.85rem;color:var(--ink-soft);margin-bottom:6px}
     input[type=password],input[type=text]{width:100%;padding:11px 13px;border:1.5px solid var(--line);
       border-radius:10px;font-size:.95rem;font-family:inherit}
-    input:focus{outline:none;border-color:var(--navy)}
-    .row{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+    input:focus,textarea:focus{outline:none;border-color:var(--navy)}
+    textarea{width:100%;min-height:62vh;padding:14px 15px;border:1.5px solid var(--line);border-radius:12px;
+      font-family:ui-monospace,'SFMono-Regular',Consolas,monospace;font-size:13.5px;line-height:1.65;resize:vertical;tab-size:2;background:#fff}
+    .row{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px;align-items:center}
     button{font-family:inherit;font-size:.92rem;font-weight:600;padding:10px 18px;border-radius:10px;
       border:0;cursor:pointer;transition:transform .12s,opacity .2s}
     button:hover{transform:translateY(-1px)}
@@ -33,217 +36,379 @@
     .btn-primary{background:var(--navy);color:#fff}
     .btn-ghost{background:#fff;color:var(--navy);border:1.5px solid var(--line)}
     .btn-danger{background:var(--danger);color:#fff}
+    .btn-sm{font-size:.8rem;padding:6px 12px}
     .note{font-size:.82rem;color:var(--muted);margin-top:10px}
-    .note code{background:#eee;padding:1px 5px;border-radius:4px;font-size:.92em}
+    .note code,.hint code{background:#eee;padding:1px 5px;border-radius:4px;font-size:.92em}
     .hint{font-size:.82rem;background:#FFF7ED;border:1px solid #FED7AA;border-radius:10px;padding:12px 14px;margin-top:12px;color:#7C2D12}
-    #status{font-size:.9rem;padding:10px 14px;border-radius:10px;margin-top:14px;display:none}
+    .hint b{color:#9A3412}
+    #status{font-size:.9rem;padding:10px 14px;border-radius:10px;margin:0 0 18px;display:none}
     #status.show{display:block}
     #status.ok{background:#E7F6EC;color:var(--ok)}
     #status.err{background:#FDECEA;color:var(--danger)}
     #status.info{background:#EEF2FF;color:var(--navy)}
-    .post{display:flex;align-items:center;gap:14px;padding:14px 0;border-bottom:1px solid var(--line)}
+    .post{display:flex;align-items:center;gap:14px;padding:13px 0;border-bottom:1px solid var(--line)}
     .post:last-child{border-bottom:0}
     .post__main{flex:1;min-width:0}
     .post__title{font-weight:600;font-size:.98rem}
     .post__path{font-size:.8rem;color:var(--muted);font-family:ui-monospace,monospace;margin-top:2px;word-break:break-all}
-    .langtag{display:inline-block;font-size:.72rem;font-weight:700;padding:2px 7px;border-radius:999px;margin-left:6px;
-      background:#EEF2FF;color:var(--navy)}
-    .langtag.warn{background:#FEF3C7;color:#92400E}
-    .sec{font-size:.78rem;font-weight:700;color:var(--copper);text-transform:uppercase;letter-spacing:.04em;
-      margin:18px 0 2px}
+    .editbtns{display:flex;gap:6px;flex-wrap:wrap}
+    .lbtn{font-size:.76rem;font-weight:700;padding:5px 10px;border-radius:8px;border:1.5px solid var(--line);
+      background:#EEF2FF;color:var(--navy);cursor:pointer}
+    .lbtn:hover{border-color:var(--navy)}
+    .sec{font-size:.78rem;font-weight:700;color:var(--copper);text-transform:uppercase;letter-spacing:.04em;margin:18px 0 2px}
     .empty{color:var(--muted);padding:18px 0;text-align:center}
     .spin{display:inline-block;width:15px;height:15px;border:2px solid #ccc;border-top-color:var(--navy);
       border-radius:50%;animation:r .8s linear infinite;vertical-align:-2px}
     @keyframes r{to{transform:rotate(360deg)}}
+    /* gate */
+    #gate{position:fixed;inset:0;background:var(--paper);display:flex;align-items:center;justify-content:center;padding:24px;z-index:50}
+    #gate .box{max-width:460px;width:100%;background:#fff;border:1px solid var(--line);border-radius:18px;padding:30px 28px;text-align:center;box-shadow:0 18px 50px rgba(13,27,76,.10)}
+    #gate h1{font-size:1.35rem;color:var(--navy);margin-bottom:6px}
+    #gate p.sub{font-size:.9rem;color:var(--muted);margin-bottom:22px}
+    #gbtn{display:flex;justify-content:center;min-height:44px;margin:8px 0}
+    #gate .deny{color:var(--danger);font-size:.88rem;margin-top:12px;display:none}
+    #gate .deny.show{display:block}
+    #app{display:none}
+    #app.show{display:block}
+    .toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+    .who{font-size:.82rem;color:var(--muted)}
+    .who b{color:var(--navy)}
+    .editor-meta{font-size:.82rem;color:var(--muted);font-family:ui-monospace,monospace;word-break:break-all;margin-bottom:10px}
+    .hidden{display:none!important}
+    details.help{margin-top:10px}
+    details.help summary{cursor:pointer;font-size:.84rem;color:var(--navy);font-weight:600}
+    details.help div{font-size:.82rem;color:var(--ink-soft);margin-top:8px;line-height:1.7}
   </style>
 </head>
 <body>
-  <header class="top">
-    <div class="wrap">
-      <h1>글 관리 (관리자)</h1>
-      <p>seunghoonchoi.com · 글을 골라 삭제 — 한글판·영어판을 함께 지웁니다.</p>
+  <!-- ===================== GATE (Google login) ===================== -->
+  <div id="gate">
+    <div class="box">
+      <h1>관리자 로그인</h1>
+      <p class="sub">seunghoonchoi.com 글 편집</p>
+
+      <!-- 1) client id setup (first time only) -->
+      <div id="setup" class="hidden">
+        <label for="cid" style="text-align:left">구글 OAuth 클라이언트 ID</label>
+        <input type="text" id="cid" placeholder="...apps.googleusercontent.com" autocomplete="off" />
+        <div class="row" style="justify-content:center">
+          <button class="btn-primary" id="saveCid">저장</button>
+        </div>
+        <details class="help" open>
+          <summary>클라이언트 ID 만드는 법 (1회)</summary>
+          <div>
+            1. <a href="https://console.cloud.google.com/apis/credentials" target="_blank" rel="noopener">Google Cloud 콘솔 → 사용자 인증 정보</a><br>
+            2. <b>사용자 인증 정보 만들기 → OAuth 클라이언트 ID → 웹 애플리케이션</b><br>
+            3. <b>승인된 자바스크립트 원본</b>에 추가:
+               <code>https://seunghoonchoi.com</code> · <code>http://localhost:1319</code><br>
+            4. 만들고 나온 <b>클라이언트 ID</b>(<code>...apps.googleusercontent.com</code>)를 위에 붙여넣기.<br>
+            <span style="color:var(--muted)">※ OAuth 동의 화면이 "테스트" 상태면, 테스트 사용자에 본인 이메일을 추가하세요.</span>
+          </div>
+        </details>
+      </div>
+
+      <!-- 2) google sign-in button -->
+      <div id="login" class="hidden">
+        <div id="gbtn"></div>
+        <p class="deny" id="deny"></p>
+        <button class="btn-ghost btn-sm" id="changeCid" style="margin-top:14px">클라이언트 ID 변경</button>
+      </div>
+
+      <div id="gateLoading"><span class="spin"></span> <span style="color:var(--muted);font-size:.9rem">불러오는 중…</span></div>
     </div>
-  </header>
+  </div>
 
-  <main class="wrap">
-    <!-- Auth -->
-    <section class="card" id="authCard">
-      <h2>GitHub 토큰</h2>
-      <label for="tok">Fine-grained personal access token (Contents: Read and write)</label>
-      <input type="password" id="tok" placeholder="github_pat_..." autocomplete="off" />
-      <div class="row">
-        <button class="btn-primary" id="saveTok">저장하고 불러오기</button>
-        <button class="btn-ghost" id="clearTok">토큰 지우기</button>
+  <!-- ===================== APP (after login) ===================== -->
+  <div id="app">
+    <header class="top">
+      <div class="wrap toolbar">
+        <div>
+          <h1>글 편집 (관리자)</h1>
+          <p class="who">로그인: <b id="whoEmail"></b></p>
+        </div>
+        <button class="btn-ghost btn-sm" id="logout">로그아웃</button>
       </div>
-      <div class="hint">
-        <b>토큰 만드는 법(1회):</b> GitHub → Settings → Developer settings →
-        <b>Fine-grained tokens</b> → Generate new token →
-        Repository access = <code>seunghoonchoi-phd/seunghoonchoi-site</code>만 →
-        Permissions의 <b>Contents</b>를 <b>Read and write</b>로 →
-        만료일(예: 90일) 설정 후 생성 → 토큰을 복사해 위에 붙여넣기.
-        <br><br>
-        토큰은 이 브라우저에만 저장되고 서버로 보내지 않습니다. 이 저장소의 파일만 다룰 수 있고, GitHub에서 언제든 폐기할 수 있습니다.
-      </div>
-    </section>
+    </header>
 
-    <div id="status"></div>
+    <main class="wrap">
+      <div id="status"></div>
 
-    <!-- Posts -->
-    <section class="card">
-      <h2>글 목록 <button class="btn-ghost" id="reload" style="float:right;font-size:.82rem;padding:6px 12px">새로고침</button></h2>
-      <div id="list"><p class="empty">토큰을 저장하면 글 목록이 나타납니다.</p></div>
-    </section>
+      <!-- GitHub token -->
+      <section class="card" id="authCard">
+        <h2>GitHub 토큰 <span style="font-weight:400;font-size:.82rem;color:var(--muted)">— 실제 저장 권한</span></h2>
+        <label for="tok">Fine-grained personal access token (Contents: Read and write)</label>
+        <input type="password" id="tok" placeholder="github_pat_..." autocomplete="off" />
+        <div class="row">
+          <button class="btn-primary" id="saveTok">저장하고 불러오기</button>
+          <button class="btn-ghost" id="clearTok">토큰 지우기</button>
+        </div>
+        <div class="hint">
+          <b>토큰 만드는 법(1회):</b> GitHub → Settings → Developer settings →
+          <b>Fine-grained tokens</b> → Generate new token →
+          Repository access = <code>seunghoonchoi-phd/seunghoonchoi-site</code>만 →
+          Permissions의 <b>Contents</b>를 <b>Read and write</b>로 → 만료일 설정 후 생성 → 복사해 붙여넣기.
+          <br>토큰은 이 브라우저에만 저장되고 서버로 보내지 않습니다.
+        </div>
+      </section>
 
-    <p class="note">삭제하면 GitHub에서 해당 글의 마크다운 파일(en·ko)을 지우고, 1~2분 뒤 사이트가 자동으로 다시 빌드·배포됩니다. 섹션 자체(예: 칼럼·연구)나 홈은 목록에 나오지 않습니다.</p>
-  </main>
+      <!-- Editor (hidden until a file is chosen) -->
+      <section class="card hidden" id="editorCard">
+        <h2>편집 <span id="editorTitle" style="font-weight:400;color:var(--ink-soft)"></span></h2>
+        <div class="editor-meta" id="editorPath"></div>
+        <textarea id="editor" spellcheck="false"></textarea>
+        <div class="row">
+          <button class="btn-primary" id="saveEdit">저장 (커밋)</button>
+          <button class="btn-ghost" id="cancelEdit">닫기</button>
+          <span class="note" style="margin:0">저장하면 GitHub에 커밋되고 1~2분 뒤 사이트가 자동 재배포됩니다.</span>
+        </div>
+      </section>
+
+      <!-- Post list -->
+      <section class="card">
+        <h2>글 목록 <button class="btn-ghost btn-sm" id="reload" style="float:right">새로고침</button></h2>
+        <div id="list"><p class="empty">GitHub 토큰을 저장하면 글 목록이 나타납니다.</p></div>
+      </section>
+
+      <p class="note">언어별 파일을 따로 편집합니다(<b>KO·EN·ZH</b> 버튼). 섹션 소개(_index)와 홈은 목록에 나오지 않습니다. 삭제는 모든 언어 파일을 함께 지웁니다.</p>
+    </main>
+  </div>
 
   <script>
+    /* ---------- config ---------- */
     const OWNER = 'seunghoonchoi-phd', REPO = 'seunghoonchoi-site', BRANCH = 'main';
     const API = `https://api.github.com/repos/${OWNER}/${REPO}`;
     const TKEY = 'sc_admin_gh_token';
+    const CKEY = 'sc_admin_google_client';
+    const ALLOWED_EMAIL = 'herring2141@gmail.com';
 
     const $ = s => document.querySelector(s);
-    const statusEl = $('#status');
-    function setStatus(msg, kind) {
-      statusEl.className = 'show ' + (kind || 'info');
-      statusEl.innerHTML = msg;
+
+    /* ---------- helpers ---------- */
+    function clientId(){ return (localStorage.getItem(CKEY) || '').trim(); }
+    function token(){ return localStorage.getItem(TKEY) || ''; }
+    function ghHeaders(){
+      return { 'Authorization': 'Bearer ' + token(), 'Accept': 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28' };
     }
-    function clearStatus() { statusEl.className = ''; statusEl.innerHTML = ''; }
-    function token() { return localStorage.getItem(TKEY) || ''; }
-    function ghHeaders() {
-      return {
-        'Authorization': 'Bearer ' + token(),
-        'Accept': 'application/vnd.github+json',
-        'X-GitHub-Api-Version': '2022-11-28'
-      };
-    }
-    // UTF-8 safe base64 decode (handles Korean)
-    function b64utf8(b64) {
+    function b64utf8(b64){
       const bin = atob((b64 || '').replace(/\s/g, ''));
       const bytes = Uint8Array.from(bin, c => c.charCodeAt(0));
       return new TextDecoder('utf-8').decode(bytes);
     }
-    function titleFromMd(text) {
-      const m = text.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-      return m ? m[1] : null;
+    function utf8b64(str){
+      const bytes = new TextEncoder().encode(str);
+      let bin = ''; bytes.forEach(b => bin += String.fromCharCode(b));
+      return btoa(bin);
     }
+    function escapeHtml(s){ return (s||'').replace(/[&<>"]/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c])); }
+    function titleFromMd(text){ const m = text.match(/^title:\s*["']?(.+?)["']?\s*$/m); return m ? m[1] : null; }
+
+    const statusEl = $('#status');
+    function setStatus(msg, kind){ statusEl.className = 'show ' + (kind || 'info'); statusEl.innerHTML = msg; statusEl.scrollIntoView({behavior:'smooth',block:'nearest'}); }
+    function clearStatus(){ statusEl.className = ''; statusEl.innerHTML = ''; }
+
+    /* ===================== GOOGLE LOGIN GATE ===================== */
+    function decodeJwt(t){
+      const part = t.split('.')[1].replace(/-/g, '+').replace(/_/g, '/');
+      return JSON.parse(b64utf8(part));
+    }
+    function claimsValid(c){
+      const issOk = c.iss === 'https://accounts.google.com' || c.iss === 'accounts.google.com';
+      const audOk = c.aud === clientId();
+      const expOk = (c.exp * 1000) > Date.now();
+      const emailOk = (c.email || '').toLowerCase() === ALLOWED_EMAIL && c.email_verified === true;
+      return { ok: issOk && audOk && expOk && emailOk, emailOk, issOk, audOk, expOk };
+    }
+    function onCredential(resp){
+      try{
+        const c = decodeJwt(resp.credential);
+        const v = claimsValid(c);
+        if (v.ok){ enterApp(c.email); return; }
+        const deny = $('#deny');
+        deny.textContent = v.emailOk ? '로그인 검증에 실패했습니다. 다시 시도하세요.'
+          : `이 계정(${c.email || '알 수 없음'})은 접근 권한이 없습니다. ${ALLOWED_EMAIL} 로 로그인하세요.`;
+        deny.classList.add('show');
+        if (window.google) google.accounts.id.disableAutoSelect();
+      }catch(e){
+        const deny = $('#deny'); deny.textContent = '로그인 처리 중 오류: ' + e.message; deny.classList.add('show');
+      }
+    }
+    function showGateStage(){
+      $('#gateLoading').classList.add('hidden');
+      if (!clientId()){ $('#setup').classList.remove('hidden'); $('#login').classList.add('hidden'); return; }
+      $('#setup').classList.add('hidden'); $('#login').classList.remove('hidden');
+      initGoogle();
+    }
+    let googleTries = 0;
+    function initGoogle(){
+      if (!window.google || !google.accounts || !google.accounts.id){
+        if (googleTries++ > 40){ $('#deny').textContent = '구글 로그인 스크립트를 불러오지 못했습니다(네트워크/차단 확인).'; $('#deny').classList.add('show'); return; }
+        return setTimeout(initGoogle, 150);
+      }
+      try{
+        google.accounts.id.initialize({ client_id: clientId(), callback: onCredential, auto_select: false, cancel_on_tap_outside: true });
+        $('#gbtn').innerHTML = '';
+        google.accounts.id.renderButton($('#gbtn'), { theme:'filled_blue', size:'large', shape:'pill', text:'signin_with', width:280 });
+        google.accounts.id.prompt();
+      }catch(e){
+        $('#deny').textContent = '구글 초기화 오류: ' + e.message + ' (클라이언트 ID/원본 설정 확인)';
+        $('#deny').classList.add('show');
+      }
+    }
+    function enterApp(email){
+      $('#gate').style.display = 'none';
+      $('#app').classList.add('show');
+      $('#whoEmail').textContent = email;
+      if (token()) loadPosts();
+    }
+    $('#saveCid').addEventListener('click', () => {
+      const v = $('#cid').value.trim();
+      if (!/apps\.googleusercontent\.com\s*$/.test(v)){ alert('클라이언트 ID 형식이 올바르지 않습니다 (…apps.googleusercontent.com).'); return; }
+      localStorage.setItem(CKEY, v); $('#cid').value=''; showGateStage();
+    });
+    $('#changeCid').addEventListener('click', () => { localStorage.removeItem(CKEY); $('#deny').classList.remove('show'); showGateStage(); });
+    $('#logout').addEventListener('click', () => {
+      if (window.google) google.accounts.id.disableAutoSelect();
+      location.reload();
+    });
+
+    /* ===================== GITHUB: list / edit / save / delete ===================== */
     const SEC_KO = {research:'연구', column:'칼럼', books:'책', literature:'문학집', youtube:'유튜브', apps:'앱', career:'커리어가이드', about:'소개'};
+    let POSTS = []; // {rel, section, langs:{ko|en|zh:{path,sha}}, title}
 
-    let POSTS = []; // {rel, section, langs:{en?:{path,sha}, ko?:{path,sha}}, title}
-
-    async function loadPosts() {
-      if (!token()) { setStatus('먼저 토큰을 저장하세요.', 'err'); return; }
+    async function loadPosts(){
+      if (!token()){ setStatus('먼저 GitHub 토큰을 저장하세요.', 'err'); return; }
       $('#list').innerHTML = '<p class="empty"><span class="spin"></span> 불러오는 중…</p>';
       clearStatus();
-      try {
+      try{
         const r = await fetch(`${API}/git/trees/${BRANCH}?recursive=1`, { headers: ghHeaders() });
         if (r.status === 401) throw new Error('토큰이 잘못되었거나 만료되었습니다 (401).');
         if (r.status === 403) throw new Error('권한 부족 또는 요청 한도 초과 (403). 토큰 권한(Contents)을 확인하세요.');
         if (!r.ok) throw new Error('목록을 가져오지 못했습니다 (' + r.status + ').');
         const data = await r.json();
-        const re = /^content\/(en|ko)\/(.+\.md)$/;
+        const re = /^content\/(en|ko|zh)\/(.+\.md)$/;
         const map = {};
-        for (const t of data.tree) {
+        for (const t of data.tree){
           if (t.type !== 'blob') continue;
-          const m = t.path.match(re);
-          if (!m) continue;
+          const m = t.path.match(re); if (!m) continue;
           const rel = m[2];
-          if (/(^|\/)_index\.md$/.test(rel)) continue; // skip section landing pages
-          (map[rel] = map[rel] || { rel, section: rel.split('/')[0], langs: {}, title: null });
+          if (/(^|\/)_index\.md$/.test(rel)) continue;
+          (map[rel] = map[rel] || { rel, section: rel.split('/')[0], langs:{}, title:null });
           map[rel].langs[m[1]] = { path: t.path, sha: t.sha };
         }
         POSTS = Object.values(map).sort((a, b) => a.rel.localeCompare(b.rel));
-        // fetch titles (prefer ko, else en)
         await Promise.all(POSTS.map(async p => {
-          const src = p.langs.ko || p.langs.en;
-          try {
-            const cr = await fetch(`${API}/contents/${src.path}?ref=${BRANCH}`, { headers: ghHeaders() });
-            if (cr.ok) { const cj = await cr.json(); p.title = titleFromMd(b64utf8(cj.content)); }
-          } catch (e) {}
+          const src = p.langs.ko || p.langs.en || p.langs.zh;
+          try{ const cr = await fetch(`${API}/contents/${src.path}?ref=${BRANCH}`, { headers: ghHeaders() });
+            if (cr.ok){ const cj = await cr.json(); p.title = titleFromMd(b64utf8(cj.content)); } }catch(e){}
         }));
         render();
-      } catch (e) {
-        $('#list').innerHTML = '';
-        setStatus(e.message, 'err');
-      }
+      }catch(e){ $('#list').innerHTML = ''; setStatus(e.message, 'err'); }
     }
 
-    function render() {
+    function render(){
       const list = $('#list');
-      if (!POSTS.length) { list.innerHTML = '<p class="empty">삭제할 글이 없습니다.</p>'; return; }
+      if (!POSTS.length){ list.innerHTML = '<p class="empty">편집할 글이 없습니다.</p>'; return; }
       const bySec = {};
       POSTS.forEach(p => (bySec[p.section] = bySec[p.section] || []).push(p));
       let html = '';
       Object.keys(bySec).sort().forEach(sec => {
         html += `<div class="sec">${SEC_KO[sec] || sec}</div>`;
-        bySec[sec].forEach((p, i) => {
+        bySec[sec].forEach(p => {
           const idx = POSTS.indexOf(p);
-          const both = p.langs.en && p.langs.ko;
-          const tags = (p.langs.ko ? '<span class="langtag">KO</span>' : '') +
-                       (p.langs.en ? '<span class="langtag">EN</span>' : '') +
-                       (both ? '' : '<span class="langtag warn">한쪽만</span>');
+          const lbtns = ['ko','en','zh'].filter(l => p.langs[l])
+            .map(l => `<button class="lbtn" data-idx="${idx}" data-lang="${l}">${l.toUpperCase()} 편집</button>`).join('');
           html += `<div class="post">
             <div class="post__main">
-              <div class="post__title">${p.title ? escapeHtml(p.title) : '(제목 없음)'} ${tags}</div>
+              <div class="post__title">${p.title ? escapeHtml(p.title) : '(제목 없음)'}</div>
               <div class="post__path">${escapeHtml(p.rel)}</div>
             </div>
-            <button class="btn-danger" data-idx="${idx}">삭제</button>
+            <div class="editbtns">${lbtns}<button class="lbtn" style="background:#FDECEA;color:var(--danger)" data-del="${idx}">삭제</button></div>
           </div>`;
         });
       });
       list.innerHTML = html;
-      list.querySelectorAll('button[data-idx]').forEach(b => {
-        b.addEventListener('click', () => delPost(parseInt(b.dataset.idx, 10), b));
-      });
+      list.querySelectorAll('button[data-lang]').forEach(b =>
+        b.addEventListener('click', () => openEditor(parseInt(b.dataset.idx,10), b.dataset.lang)));
+      list.querySelectorAll('button[data-del]').forEach(b =>
+        b.addEventListener('click', () => delPost(parseInt(b.dataset.del,10), b)));
     }
 
-    function escapeHtml(s) { return s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+    let CUR = null; // {path, sha, idx, lang}
+    async function openEditor(idx, lang){
+      const p = POSTS[idx]; const f = p.langs[lang];
+      setStatus('<span class="spin"></span> 불러오는 중…', 'info');
+      try{
+        const r = await fetch(`${API}/contents/${f.path}?ref=${BRANCH}`, { headers: ghHeaders() });
+        if (!r.ok) throw new Error('파일을 불러오지 못했습니다 (' + r.status + ').');
+        const j = await r.json();
+        const text = b64utf8(j.content);
+        CUR = { path: f.path, sha: j.sha, idx, lang };
+        f.sha = j.sha;
+        $('#editorTitle').textContent = `— ${p.title || p.rel} · ${lang.toUpperCase()}`;
+        $('#editorPath').textContent = f.path;
+        $('#editor').value = text;
+        $('#editorCard').classList.remove('hidden');
+        clearStatus();
+        $('#editorCard').scrollIntoView({ behavior:'smooth', block:'start' });
+      }catch(e){ setStatus(e.message, 'err'); }
+    }
 
-    async function delPost(idx, btn) {
+    async function saveEdit(){
+      if (!CUR){ return; }
+      const btn = $('#saveEdit'); btn.disabled = true; btn.innerHTML = '<span class="spin"></span> 저장 중';
+      try{
+        const body = {
+          message: `admin: edit ${CUR.path}`,
+          content: utf8b64($('#editor').value),
+          sha: CUR.sha,
+          branch: BRANCH
+        };
+        const r = await fetch(`${API}/contents/${CUR.path}`, { method:'PUT', headers: ghHeaders(), body: JSON.stringify(body) });
+        const j = await r.json();
+        if (!r.ok) throw new Error(`저장 실패 (${r.status}). ${(j && j.message) || ''}`);
+        const newSha = j.content && j.content.sha;
+        if (newSha){ CUR.sha = newSha; if (POSTS[CUR.idx] && POSTS[CUR.idx].langs[CUR.lang]) POSTS[CUR.idx].langs[CUR.lang].sha = newSha; }
+        // refresh title if it changed
+        const nt = titleFromMd($('#editor').value); if (nt && POSTS[CUR.idx]){ POSTS[CUR.idx].title = nt; render(); }
+        setStatus(`저장 완료: <b>${escapeHtml(CUR.path)}</b> — 1~2분 뒤 사이트에 반영됩니다(자동 재배포).`, 'ok');
+      }catch(e){ setStatus(e.message, 'err'); }
+      finally{ btn.disabled = false; btn.textContent = '저장 (커밋)'; }
+    }
+
+    async function delPost(idx, btn){
       const p = POSTS[idx];
       const langsList = Object.keys(p.langs).map(l => l.toUpperCase()).join(' + ');
       if (!confirm(`정말 삭제할까요?\n\n${p.title || p.rel}\n(${langsList} 모두 삭제됩니다. 되돌리려면 GitHub 기록에서 복구해야 합니다.)`)) return;
       btn.disabled = true; btn.innerHTML = '<span class="spin"></span>';
-      try {
-        for (const lang of Object.keys(p.langs)) {
+      try{
+        for (const lang of Object.keys(p.langs)){
           const { path, sha } = p.langs[lang];
-          const r = await fetch(`${API}/contents/${path}`, {
-            method: 'DELETE',
-            headers: ghHeaders(),
-            body: JSON.stringify({ message: `admin: delete ${path}`, sha, branch: BRANCH })
-          });
-          if (!r.ok) {
-            const t = await r.text();
-            throw new Error(`삭제 실패 (${path}, ${r.status}). ${t.slice(0,120)}`);
-          }
+          const r = await fetch(`${API}/contents/${path}`, { method:'DELETE', headers: ghHeaders(),
+            body: JSON.stringify({ message:`admin: delete ${path}`, sha, branch: BRANCH }) });
+          if (!r.ok){ const t = await r.text(); throw new Error(`삭제 실패 (${path}, ${r.status}). ${t.slice(0,120)}`); }
         }
-        POSTS.splice(idx, 1);
-        render();
-        setStatus(`삭제 완료: <b>${escapeHtml(p.title || p.rel)}</b> — 1~2분 뒤 사이트에 반영됩니다(자동 재배포).`, 'ok');
-      } catch (e) {
-        btn.disabled = false; btn.textContent = '삭제';
-        setStatus(e.message, 'err');
-      }
+        if (CUR && CUR.idx === idx){ $('#editorCard').classList.add('hidden'); CUR = null; }
+        POSTS.splice(idx, 1); render();
+        setStatus(`삭제 완료: <b>${escapeHtml(p.title || p.rel)}</b> — 1~2분 뒤 반영됩니다.`, 'ok');
+      }catch(e){ btn.disabled = false; btn.textContent = '삭제'; setStatus(e.message, 'err'); }
     }
 
+    $('#saveEdit').addEventListener('click', saveEdit);
+    $('#cancelEdit').addEventListener('click', () => { $('#editorCard').classList.add('hidden'); CUR = null; });
     $('#saveTok').addEventListener('click', () => {
       const v = $('#tok').value.trim();
-      if (!v) { setStatus('토큰을 입력하세요.', 'err'); return; }
-      localStorage.setItem(TKEY, v);
-      $('#tok').value = '';
-      setStatus('토큰을 저장했습니다.', 'ok');
-      loadPosts();
+      if (!v){ setStatus('토큰을 입력하세요.', 'err'); return; }
+      localStorage.setItem(TKEY, v); $('#tok').value = ''; setStatus('토큰을 저장했습니다.', 'ok'); loadPosts();
     });
     $('#clearTok').addEventListener('click', () => {
-      localStorage.removeItem(TKEY);
-      POSTS = []; render();
-      $('#list').innerHTML = '<p class="empty">토큰을 저장하면 글 목록이 나타납니다.</p>';
+      localStorage.removeItem(TKEY); POSTS = []; render();
+      $('#list').innerHTML = '<p class="empty">GitHub 토큰을 저장하면 글 목록이 나타납니다.</p>';
       setStatus('토큰을 지웠습니다.', 'info');
     });
     $('#reload').addEventListener('click', loadPosts);
 
-    // auto-load if token already saved
-    if (token()) loadPosts();
+    /* ---------- boot ---------- */
+    showGateStage();
   </script>
 </body>
 </html>
