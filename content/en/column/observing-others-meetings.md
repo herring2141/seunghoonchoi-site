@@ -6,6 +6,8 @@ tags: ["meetings", "career", "onboarding", "junior", "metacognition", "observati
 subtitle: "Turning a meeting you don't own into free practice"
 description: "An observation checklist for pulling decision criteria, problem-solving patterns, organizational power structure, and unwritten rules out of meetings outside your field. Especially useful for new hires and juniors as a metacognition tool."
 ---
+![An empty meeting table — turning a meeting you don't own into observation](/images/col-meetings.jpg)
+
 If you're new, or you've switched fields, you end up in a lot of meetings that aren't yours and that you don't really understand. Most people just sit there and zone out until it's over. I use that time differently. A meeting outside your field is a free practice room — you can watch the organization's decision criteria, its problem-solving patterns, its power structure, and its unwritten rules all at once. This isn't a guide to running a good meeting. It's a checklist for what to extract from one.
 
 ## 1. The decision lens

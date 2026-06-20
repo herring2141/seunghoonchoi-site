@@ -6,6 +6,8 @@ tags: ["ai", "agi", "llm", "future-of-work", "career", "automation", "ai-workflo
 subtitle: "The humans who survive the AI era aren't the smarter humans"
 description: "Even when AGI arrives, what's left for humans isn't a contest of intelligence — it's connection to reality. AI Workflow Friction, Human Control Points, and the damped oscillation of headcount: a structural look at jobs and survival in the AI era."
 ---
+![A craftsman carving wood by hand — the human realness AI cannot replace](/images/col-ai-human-craft.jpg)
+
 The most common mistake people make about the AI era is believing that you survive by getting smarter than the AI. Wrong. AGI will likely outmatch humans across most knowledge work. If you try to win on intelligence, you lose.
 
 The human survival point isn't a contest of intelligence — it's the ability to connect to reality. AI reasons well over a world that has already been captured, but exploring the world that hasn't been captured yet, and tying it back to physical things, to people, and to accountability, is still ours. So the real question isn't "will AI replace humans." It's *how far does the AI go, and where does the human have to step in.*

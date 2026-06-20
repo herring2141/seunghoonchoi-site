@@ -6,6 +6,8 @@ tags: ["agi", "ai", "llm", "career", "knowledge-management", "second-brain", "pr
 subtitle: "Twelve rules I use as a daily decision filter"
 description: "Twelve principles for living through the AGI era. Don't try to be smarter than the AI — leave behind real assets that human society recognizes. A personal strategy for compounding work, positioning, relationships, and using AI."
 ---
+![An uphill path in the fog — the long game, run by principles](/images/col-agi-strategy.jpg)
+
 Here are my rules for how to live in the age of AI, compressed into twelve. None of them are flashy. I use them instead as the filter I run every decision through.
 
 1. **Don't try to be smarter than the AI.** A human's survival isn't in the intelligence race; it's in the ability to connect to reality.

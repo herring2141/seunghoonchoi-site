@@ -6,6 +6,8 @@ tags: ["learning", "study-method", "metacognition", "comprehension", "note-takin
 subtitle: "A summary is someone else's order; understanding has to be your own structure"
 description: "A 9-box template for getting on top of an unfamiliar concept, paper, or meeting in ten minutes. Instead of summarizing, you break it down into essence, mechanism, and boundaries — and end with the questions you still need answered. Includes a ready-to-use prompt."
 ---
+![Hands drafting a structure on a blueprint — structure, not summary](/images/col-understand.jpg)
+
 Right before I walk into a meeting or a class in a field I don't know, or the first time I open an unfamiliar paper or technology — I don't make a summary. A summary is someone else's order; understanding has to be your own structure. So whatever the concept is, I drop it into the same nine boxes and grasp it by role and structure. This is where memorizing labels and actually knowing how something works part ways.
 
 ## The Nine Boxes

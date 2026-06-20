@@ -6,6 +6,8 @@ tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "second-brain"
 subtitle: "Not a tool that extracts more, but one that discards ruthlessly"
 description: "A 3-stage AI extraction prompt system that keeps only what's worth saving from your AI conversations. The real point isn't extraction — it's the discard criteria. Includes copy-paste prompts you can drop straight into Notion."
 ---
+![A wall of labeled card-catalog drawers — selection is the system](/images/col-info-extraction.jpg)
+
 The more I talk to AI, the less knowledge I actually keep. It sounds backwards, but the reason is simple: AI generates more than I can verify and organize. Good lines pour out, yet a month later there's almost nothing I can find again.
 
 That's why most attempts at "using AI to organize my notes" fail. Everyone focuses on *extracting more*. Extract more, and your notes turn into a landfill. Nine out of ten memos never get read again.
