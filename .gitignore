@@ -7,3 +7,11 @@ desktop.ini
 /public/
 /resources/_gen/
 .hugo_build.lock
+
+# Scratch / QA artifacts (root — never commit)
+/_qa_*
+/_cqa/
+/_chrome_qa/
+/_*.js
+/_*.py
+/_livecv.pdf
