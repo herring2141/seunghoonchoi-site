@@ -10,18 +10,6 @@
     {{ $n := split .Site.Title " " }}
     <h1 class="portal__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
     <p class="portal__tag">{{ .Site.Params.tagline }}</p>
-    <div class="portal__visual" aria-hidden="true">
-      <svg viewBox="0 40 600 470" preserveAspectRatio="xMidYMid slice" class="portal__mol">
-        <line x1="120" y1="150" x2="300" y2="90"/><line x1="300" y1="90" x2="470" y2="170"/>
-        <line x1="300" y1="90" x2="320" y2="280"/><line x1="120" y1="150" x2="160" y2="330"/>
-        <line x1="160" y1="330" x2="320" y2="280"/><line x1="320" y1="280" x2="480" y2="360"/>
-        <line x1="160" y1="330" x2="240" y2="500"/><line x1="320" y1="280" x2="400" y2="500"/>
-        <line x1="240" y1="500" x2="400" y2="500"/><line x1="480" y1="360" x2="400" y2="500"/>
-        <circle cx="120" cy="150" r="7"/><circle cx="300" cy="90" r="10"/><circle cx="470" cy="170" r="6"/>
-        <circle cx="320" cy="280" r="9"/><circle cx="160" cy="330" r="7"/><circle cx="480" cy="360" r="6"/>
-        <circle cx="240" cy="500" r="8"/><circle cx="400" cy="500" r="7" class="mol__cu"/>
-      </svg>
-    </div>
     <div class="portal__intro">{{ .Content }}</div>
   </aside>
 

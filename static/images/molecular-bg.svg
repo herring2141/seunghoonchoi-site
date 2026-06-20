@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <style>
+      .line { stroke: #D8D5D0; stroke-width: 1; fill: none; opacity: 0.6; }
+      .line-light { stroke: #E2DFD9; stroke-width: 0.5; fill: none; opacity: 0.4; }
+      .node-lg { fill: #D0CCC6; opacity: 0.5; }
+      .node-md { fill: #C8C4BE; opacity: 0.45; }
+      .node-sm { fill: #D8D5D0; opacity: 0.35; }
+    </style>
+  </defs>
+  <!-- Main network lines -->
+  <line class="line" x1="80" y1="120" x2="220" y2="60"/>
+  <line class="line" x1="220" y1="60" x2="350" y2="140"/>
+  <line class="line" x1="350" y1="140" x2="280" y2="280"/>
+  <line class="line" x1="280" y1="280" x2="80" y2="120"/>
+  <line class="line" x1="220" y1="60" x2="280" y2="280"/>
+  <line class="line-light" x1="80" y1="120" x2="350" y2="140"/>
+  
+  <line class="line" x1="350" y1="140" x2="500" y2="80"/>
+  <line class="line" x1="500" y1="80" x2="580" y2="200"/>
+  <line class="line" x1="580" y1="200" x2="350" y2="140"/>
+  <line class="line-light" x1="500" y1="80" x2="450" y2="250"/>
+  <line class="line" x1="280" y1="280" x2="450" y2="250"/>
+  <line class="line" x1="450" y1="250" x2="580" y2="200"/>
+  
+  <line class="line" x1="580" y1="200" x2="720" y2="120"/>
+  <line class="line" x1="720" y1="120" x2="850" y2="180"/>
+  <line class="line-light" x1="580" y1="200" x2="850" y2="180"/>
+  <line class="line" x1="720" y1="120" x2="680" y2="300"/>
+  <line class="line" x1="680" y1="300" x2="850" y2="180"/>
+  
+  <line class="line-light" x1="850" y1="180" x2="1000" y2="100"/>
+  <line class="line" x1="1000" y1="100" x2="1120" y2="200"/>
+  <line class="line" x1="1120" y1="200" x2="1000" y2="300"/>
+  <line class="line" x1="1000" y1="300" x2="850" y2="180"/>
+  <line class="line-light" x1="1000" y1="100" x2="1000" y2="300"/>
+  
+  <!-- Lower network -->
+  <line class="line" x1="120" y1="450" x2="250" y2="380"/>
+  <line class="line" x1="250" y1="380" x2="400" y2="420"/>
+  <line class="line-light" x1="120" y1="450" x2="400" y2="420"/>
+  <line class="line" x1="250" y1="380" x2="300" y2="520"/>
+  <line class="line" x1="300" y1="520" x2="120" y2="450"/>
+  
+  <line class="line" x1="400" y1="420" x2="550" y2="380"/>
+  <line class="line" x1="550" y1="380" x2="650" y2="480"/>
+  <line class="line" x1="650" y1="480" x2="400" y2="420"/>
+  <line class="line-light" x1="300" y1="520" x2="550" y2="380"/>
+  
+  <line class="line" x1="650" y1="480" x2="800" y2="420"/>
+  <line class="line" x1="800" y1="420" x2="900" y2="520"/>
+  <line class="line-light" x1="650" y1="480" x2="900" y2="520"/>
+  <line class="line" x1="800" y1="420" x2="950" y2="380"/>
+  <line class="line" x1="950" y1="380" x2="1080" y2="450"/>
+  <line class="line" x1="1080" y1="450" x2="900" y2="520"/>
+  <line class="line-light" x1="950" y1="380" x2="900" y2="520"/>
+  
+  <!-- Bottom scattered -->
+  <line class="line-light" x1="200" y1="650" x2="380" y2="620"/>
+  <line class="line" x1="380" y1="620" x2="500" y2="700"/>
+  <line class="line-light" x1="200" y1="650" x2="500" y2="700"/>
+  <line class="line" x1="500" y1="700" x2="680" y2="640"/>
+  <line class="line-light" x1="680" y1="640" x2="850" y2="700"/>
+  <line class="line" x1="850" y1="700" x2="1000" y2="650"/>
+  <line class="line-light" x1="680" y1="640" x2="1000" y2="650"/>
+  
+  <!-- Cross connections -->
+  <line class="line-light" x1="280" y1="280" x2="250" y2="380"/>
+  <line class="line-light" x1="580" y1="200" x2="550" y2="380"/>
+  <line class="line-light" x1="850" y1="180" x2="800" y2="420"/>
+  <line class="line-light" x1="1120" y1="200" x2="1080" y2="450"/>
+  <line class="line-light" x1="300" y1="520" x2="380" y2="620"/>
+  <line class="line-light" x1="650" y1="480" x2="680" y2="640"/>
+  <line class="line-light" x1="900" y1="520" x2="850" y2="700"/>
+  
+  <!-- Nodes - Large -->
+  <circle class="node-lg" cx="220" cy="60" r="6"/>
+  <circle class="node-lg" cx="350" cy="140" r="5"/>
+  <circle class="node-lg" cx="580" cy="200" r="6"/>
+  <circle class="node-lg" cx="850" cy="180" r="5"/>
+  <circle class="node-lg" cx="250" cy="380" r="6"/>
+  <circle class="node-lg" cx="650" cy="480" r="5"/>
+  <circle class="node-lg" cx="950" cy="380" r="6"/>
+  
+  <!-- Nodes - Medium -->
+  <circle class="node-md" cx="80" cy="120" r="4"/>
+  <circle class="node-md" cx="280" cy="280" r="4"/>
+  <circle class="node-md" cx="500" cy="80" r="4"/>
+  <circle class="node-md" cx="720" cy="120" r="4"/>
+  <circle class="node-md" cx="1000" cy="100" r="4"/>
+  <circle class="node-md" cx="1120" cy="200" r="4"/>
+  <circle class="node-md" cx="400" cy="420" r="4"/>
+  <circle class="node-md" cx="800" cy="420" r="4"/>
+  <circle class="node-md" cx="1080" cy="450" r="4"/>
+  <circle class="node-md" cx="500" cy="700" r="4"/>
+  <circle class="node-md" cx="850" cy="700" r="4"/>
+  
+  <!-- Nodes - Small -->
+  <circle class="node-sm" cx="450" cy="250" r="3"/>
+  <circle class="node-sm" cx="680" cy="300" r="3"/>
+  <circle class="node-sm" cx="1000" cy="300" r="3"/>
+  <circle class="node-sm" cx="120" cy="450" r="3"/>
+  <circle class="node-sm" cx="300" cy="520" r="3"/>
+  <circle class="node-sm" cx="550" cy="380" r="3"/>
+  <circle class="node-sm" cx="900" cy="520" r="3"/>
+  <circle class="node-sm" cx="200" cy="650" r="3"/>
+  <circle class="node-sm" cx="380" cy="620" r="3"/>
+  <circle class="node-sm" cx="680" cy="640" r="3"/>
+  <circle class="node-sm" cx="1000" cy="650" r="3"/>
+</svg>
