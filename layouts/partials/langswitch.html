@@ -1,5 +1,5 @@
 {{ $page := . }}
-{{ $langs := slice (dict "lang" "en" "label" "English") (dict "lang" "ko" "label" "한국어") }}
+{{ $langs := slice (dict "lang" "en" "label" "English") (dict "lang" "ko" "label" "한국어") (dict "lang" "zh" "label" "中文") }}
 <div class="langswitch" role="group" aria-label="Language">
   {{ range $langs }}
     {{ $lang := .lang }}

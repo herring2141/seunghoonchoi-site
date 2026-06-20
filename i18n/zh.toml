@@ -1,0 +1,63 @@
+# Navigation (keyed by menu identifier)
+[research]
+other = "研究"
+# parent dropdown labels
+[writing]
+other = "文章"
+[resources]
+other = "资料"
+# leaf sections
+[column]
+other = "专栏"
+[books]
+other = "书"
+[literature]
+other = "文学"
+[youtube]
+other = "YouTube"
+[apps]
+other = "应用"
+[career]
+other = "职业指南"
+[about]
+other = "关于"
+
+# UI
+[home]
+other = "首页"
+[latest]
+other = "最新文章"
+[read_more]
+other = "阅读"
+[view_all]
+other = "查看全部"
+[no_posts]
+other = "还没有文章 — 即将更新。"
+[posted_on]
+other = "发布"
+[categories]
+other = "分类"
+[tags]
+other = "标签"
+[all]
+other = "全部"
+[contact]
+other = "联系"
+[connect_linkedin]
+other = "在领英上联系 ↗"
+[email_university]
+other = "大学"
+[email_personal]
+other = "个人"
+[skip_to_content]
+other = "跳到正文"
+[explore]
+other = "浏览"
+[reading_in]
+other = "正在以中文阅读"
+[switch_lang]
+other = "English"
+[footer_rights]
+other = "All rights reserved."
+[search_placeholder]
+other = "搜索…"
