@@ -96,3 +96,10 @@ other = "履历·经历·联系"
 
 [profile]
 other = "主页"
+
+[cta_writing]
+other = "阅读文章"
+[cta_tools]
+other = "工具"
+[cta_research]
+other = "研究成果"

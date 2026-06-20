@@ -96,3 +96,10 @@ other = "Bio, experience, contact"
 
 [profile]
 other = "Profile"
+
+[cta_writing]
+other = "Read essays"
+[cta_tools]
+other = "Tools"
+[cta_research]
+other = "Research"

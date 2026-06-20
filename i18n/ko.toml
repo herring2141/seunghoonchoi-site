@@ -96,3 +96,10 @@ other = "이력·경력·연락"
 
 [profile]
 other = "프로필"
+
+[cta_writing]
+other = "글 읽기"
+[cta_tools]
+other = "만든 도구"
+[cta_research]
+other = "연구·성과"
