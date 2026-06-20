@@ -1,41 +1,47 @@
 ---
 title: "Research"
 ---
-I want to make materials and manufacturing processes more predictable. By combining atomic-scale calculations, machine learning, and process data, I try to explain which structures lead to which properties. This page gathers the research and industry experience behind my writing and tools.
+I want to make materials and manufacturing processes more predictable. During my master's, I studied how microstructure and interfaces change a sensor's performance. Later, on a battery electrode line, I watched up close how process conditions — slurry, coating, calendering — turn into real quality.
+
+Going forward, I want to use computational materials science and machine learning to close the gap between atomic-scale features and what actually happens in process and performance.
 
 [**Download full CV (PDF) ↗**](/cv/Seunghoon_Choi_CV.pdf)
 
-## Research Interests
+## Research Directions
 
-1. Computational materials design using first-principles calculations and machine learning
-2. Multi-fidelity modeling strategies for accelerated materials discovery
-3. Structure–processing–property relationships in complex energy materials systems
-4. Descriptor development linking atomic-scale features to functional performance
-5. Data-driven optimization of microstructure formation and interfacial phenomena
+- Narrowing down material candidates faster with computation and AI
+- Designing descriptors that link atomic-scale features to real performance
+- Tracing how structure, processing, and performance connect in energy materials
+- How microstructure and interfaces shape sensor and electrode performance
+- Reading battery electrode processes from data to narrow down conditions
 
-## Featured Publications
+## Selected Work
+
+### Conductive Hairy-Fiber Sensor — Advanced Functional Materials Back Cover
 
 [![Advanced Functional Materials Back Cover — conductive hierarchical hairy-fiber sensor](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-**Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor**
-**Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808.
-**First author · Back Cover · 140+ citations (Google Scholar)**
+I built fine hierarchical structures on fiber surfaces and made them conductive, creating a multimodal sensor that stretches well and shrugs off water. The electrical signal stayed stable even under large deformation, and the work showed how microstructure geometry governs electrical conduction and sensing in stretchable nanocomposites. It ran as the Back Cover of *Advanced Functional Materials* issue 50, 2019, and has been cited more than 140 times (Google Scholar).
 
-Hierarchical conductive microstructures on fiber surfaces give stable electrical responses under large mechanical deformation, showing how microstructure geometry governs electrical transport in stretchable polymer nanocomposites. [View the article ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
+<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · First author · Back Cover</p>
+
+[View the article ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
+
+### Octopus-Inspired Soft Grippers — Biomimetics Review
 
 [![Octopus-inspired soft gripper — suction cup, arm, and hybrid architectures with sensing](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
-**Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence**
-**Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813.
-**Co-first author**
+A review of soft grippers inspired by the octopus — its arms, suction cups, and pliable body. It covers structural design, sensing elements, control strategies, and AI applications, and analyzes how geometry and material choice shape adhesion and sensing. It puts bio-inspired structures into engineering design terms, and connects to how I now approach microstructure, interface, and sensing problems.
 
-A review of the structural design strategies and sensing architectures of bio-inspired soft grippers, and how geometric parameters and material choices govern adhesion and sensing performance. [View the article ↗](https://doi.org/10.3390/biomimetics10120813)
+<p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>Seunghoon Choi</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · Co-first author</p>
+
+[View the article ↗](https://doi.org/10.3390/biomimetics10120813)
 
 ## Publications
 
 <p class="publication-note">Note: † Equal contribution · * Corresponding author · Bold indicates Seunghoon Choi</p>
 
-1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications.**
+1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
    **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **First author**
 2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
    **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **Co-first author**
@@ -44,7 +50,9 @@ A review of the structural design strategies and sensing architectures of bio-in
 4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
    Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **Co-first author**
 
-**Recent & ongoing** — Pilot clinical study of a biomimetic suction patch for enhanced topical delivery. *Journal of Cosmetic Dermatology* (under review), 2026.
+## Manuscripts Under Review
+
+- Pilot clinical study of a biomimetic suction patch for enhanced topical delivery. *Journal of Cosmetic Dermatology* (under review), 2026.
 
 ## Patents
 

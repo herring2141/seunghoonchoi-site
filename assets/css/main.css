@@ -337,4 +337,5 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 
 /* publication author-marking legend — quiet note, not a callout */
 .lede .publication-note,.publication-note{margin:.1rem 0 1.5rem;font-size:.88rem;color:var(--muted);font-style:normal;line-height:1.6;letter-spacing:0}
+.pub-cite{margin:.2rem 0 .6rem;font-size:.82rem;color:var(--muted);line-height:1.55;letter-spacing:0}.pub-cite strong{color:var(--ink-soft);font-weight:600}.pub-cite em{font-style:italic}
 .publication-note strong{color:var(--ink-soft)}

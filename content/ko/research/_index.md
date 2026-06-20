@@ -1,41 +1,47 @@
 ---
 title: "연구·성과"
 ---
-저는 소재와 제조 공정을 더 예측 가능하게 만드는 방법에 관심이 있습니다. 원자 단위 계산, 머신러닝, 공정 데이터를 함께 써서 어떤 구조가 어떤 성능으로 이어지는지 설명하려고 합니다. 이 페이지에는 그 바탕이 되는 연구 성과와 산업 경험을 정리했습니다.
+저는 소재와 제조 공정을 더 예측 가능하게 만드는 방법에 관심이 있습니다. 석사 과정에서는 미세구조와 계면이 센서 성능을 어떻게 바꾸는지 연구했고, 이후 배터리 전극 공정 현장에서는 슬러리, 코팅, 캘린더링 같은 공정 조건이 실제 품질로 이어지는 과정을 가까이에서 봤습니다.
+
+앞으로는 계산재료과학과 머신러닝으로 원자 단위 특성과 실제 공정·성능 사이의 간격을 줄이는 연구를 이어가려 합니다.
 
 [**이력서(CV) 전체 PDF ↗**](/cv/Seunghoon_Choi_CV.pdf)
 
-## 연구 관심사
+## 연구 방향
 
-1. first-principles 계산·머신러닝 기반 계산재료 설계
-2. 소재 탐색을 가속하는 multi-fidelity 모델링
-3. 복잡한 에너지 소재의 구조–공정–물성 관계
-4. 원자 단위 특성과 성능을 잇는 descriptor 개발
-5. 미세구조·계면 현상의 데이터 기반 최적화
+- 계산과 AI로 소재 후보를 더 빨리 좁히는 방법
+- 원자 단위 특성과 실제 성능을 연결하는 지표 설계
+- 에너지 소재의 구조·공정·성능이 어떻게 이어지는지 분석
+- 미세구조와 계면이 센서·전극 성능에 미치는 영향
+- 배터리 전극 공정을 데이터로 읽고 조건을 좁히는 방법
 
-## 대표 논문
+## 대표 연구
+
+### 전도성 헤어리 파이버 센서 — Advanced Functional Materials Back Cover
 
 [![Advanced Functional Materials 백커버 — 전도성 계층형 헤어리 파이버 센서](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-**Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor**
-**최승훈**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808.
-**제1저자 · Back Cover · 140회+ 피인용 (Google Scholar)**
+섬유 표면에 미세한 계층 구조를 만들고 전도성을 입혀, 잘 늘어나면서도 물에 강한 멀티모달 센서를 만들었습니다. 큰 변형에서도 전기 신호가 안정적으로 유지됐고, 미세구조의 형상이 신축성 나노복합체의 전기 전도와 센서 성능을 어떻게 바꾸는지 보였습니다. 이 연구는 *Advanced Functional Materials* 2019년 50호 Back Cover로 실렸고, Google Scholar 기준 140회 넘게 인용됐습니다.
 
-섬유 표면에 계층적 전도성 미세구조를 도입해 큰 변형에서도 안정적인 전기 응답을 구현하고, 미세구조 형상이 신축성 나노복합체의 전기 전도를 어떻게 지배하는지 보였습니다. [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
+<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>최승훈</strong>, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · 제1저자 · Back Cover</p>
+
+[논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
+
+### 문어 영감 소프트 그리퍼 — Biomimetics Review
 
 [![문어 영감 소프트 그리퍼 — 흡착컵·팔·하이브리드 구조와 센싱](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
-**Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence**
-**최승훈**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813.
-**공동 1저자**
+문어의 팔, 흡착컵, 유연한 몸에서 영감을 받은 소프트 그리퍼 연구를 정리한 리뷰입니다. 구조 설계, 센싱 소자, 제어 전략, AI 응용을 함께 다루며, 기하 구조와 소재 선택이 흡착·센싱 성능을 어떻게 좌우하는지 분석했습니다. 생체모사 구조를 공학 설계의 언어로 옮긴 작업이고, 이후 제가 미세구조·계면·센싱 문제를 바라보는 방식과도 이어집니다.
 
-문어에서 영감받은 소프트 그리퍼의 구조 설계 전략과 센싱 아키텍처를 정리하고, 기하 파라미터·소재 선택이 흡착·센싱 성능을 어떻게 좌우하는지 분석한 리뷰입니다. [논문 보기 ↗](https://doi.org/10.3390/biomimetics10120813)
+<p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>최승훈</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · 공동 1저자</p>
+
+[논문 보기 ↗](https://doi.org/10.3390/biomimetics10120813)
 
 ## 논문
 
 <p class="publication-note">표기: † 공동 1저자 · * 교신저자 · 굵은 글씨는 최승훈</p>
 
-1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications.**
+1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
    **최승훈**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **제1저자**
 2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
    **최승훈**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **공동 1저자**
@@ -44,7 +50,9 @@ title: "연구·성과"
 4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
    Subi Jeon†, **최승훈**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **공동 1저자**
 
-**진행 중** — Pilot clinical study of a biomimetic suction patch (생체모사 흡착 패치 경피전달). *Journal of Cosmetic Dermatology* (심사 중), 2026.
+## 심사 중 원고
+
+- Pilot clinical study of a biomimetic suction patch for transdermal delivery. *Journal of Cosmetic Dermatology* 심사 중, 2026.
 
 ## 특허
 
