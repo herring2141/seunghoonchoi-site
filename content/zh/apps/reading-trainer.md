@@ -1,5 +1,5 @@
 ---
-title: "ReadFast — 基于证据的外语阅读训练"
+title: "ReadFast — 外语速读训练应用"
 seoTitle: "更快读英文·中文的阅读训练 App — 基于证据的 ReadFast"
 date: 2026-06-16
 categories: ["Tools"]

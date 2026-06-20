@@ -1,5 +1,5 @@
 ---
-title: "ReadFast — Evidence-Based Foreign-Language Reading Trainer"
+title: "ReadFast — Foreign-Language Speed-Reading App"
 seoTitle: "Read English & Chinese Faster — An Evidence-Based Reading Trainer"
 date: 2026-06-16
 categories: ["Tools"]
