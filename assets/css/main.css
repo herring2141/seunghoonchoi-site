@@ -352,3 +352,7 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 .post__more ul{list-style:none;padding:0;margin:0;display:grid;gap:10px}
 .post__more a{color:var(--copper);text-decoration:none;font-weight:500}
 .post__more a:hover{text-decoration:underline}
+
+.home-hero__cv{margin-top:14px}
+.home-hero__cv a{font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:14px;letter-spacing:.02em;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--hair);padding-bottom:2px}
+.home-hero__cv a:hover{color:var(--copper);border-color:var(--copper)}

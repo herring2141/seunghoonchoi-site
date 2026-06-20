@@ -11,7 +11,7 @@ image: /images/llm-office-qa-card.svg
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="llm-office-qa icon">
   <div class="appcard__body">
-    <span class="appcard__free">Free · Open source (MIT)</span>
+    <span class="appcard__free">Open source (MIT)</span>
     <h3>llm-office-qa</h3>
     <p>Deterministic linters that catch an LLM's objective mistakes in PowerPoint, Excel, and Word — and deliberately leave style alone.</p>
     <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">View on GitHub →</a>

@@ -64,7 +64,7 @@ other = "搜索…"
 [by]
 other = "作者"
 [author_name]
-other = "崔承勋"
+other = "崔胜勋"
 [cite_this]
 other = "引用本文"
 [cite_copy]
@@ -110,4 +110,7 @@ other = "目录"
 other = "更多相关内容"
 
 [brand]
-other = "崔承勋"
+other = "崔胜勋"
+
+[cta_cv]
+other = "下载简历（CV）↓"

@@ -11,7 +11,7 @@ image: /images/llm-office-qa-card.svg
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="llm-office-qa 图标">
   <div class="appcard__body">
-    <span class="appcard__free">免费 · 开源（MIT）</span>
+    <span class="appcard__free">开源（MIT）</span>
     <h3>llm-office-qa</h3>
     <p>只揪出 AI 生成的 PowerPoint、Excel、Word 中明显错误、却有意不去碰风格的确定性 linter。</p>
     <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">在 GitHub 上查看 →</a>

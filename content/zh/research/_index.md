@@ -23,7 +23,7 @@ title: "研究"
 
 我在纤维表面做出细密的分层结构并赋予其导电性，做成了一种既能拉伸、又耐水的多模态传感器。在大幅形变下电信号依然稳定，并揭示了微结构形貌如何主导可拉伸纳米复合材料的电传导与传感性能。这项工作被选为 *Advanced Functional Materials* 2019 年第 50 期封底，Google Scholar 上被引超过 140 次。
 
-<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>崔承勋</strong>, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · 第一作者 · Back Cover</p>
+<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · 第一作者 · Back Cover</p>
 
 [查看论文 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
@@ -33,7 +33,7 @@ title: "研究"
 
 这是一篇梳理章鱼仿生软体抓手的综述——灵感来自章鱼的腕足、吸盘和柔软的身体。文章涵盖结构设计、传感元件、控制策略与 AI 应用，并分析几何结构与材料选择如何决定吸附与传感性能。它把仿生结构整理成工程设计的语言，也与我此后看待微结构、界面、传感问题的方式相连。
 
-<p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>崔承勋</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · 共同第一作者</p>
+<p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>Seunghoon Choi</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · 共同第一作者</p>
 
 [查看论文 ↗](https://doi.org/10.3390/biomimetics10120813)
 
@@ -42,13 +42,13 @@ title: "研究"
 <p class="publication-note">标注: † 共同第一作者 · * 通讯作者 · 粗体为本人</p>
 
 1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
-   **崔承勋**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **第一作者**
+   **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **第一作者**
 2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
-   **崔承勋**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **共同第一作者**
+   **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **共同第一作者**
 3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.**
-   Subi Jeon†, **崔承勋**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — **共同第一作者**
+   Subi Jeon†, **Seunghoon Choi**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — **共同第一作者**
 4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
-   Subi Jeon†, **崔承勋**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **共同第一作者**
+   Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **共同第一作者**
 
 ## 审稿中的稿件
 

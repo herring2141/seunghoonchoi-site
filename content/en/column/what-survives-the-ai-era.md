@@ -4,7 +4,7 @@ date: 2026-06-20
 categories: ["Essay"]
 tags: ["ai", "agi", "career", "future-of-work", "survival-strategy"]
 subtitle: "The humans who survive the AI era aren't the smarter humans"
-description: "Even when AGI arrives, what's left for humans isn't a contest of intelligence — it's connection to reality. AI Workflow Friction, Human Control Points, and the damped oscillation of headcount: a structural look at jobs and survival in the AI era."
+description: "Even when AGI arrives, what's left for humans isn't a contest of intelligence — it's connection to reality. A structural look at the friction AI can't close, where people are still needed, and what survives in the AI era."
 ---
 ![A craftsman carving wood by hand — the human realness AI cannot replace](/images/col-ai-human-craft.jpg)
 
@@ -16,7 +16,7 @@ The human survival point isn't a contest of intelligence — it's the ability to
 
 Plenty of people talk about AI as if it were free, infinite labor. It isn't — it's bound by cost too. Token cost, verification cost, rework cost, security cost, the cost of environmental friction, and decisively, the cost of accountability. So even when the raw cost of AI falls, the price doesn't necessarily fall with it.
 
-Hiring is the more interesting part. Headcount demand doesn't simply shrink — it *oscillates, damped.* A company turns optimistic about replacement and cuts staff, discovers real-world friction and hires back, builds the workflow and re-automates, finds a new exception and calls in people again. Where that oscillation settles is the lower bound of human involvement. Whoever knows where that floor sits gets to design the jobs of the next decade.
+Hiring is the more interesting part. Headcount demand doesn't simply shrink. A company turns optimistic about replacement and cuts staff, hits real-world friction and hires back, builds the workflow and trims again, runs into a new exception and calls people back in. As that back-and-forth repeats, a floor remains — the minimum where people have to stay in the loop. Whoever knows where that floor sits gets to design the jobs of the next decade.
 
 ## AI Workflow Friction
 
@@ -28,7 +28,7 @@ Written loosely as a formula, it looks like this.
 Effective AI productivity = useful output / (token cost + human verification cost + workflow friction cost)
 ```
 
-A demo shows you the numerator only. In the real world, the money leaks out of the denominator.
+A demo shows you the result. Whether it's a real business comes down to the cost of making that result trustworthy.
 
 ## Human Control Points
 
@@ -42,7 +42,7 @@ The conclusion is this. Most existing positions stay. There are just fewer of th
 
 "Seniors plus AI is enough" is true only in the short run. Seniors also age, get sick, leave, and retire. Stop hiring juniors and you sever the future supply of mid-level and senior talent.
 
-What a junior needs in the AI era isn't a good memory — it's AI-native learning ability, the ability to ask, the ability to verify AI output, documentation, and the habit of checking the ground truth. In one line: becoming an *accountable context-verification node* that organizes the inputs to the AI, verifies its outputs, and reports the exceptions.
+What a junior needs in the AI era isn't a good memory — it's AI-native learning ability, the ability to ask, the ability to verify AI output, documentation, and the habit of checking the ground truth. In one line: becoming the person who, between the AI and reality, organizes the context, verifies the results, and reports the exceptions.
 
 ## "Did you use AI?" flips meaning
 
@@ -54,6 +54,6 @@ The good answer then sounds like this. "I used AI to draft it and generate count
 
 The cheaper AI makes digital knowledge work, the scarcer physical things, the field, trust, and accountability become. The strong person in the AI era isn't the one who admires a plausible-looking output — it's the one who instantly senses a sentence they can't stand behind. Not the person who knows without looking, but the person who knows what they have to go look at.
 
-And this is my personal strategy too. I have no intention of becoming a pure AI developer and going head-to-head with the large AI companies. Nor do I intend to abandon my core axis — materials, computation, experiment, simulation — and become commodity labor. The position I've staked is in between: someone who uses AI to design, compute, and simulate materials problems, verifies the results against real data, experiments, papers, and patents, and leaves the outcome behind as an asset the institutions recognize.
+And this is my personal strategy too. I have no intention of becoming a pure AI developer and going head-to-head with the large AI companies. Nor do I intend to abandon the base I've built — materials, computation, experiment, simulation — and become commodity labor. The position I've staked is in between: someone who uses AI to design, compute, and simulate materials problems, verifies the results against real data, experiments, papers, and patents, and leaves the outcome behind as an asset the institutions recognize.
 
 The survivor of the AGI era isn't the human who is better than the AI. It's the human who keeps using AI to produce real assets that human society recognizes.

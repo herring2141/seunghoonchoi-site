@@ -11,7 +11,7 @@ image: /images/llm-office-qa-card.svg
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="llm-office-qa 아이콘">
   <div class="appcard__body">
-    <span class="appcard__free">무료 · 오픈소스(MIT)</span>
+    <span class="appcard__free">오픈소스(MIT)</span>
     <h3>llm-office-qa</h3>
     <p>AI가 만든 PowerPoint·Excel·Word의 명백한 실수만 잡고, 스타일은 일부러 건드리지 않는 결정론적 린터.</p>
     <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">GitHub에서 보기 →</a>

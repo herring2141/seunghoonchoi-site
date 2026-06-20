@@ -1,17 +1,17 @@
 ---
-title: "리드패스트 — 근거 기반 외국어 읽기 훈련 (무료 앱)"
-seoTitle: "영어·중국어 속독·읽기 훈련 무료 앱 — 근거 기반 리드패스트"
+title: "리드패스트 — 근거 기반 외국어 읽기 훈련"
+seoTitle: "영어·중국어 속독·읽기 훈련 앱 — 근거 기반 리드패스트"
 date: 2026-06-16
 categories: ["도구"]
 tags: ["읽기", "속독", "앱", "영어", "중국어"]
 subtitle: "속독 미신을 걷어내고, 전이가 검증된 기법만"
-description: "영어·중국어를 빠르고 정확하게 읽기 위한 무료 설치형 웹앱. 시야폭 확장·1만 WPM 같은 미신 대신 어휘 자동화·이해 게이트(ERR)·반복읽기 전이·논문 3-패스를 훈련. 오프라인 지원."
+description: "영어·중국어를 빠르고 정확하게 읽기 위한 설치형 웹앱. 시야폭 확장·1만 WPM 같은 미신 대신 어휘 자동화·이해 게이트(ERR)·반복읽기 전이·논문 3-패스를 훈련. 오프라인 지원."
 image: /images/reading-trainer-card.svg
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="리드패스트 읽기 훈련 앱 아이콘">
   <div class="appcard__body">
-    <span class="appcard__free">무료 · 설치형 웹앱(PWA)</span>
+    <span class="appcard__free">설치형 웹앱(PWA)</span>
     <h3>리드패스트 · 읽기 속도·이해 훈련</h3>
     <p>영어·중국어를 “한국어처럼” 빠르고 정확하게. 근거 있는 기법만.</p>
     <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">앱 열기 →</a>
