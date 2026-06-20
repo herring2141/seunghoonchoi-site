@@ -21,13 +21,32 @@
   </div>
 </section>
 
+{{/* Site directory — what's here, at a glance */}}
+{{ $dir := slice
+  (dict "u" "research/" "label" (i18n "research") "desc" (i18n "dir_research"))
+  (dict "u" "column/"   "label" (i18n "writing")  "desc" (i18n "dir_writing"))
+  (dict "u" "youtube/"  "label" (i18n "youtube")  "desc" (i18n "dir_youtube"))
+  (dict "u" "apps/"     "label" (i18n "apps")     "desc" (i18n "dir_apps"))
+  (dict "u" "career/"   "label" (i18n "career")   "desc" (i18n "dir_career"))
+  (dict "u" "about/"    "label" (i18n "about")    "desc" (i18n "dir_about")) }}
+<nav class="home-dir reveal" aria-label="{{ i18n "explore" }}">
+  <div class="home-dir__grid">
+    {{ range $dir }}
+    <a class="dircard" href="{{ .u | relLangURL }}">
+      <span class="dircard__label">{{ .label }}</span>
+      <span class="dircard__desc">{{ .desc }}</span>
+      <span class="dircard__arrow" aria-hidden="true">→</span>
+    </a>
+    {{ end }}
+  </div>
+</nav>
+
 {{/* Selected research — make the work tangible right under the hero */}}
 {{ $rfeatured := slice
   (dict "img" "/images/octopus-grippers-review.jpg" "key" "rf_gripper")
   (dict "img" "/images/octopus-emg-electrode.jpg" "key" "rf_electrode")
   (dict "img" "/images/plant-hydrogel-electrode.jpg" "key" "rf_plant") }}
 <section class="home-research reveal" aria-label="{{ i18n "rf_heading" }}">
-  <a class="home-research__more" href="{{ "research" | relLangURL }}">{{ i18n "rf_heading" }} →</a>
   <div class="home-research__grid">
     {{ range $rfeatured }}
     <a class="rfig" href="{{ "research" | relLangURL }}">

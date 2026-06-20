@@ -81,3 +81,15 @@ other = "Octopus-inspired soft gripper"
 other = "Dry/wet EMG adhesive electrode"
 [rf_plant]
 other = "Plant-leaf hydrogel electrode"
+[dir_research]
+other = "Papers, patents, computational materials"
+[dir_writing]
+other = "Columns, essays, books, literature"
+[dir_youtube]
+other = "Video"
+[dir_apps]
+other = "Free tools I built"
+[dir_career]
+other = "Study-abroad & US settling guides"
+[dir_about]
+other = "Bio, experience, contact"
