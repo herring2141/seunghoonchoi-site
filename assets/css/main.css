@@ -31,9 +31,9 @@ img{max-width:100%;height:auto}
 .brand__name{font-family:var(--serif);font-size:19px;font-weight:600;color:var(--ink)}
 .brand__logo{width:34px;height:34px;display:block;filter:drop-shadow(0 1px 1.5px rgba(13,27,76,.22));transition:transform .4s var(--ease)}
 .brand:hover .brand__logo{transform:rotate(45deg)}
-.brand__ray line{stroke:var(--copper);stroke-width:1.1;stroke-linecap:round}
-.brand__node circle{fill:var(--copper)}
-.brand__core{fill:var(--navy)}
+.brand__ray line,.brand__ray polygon{stroke:var(--navy);stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;fill:none}
+.brand__node circle{fill:var(--navy)}
+.brand__core{fill:var(--copper)}
 .nav{display:flex;align-items:center;gap:25px}
 .nav__link{position:relative;font-family:var(--sans);font-size:18px;font-weight:600;letter-spacing:.012em;color:var(--ink-soft);padding:6px 0;transition:color .25s}
 .nav__link::after{content:"";position:absolute;left:0;bottom:-2px;width:0;height:1.5px;background:var(--copper);transition:width .3s var(--ease)}

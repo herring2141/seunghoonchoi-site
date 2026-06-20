@@ -1,14 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="14" fill="#0D1B4C"/>
-  <g stroke="#B87333" stroke-width="2" stroke-linecap="round">
-    <line x1="41" y1="32" x2="50" y2="32"/><line x1="38.36" y1="38.36" x2="44.73" y2="44.73"/>
-    <line x1="32" y1="41" x2="32" y2="50"/><line x1="25.64" y1="38.36" x2="19.27" y2="44.73"/>
-    <line x1="23" y1="32" x2="14" y2="32"/><line x1="25.64" y1="25.64" x2="19.27" y2="19.27"/>
-    <line x1="32" y1="23" x2="32" y2="14"/><line x1="38.36" y1="25.64" x2="44.73" y2="19.27"/>
+  <g stroke="#F8F6F3" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+    <polygon points="52,32 42,14.68 22,14.68 12,32 22,49.32 42,49.32"/>
+    <line x1="32" y1="32" x2="52" y2="32"/><line x1="32" y1="32" x2="22" y2="14.68"/><line x1="32" y1="32" x2="22" y2="49.32"/>
   </g>
-  <g fill="#B87333">
-    <circle cx="54" cy="32" r="2.6"/><circle cx="47.55" cy="47.55" r="2.6"/><circle cx="32" cy="54" r="2.6"/><circle cx="16.45" cy="47.55" r="2.6"/>
-    <circle cx="10" cy="32" r="2.6"/><circle cx="16.45" cy="16.45" r="2.6"/><circle cx="32" cy="10" r="2.6"/><circle cx="47.55" cy="16.45" r="2.6"/>
+  <g fill="#F8F6F3">
+    <circle cx="52" cy="32" r="2.8"/><circle cx="42" cy="14.68" r="2.8"/><circle cx="22" cy="14.68" r="2.8"/>
+    <circle cx="12" cy="32" r="2.8"/><circle cx="22" cy="49.32" r="2.8"/><circle cx="42" cy="49.32" r="2.8"/>
   </g>
-  <circle cx="32" cy="32" r="6" fill="#F8F6F3"/>
+  <circle cx="32" cy="32" r="5.2" fill="#B87333"/>
 </svg>
