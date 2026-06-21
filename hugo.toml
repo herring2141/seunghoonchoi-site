@@ -50,6 +50,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
   github = "https://github.com/seunghoonchoi-phd"
   instagram = "https://www.instagram.com/hoonchoi.mk1/"
   twitter = "https://x.com/herring2141"
+  threads = "https://www.threads.com/@hoonchoi.mk1"
 
 [related]
   threshold = 80
