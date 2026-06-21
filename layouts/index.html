@@ -24,7 +24,7 @@
   </section>
 
   <section class="hsec reveal">
-    <div class="hsec__head"><h2 class="hsec__h">Apps &amp; Tools</h2><a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="hsec__head"><h2 class="hsec__h">Apps <span class="amp">&amp;</span> Tools</h2><a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
     <div class="cards hsec__grid">{{ range (where .Site.RegularPages "Section" "apps").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>
 
