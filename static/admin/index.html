@@ -48,6 +48,12 @@
     .lbtn{font-size:.76rem;font-weight:700;padding:5px 10px;border-radius:8px;border:1.5px solid var(--line);background:#EEF2FF;color:var(--navy);cursor:pointer}
     .lbtn:hover{border-color:var(--navy)}
     .badge-hidden{font-size:.7rem;font-weight:700;color:#8a6d1f;background:#FFF3D9;border:1px solid #EBD9B0;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
+    .badge-rev{font-size:.7rem;font-weight:700;color:#1b7a3d;background:#E7F6EC;border:1px solid #B7E4C7;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
+    .badge-unrev{font-size:.7rem;font-weight:700;color:#9a7b1f;background:#FBF1D6;border:1px solid #E8D6A8;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
+    .badge-partial{font-size:.7rem;font-weight:700;color:#8a6d1f;background:#FFF3D9;border:1px solid #EBD9B0;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
+    .lbtn.rev{background:#F2F0EC;color:#8A857C;border-color:#E1DCD3}
+    .lbtn.rev:hover{border-color:#1b7a3d}
+    .lbtn.rev.on{background:#E7F6EC;color:#1b7a3d;border-color:#B7E4C7}
     .post.is-hidden .post__title{color:var(--muted)}
     .sec{font-size:.78rem;font-weight:700;color:var(--copper);text-transform:uppercase;letter-spacing:.04em;margin:18px 0 2px}
     .empty{color:var(--muted);padding:18px 0;text-align:center}
@@ -281,6 +287,16 @@
       if(hide) fm = fm.replace(/(\r?\n---\r?\n)$/, '\nhidden: true\nbuild: {list: never, render: always}$1');
       return fm + d.body;
     }
+    /* reviewed: a private "a human has vetted this file" flag, per language. It is NOT rendered on
+       the public site (no template reads it) and does NOT affect publishing (no build: lines) — it
+       only shows here in /admin/. Absent = 미검수. Toggling writes/strips `reviewed: true`. */
+    function isReviewedRaw(raw){ return /^reviewed:[ \t]*true\b/m.test(splitDoc(raw).fmFull); }
+    function setReviewed(raw, val){
+      const d = splitDoc(raw); if(!d.hasFm) return raw;
+      let fm = d.fmFull.replace(/^reviewed:[ \t]*.*\r?\n/m,'');
+      if(val) fm = fm.replace(/(\r?\n---\r?\n)$/, '\nreviewed: true$1');
+      return fm + d.body;
+    }
 
     /* ---------- Google one-click ---------- */
     let ID_TOKEN = null;
@@ -375,8 +391,14 @@
         }
         POSTS = Object.values(map).sort((a,b)=>a.rel.localeCompare(b.rel));
         await Promise.all(POSTS.map(async p => {
-          const src = p.langs.ko || p.langs.en || p.langs.zh;
-          try{ const cr = await api('GET','file',{path:src.path}); if (cr.ok){ const cj=await cr.json(); const txt=b64utf8(cj.content); p.title=titleFromMd(txt); p.hidden=isHiddenRaw(txt); } }catch(e){}
+          const order = ['ko','en','zh'].filter(l=>p.langs[l]);
+          const titleLang = p.langs.ko ? 'ko' : order[0];
+          await Promise.all(order.map(async l => {
+            try{ const cr = await api('GET','file',{path:p.langs[l].path}); if (cr.ok){ const cj=await cr.json(); const txt=b64utf8(cj.content);
+              p.langs[l].reviewed = isReviewedRaw(txt); p.langs[l].sha = cj.sha;
+              if (l===titleLang){ p.title=titleFromMd(txt); p.hidden=isHiddenRaw(txt); }
+            } }catch(e){}
+          }));
         }));
         render();
       }catch(e){ if (e.message!=='401'){ $('#list').innerHTML=''; setStatus(e.message,'err'); } }
@@ -394,12 +416,19 @@
         html += `<div class="sec">${SEC_KO[sec]||sec}</div>`;
         bySec[sec].forEach(p=>{
           const idx = POSTS.indexOf(p);
-          const lbtns = ['ko','en','zh'].filter(l=>p.langs[l]).map(l=>`<button class="lbtn" data-idx="${idx}" data-lang="${l}">${l.toUpperCase()} 편집</button>`).join('');
-          const badge = p.hidden ? '<span class="badge-hidden">숨김</span>' : '';
+          const order = ['ko','en','zh'].filter(l=>p.langs[l]);
+          const lbtns = order.map(l=>`<button class="lbtn" data-idx="${idx}" data-lang="${l}">${l.toUpperCase()} 편집</button>`).join('');
+          const revbtns = order.map(l=>`<button class="lbtn rev${p.langs[l].reviewed?' on':''}" data-rev="${idx}" data-rlang="${l}" title="${l.toUpperCase()} 검수 여부 토글">${p.langs[l].reviewed?'✓':'○'} ${l.toUpperCase()}</button>`).join('');
+          const revN = order.filter(l=>p.langs[l].reviewed).length;
+          const revBadge = revN===0 ? '<span class="badge-unrev">미검수</span>'
+            : (revN===order.length ? '<span class="badge-rev">검수완료</span>'
+            : `<span class="badge-partial">검수 ${revN}/${order.length}</span>`);
+          const badge = (p.hidden ? '<span class="badge-hidden">숨김</span>' : '') + revBadge;
           const hideBtn = `<button class="lbtn" style="background:#FFF3D9;color:#8a6d1f" data-hide="${idx}">${p.hidden?'표시':'숨기기'}</button>`;
           html += `<div class="post${p.hidden?' is-hidden':''}"><div class="post__main">
               <div class="post__title">${p.title?escapeHtml(p.title):'(제목 없음)'}${badge}</div>
-              <div class="post__path">${escapeHtml(p.rel)}</div></div>
+              <div class="post__path">${escapeHtml(p.rel)}</div>
+              <div class="editbtns" style="margin-top:7px"><span style="font-size:.74rem;color:var(--muted);align-self:center">검수:</span>${revbtns}</div></div>
             <div class="editbtns">${lbtns}${hideBtn}<button class="lbtn" style="background:#FDECEA;color:var(--danger)" data-del="${idx}">삭제</button></div></div>`;
         });
       });
@@ -407,6 +436,7 @@
       list.querySelectorAll('button[data-lang]').forEach(b=>b.addEventListener('click',()=>openEditor(parseInt(b.dataset.idx,10),b.dataset.lang)));
       list.querySelectorAll('button[data-del]').forEach(b=>b.addEventListener('click',()=>delPost(parseInt(b.dataset.del,10),b)));
       list.querySelectorAll('button[data-hide]').forEach(b=>b.addEventListener('click',()=>toggleHide(parseInt(b.dataset.hide,10),b)));
+      list.querySelectorAll('button[data-rev]').forEach(b=>b.addEventListener('click',()=>toggleReviewed(parseInt(b.dataset.rev,10),b.dataset.rlang,b)));
     }
 
     async function toggleHide(idx, btn){
@@ -426,6 +456,27 @@
         setStatus((hide?'🙈 숨김 처리했습니다':'👁 다시 공개했습니다')+' — 1~2분 뒤 사이트에 반영됩니다.','ok');
         render();
       }catch(e){ if(e.message!=='401') setStatus(e.message,'err'); btn.disabled=false; btn.innerHTML=old; }
+    }
+
+    /* mark one language file reviewed / unreviewed. Per-language: ko/en/zh are vetted separately.
+       Writes only `reviewed: true` (no build lines) so it never affects the public site or publishing. */
+    async function toggleReviewed(idx, lang, btn){
+      const p = POSTS[idx], f = p.langs[lang]; if(!f) return;
+      const val = !f.reviewed;
+      const old = btn.innerHTML; btn.disabled = true; btn.innerHTML = '<span class="spin"></span>';
+      try{
+        const gr = await api('GET','file',{path:f.path}); if(!gr.ok) throw new Error(lang.toUpperCase()+' 읽기 실패('+gr.status+')');
+        const gj = await gr.json(); const raw = b64utf8(gj.content);
+        const next = setReviewed(raw, val);
+        if(next !== raw){
+          const pr = await api('PUT','file',{ path:f.path, body:{ content:utf8b64(next), sha:gj.sha, message:(val?'admin: mark reviewed ':'admin: mark unreviewed ')+f.path } });
+          if(!pr.ok) throw new Error(lang.toUpperCase()+' 저장 실패('+pr.status+')');
+          const pj = await pr.json(); if(pj.content && pj.content.sha) f.sha = pj.content.sha;
+        } else { f.sha = gj.sha; }
+        f.reviewed = val;
+        render();
+        setStatus((val?'✓ 검수 완료로 표시':'○ 미검수로 변경')+': <b>'+lang.toUpperCase()+'</b> '+escapeHtml(p.rel)+' — 외부 사이트엔 영향 없음.','ok');
+      }catch(e){ if(e.message!=='401'){ setStatus(e.message,'err'); } btn.disabled=false; btn.innerHTML=old; }
     }
 
     /* ---------- editor state ---------- */
