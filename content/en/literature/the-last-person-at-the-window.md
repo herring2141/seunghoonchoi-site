@@ -1,10 +1,11 @@
 ---
-title: "The Window"
+title: "The Last Person at the Window — After AI Took All the Work"
 date: 2026-06-21
 categories: ["소설"]
 tags: ["단편소설"]
-subtitle: "In the years when the machines took the work away, one task at a time, one person remained by the window."
+subtitle: "The one thing a former translator never let go of."
 image: /images/col-ai-replacement-stages.jpg
+aliases: ["/literature/the-window/"]
 ---
 
 ![The silhouette of a person sitting by a window that looks out on the sea](/images/col-ai-replacement-stages.jpg)

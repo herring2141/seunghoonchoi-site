@@ -1,10 +1,11 @@
 ---
-title: "창(窓)"
+title: "창가의 마지막 사람 — AI가 모든 일을 가져간 뒤"
 date: 2026-06-21
 categories: ["소설"]
 tags: ["단편소설"]
-subtitle: "기계가 일을 하나씩 가져가던 시절, 창가에 남은 한 사람."
+subtitle: "번역가였던 한 사람이, 끝까지 손에서 놓지 않은 단 하나."
 image: /images/col-ai-replacement-stages.jpg
+aliases: ["/literature/the-window/"]
 ---
 
 ![바다가 보이는 창가에 앉은 사람의 실루엣](/images/col-ai-replacement-stages.jpg)

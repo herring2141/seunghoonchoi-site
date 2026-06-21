@@ -1,10 +1,11 @@
 ---
-title: "窗"
+title: "窗前最后的人 — 当AI带走了所有工作"
 date: 2026-06-21
 categories: ["소설"]
 tags: ["단편소설"]
-subtitle: "机器把活儿一件件拿走的年代，窗前还留着一个人。"
+subtitle: "曾是翻译的她，始终没有放手的那一样东西。"
 image: /images/col-ai-replacement-stages.jpg
+aliases: ["/literature/the-window/"]
 ---
 
 ![一个人的剪影，坐在能望见大海的窗前](/images/col-ai-replacement-stages.jpg)
