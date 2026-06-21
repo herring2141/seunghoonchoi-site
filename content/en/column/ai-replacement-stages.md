@@ -1,7 +1,7 @@
 ---
 title: "How AI Replaces Human Work, in Order: A 16-Stage Roadmap and What Survives"
-date: 2026-06-20
-categories: ["Essays"]
+date: 2026-06-21T17:44:27+09:00
+categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "AI doesn't erase jobs at random — it moves in a fixed sequence, away from ability and toward presence. Here are all 16 stages, plus the seats that hold to the end: responsibility, ownership, judgment, and being there."
 seoTitle: "AI Job Replacement in 16 Stages: What Goes First, What Survives (AI-Era Survival Guide)"

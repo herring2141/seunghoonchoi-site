@@ -2,7 +2,7 @@
 title: "当AI让写作变得免费，昂贵的是信任"
 description: "当AI让写作免费，个人品牌为何更重要。如何靠定位、收窄与可验证的精确，把信任攒成别人模仿不来的优势。"
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["AI"]
 tags: ["branding","trust","AI era","personal branding","positioning"]
 subtitle: "AI让初稿变得免费，品牌不是变得不重要，而是更重要了"
 seoTitle: "AI时代个人品牌：核心是信任"

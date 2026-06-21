@@ -2,7 +2,7 @@
 title: "12 Principles for the AGI Era — Never Do Work That Leaves Nothing Behind"
 seoTitle: "12 Principles to Survive the AGI Era — Build Real Assets"
 date: 2026-06-20
-categories: ["Essay"]
+categories: ["AI"]
 tags: ["agi", "ai", "career", "strategy", "positioning"]
 subtitle: "Twelve rules I use as a daily decision filter"
 description: "Twelve principles for surviving the AGI era: don't try to outsmart AI — use it as a productivity engine and leave behind real assets human society recognizes."

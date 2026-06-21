@@ -2,7 +2,7 @@
 title: "When AI Makes Writing Free, Trust Gets Expensive"
 description: "Why personal branding matters more, not less, when AI makes writing free. How to build trust through positioning, niching down, and precise, verifiable claims."
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["AI"]
 tags: ["branding","trust","AI era","personal branding","positioning"]
 subtitle: "As AI makes first drafts free, branding matters more, not less — here's why"
 seoTitle: "Personal Branding in the AI Era: Branding Is Trust"

@@ -2,7 +2,7 @@
 title: "把对话变成知识资产 —— 我用的三段式 AI 信息提取提示系统"
 seoTitle: "AI 对话整理进 Notion：三段式信息提取提示词"
 date: 2026-06-20
-categories: ["Guide"]
+categories: ["AI"]
 tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "notion"]
 subtitle: "不是抽得更多的工具，而是狠下心丢弃的工具"
 description: "一套三段式提示词，把 ChatGPT 等 AI 对话里值得保存的内容提取进 Notion。关键不在多提取，而在丢弃的标准。附复制即用提示。"

@@ -1,7 +1,7 @@
 ---
 title: "AI 替代人类工作的 16 个阶段：什么最先消失，什么撑到最后"
-date: 2026-06-20
-categories: ["Essays"]
+date: 2026-06-21T17:44:27+09:00
+categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "AI 不是随机地、而是按一套固定顺序削减人的工作。从“能力”退场到“存在”留场的 16 个阶段，以及责任、所有、判断、在场这四把最后的椅子。"
 seoTitle: "AI 替代工作的 16 阶段路线图：什么先消失、什么撑到最后（AI 时代生存策略）"

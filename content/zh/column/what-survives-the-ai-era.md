@@ -2,7 +2,7 @@
 title: "AI 为什么取代不了你 —— 留下来的不是智能，而是与现实的连接"
 seoTitle: "AI为什么取代不了你 — AI时代如何生存"
 date: 2026-06-20
-categories: ["Essay"]
+categories: ["AI"]
 tags: ["ai", "agi", "career", "future-of-work", "survival-strategy"]
 subtitle: "在 AI 时代活下来的人，不是更聪明的人"
 description: "就算AGI来了，留下来的不是智能，而是与现实的连接。用结构看清AI填不上的工作流摩擦、为何岗位仍在，以及AI时代的职场生存。"

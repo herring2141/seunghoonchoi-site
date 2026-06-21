@@ -2,7 +2,7 @@
 title: "AI 검수 도구가 오히려 결과물을 망치는 이유 — 모델을 거세하지 마라"
 seoTitle: "AI PPT·엑셀 검수 도구가 결과물 망치는 이유"
 date: 2026-06-16
-categories: ["에세이"]
+categories: ["AI"]
 tags: ["ai", "도구", "LLM"]
 subtitle: "실수만 잡고, 취향은 건드리지 않는다"
 description: "AI 생성 파워포인트·엑셀·워드 검수 도구는 스타일까지 강제해 결과물을 망칩니다. 객관적 오류만 잡는 오픈소스 llm-office-qa."

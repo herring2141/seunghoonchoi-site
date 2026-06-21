@@ -2,7 +2,7 @@
 title: "What Makes Know-How Impossible to Copy — The Real Moat in the AI Era"
 description: "The recipe travels, the cook's feel doesn't. Why interlocking variables and a failure map make tacit knowledge the know-how AI can't copy, and the moat worth building."
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["AI"]
 tags: ["know-how","competitive moat","AI era","tacit knowledge","value of failure"]
 subtitle: "The real secret isn't the method — it's the hidden conditions that make the method work"
 seoTitle: "Tacit Knowledge: The Real Moat in the AI Era"

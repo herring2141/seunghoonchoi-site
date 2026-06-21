@@ -2,7 +2,7 @@
 title: "AGI 시대 생존전략 12원칙 — 안 남는 일은 하지 마라"
 seoTitle: "AGI 시대 생존전략 12원칙 — 자산화 결정 기준"
 date: 2026-06-20
-categories: ["에세이"]
+categories: ["AI"]
 tags: ["agi", "ai", "생존전략", "커리어", "전략"]
 subtitle: "매일의 의사결정 기준으로 쓰는 12개"
 description: "AI 시대 살아남는 12원칙. AI보다 똑똑해지려 말고, 인간 사회가 인정하는 실재 자산을 남겨라. 자산화·포지셔닝·AI 활용 전략."

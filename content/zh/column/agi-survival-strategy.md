@@ -2,7 +2,7 @@
 title: "AGI 时代生存策略 12 条 —— 不做留不下任何东西的事"
 seoTitle: "AGI时代生存策略12条 —— 不被AI取代"
 date: 2026-06-20
-categories: ["Essay"]
+categories: ["AI"]
 tags: ["agi", "ai", "career", "strategy", "positioning"]
 subtitle: "每天用来过滤决策的十二条"
 description: "活过AGI时代的12条原则：别想着比AI更聪明，把AI当生产力引擎，留下人类社会真正认可的资产。定位、关系与人机协作策略。"

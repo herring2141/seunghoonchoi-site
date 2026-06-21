@@ -2,7 +2,7 @@
 title: "为什么AI能征服围棋，却学不会焊接"
 description: "AI攻克围棋、编程，却在现场手艺前止步。真正的原因不是难度，而是强化学习的采样成本，以及谁能把老师傅的暗默知识翻译成数据。"
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["AI"]
 tags: ["artificial intelligence","automation","tacit knowledge","reinforcement learning","future of work"]
 subtitle: "差别不在智力，而在动手碰一次真实世界要付多少代价"
 seoTitle: "AI能赢围棋却学不会焊接的真正原因"
