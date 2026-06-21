@@ -7,7 +7,7 @@ tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "从翻译App到自动审批，为什么答案能被验证的工作最先沦陷"
 seoTitle: "AI取代工作的顺序·第1篇：有答案的脑力活最先消失（第1至5阶段）"
 description: "AI拿走人类工作是有规律的，排在最前面的偏偏是答案早就定死、对错能当场打分的活。本篇沿着前五个阶段走一遍，告诉你为什么连读懂人心都先沦陷，以及监督为什么反而成了拖累。"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-1.jpg
 series: "ai-replacement-stages"
 weight: 2
 faq:

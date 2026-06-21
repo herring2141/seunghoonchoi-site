@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "从工厂机器人到老手的直觉：手和身体之所以能多撑一会儿的真正原因"
 seoTitle: "AI取代工作的顺序·第二篇：体力活和直觉，为什么更晚被取代，却仍旧难逃一退"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-2.jpg
 series: "ai-replacement-stages"
 weight: 3
 faq:

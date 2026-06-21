@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "当能力和所有权都失去力量，决定一个人能不能活得好的，只剩一件事"
 seoTitle: "AI取代工作的最后阶段：为什么所有权会崩塌，对齐才决定人的生死"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-4.jpg
 series: "ai-replacement-stages"
 weight: 5
 faq:

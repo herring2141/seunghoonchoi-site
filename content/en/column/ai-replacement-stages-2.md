@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "From factory robots to a veteran's gut feeling: the real reason hands and bodies hold out a little longer"
 seoTitle: "The Order AI Takes Jobs, Part 2: Why Physical Work and Gut Feeling Fall Late, yet Still Fall"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-2.jpg
 series: "ai-replacement-stages"
 weight: 3
 faq:

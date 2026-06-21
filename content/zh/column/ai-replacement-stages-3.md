@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "AI一旦做得好的事，几乎都会被交出去。决定还剩哪些位子的，不是本事，而是谁握着签字的权限。"
 seoTitle: "AI取代工作第9～14阶段：守护人的不是能力，而是法律与执照制度"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-3.jpg
 series: "ai-replacement-stages"
 weight: 4
 faq:

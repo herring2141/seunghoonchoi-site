@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "When skill and ownership both lose their grip, one thing alone decides whether people live well"
 seoTitle: "The Final Stages of AI Job Displacement: Why Ownership Falls and Alignment Decides Whether People Survive"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-4.jpg
 series: "ai-replacement-stages"
 weight: 5
 faq:

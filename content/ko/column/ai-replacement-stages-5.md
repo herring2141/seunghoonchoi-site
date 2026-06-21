@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "자동화", "일자리", "미래", "생존전략", "커리어"]
 subtitle: "더 잘하는 사람이 되는 게 아니라, 밀려나도 손에 남는 걸 만드는 일"
 seoTitle: "AI 시대 생존 전략, 능력 말고 자리에 걸어라"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-5.jpg
 series: "ai-replacement-stages"
 weight: 6
 faq:

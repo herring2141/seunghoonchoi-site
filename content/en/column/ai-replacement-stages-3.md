@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "Almost everything AI gets good at gets handed over. What decides which seats are left isn't talent. It's who holds the authority to sign."
 seoTitle: "AI Job Replacement, Stages 9 to 14: What Protects People Isn't Skill, It's Law and Licensing"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-3.jpg
 series: "ai-replacement-stages"
 weight: 4
 faq:

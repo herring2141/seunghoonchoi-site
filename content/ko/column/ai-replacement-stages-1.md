@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "자동화", "일자리", "미래", "생존전략", "커리어"]
 subtitle: "번역 앱부터 자동 결재까지, 답이 검증되는 일이 가장 먼저 넘어가는 이유"
 seoTitle: "AI 일자리 대체 순서 1편: 답 있는 머리 일부터 사라진다 (1~5단계)"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-1.jpg
 series: "ai-replacement-stages"
 weight: 2
 faq:

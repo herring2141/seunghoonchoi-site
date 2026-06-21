@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "The goal isn't to become someone who's good enough not to get pushed out. It's to build something that stays in your hands even if you do."
 seoTitle: "AI Survival Strategy: Bet on the Seat, Not Your Skill"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-5.jpg
 series: "ai-replacement-stages"
 weight: 6
 faq:

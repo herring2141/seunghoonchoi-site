@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "자동화", "일자리", "미래", "생존전략", "커리어"]
 subtitle: "능력도 소유도 힘을 잃은 자리에서, 사람이 잘 살지 못 살지를 가르는 단 하나"
 seoTitle: "AI 일자리 대체 마지막 단계, 소유가 무너지고 정렬이 사람 생존을 가르는 이유"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-4.jpg
 series: "ai-replacement-stages"
 weight: 5
 faq:

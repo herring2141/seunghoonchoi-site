@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "From translation apps to automatic sign-offs: why the work whose answer can be checked is the first to go"
 seoTitle: "The Order AI Replaces Jobs, Part 1: Brain Work With Set Answers Goes First (Stages 1 to 5)"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-1.jpg
 series: "ai-replacement-stages"
 weight: 2
 faq:

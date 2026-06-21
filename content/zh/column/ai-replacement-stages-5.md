@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "自动化", "工作", "未来", "生存策略", "职业"]
 subtitle: "不是把自己变得更强，而是哪怕被挤下去，手里也还留得住东西"
 seoTitle: "AI时代生存策略：别赌能力，去赌位置"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-5.jpg
 series: "ai-replacement-stages"
 weight: 6
 faq:

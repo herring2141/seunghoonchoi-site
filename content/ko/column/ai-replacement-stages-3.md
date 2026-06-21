@@ -6,7 +6,7 @@ categories: ["AI"]
 tags: ["AI", "자동화", "일자리", "미래", "생존전략", "커리어"]
 subtitle: "AI가 잘하게 된 일은 거의 다 넘어간다. 남는 자리를 정하는 건 실력이 아니라 누가 서명할 권한을 쥐느냐다."
 seoTitle: "AI 일자리 대체 9~14단계: 인간을 지키는 건 실력이 아니라 법과 면허 제도다"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/col-ai-replacement-stages-3.jpg
 series: "ai-replacement-stages"
 weight: 4
 faq:
