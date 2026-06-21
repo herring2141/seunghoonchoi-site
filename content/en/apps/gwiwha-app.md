@@ -20,12 +20,12 @@ image: /images/gwiwha-card.svg
 
 **I started building this while my wife was preparing for Korean naturalization.** The past papers, sample questions, and essay and oral practice were scattered everywhere, so I put them in one place you can drill through. No payment, no sign-up.
 
-- Repeated practice across **written, essay, and oral** sections
-- **Installable PWA** — add to your phone's home screen and use it like an app, even offline
-- **277-question mock exam** — Korean–Chinese side by side
+- Repeated practice across written, essay, and oral sections
+- Installable PWA — add to your phone's home screen and use it like an app, even offline
+- 277-question mock exam — Korean–Chinese side by side
 
 [Open the app →](https://seunghoonchoi-phd.github.io/gwiwha/)
 
 A full overview with exam info (test types, essay topics, sample questions) is on the landing page → [Korean naturalization mock exam](/gwiwha/)
 
-> **Install**: open the link on your phone browser and tap **"Add to Home Screen"**, or click the install icon in your desktop browser's address bar.
+> Install: open the link on your phone browser and tap "Add to Home Screen", or click the install icon in your desktop browser's address bar.
