@@ -1,5 +1,29 @@
+# robots.txt — seunghoonchoi.com
+# AI search engines and assistants are explicitly welcome to crawl and cite this site.
+# Curated map for LLMs: /llms.txt   |   Full text: /llms-full.txt
+
+# Default: everyone may crawl everything except the private admin page.
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /admin/
+
+# --- AI answer engines / assistant crawlers (explicitly welcomed) ---
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Amazonbot
+User-agent: Bingbot
+User-agent: CCBot
+Allow: /
+Disallow: /admin/
 
 Sitemap: https://seunghoonchoi.com/sitemap.xml
 Sitemap: https://seunghoonchoi.com/gwiwha-sitemap.xml

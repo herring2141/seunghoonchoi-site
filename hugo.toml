@@ -20,8 +20,23 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     noClasses = false
     style = "github"
 
+[outputFormats]
+  # llms.txt / llms-full.txt — curated map + full text for LLMs and AI search engines (spec: llmstxt.org)
+  [outputFormats.LLMS]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    rel = "alternate"
+    permalinkable = false
+  [outputFormats.LLMSFULL]
+    mediaType = "text/plain"
+    baseName = "llms-full"
+    isPlainText = true
+    rel = "alternate"
+    permalinkable = false
+
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "LLMS", "LLMSFULL"]
   section = ["HTML", "RSS"]
 
 [params]

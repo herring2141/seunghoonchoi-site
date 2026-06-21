@@ -1,0 +1,15 @@
+{{- /* llms-full.txt — full markdown text of every page, for LLM ingestion. Regenerated on build, per language. */ -}}
+# {{ .Site.Title }} — Full Content Export
+
+> {{ with .Site.Params.role }}{{ . }}. {{ end }}{{ .Site.Params.description }}
+
+Source: {{ .Site.BaseURL }} — content may be quoted with attribution to {{ .Site.Title }}.
+{{ range sort site.RegularPages "Date" "desc" }}
+================================================================================
+# {{ .Title }}
+URL: {{ .Permalink }}
+Section: {{ .Section }}{{ with .Date }} | Date: {{ .Format "2006-01-02" }}{{ end }}
+{{ with .Description }}Summary: {{ . | plainify | chomp }}
+{{ end }}
+{{ .RawContent }}
+{{ end }}

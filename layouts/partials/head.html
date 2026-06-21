@@ -2,13 +2,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="5h_1hvrNbXYfdfI3_LSVPdx4zljugAFwu2eFw9YcXnA">
 <title>{{ if .IsHome }}{{ .Site.Title }} · {{ .Site.Params.role }}{{ else }}{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }} · {{ i18n "brand" }}{{ end }}</title>
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{- /* Per-page meta description: explicit front-matter, else first-paragraph summary (pages), else site default. Helps AI search engines lift a clean snippet. */ -}}
+{{- $metadesc := .Site.Params.description -}}
+{{- with .Description }}{{ $metadesc = . }}{{ else }}{{ if .IsPage }}{{ $metadesc = (.Summary | plainify | htmlUnescape | strings.TrimSpace | truncate 155) }}{{ end }}{{ end -}}
+<meta name="description" content="{{ $metadesc }}">
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:locale" content="{{ .Site.Language.LanguageCode | default .Site.Language.Lang }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:description" content="{{ $metadesc }}">
 {{- /* Default link-preview image (1200x630). Pages may override via front-matter `ogimage`. */ -}}
 {{ $ogimg := "images/og-default.png" }}{{ with .Params.ogimage }}{{ $ogimg = . }}{{ end }}
 {{ $ogimgURL := $ogimg | absURL }}
@@ -19,7 +22,7 @@
 <meta property="og:image:alt" content="{{ .Site.Title }} — {{ .Site.Params.role }}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="twitter:description" content="{{ $metadesc }}">
 <meta name="twitter:image" content="{{ $ogimgURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -52,6 +55,8 @@
   "alumniOf" (dict "@type" "Organization" "name" "Sungkyunkwan University")
   "knowsAbout" (slice "Computational Materials Science" "Materials Engineering" "Artificial Intelligence" "Battery Materials" "Simulation")
   "email" (printf "mailto:%s" .Site.Params.email)
+  "image" ("images/og-default.png" | absURL)
+  "description" .Site.Params.description
   "sameAs" $same }}
 {{ if .IsHome }}
 <script type="application/ld+json">

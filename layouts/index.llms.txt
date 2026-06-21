@@ -1,0 +1,40 @@
+{{- /* llms.txt — a curated map of this site for LLMs and AI search engines (spec: https://llmstxt.org).
+       Regenerated on every build, per language. The English file at /llms.txt is canonical. */ -}}
+# {{ .Site.Title }}
+
+> {{ with .Site.Params.role }}{{ . }}. {{ end }}{{ .Site.Params.description }}
+
+This file maps the canonical, citable pages on this site for LLMs and AI search engines. Content may be quoted with attribution to {{ .Site.Title }} ({{ .Site.BaseURL }}).
+
+## Identity & Profile
+{{ with .Site.GetPage "/about" }}- [{{ .Title }}]({{ .Permalink }}): Biography, career timeline, research background, and contact.
+{{ end }}- CV (PDF): {{ "cv/Seunghoon_Choi_CV.pdf" | absURL }}
+- ORCID: {{ .Site.Params.orcid }}
+- Google Scholar: {{ .Site.Params.googleScholar }}
+- GitHub: {{ .Site.Params.github }}
+- LinkedIn: {{ .Site.Params.linkedin }}
+{{ $sections := slice
+  (dict "key" "research"   "label" "Research & Publications")
+  (dict "key" "column"     "label" "Essays & Columns")
+  (dict "key" "books"      "label" "Books")
+  (dict "key" "literature" "label" "Literature")
+  (dict "key" "apps"       "label" "Apps & Tools")
+  (dict "key" "career"     "label" "Study-Abroad & Settling-In Guides")
+  (dict "key" "youtube"    "label" "Video")
+}}
+{{- range $sections }}
+{{- $label := .label }}
+{{- $pages := where site.RegularPages "Section" .key }}
+{{- with $pages }}
+
+## {{ $label }}
+{{ range sort . "Date" "desc" -}}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Description }}: {{ . | plainify | htmlUnescape | strings.TrimSpace }}{{ else }}{{ with .Summary }}: {{ . | plainify | htmlUnescape | strings.TrimSpace | truncate 160 }}{{ end }}{{ end }}
+{{ end -}}
+{{- end }}
+{{- end }}
+
+## More
+- Full text of every post (for ingestion): {{ "llms-full.txt" | absLangURL }}
+- RSS feed: {{ "index.xml" | absLangURL }}
+- XML sitemap: {{ "sitemap.xml" | absURL }}
