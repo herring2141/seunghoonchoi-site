@@ -119,4 +119,30 @@
       }
     });
   }
+
+  /* Copy email — contact / collaborate button */
+  var emailBtn = document.querySelector("[data-copy-email]");
+  var emailToast = document.querySelector("[data-copy-toast]");
+  if (emailBtn) {
+    emailBtn.addEventListener("click", function () {
+      var email = emailBtn.getAttribute("data-copy-email") || "";
+      var msg = emailBtn.getAttribute("data-copied") || "Copied";
+      var show = function () {
+        if (!emailToast) return;
+        emailToast.textContent = email + " · " + msg;
+        emailToast.classList.add("is-shown");
+        clearTimeout(emailToast._t);
+        emailToast._t = setTimeout(function () { emailToast.classList.remove("is-shown"); }, 2600);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(email).then(show, show);
+      } else {
+        var ta = document.createElement("textarea");
+        ta.value = email; ta.style.position = "fixed"; ta.style.opacity = "0";
+        document.body.appendChild(ta); ta.select();
+        try { document.execCommand("copy"); } catch (err) {}
+        document.body.removeChild(ta); show();
+      }
+    });
+  }
 })();

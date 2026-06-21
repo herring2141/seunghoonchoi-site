@@ -354,9 +354,13 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 .post__more a{color:var(--copper);text-decoration:none;font-weight:500}
 .post__more a:hover{text-decoration:underline}
 
-.home-hero__cv{margin-top:14px}
+.home-hero__cv{margin-top:14px;display:flex;gap:0 22px;justify-content:center;align-items:center;flex-wrap:wrap}
 .home-hero__cv a{font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:14px;letter-spacing:.02em;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--hair);padding-bottom:2px}
 .home-hero__cv a:hover{color:var(--copper);border-color:var(--copper)}
+.home-hero__contact{font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:14px;letter-spacing:.02em;color:var(--muted);background:none;border:none;border-bottom:1px solid var(--hair);padding:0 0 2px;cursor:pointer}
+.home-hero__contact:hover{color:var(--copper);border-color:var(--copper)}
+.home-hero__copied{margin-top:10px;min-height:1.2em;font-family:var(--sans);font-size:13px;letter-spacing:.02em;color:var(--copper);opacity:0;transform:translateY(-3px);transition:opacity .25s ease,transform .25s ease}
+.home-hero__copied.is-shown{opacity:1;transform:none}
 /* FAQ block (front-matter `faq` → FAQPage schema + visible accordion) */
 .post__faq{margin:48px 0 0;padding-top:26px;border-top:1px solid var(--hair)}
 .post__faq-h{font-family:var(--sans);font-weight:700;font-size:1.15rem;color:var(--navy);margin:0 0 16px}

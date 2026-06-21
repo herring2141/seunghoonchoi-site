@@ -7,7 +7,11 @@
   <h1 class="home-hero__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
   <p class="home-hero__tag">{{ .Site.Params.tagline }}</p>
   <div class="home-hero__intro">{{ .Content }}</div>
-  <p class="home-hero__cv"><a href="/cv/Seunghoon_Choi_CV.pdf" download>{{ i18n "cta_cv" }}</a></p>
+  <p class="home-hero__cv">
+    <a href="/cv/Seunghoon_Choi_CV.pdf" download>{{ i18n "cta_cv" }}</a>
+    <button type="button" class="home-hero__contact" data-copy-email="{{ .Site.Params.email }}" data-copied="{{ i18n "copied_email" }}">{{ i18n "cta_contact" }}</button>
+  </p>
+  <p class="home-hero__copied" data-copy-toast role="status" aria-live="polite"></p>
 </section>
 
 {{/* ===== full content — clean paper, sections reveal on scroll ===== */}}

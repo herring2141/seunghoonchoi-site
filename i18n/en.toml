@@ -115,6 +115,12 @@ other = "Seunghoon Choi"
 [cta_cv]
 other = "Download CV (PDF) ↓"
 
+[cta_contact]
+other = "Get in touch"
+
+[copied_email]
+other = "Email copied"
+
 [faq_title]
 other = "Frequently asked questions"
 [written_by]

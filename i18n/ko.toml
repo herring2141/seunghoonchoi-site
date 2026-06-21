@@ -115,6 +115,12 @@ other = "최승훈"
 [cta_cv]
 other = "이력서(CV) 내려받기 ↓"
 
+[cta_contact]
+other = "협업 문의"
+
+[copied_email]
+other = "이메일이 복사되었습니다"
+
 [faq_title]
 other = "자주 묻는 질문"
 [written_by]

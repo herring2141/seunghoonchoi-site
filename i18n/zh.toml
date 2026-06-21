@@ -115,6 +115,12 @@ other = "崔胜勋"
 [cta_cv]
 other = "下载简历（CV）↓"
 
+[cta_contact]
+other = "联系合作"
+
+[copied_email]
+other = "邮箱已复制"
+
 [faq_title]
 other = "常见问题"
 [written_by]
