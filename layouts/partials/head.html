@@ -53,7 +53,7 @@
   "jobTitle" "Computational Materials Scientist"
   "affiliation" (dict "@type" "Organization" "name" "University of Florida")
   "alumniOf" (dict "@type" "Organization" "name" "Sungkyunkwan University")
-  "knowsAbout" (slice "Computational Materials Science" "Materials Engineering" "Artificial Intelligence" "Battery Materials" "Simulation")
+  "knowsAbout" (slice "Computational Materials Science" "Materials Engineering" "Density Functional Theory" "Machine Learning for Materials" "Bio-inspired Materials" "Battery Electrode Manufacturing" "Learning Science" "AI and the Future of Work" "Graduate Study Abroad" "Simulation")
   "email" (printf "mailto:%s" .Site.Params.email)
   "image" ("images/og-default.png" | absURL)
   "description" .Site.Params.description
@@ -97,6 +97,13 @@
   "sameAs" (printf "https://doi.org/%s" .)
   "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .)
   | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}
+{{- /* FAQPage — generated from front-matter `faq` (list of q/a). Lets AI engines & Google lift Q&A pairs verbatim. */ -}}
+{{ with .Params.faq }}
+{{ $items := slice }}{{ range . }}{{ $items = $items | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}{{ end }}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{ end }}
 {{- /* GoatCounter analytics — production build only, so local `hugo server` visits aren't counted. */ -}}

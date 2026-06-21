@@ -6,6 +6,13 @@ tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "AI doesn't erase jobs at random — it moves in a fixed sequence, away from ability and toward presence. Here are all 16 stages, plus the seats that hold to the end: responsibility, ownership, judgment, and being there."
 seoTitle: "AI Job Replacement in 16 Stages: What Goes First, What Survives (AI-Era Survival Guide)"
 image: /images/col-ai-replacement-stages.jpg
+faq:
+  - q: "Which jobs does AI replace first?"
+    a: "Work with a verifiable right answer goes first — routine production (simple translation, basic coding, formatted reports), then expert analysis inside fixed frameworks, then reading what people want. Wherever correctness is decidable, AI has the home-field advantage."
+  - q: "What kind of work survives AI the longest?"
+    a: "Roles defined by presence rather than ability — accountability, ownership, judgment under uncertainty, and simply being a real person in the room. These shift from ability-type triggers (which fire automatically once AI can do the task) to delegation-type triggers (which only fire when a human hands over the authority)."
+  - q: "Is the order of AI replacement predictable?"
+    a: "The order is fairly reliable: work moves away from ability and toward presence. The timing, however, is speculative — and the final stage is not a prediction that it will happen, only that under the right conditions it could."
 ---
 ![A lone person's silhouette at a misty window — the one seat that remains](/images/col-ai-replacement-stages.jpg)
 

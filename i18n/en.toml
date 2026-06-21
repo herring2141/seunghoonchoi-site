@@ -114,3 +114,10 @@ other = "Seunghoon Choi"
 
 [cta_cv]
 other = "Download CV (PDF) ↓"
+
+[faq_title]
+other = "Frequently asked questions"
+[written_by]
+other = "Written by"
+[author_bio]
+other = "Computational materials scientist and PhD researcher at the University of Florida. First or co-first author in Advanced Functional Materials, Biomimetics, and more; registered patent holder; Best Poster Award at the 2018 MRS Fall Meeting. Writes on materials, learning, the AI era, and studying abroad."
