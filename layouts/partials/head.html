@@ -44,6 +44,8 @@
 {{ with .Site.Params.orcid }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.googleScholar }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.github }}{{ $same = $same | append . }}{{ end }}
+{{ with .Site.Params.instagram }}{{ $same = $same | append . }}{{ end }}
+{{ with .Site.Params.twitter }}{{ $same = $same | append . }}{{ end }}
 {{ $person := dict
   "@type" "Person"
   "@id" (printf "%s#person" .Site.BaseURL)

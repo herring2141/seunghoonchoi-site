@@ -48,6 +48,8 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
   orcid = "https://orcid.org/0009-0007-8324-2943"
   googleScholar = "https://scholar.google.com/citations?user=TRtHbDwAAAAJ"
   github = "https://github.com/seunghoonchoi-phd"
+  instagram = "https://www.instagram.com/hoonchoi.mk1/"
+  twitter = "https://x.com/herring2141"
 
 [languages]
   [languages.en]
