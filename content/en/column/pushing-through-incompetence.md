@@ -1,10 +1,11 @@
 ---
 title: "Real Skill Is Built in the Stretch Where You're Still Bad"
+description: "Real skill grows in the stretch where you're still bad. Not willpower but the ability to endure incompetence — and the 6 multiplying factors that turn that discomfort into usable skill."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["growth","learning","skill building","practice","self-improvement"]
 subtitle: "On the ability — different from willpower — to endure being incompetent while actually acquiring the function"
-seoTitle: "The Strength to Be Bad: The Skill That Builds Real Ability"
+seoTitle: "Being Bad at Something: 6 Factors That Build Real Skill"
 image: /images/col-pushing-through-incompetence.jpg
 ---
 ![A beginner's clumsy hands starting to practice the violin alone in a quiet room](/images/col-pushing-through-incompetence.jpg)

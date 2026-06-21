@@ -1,11 +1,11 @@
 ---
 title: "用 AI 的公司 vs 离了 AI 就转不动的公司 —— 什么才是 AI 原生组织"
-seoTitle: "什么才是 AI 原生组织 — 离了 AI 就转不动的 6 阶段成熟度模型"
+seoTitle: "什么是 AI 原生组织 — 6 阶段成熟度模型"
 date: 2026-06-20
 categories: ["Essay"]
 tags: ["ai", "ai-native", "organization-design", "automation", "governance"]
 subtitle: "关键不是用了多少工具，而是工作流是否围着 AI 重新接线"
-description: "AI 原生组织不是会用 AI 的组织，而是被重新设计成离了 AI 就撑不住当下速度、结构与成本的组织。附一套 6 阶段成熟度模型，以及如何落到个人。"
+description: "AI 原生组织不是会用 AI 的公司，而是被重新设计成离了 AI 就撑不住速度、结构与成本的组织。附 6 阶段成熟度模型，以及如何落到个人。"
 ---
 ![一栋几何感的建筑立面 —— 给组织重新接线，是什么意思](/images/col-ai-native-org.jpg)
 

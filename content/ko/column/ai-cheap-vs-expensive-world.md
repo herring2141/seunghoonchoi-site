@@ -1,10 +1,11 @@
 ---
 title: "AI가 바둑은 정복하고 용접은 못 배우는 이유"
+description: "AI가 바둑·코딩은 정복해도 현장 숙련 기술 앞에 멈추는 진짜 이유. 난이도가 아니라 강화학습의 표본 비용 문제, 암묵지를 데이터로 옮기는 사람이 귀해진다."
 date: 2026-06-21
 categories: ["에세이"]
 tags: ["인공지능","자동화","암묵지","강화학습","기술의 미래"]
 subtitle: "차이는 지능이 아니라 세상을 한 번 건드려 보는 데 드는 값이다"
-seoTitle: "AI가 바둑은 이기고 현장 기술은 못 배우는 이유: 표본 비용으로 본 자동화의 한계"
+seoTitle: "AI가 바둑은 이겨도 용접은 못 배우는 이유"
 image: /images/col-ai-cheap-vs-expensive-world.jpg
 ---
 ![어두운 작업장에서 환한 불꽃을 일으키며 집중해 용접하는 숙련 용접공](/images/col-ai-cheap-vs-expensive-world.jpg)

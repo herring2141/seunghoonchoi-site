@@ -1,11 +1,11 @@
 ---
 title: "韩国归化考试综合评价练习"
-seoTitle: "韩国归化考试综合评价练习 App — 笔试·作文·口试 277 题"
+seoTitle: "韩国归化考试综合评价模拟练习 — 笔试·作文·口试"
 date: 2026-06-14
 categories: ["Tools"]
 tags: ["app"]
 subtitle: "笔试·作文·口试，一站搞定"
-description: "练习韩国归化考试（归化·永居综合评价）笔试·作文·口试的可安装网页应用。277 道模拟题，韩文·中文对照，支持离线使用。"
+description: "练习韩国归化（入籍）综合评价笔试·作文·口试的免费可安装网页应用。277 道模拟题，韩文·中文对照，支持离线使用，无需注册。"
 image: /images/gwiwha-card.svg
 ---
 <div class="appcard">

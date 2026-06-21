@@ -1,10 +1,11 @@
 ---
 title: "How to Read an Institution — Look at Rewards and Penalties First"
+description: "Institutions aren't truth-finding machines; they're devices that train behavior. Through markets, call-center metrics, and credentials, see how rewards and penalties move people — and why reading the system beats blaming character."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["incentives","institutions","organizational behavior","decision making","social systems"]
 subtitle: "Laws, companies, markets — they aren't machines for finding truth. They're devices that train behavior."
-seoTitle: "How to Read an Institution's Incentive Structure Before You Judge It"
+seoTitle: "How to Read an Institution's Incentives Before You Judge It"
 image: /images/col-institutions-as-games.jpg
 ---
 ![Empty outdoor market stalls at dawn before the vendors arrive](/images/col-institutions-as-games.jpg)

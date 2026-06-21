@@ -1,5 +1,7 @@
 ---
 title: "F-1 Visa and U.S. Entry: From the Five Status Rules to the Airport Arrival"
+description: "An F-1 visa U.S. entry checklist: documents to carry on board, ISSS check-in within 30 days, SEVIS and DS-160 fees, and getting to Gainesville."
+seoTitle: "F-1 Visa U.S. Entry: Documents, SEVIS Check-In & Rules"
 date: 2026-06-17T16:00:00+09:00
 categories: ["Immigration"]
 tags: ["F-1 visa","immigration","port of entry","SEVIS"]

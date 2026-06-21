@@ -1,11 +1,11 @@
 ---
 title: "AI가 만든 PPT·엑셀·워드 결함 검사 오픈소스 — llm-office-qa"
-seoTitle: "AI가 만든 PPT·엑셀·워드 결함 자동 검사 오픈소스 — llm-office-qa"
+seoTitle: "AI 생성 PPT·엑셀·워드 결함 검사 오픈소스 린터"
 date: 2026-06-16
 categories: ["도구"]
 tags: ["오픈소스", "ai"]
 subtitle: "더 똑똑한 모델의 발목은 잡지 않고, 명백한 실수만 잡는다"
-description: "AI가 만든 PowerPoint·Excel·Word의 객관적 결함만 잡는 오픈소스 파이썬 린터. 더 유능한 모델의 스타일 상방은 절대 건드리지 않는다. MIT 라이선스."
+description: "AI가 만든 PPT·엑셀·워드의 텍스트 넘침, #REF! 오류, 잔여 마크다운 등 객관적 결함만 잡는 오픈소스 파이썬 린터. 결정론적·MIT·Claude Code 훅."
 image: /images/llm-office-qa-card.svg
 ---
 <div class="appcard">

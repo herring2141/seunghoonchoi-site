@@ -1,10 +1,11 @@
 ---
 title: "복제되지 않는 노하우의 정체 — AI 시대의 진짜 해자"
+description: "레시피는 베껴져도 손맛은 안 베껴진다. 얽힌 변수와 실패 지도가 만드는 암묵지가 AI 시대에 복제되지 않는 진짜 경쟁력인 이유를 풀어낸다."
 date: 2026-06-21
 categories: ["에세이"]
 tags: ["노하우","경쟁력","AI시대","암묵지","실패의가치"]
 subtitle: "진짜 비밀은 방법이 아니라, 그 방법이 작동하게 만드는 숨은 조건에 있다"
-seoTitle: "복제되지 않는 노하우의 비밀: AI 시대의 진짜 해자"
+seoTitle: "암묵지가 AI 시대 진짜 해자인 이유: 복제 안 되는 노하우"
 image: /images/col-trade-secret-function.jpg
 ---
 ![물레 위에서 젖은 흙을 빚는 도공의 손, 손끝의 미세한 압력이 결과를 가르는 순간](/images/col-trade-secret-function.jpg)

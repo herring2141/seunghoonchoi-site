@@ -1,11 +1,11 @@
 ---
 title: "Korean Naturalization Exam — Practice App"
-seoTitle: "Korean Naturalization Exam Practice — Written, Essay & Oral App"
+seoTitle: "Korean Naturalization Test Practice — KIIP Level 5 Mock App"
 date: 2026-06-14
 categories: ["Tools"]
 tags: ["app"]
 subtitle: "Practice the written, essay & oral test in one place"
-description: "An installable web app to practice Korea's naturalization comprehensive evaluation (written, essay, oral). 277 questions, Korean–Chinese, works offline."
+description: "Free installable web app to practice Korea's naturalization comprehensive evaluation (KIIP Level 5) — written, essay, and oral sections. 277-question mock exam, Korean–Chinese, works offline."
 image: /images/gwiwha-card.svg
 ---
 <div class="appcard">

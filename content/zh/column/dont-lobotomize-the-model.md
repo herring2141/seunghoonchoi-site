@@ -1,11 +1,11 @@
 ---
 title: "AI 校验工具为何反而拖垮成品 —— 别把模型变笨"
-seoTitle: "AI 校验工具为何反而拖垮成品 — 只抓错误，把品味留给模型"
+seoTitle: "AI 校验工具为何拖垮成品：只抓错误不碰品味"
 date: 2026-06-16
 categories: ["Essay"]
 tags: ["ai", "tools", "LLM"]
 subtitle: "只抓错误，不碰品味"
-description: "为 AI·LLM 生成的 PowerPoint、Excel、Word 做校验的工具，大多连风格都要强行规定，反而把成品做坏了。为什么校验器只该抓客观错误、把品味留给模型 —— 这就是开源项目 llm-office-qa 背后的思路。"
+description: "为 AI 生成的 PPT、Excel、Word 做校验的工具大多连风格也强行规定，反而把成品做坏。校验器只该抓客观错误——开源 llm-office-qa。"
 ---
 
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)

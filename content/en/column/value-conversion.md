@@ -1,10 +1,11 @@
 ---
 title: "Why Your Effort Doesn't Add Up — Change the Form of Value"
+description: "Why effort vanishes when you only sell your time. Learn to convert work into reusable, transferable assets that compound, scale on a wider stage, and build reputation."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["value conversion","compounding","leverage","assets","market economy"]
 subtitle: "The real engine of a market economy isn't money — it's the conversion of value from one form into another"
-seoTitle: "Why Your Effort Doesn't Compound: The Art of Value Conversion"
+seoTitle: "Why Hard Work Doesn't Compound: Convert Effort Into Assets"
 image: /images/col-value-conversion.jpg
 ---
 ![A craftsman's weathered hands holding a finished wooden chair in a workshop under warm side light](/images/col-value-conversion.jpg)

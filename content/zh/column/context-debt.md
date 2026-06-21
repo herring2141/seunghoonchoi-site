@@ -1,10 +1,11 @@
 ---
 title: "情境负债：为什么每一块你都懂，报告却写不出来"
+description: "接手的资料每块都看懂了，报告却写不出来？不是脑子慢，而是欠着情境负债。用四个提问还清它，抓住核心、理清重点。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["context debt","knowledge structure","asking better questions","onboarding","thinking in systems"]
 subtitle: "如果每个零件你都看懂了，文章却出不来，那不是脑子慢，而是你欠着一笔债"
-seoTitle: "情境负债：你写不出报告的真正原因"
+seoTitle: "情境负债：看懂了却写不出报告怎么办"
 image: /images/col-context-debt.jpg
 ---
 ![木桌上摊开的旧城市地图，街道密布，却没有标出哪一条是主干道](/images/col-context-debt.jpg)

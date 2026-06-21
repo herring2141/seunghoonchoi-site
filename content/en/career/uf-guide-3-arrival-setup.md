@@ -1,5 +1,7 @@
 ---
 title: "U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order — Phone, Bank, SSN, License, Credit"
+description: "The order to set up U.S. life as an F-1 grad student: phone, bank account, SSN, a Florida driver license via Korea reciprocity, plus building credit."
+seoTitle: "F-1 Arrival Checklist: Phone, Bank, SSN, License, Credit"
 date: 2026-06-17T15:00:00+09:00
 categories: ["Settling In"]
 tags: ["SSN","bank account","driver license","credit score"]

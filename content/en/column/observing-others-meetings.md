@@ -1,10 +1,11 @@
 ---
 title: "Learning from Meetings That Aren't Yours — An Observation Checklist for Power and Unwritten Rules"
+seoTitle: "Reading Office Politics in Meetings — A New Hire's Checklist"
 date: 2026-06-20
 categories: ["Guide"]
 tags: ["meetings", "career", "onboarding", "junior", "metacognition"]
 subtitle: "Turning a meeting you don't own into free practice"
-description: "An observation checklist for pulling decision criteria, problem-solving patterns, organizational power structure, and unwritten rules out of meetings outside your field. Especially useful for new hires and juniors as a metacognition tool."
+description: "An observation checklist for new hires: pull decision criteria, power dynamics, and unwritten rules out of meetings that aren't yours. See how decisions really get made."
 ---
 ![An empty meeting table — turning a meeting you don't own into observation](/images/col-meetings.jpg)
 

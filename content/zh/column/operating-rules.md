@@ -1,10 +1,11 @@
 ---
 title: "写下来的规则与真正运作的规则——驱动组织的两层"
+description: "最干净的方案为什么在会上落选？看懂驱动组织的正式规则与运作规则两层，不改方案也能让它通过。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["organizational dynamics","decision making","workplace wisdom","understanding people","leadership"]
 subtitle: "如何同时读懂写在纸上的规则和真正驱动人的规则"
-seoTitle: "正式规则与运作规则：组织究竟是如何运转的"
+seoTitle: "职场潜规则：好方案为什么总是通不过"
 image: /images/col-operating-rules.jpg
 ---
 ![窗光柔和的空会议室，桌子四周的椅子各自朝着不同的角度](/images/col-operating-rules.jpg)

@@ -1,10 +1,11 @@
 ---
 title: "一个新领域，要看多少个案例才摸得清——学习的“魔法数字”"
+description: "摸清一个新领域要看多少案例？基于工作记忆7±2、组块化与刻意练习反馈的3-7-30-100学习法：画出轮廓的是角度和反馈，不是单纯数量。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["learning","metacognition","expertise","chunking","feedback"]
 subtitle: "别走一百条小巷，先看三个方向——画出轮廓的是角度和反馈，不是单纯的数量"
-seoTitle: "学一个新领域需要多少案例：3、7、30、100这几个魔法数字"
+seoTitle: "学新领域的魔法数字：3、7、30、100与组块化"
 image: /images/col-learning-magic-numbers.jpg
 ---
 ![黄昏时分，一个人站在城市路口，望向三条岔开的街道](/images/col-learning-magic-numbers.jpg)

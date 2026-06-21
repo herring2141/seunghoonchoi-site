@@ -1,10 +1,11 @@
 ---
 title: "How Many Cases Until a New Field Clicks — The Magic Numbers of Learning"
+description: "How many cases until a new field clicks? A practitioner's 3-7-30-100 framework built on chunking, working memory (7±2), and deliberate practice — why angle and feedback beat raw volume."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["learning","metacognition","expertise","chunking","feedback"]
 subtitle: "Don't walk a hundred alleys — check three directions. It's angle and feedback that draw the outline, not raw volume."
-seoTitle: "How Many Cases to Learn a New Field: The Magic Numbers 3, 7, 30, 100"
+seoTitle: "Magic Numbers of Learning a New Field: 3, 7, 30, 100"
 image: /images/col-learning-magic-numbers.jpg
 ---
 ![A person standing at a city intersection at dusk, looking down three diverging streets](/images/col-learning-magic-numbers.jpg)

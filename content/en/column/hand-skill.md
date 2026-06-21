@@ -1,10 +1,11 @@
 ---
 title: "What Hand Skill Really Is — The Closed Loop Machines Can't Follow"
+description: "What hand skill really is and why AI and robots can't automate it at once: the fingertip feedback loop, force and angle micro-control, and why physical trial-and-error stays slow and costly."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["hand-skill", "ai", "automation", "expertise", "career"]
 subtitle: "Hand skill isn't precise motion; it's reading a changing contact in real time and correcting force and angle as you go"
-seoTitle: "What Hand Skill Really Is — The Closed-Loop Control AI and Robots Can't Copy at Once"
+seoTitle: "Why Hand Skill Resists Automation — The Loop AI Can't Copy"
 image: /images/col-hand-skill.jpg
 ---
 ![Well-worn hand tools laid out on a wooden workbench](/images/col-hand-skill.jpg)

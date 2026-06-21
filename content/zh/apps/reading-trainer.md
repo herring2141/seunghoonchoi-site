@@ -1,11 +1,11 @@
 ---
 title: "ReadFast — 外语速读训练应用"
-seoTitle: "更快读英文·中文的阅读训练 App — 基于证据的 ReadFast"
+seoTitle: "英文中文速读训练 App，基于证据、免费"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["reading", "speed-reading", "app", "english", "chinese"]
 subtitle: "去掉速读迷信，只留经过验证、真正能迁移的技术"
-description: "一款可安装的网页应用，帮你更快、更准地读英文和中文。它不搞视幅扩张、一万 WPM 之类的迷信，而是训练词汇自动化、以理解为闸门的速率（ERR）、重复阅读迁移，以及读论文的三遍法。支持离线使用。"
+description: "想把英文、中文读得更快又不丢理解？这款免费可安装的阅读 App 不搞一万 WPM 之类的速读迷信，而是训练词汇自动化和以理解为闸门的阅读速率。"
 image: /images/reading-trainer-card.svg
 ---
 <div class="appcard">

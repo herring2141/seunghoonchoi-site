@@ -1,10 +1,11 @@
 ---
 title: "The Six Fundamentals Beneath a Sharp Mind"
+description: "The six trainable skills beneath a sharp mind: input, working memory, chunking, uncertainty tolerance, output, and revision, and why AI is an exoskeleton, not a substitute for them."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["learning","fundamentals","cognition","self-improvement","AI era"]
 subtitle: "Before study methods and skills, there is raw fitness for handling the unfamiliar"
-seoTitle: "Six Learning Fundamentals: The Fitness to Handle Unfamiliar Input"
+seoTitle: "Six Cognitive Fundamentals of Learning AI Can't Replace"
 image: /images/col-six-fundamentals.jpg
 ---
 ![A climber chalking their hands while preparing to face a difficult rock face](/images/col-six-fundamentals.jpg)

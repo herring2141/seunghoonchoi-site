@@ -1,10 +1,11 @@
 ---
 title: "이영호에게 배우는 국소 우위 — 전부 이기지 말고, 결정적 순간만 이겨라"
+description: "전부 이기려다 흩어지지 말고 결정적 순간 한 점에 힘을 모으는 법. 스타크래프트 이영호의 역전에서 끌어낸 선택과 집중·국소 우위 전략."
 date: 2026-06-21
 categories: ["에세이"]
 tags: ["전략", "의사결정", "집중", "커리어"]
 subtitle: "불리한 판을 뒤집는 건 전체 전력이 아니라, 상대가 가장 약한 순간의 국소 격차다"
-seoTitle: "국소 우위 전략 — 결정적 순간에 전력을 집중하는 법"
+seoTitle: "선택과 집중 전략 — 국소 우위로 결정적 순간만 이겨라"
 image: /images/col-localized-advantage.jpg
 ---
 ![체스판 위 쓰러진 킹 — 승부를 가른 결정적 한 수](/images/col-localized-advantage.jpg)

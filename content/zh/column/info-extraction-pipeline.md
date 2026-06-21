@@ -1,11 +1,11 @@
 ---
 title: "把对话变成知识资产 —— 我用的三段式 AI 信息提取提示系统"
-seoTitle: "三段式 AI 信息提取提示系统 — 把对话变成 Notion 知识资产"
+seoTitle: "AI 对话整理进 Notion：三段式信息提取提示词"
 date: 2026-06-20
 categories: ["Guide"]
 tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "notion"]
 subtitle: "不是抽得更多的工具，而是狠下心丢弃的工具"
-description: "一套三段式 AI 信息提取提示系统，只从对话里留下真正值得保存的东西。真正的关键不在提取，而在'丢弃的标准'。附可直接粘进 Notion 的复制即用提示。"
+description: "一套三段式提示词，把 ChatGPT 等 AI 对话里值得保存的内容提取进 Notion。关键不在多提取，而在丢弃的标准。附复制即用提示。"
 ---
 ![一整面贴着标签的卡片柜抽屉 —— 筛选本身就是系统](/images/col-info-extraction.jpg)
 

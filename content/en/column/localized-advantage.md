@@ -1,10 +1,11 @@
 ---
 title: "Localized Advantage — Don't Win Everywhere, Just Win the Decisive Moment"
+description: "Don't try to win every front. Mass your strength at the one point where it decides the game. The concentration-of-force lesson from StarCraft's Flash, applied to focus and strategy."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["strategy", "decision-making", "focus", "career"]
 subtitle: "What turns a losing game isn't your total strength — it's the local gap at the moment your opponent is weakest"
-seoTitle: "Localized Advantage — How to Concentrate Force at the Decisive Moment"
+seoTitle: "Localized Advantage: Concentrate Force at the Decisive Moment"
 image: /images/col-localized-advantage.jpg
 ---
 ![A toppled king on a chessboard — the move that decided the game](/images/col-localized-advantage.jpg)

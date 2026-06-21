@@ -1,10 +1,11 @@
 ---
 title: "实力，来自“做不好却硬撑”的那段"
+description: "学新技能初期总做不好就半途而废？这是不同于意志力的本事——靠必要、忍耐、拆小、重复、反馈、能用六个相乘的要素，把笨拙熬成真实力。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["growth","learning","skill building","practice","self-improvement"]
 subtitle: "它不同于意志力——是一边忍受笨拙、一边真正把能力握进手里的本事"
-seoTitle: "忍受做不好的力量：与意志力不同、真正造就实力的本事"
+seoTitle: "忍受做不好的力量：造就实力的6要素"
 image: /images/col-pushing-through-incompetence.jpg
 ---
 ![在安静房间里独自开始练习小提琴的初学者笨拙的双手](/images/col-pushing-through-incompetence.jpg)

@@ -1,10 +1,11 @@
 ---
 title: "Why Choosing the Right Board Beats Grinding on Skill"
+description: "Hard work on skill stalls on a dead-end stage. Learn why choosing an environment where small edges compound is the higher-leverage decision than years of self-improvement."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["environment design","compounding","career strategy","decision making","leverage"]
 subtitle: "The gap between extraordinary and ordinary outcomes is far wider than the gap in raw talent"
-seoTitle: "Why Choosing the Right Stage Beats Years of Self-Improvement"
+seoTitle: "Choosing the Right Environment Beats Grinding on Skill"
 image: /images/col-choose-the-board.jpg
 ---
 ![An empty go board with scattered black and white stones on a wooden table in soft window light](/images/col-choose-the-board.jpg)

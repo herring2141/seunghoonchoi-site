@@ -1,10 +1,11 @@
 ---
 title: "为什么选对棋盘比埋头苦练更重要"
+description: "在死胡同的舞台上苦练实力,结果只会原地停滞。本文用乘法与复利讲清:选择能放大微小优势的环境,为何是比努力更关键的决定。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["environment design","compounding","career strategy","decision making","leverage"]
 subtitle: "非凡与平庸之间的差距,远大于天赋本身的差距"
-seoTitle: "为什么选对舞台胜过在原地苦练多年"
+seoTitle: "选对环境比埋头苦练更重要 — 复利的棋盘"
 image: /images/col-choose-the-board.jpg
 ---
 ![木桌上一块空棋盘,黑白棋子散落其上,窗光柔和洒落](/images/col-choose-the-board.jpg)

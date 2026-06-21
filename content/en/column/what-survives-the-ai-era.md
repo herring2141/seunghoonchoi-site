@@ -1,10 +1,11 @@
 ---
 title: "Why AI Won't Replace You — What Survives Isn't Intelligence, It's Connection to Reality"
+seoTitle: "Why AI Won't Replace You: Surviving the AI Era"
 date: 2026-06-20
 categories: ["Essay"]
 tags: ["ai", "agi", "career", "future-of-work", "survival-strategy"]
 subtitle: "The humans who survive the AI era aren't the smarter humans"
-description: "Even when AGI arrives, what's left for humans isn't a contest of intelligence — it's connection to reality. A structural look at the friction AI can't close, where people are still needed, and what survives in the AI era."
+description: "Even when AGI arrives, what survives isn't intelligence but connection to reality. A structural take on the workflow friction AI can't close, why jobs and juniors stay, and how to survive the AI era."
 ---
 ![A craftsman carving wood by hand — the human realness AI cannot replace](/images/col-ai-human-craft.jpg)
 

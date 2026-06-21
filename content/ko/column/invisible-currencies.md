@@ -1,10 +1,11 @@
 ---
 title: "검증된 실력만 비싸게 팔린다 — 신뢰·접근이라는 보이지 않는 화폐"
+description: "실력보다 검증된 실력이 비싸게 팔리는 이유. 신뢰·평판·인맥이라는 보이지 않는 화폐를 일부러 쌓고 실력을 증명하는 법을 시장의 비유로 풀었다."
 date: 2026-06-21
 categories: ["에세이"]
 tags: ["커리어","신뢰자본","평판","자기증명","기회"]
 subtitle: "돈은 여러 화폐 중 하나일 뿐, 신뢰와 접근은 일부러 모을 수 있다"
-seoTitle: "보이지 않는 화폐: 검증된 실력이 비싸게 팔리는 이유"
+seoTitle: "검증된 실력만 비싸게 팔린다: 신뢰자본 쌓는 법"
 image: /images/col-invisible-currencies.jpg
 ---
 ![시장 좌판에서 상인이 손님에게 깎은 과일 한 조각을 건네는 모습](/images/col-invisible-currencies.jpg)

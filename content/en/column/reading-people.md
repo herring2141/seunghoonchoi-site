@@ -1,10 +1,11 @@
 ---
 title: "People Don't Move on Logic — Read Loss, Face, and Blame"
+description: "Why a correct argument bounces off and facts don't change minds. People move on loss aversion, saving face, and blame—not logic. A working guide to reading people in persuasion and negotiation."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["persuasion","negotiation","leadership","human behavior","loss aversion"]
 subtitle: "Why a correct argument bounces off, and a working manual for moving with people instead of against them"
-seoTitle: "How to Read People: Loss, Face, and Blame Move Them More Than Logic"
+seoTitle: "How to Persuade People: Loss, Face, and Blame Beat Logic"
 image: /images/col-reading-people.jpg
 ---
 ![Two people in conversation across a table in warm, soft light, hands mid-gesture](/images/col-reading-people.jpg)

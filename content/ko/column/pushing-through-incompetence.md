@@ -1,10 +1,11 @@
 ---
 title: "실력은 '못하는 채로 버티는 구간'에서 나온다"
+description: "새 언어·악기·일이 처음엔 안 돼 쉽게 포기하나요. 의지력과 다른 '못하는 채로 버티는 힘'과 실력으로 정산되는 6가지 곱셈 원리를 풀어냅니다."
 date: 2026-06-21
 categories: ["에세이"]
 tags: ["성장","학습법","실력","꾸준함","자기계발"]
 subtitle: "의지가 아니라, 못하는 채로 버티면서 기능을 손에 넣는 능력에 대하여"
-seoTitle: "못하는 걸 견디는 힘: 의지와 다른, 실력을 만드는 능력"
+seoTitle: "못하는 거 버티는 힘: 실력 만드는 6가지"
 image: /images/col-pushing-through-incompetence.jpg
 ---
 ![조용한 방에서 홀로 바이올린 연습을 시작하는 초보자의 서툰 손](/images/col-pushing-through-incompetence.jpg)

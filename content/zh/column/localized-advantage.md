@@ -1,10 +1,11 @@
 ---
 title: "局部优势 —— 不必处处获胜，赢下决定性的那一刻"
+description: "不必处处获胜，把有限的力量集中到决定全局的一个点上。从星际争霸李永浩的逆转中，提炼集中兵力、以少胜多的局部优势策略。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["strategy", "decision-making", "focus", "career"]
 subtitle: "扭转劣势的不是总实力，而是对手最弱那一刻的局部差距"
-seoTitle: "局部优势 —— 如何在决定性时刻集中力量"
+seoTitle: "局部优势：集中兵力，只赢下决定性的那一刻"
 image: /images/col-localized-advantage.jpg
 ---
 ![棋盘上被将倒的王 —— 决定胜负的一步](/images/col-localized-advantage.jpg)

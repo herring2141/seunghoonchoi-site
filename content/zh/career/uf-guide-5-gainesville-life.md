@@ -1,5 +1,7 @@
 ---
 title: "盖恩斯维尔生活全攻略：从住房、交通、生活费到健康、气候、社区"
+description: "UF 盖恩斯维尔留学落地指南：校外租房、RTS 公交免费、每月生活费、GatorGradCare 医疗保险、飓风应对与韩裔社区一文讲清。"
+seoTitle: "佛罗里达大学盖恩斯维尔留学生活指南：住房·费用·医疗"
 date: 2026-06-17T13:00:00+09:00
 categories: ["Life in the US"]
 tags: ["Gainesville","housing","healthcare","student life"]

@@ -1,10 +1,11 @@
 ---
 title: "只有被验证的本事才卖得贵——信任与门路这些看不见的货币"
+description: "世界给价的不是本事本身，而是能被验证的本事。信任、名声、门路是看不见的货币，靠留下作品和信号刻意积累，让你的实力被人看见。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["career","trust capital","reputation","credibility","opportunity"]
 subtitle: "钱只是众多货币之一，信任与门路是你可以刻意积累的"
-seoTitle: "看不见的货币：为什么被验证的本事才卖得上价"
+seoTitle: "被验证的本事才卖得贵：信任与门路怎么攒"
 image: /images/col-invisible-currencies.jpg
 ---
 ![市场摊位上，摊主把一块刚切好的水果递给顾客](/images/col-invisible-currencies.jpg)

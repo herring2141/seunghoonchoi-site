@@ -1,10 +1,11 @@
 ---
 title: "Context Debt: Why You Understand Everything but Still Can't Write the Report"
+description: "You understand every piece of the handover but still can't write the report. It's not low intelligence — it's context debt. Four questions to repay it and find the point."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["context debt","knowledge structure","asking better questions","onboarding","thinking in systems"]
 subtitle: "If you grasp every piece yet the document won't come, you're not slow — you're in debt"
-seoTitle: "Context Debt: The Real Reason You Can't Write the Report"
+seoTitle: "Context Debt: Why You Can't Write the Report"
 image: /images/col-context-debt.jpg
 ---
 ![An old city street map unfolded on a wooden table, dense with streets but with no marking of which road is the main artery](/images/col-context-debt.jpg)

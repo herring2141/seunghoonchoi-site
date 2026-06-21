@@ -1,6 +1,7 @@
 ---
 title: "From Acceptance to Departure — Reading Your Offer Letter to Sending Money Abroad"
-seoTitle: "U.S. Grad School: From Acceptance to Departure — A Pre-Departure Checklist"
+description: "After a fully funded PhD acceptance, what to finish before you fly: reading your offer letter (stipend, tuition waiver), F-1 visa and I-20, placement exam, course registration, and sending money. A practical UF guide."
+seoTitle: "U.S. Grad School Pre-Departure Checklist (F-1)"
 date: 2026-06-17T17:00:00+09:00
 categories: ["Study Abroad"]
 tags: ["grad school","study abroad","F-1","relocation"]

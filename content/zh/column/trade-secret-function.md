@@ -1,10 +1,11 @@
 ---
 title: "抄不走的本事，究竟差在哪——AI时代真正的护城河"
+description: "配方抄得走,手感抄不走。交缠的变量与失败地图,造就AI时代真正抄不走的隐性知识——这才是值得积累的护城河与本事。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["know-how","competitive moat","AI era","tacit knowledge","value of failure"]
 subtitle: "真正的秘密不在方法本身,而在让方法奏效的那些隐藏条件"
-seoTitle: "为什么有些本事抄不走:AI时代真正的护城河"
+seoTitle: "AI时代真正的护城河:抄不走的隐性知识"
 image: /images/col-trade-secret-function.jpg
 ---
 ![陶艺人的双手在旋转的转盘上塑造湿泥,指尖细微的压力决定着成败](/images/col-trade-secret-function.jpg)

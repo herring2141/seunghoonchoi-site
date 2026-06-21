@@ -1,10 +1,11 @@
 ---
 title: "读懂一个制度——先看奖惩，再看规则"
+description: "制度不是寻找真相的机器，而是驯化行为的装置。以市场、呼叫中心、资格证为例，看奖赏与惩罚如何驱动人的行为，以及为何读懂结构胜过责怪个人。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["incentives","institutions","organizational behavior","decision making","social systems"]
 subtitle: "法律、公司、市场，并不是寻找真相的机器，而是驯化行为的装置"
-seoTitle: "如何在评判一个制度之前先读懂它的激励结构"
+seoTitle: "读懂制度的激励结构——先看奖惩，再下判断"
 image: /images/col-institutions-as-games.jpg
 ---
 ![黎明时分商贩到来之前空荡荡的露天市场摊位](/images/col-institutions-as-games.jpg)

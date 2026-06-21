@@ -1,10 +1,11 @@
 ---
 title: "Only Verified Skill Sells Dear — The Invisible Currencies of Trust and Access"
+description: "Why the world pays for verified skill, not raw talent. How trust, reputation, and access work as invisible currencies you can deliberately build by leaving proof of your work."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["career","trust capital","reputation","credibility","opportunity"]
 subtitle: "Money is just one currency among many — trust and access are ones you can deliberately accumulate"
-seoTitle: "The Invisible Currencies: Why Verified Skill Sells for More"
+seoTitle: "Verified Skill Sells Dear: Build Trust, Reputation, Access"
 image: /images/col-invisible-currencies.jpg
 ---
 ![A market vendor handing a freshly sliced piece of fruit to a customer at a stall](/images/col-invisible-currencies.jpg)

@@ -1,6 +1,7 @@
 ---
 title: "从录取到出国——从读懂录取通知到完成海外汇款"
-seoTitle: "美国研究生录取后到出国的准备清单 — 从录取通知到海外汇款"
+description: "美国博士全额奖学金录取后到出国前该做什么：读懂offer（stipend·学费减免）、F-1签证与I-20、分级考试、选课、海外汇款。UF 实战指南。"
+seoTitle: "美国研究生录取后出国准备清单：F-1签证·全奖offer解读·汇款"
 date: 2026-06-17T17:00:00+09:00
 categories: ["Study Abroad"]
 tags: ["grad school","study abroad","F-1","relocation"]

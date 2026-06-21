@@ -1,10 +1,11 @@
 ---
 title: "Formal Rules vs. the Rules That Actually Run an Organization"
+description: "Why does the cleanest proposal lose the meeting? How to read both the formal rules and the unwritten operating rules that actually move people in any organization."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["organizational dynamics","decision making","workplace wisdom","understanding people","leadership"]
 subtitle: "How to read the written rules and the ones that actually move people at the same time"
-seoTitle: "Formal Rules vs. Operating Rules: How Organizations Actually Work"
+seoTitle: "Unwritten Rules of Organizations: Why the Best Idea Loses"
 image: /images/col-operating-rules.jpg
 ---
 ![An empty conference room in soft window light, chairs angled at different positions around the table](/images/col-operating-rules.jpg)

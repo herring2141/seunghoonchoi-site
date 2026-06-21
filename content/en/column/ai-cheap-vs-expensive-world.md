@@ -1,10 +1,11 @@
 ---
 title: "Why AI Conquers Go but Can't Learn to Weld"
+description: "AI conquered Go and coding yet stalls on hands-on skilled trades. The real reason isn't difficulty but the sampling cost of reinforcement learning, and who turns tacit knowledge into data."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["artificial intelligence","automation","tacit knowledge","reinforcement learning","future of work"]
 subtitle: "The difference isn't intelligence. It's the price of touching the world once."
-seoTitle: "Why AI Beats Go but Struggles With Hands-On Skills: The Cost of Sampling the World"
+seoTitle: "Why AI Beats Go but Can't Learn to Weld: Moravec's Paradox"
 image: /images/col-ai-cheap-vs-expensive-world.jpg
 ---
 ![A skilled welder working intently amid bright sparks in a dark workshop](/images/col-ai-cheap-vs-expensive-world.jpg)

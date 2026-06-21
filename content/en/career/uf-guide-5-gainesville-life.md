@@ -1,5 +1,7 @@
 ---
 title: "Living in Gainesville: Housing, Transit, Budget, Health, Climate, and Community"
+description: "A practical guide to life at the University of Florida: off-campus housing, free RTS bus, monthly budget on a GA stipend, GatorGradCare and SHCC health care, hurricanes, and the Korean community."
+seoTitle: "Gainesville Living for UF Grad Students: Housing & Cost"
 date: 2026-06-17T13:00:00+09:00
 categories: ["Life in the US"]
 tags: ["Gainesville","housing","healthcare","student life"]

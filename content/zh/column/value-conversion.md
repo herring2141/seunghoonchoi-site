@@ -1,10 +1,11 @@
 ---
 title: "努力为什么攒不下来——改变价值的形态"
+description: "为什么越努力越穷，用时间换钱终会蒸发。学会把劳动转化为可复用、可迁移的资产，借杠杆与复利放大，让努力在你离开后继续生效。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["value conversion","compounding","leverage","assets","market economy"]
 subtitle: "市场经济真正的引擎不是钱，而是把价值从一种形态换成另一种形态"
-seoTitle: "努力为何无法复利：价值转换的艺术"
+seoTitle: "努力为何攒不下来：把时间变成会复利的资产"
 image: /images/col-value-conversion.jpg
 ---
 ![工坊里一位匠人布满岁月痕迹的双手，捧着一把做好的木椅，温暖的侧光](/images/col-value-conversion.jpg)

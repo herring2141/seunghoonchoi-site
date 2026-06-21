@@ -1,11 +1,11 @@
 ---
 title: "Why AI QA tools make output worse — don't lobotomize the model"
-seoTitle: "Why AI QA Tools Make Output Worse — Catch Mistakes, Not Taste"
+seoTitle: "Why AI QA Tools Make Output Worse: Catch Mistakes, Not Taste"
 date: 2026-06-16
 categories: ["Essay"]
 tags: ["ai", "tools", "LLM"]
 subtitle: "A checker should catch mistakes, not enforce taste"
-description: "Most QA tools for AI-generated PowerPoint, Excel, and Word enforce style and make the output worse — why a checker should catch objective mistakes, not enforce taste. The thinking behind llm-office-qa."
+description: "Most QA tools for AI-generated PowerPoint, Excel, and Word enforce style and make output worse. A checker should catch objective mistakes, not taste."
 ---
 
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)

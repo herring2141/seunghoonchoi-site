@@ -1,5 +1,7 @@
 ---
 title: "F-1 签证与入境美国：从五大身份维持原则到抵达机场"
+description: "F-1签证入境美国实务指南：登机随身文件清单、抵达30天内ISSS在线报到、SEVIS与DS-160政府规费，以及从机场到盖恩斯维尔的行程路线。"
+seoTitle: "F-1签证入境美国：随身文件与SEVIS报到全流程"
 date: 2026-06-17T16:00:00+09:00
 categories: ["Immigration"]
 tags: ["F-1 visa","immigration","port of entry","SEVIS"]

@@ -1,11 +1,11 @@
 ---
 title: "检查 AI 生成的 PPT·Excel·Word 缺陷的开源工具 — llm-office-qa"
-seoTitle: "自动检查 AI 生成的 PPT·Excel·Word 缺陷的开源工具 — llm-office-qa"
+seoTitle: "AI 生成 PPT·Excel·Word 查错开源 linter"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["open-source", "ai"]
 subtitle: "不封住模型的上限，只揪出明显的错误"
-description: "只揪出 AI 生成的 PowerPoint、Excel、Word 中客观缺陷的开源 Python linter。绝不触碰更强模型的风格上限。MIT 许可。"
+description: "只揪出 AI 生成 PPT、Excel、Word 客观缺陷的开源 Python linter：文字溢出、#REF! 错误、残留 markdown。确定性、MIT 许可、Claude Code 钩子。"
 image: /images/llm-office-qa-card.svg
 ---
 <div class="appcard">

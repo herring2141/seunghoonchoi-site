@@ -1,10 +1,11 @@
 ---
 title: "人不只靠逻辑而动——读懂损失、面子与责任"
+description: "为什么正确的话总被弹开？人不靠逻辑而动，而靠损失厌恶、面子与责任。一份在说服与谈判中读懂人心、与人同行的实用指南。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["persuasion","negotiation","leadership","human behavior","loss aversion"]
 subtitle: "为什么正确的话总被弹开，以及一份与人同行而非与人对抗的操作手册"
-seoTitle: "读懂人心：比起逻辑，损失、面子与责任更能打动人"
+seoTitle: "如何说服别人：损失、面子与责任胜过逻辑"
 image: /images/col-reading-people.jpg
 ---
 ![温暖柔和的灯光下，两人隔着桌子交谈，手势正比划着](/images/col-reading-people.jpg)

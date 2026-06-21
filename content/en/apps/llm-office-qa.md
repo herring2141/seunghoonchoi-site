@@ -1,11 +1,11 @@
 ---
 title: "Open-Source QA for AI-Generated PowerPoint, Excel & Word — llm-office-qa"
-seoTitle: "Auto-QA for AI-Generated PowerPoint, Excel & Word — Open-Source Linter"
+seoTitle: "AI PowerPoint, Excel & Word QA — Open-Source Linter"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["open-source", "ai"]
 subtitle: "Catch an LLM's objective mistakes — without capping the model"
-description: "Open-source Python linters that flag only the objective defects in LLM-generated PowerPoint, Excel, and Word files — never a more capable model's stylistic ceiling. MIT licensed."
+description: "Open-source Python linter that catches objective defects in AI-generated PowerPoint, Excel & Word — off-slide text, #REF! errors, leftover markdown. Deterministic, MIT-licensed, runs as a Claude Code hook."
 image: /images/llm-office-qa-card.svg
 ---
 <div class="appcard">

@@ -1,10 +1,11 @@
 ---
 title: "十分钟搞懂任何新概念 —— 九宫格理解模板"
+seoTitle: "十分钟搞懂新概念：九宫格理解法"
 date: 2026-06-20
 categories: ["Guide"]
 tags: ["learning", "study-method", "metacognition", "comprehension", "ai"]
 subtitle: "摘要是别人的归纳，理解必须是自己的结构"
-description: "用九宫格模板，十分钟拿下一个陌生的概念、论文或会议。不做摘要，而是拆成本质、原理与边界，最后落到你还没搞清楚、需要确认的问题上。附一段可以直接拿去用的提示词。"
+description: "用九宫格模板，十分钟拿下陌生的概念、论文或会议。不写摘要，而是拆成本质、原理、边界，最后落到还要确认的问题上。附一段可直接使用的AI提示词。"
 ---
 ![在蓝图上勾勒结构的手 —— 搭结构，而不是写摘要](/images/col-understand.jpg)
 

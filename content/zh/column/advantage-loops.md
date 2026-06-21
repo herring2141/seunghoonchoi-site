@@ -1,10 +1,11 @@
 ---
 title: "把微小优势养成复利的方法"
+description: "一点小优势如何通过复利滚成别人难以复制的实力——提高分辨率、把收益当杠杆、资产化、拧紧反馈回路，再用技能组合筑起护城河。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["compounding","cumulative advantage","feedback loops","growth systems","leverage"]
 subtitle: "从同一起跑线出发，如何把一点点优势养成能自我运转的系统"
-seoTitle: "复利的真正原理：把微小优势养成自我强化系统的七个步骤"
+seoTitle: "复利效应：把微小优势养成系统的7步"
 image: /images/col-advantage-loops.jpg
 ---
 ![一排弯曲排列的多米诺骨牌中，一块正倾倒并即将推倒下一块](/images/col-advantage-loops.jpg)

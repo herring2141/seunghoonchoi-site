@@ -1,10 +1,11 @@
 ---
 title: "노력이 쌓이지 않는 이유 — 가치의 형태를 바꿔라"
+description: "왜 열심히 일해도 안 남을까. 시간을 파는 노동을 다시 쓰고 옮길 수 있는 자산으로 바꿔 복리·레버리지로 키우는 가치 전환의 원리."
 date: 2026-06-21
 categories: ["에세이"]
 tags: ["가치전환","복리","자산화","시장경제","레버리지"]
 subtitle: "시장경제의 진짜 엔진은 돈이 아니라 가치의 형태를 바꾸는 일이다"
-seoTitle: "노력이 쌓이지 않는 이유: 가치 전환의 기술"
+seoTitle: "노력이 쌓이지 않는 이유: 시간 말고 자산을 남겨라"
 image: /images/col-value-conversion.jpg
 ---
 ![작업장에서 완성된 나무 의자를 든 장인의 손, 따뜻한 측광](/images/col-value-conversion.jpg)

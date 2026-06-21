@@ -1,10 +1,11 @@
 ---
 title: "聪明背后的六项基础体能"
+description: "输入、工作记忆、结构化、容忍不确定、输出、更新——拆解聪明背后的六项可训练基础体能，以及为何AI只是外骨骼、替不了你的学习力。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["learning","fundamentals","cognition","self-improvement","AI era"]
 subtitle: "在学习方法与技巧之下，是处理陌生事物的底层能力"
-seoTitle: "学习的六项基础体能：处理陌生输入的真正实力"
+seoTitle: "学习的六项底层能力：AI时代不可替代的学习力"
 image: /images/col-six-fundamentals.jpg
 ---
 ![一名攀岩者在面对险峻岩壁前往手上抹镁粉做准备](/images/col-six-fundamentals.jpg)

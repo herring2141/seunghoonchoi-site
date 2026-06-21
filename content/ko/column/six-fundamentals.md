@@ -1,10 +1,11 @@
 ---
 title: "공부머리 밑에 깔린 여섯 가지 기초 체력"
+description: "입력·작업기억·구조화·불확실성·출력·갱신. 공부머리를 가르는 여섯 가지 인지 기초 체력과 단련법, 그리고 AI 시대에도 남는 학습력을 짚는다."
 date: 2026-06-21
 categories: ["에세이"]
 tags: ["학습법","기초체력","인지능력","자기계발","AI시대"]
 subtitle: "낯선 것을 받아 내 것으로 굴리는 능력, 그 밑바닥을 뜯어본다"
-seoTitle: "공부 기초 체력 6가지: 낯선 입력을 다루는 진짜 실력"
+seoTitle: "공부머리 기초 체력 6가지: AI 시대에도 안 변하는 학습력"
 image: /images/col-six-fundamentals.jpg
 ---
 ![어려운 암벽 앞에서 손에 초크를 묻히며 준비하는 클라이머](/images/col-six-fundamentals.jpg)

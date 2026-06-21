@@ -1,11 +1,11 @@
 ---
 title: "ReadFast — Foreign-Language Speed-Reading App"
-seoTitle: "Read English & Chinese Faster — An Evidence-Based Reading Trainer"
+seoTitle: "Speed Reading App for English & Chinese, Evidence-Based"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["reading", "speed-reading", "app", "english", "chinese"]
 subtitle: "No speed-reading myths — only techniques that actually transfer"
-description: "An installable web app to read English and Chinese faster and more accurately. Instead of myths like span-widening or 10,000 WPM, it trains lexical automaticity, a comprehension-gated rate (ERR), repeated-reading transfer, and the three-pass paper method. Works offline."
+description: "Read English and Chinese faster without the speed-reading myths. A free, installable app training lexical automaticity and a comprehension-gated rate."
 image: /images/reading-trainer-card.svg
 ---
 <div class="appcard">

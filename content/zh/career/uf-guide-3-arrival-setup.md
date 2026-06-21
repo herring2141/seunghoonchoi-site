@@ -1,5 +1,7 @@
 ---
 title: "美国研究生院落地指南 Part 3：到美后的行政办理顺序 — 手机、银行、SSN、驾照、信用"
+description: "F1 留学生到美后按顺序办理：美国手机、银行卡、SSN、佛罗里达驾照（中韩互认、免笔试和路考），以及从零开始积累信用记录的完整落地行政清单。"
+seoTitle: "美国留学落地行政顺序：银行·SSN·驾照·信用"
 date: 2026-06-17T15:00:00+09:00
 categories: ["Settling In"]
 tags: ["SSN","bank account","driver license","credit score"]

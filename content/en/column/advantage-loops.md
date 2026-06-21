@@ -1,10 +1,11 @@
 ---
 title: "How a Small Edge Compounds Into Real Advantage"
+description: "How a tiny edge compounds into an advantage others can't copy—raising resolution, using gains as leverage, asset-ifying, tightening the feedback loop, and building a moat from combination."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["compounding","cumulative advantage","feedback loops","growth systems","leverage"]
 subtitle: "Starting from an even footing, how to grow a tiny advantage into a system that runs itself"
-seoTitle: "How Compounding Really Works: Turning a Small Edge Into a Self-Reinforcing System"
+seoTitle: "How a Small Edge Compounds: 7 Steps to a Real Advantage"
 image: /images/col-advantage-loops.jpg
 ---
 ![A single domino tipping mid-fall in a long curving line, about to topple the next piece](/images/col-advantage-loops.jpg)

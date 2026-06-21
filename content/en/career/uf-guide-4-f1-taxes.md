@@ -1,5 +1,7 @@
 ---
 title: "U.S. Tax Basics for F-1 Students: 5-Year Nonresident, FICA Exemption, Korea-U.S. Treaty (Part 4)"
+description: "F-1 student tax basics: 5-year nonresident alien status, FICA exemption, Florida 0% state tax, the Korea-U.S. treaty $2,000 exemption, plus Form 8843, 1040-NR, and deadlines."
+seoTitle: "F-1 Student Tax Guide: FICA Exemption, Form 8843, 1040-NR"
 date: 2026-06-17T14:00:00+09:00
 categories: ["Taxes"]
 tags: ["US taxes","F-1","tax treaty","1040-NR","8843"]

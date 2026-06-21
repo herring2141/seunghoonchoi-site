@@ -1,5 +1,7 @@
 ---
 title: "F-1 学生的美国税务基础：非居民外国人 5 年、FICA 豁免、韩美税收协定（第 4 篇）"
+description: "F-1 留学生报税核心：非居民外国人 5 年、FICA 豁免、佛罗里达州税 0%、韩美税收协定每年 $2,000 免税，以及 Form 8843、1040-NR 与截止日期。"
+seoTitle: "F-1 留学生报税：FICA 豁免与韩美税收协定"
 date: 2026-06-17T14:00:00+09:00
 categories: ["Taxes"]
 tags: ["US taxes","F-1","tax treaty","1040-NR","8843"]

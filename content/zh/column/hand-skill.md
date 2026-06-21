@@ -1,10 +1,11 @@
 ---
 title: "手上功夫的真相 —— 机器追不上的闭环手感"
+description: "手上功夫到底是什么，为什么AI和机器人一时学不会：靠的是指尖反馈闭环、力度与角度的微操，以及物理试错又贵又慢。"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["hand-skill", "ai", "automation", "expertise", "career"]
 subtitle: "手上功夫不是精确的动作，而是实时读出变化的接触、边做边修正力度与角度的能力"
-seoTitle: "手上功夫是什么 —— AI 和机器人一时学不会的闭环微操"
+seoTitle: "手上功夫为何AI一时难替代——闭环手感"
 image: /images/col-hand-skill.jpg
 ---
 ![摆放在木台上的旧手工工具](/images/col-hand-skill.jpg)
