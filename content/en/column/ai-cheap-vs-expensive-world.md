@@ -1,59 +1,72 @@
 ---
-title: "Why AI Conquers Go but Can't Learn to Weld"
-description: "AI conquered Go and coding yet stalls on hands-on skilled trades. The real reason isn't difficulty but the sampling cost of reinforcement learning, and who turns tacit knowledge into data."
+title: "AI Won at Go. Why Can't It Learn to Weld?"
+description: "AI conquered Go and coding but stalls in front of hands-on trade skills. The real reason isn't difficulty. It's the sampling cost of reinforcement learning, and the people who turn tacit know-how into data become rare."
 date: 2026-06-21
 categories: ["AI"]
 tags: ["artificial intelligence","automation","tacit knowledge","reinforcement learning","future of work"]
-subtitle: "The difference isn't intelligence. It's the price of touching the world once."
-seoTitle: "Why AI Beats Go but Can't Learn to Weld: Moravec's Paradox"
+subtitle: "The difference isn't brains. It's the price of touching the world once."
+seoTitle: "Why AI Beats Go but Can't Learn to Weld"
 image: /images/col-ai-cheap-vs-expensive-world.jpg
 ---
+
 ![A skilled welder working intently amid bright sparks in a dark workshop](/images/col-ai-cheap-vs-expensive-world.jpg)
 
-Someone once brought me the story of the AI that beat the best human Go players and said, "At this rate, machines will take over every job, won't they?" A welder with thirty years on the floor happened to be in the room. He just smiled and said, "They can't take mine. You only know when the molten metal is about to blow through your fingertips."
+Someone brought up the AI that beat the best human Go player. "If it's this good, isn't it about to take over every job?"
 
-I think those two lines clear up almost every misunderstanding we carry about automation. We usually sort what AI can and can't do by difficulty. Go is hard, and AI conquered it, so surely the easier-looking shop-floor work is next. But that puts the question on the wrong axis. The real axis isn't difficulty. It's the price of touching the world once.
+A welder with thirty years on the floor was sitting right there. He smiled and answered. "It can't take mine. You only know when the molten metal is about to blow by feeling it through your fingertips."
 
-## Go Is a Free World
+I think those two lines clear up almost everything people get wrong about automation. We usually sort what AI can and can't do by how hard it is. Go is the hard thing, and AI conquered it, so the easier looking shop floor work must be next. Wrong. That's the wrong axis. The real axis isn't difficulty. It's the price of touching the world once.
 
-Picture a Go board. Place a stone badly and you lose nothing. Lose a game and you simply set up again. Above all, the result is instant — black won or white won, decided in seconds. And crucially, a program can play against itself without end. In the time a person plays one game, the machine plays millions. Failure is free, feedback is immediate, and the experiment can be repeated without limit. That is Go.
+## Losing at Go Is Free, So Machines Play It All
 
-Think about how a machine learns, especially how it learns by trial and error, and you see how ideal these conditions are. There's a method where you reward the machine when it does well and penalize it when it does badly, so it slowly improves. We call it reinforcement learning. At its core it works by trying an enormous number of times. So in a world where trying is free, it becomes unbeatable. Go, chess, and in a similar sense coding — these are all virtual worlds you can spin cheaply and endlessly inside a computer. AI fell these domains one by one not because they were easy, but because failure there costs nothing at all.
+Picture a Go board. Place a stone badly and you lose nothing. Lose a game and you just set up again. The result comes right away too. Black won or white won, settled in a few seconds. And the big one: the program can play against itself forever. In the time it takes a person to play one game, the machine plays millions. Failure is free, the answer is instant, and you can repeat the experiment without limit. That's Go.
 
-## The Shop Floor Is an Expensive World
+Think about how a machine learns by trial and error, and you see how dreamlike these conditions are. There's a way of learning where you reward the machine when it does well and punish it when it does badly, so it slowly gets better. We call it reinforcement learning. The core is simple: try an enormous number of times. So in a world where trying is free, it becomes unbeatable. Go, chess, and for the same reason coding. They're all virtual worlds you can run cheaply and endlessly inside a computer. AI took over these places one by one not because they were hard, but because failure there costs nothing.
 
-Now walk into the welder's workshop. Here a single attempt is not free. The metal costs money, the gas costs money, the time costs money. Melt one piece wrong and the material is simply thrown away. Worse, the result isn't visible instantly or fully. A weld can look clean on the surface while a crack hides inside, and it might not cause trouble until months later. There's no "win or lose in seconds" the way Go gives you.
+## Welding Fails Expensively, So Machines Can't Learn It
 
-And the most important data almost never gets made. What makes it fail — that is the most valuable information of all. But who deliberately blows up a working line just to collect failure data? On the real floor, failure is so expensive that no one manufactures it. So the very records the machine most needs to learn from — the moment of breaking — don't exist in the world.
+Now go into the welder's workshop. Here, one attempt is not free. The metal costs money. The gas costs money. The time costs money. Melt one piece wrong and that material is just trash. And it gets nastier. The result doesn't come right away, and you can't even see all of it. A weld can look perfectly fine while a crack hides inside. It might not blow up into an accident until months later. There's no winning or losing in a few seconds the way Go has.
 
-This is exactly the structure reinforcement learning hates. Trials are expensive, feedback is slow and only partly visible, and the most valuable failure samples are never generated in the first place. When you cook and can taste a spoonful and correct course right away, you improve fast. But if feedback only comes after the whole pot is finished — and only after the guests have eaten it — learning crawls. Most hands-on skills live inside exactly this structure.
+And the most valuable data almost never gets made. What breaks this thing. That's the most expensive information there is. But who deliberately blows up a working line just to pile up failures? On the floor, failure is so expensive that nobody makes any. So the very record the machine needs to learn from, the moment of breaking, doesn't exist in the world.
 
-## The Problem Isn't Consciousness or Soul
+This is the structure reinforcement learning hates most. Trying is expensive, the answer is slow and only partly visible, and the most valuable failure samples are never created at all. Think about cooking. Taste a spoonful and fix it on the spot, and you get better fast. But what if the feedback only comes after the whole pot is finished, and only after the guests have eaten it? Your skill crawls forward. Most hands-on trade skills sit inside exactly this structure.
 
-There's a tempting trap here: the romantic explanation that machines can't learn this because humans have intuition, a soul, consciousness. I think that's wrong, and the point matters. AI struggles with hands-on skill not because it lacks some mysterious mental faculty.
+## It's Not a Missing Soul. It's Missing Sensors and Records.
 
-What it needs isn't consciousness but four ordinary conditions. First, dense sensing — sensors that read everything happening on the floor as numbers: temperature, vibration, pressure, sound. Second, full logging of conditions and results — a record that captures, without a single gap, what state you were in, what you did, and how it turned out. Third, a simulation close enough to reality — a virtual workshop where you can rehearse without actually ruining the material. Fourth, a closed loop where failure is cheap — a cycle of try, receive the result, try again, running without danger or cost.
+There's a trap people fall into here. The romantic explanation that the machine can't learn this because only humans have intuition, a soul, consciousness. I think that's wrong. And this point matters. AI can't learn hands-on skill not because it's short some mysterious mental power.
 
-Where these four exist, automation absorbs the skill. Go had them. Go was, from the start, a world that satisfied all four conditions perfectly. Where even one is missing, the human touch survives. And most real-world fields are missing at least one of the four.
+What it needs isn't consciousness. It's four ordinary conditions.
 
-## What Averages Can't Catch: The Edge of Catastrophe
+First, dense sensing. Temperature, vibration, pressure, sound. Sensors that read everything happening on the floor as numbers, leaving nothing out.
 
-Even if you gather mountains of data, one region remains: the seasoned worker's feel for the moment just before catastrophe. When the thirty-year welder says "this is about to blow," he hasn't memorized the average normal state. He reads, in his body, the narrow boundary where normal tips into failure — the faint signs of a moment so rare it barely shows up in any data at all.
+Second, a complete record of conditions and results. A log that captures, with not a single gap, what state you were in, what you did, and how it turned out.
 
-Machine learning, by nature, is good at what it has seen a lot of. But catastrophe is, by definition, rare. Rare means few samples, and few samples means a method built on learning averages will keep missing it. The real value of an expert isn't doing average work quickly. It's sensing that edge — the place where things are about to collapse, away from the average. That's why automation can take the whole middle and still leave this edge to people until the very end.
+Third, a simulation close enough to reality. A virtual workshop where you can rehearse without ruining the real material.
 
-Flying makes it easy to see. Cruising was automated long ago. But in the rare abnormal situation, the compound failure the manual never covered, we still leave the judgment to a person. The machine handles normal; the human handles the edge. That division of labor isn't an accident — it's a necessity created by the structure of the samples.
+Fourth, a closed loop where failure is dirt cheap. An environment where the cycle of try, get the result, try again runs with no danger and no cost.
 
-## So Who Becomes Valuable
+Where these four are in place, automation sucks the skill right in. Go was like that. From the start, Go was a world that had all four conditions perfectly. Take even one of them away, and the human touch survives. And almost every real-world field is missing at least one of the four.
 
-By now the conclusion may look dark: so the artisan with the feel is safe. But I want to argue the opposite. The truly valuable person is not the one with the feel — it's the one who can translate that feel into a form the machine can finally learn.
+## The Machine Can't Catch the Moment Right Before It Blows
 
-Think about it. What blocked automation was four absences: sensing, logging, simulation, and the cheap-failure loop. So the person who fills those absences creates the most value. The one who figures out which sensor can catch the "about-to-blow" feeling that lived only in a veteran's fingertips. The one who turns the working conditions and results — thrown away every time — into a complete record. The one who designs the failure that was too expensive to run in reality as a cheap experiment inside a safe virtual workshop. This person moves tacit knowledge into data.
+Say you gather a mountain of data. There's still one region you never quite catch: the seasoned worker's feel for the moment right before it blows. When the thirty-year welder says "this is about to go," he hasn't memorized the average normal state. He reads, with his body, that narrow boundary where normal tips over into disaster. The faint signal of a moment so rare it barely shows up in the data.
 
-This isn't a choice between the artisan with the feel and the technician with the data. It means the scarce person is the one who can stand in both worlds at once and translate one's language into the other's. Someone who knows a thing in the body and can say it in numbers.
+Machine learning is, at its core, good at what it has seen a lot of. But disaster is, by definition, rare. Rare means few samples, and few samples means a method built on learning averages will keep missing it. An expert's real value isn't doing the average job fast. It's sensing that edge, the place right before something collapses, away from the average. That's why automation can take the whole average stretch and still leave this edge to people right to the end.
 
-## Closing
+Flying a plane makes it easy to picture. Cruising was automated long ago. But for the rare abnormal situation, the compound failure not even in the manual, we still leave the judgment to a human. The machine handles normal, the human handles the edge. This split isn't a coincidence. It's a necessity created by the structure of the samples.
 
-Back to the workshop. The welder said you only know when the metal is about to blow through your fingertips. He's right — for now. But the moment someone starts patiently measuring and logging which vibrations and which temperature shifts that fingertip sense corresponds to, the sense no longer lives in the fingertips alone.
+## The People Who Turn Feel Into Numbers Survive
 
-AI conquers Go and hesitates before hands-on skill because one is a free world and the other an expensive one. So the real question that divides the future isn't "how smart will AI get?" It's "who will turn this expensive world into one a machine can learn cheaply?" Whoever pulls off that translation becomes the most valuable person of the next era.
+By here, the conclusion might sound dark. "So the master craftsman with the feel is safe." I want to say the exact opposite. The person who truly becomes rare is not the one with the feel. It's the one who can translate that feel into a form the machine can finally learn.
+
+Think about it. What blocked automation was four shortages: sensing, recording, simulation, and the cheap-failure loop. So the person who fills those shortages creates the most value. The one who figures out which sensor can catch the "about to blow" feeling that lived only in a veteran's fingertips. The one who turns the working conditions and results, thrown out every single time, into a complete record. The one who designs the failure that was too expensive to run in reality as a cheap experiment inside a safe virtual workshop. This kind of person moves tacit know-how into data.
+
+This isn't a question of picking one: the craftsman with the feel, or the data engineer. It means the scarce person is the one who can stand in both worlds at once and translate one side's language into the other's. The person who knows something in the body and can say it in numbers.
+
+## Who Turns the Expensive World Into a Machine's World?
+
+Back to that workshop. The welder said you only know when the metal is about to blow through your fingertips. He's right. For now. But the moment someone starts patiently measuring and logging which vibration, which temperature shift that fingertip feel reacts to, the feel no longer stays in the fingertips alone.
+
+AI conquers Go and then stalls in front of hands-on skill because one is a free world and the other is an expensive one. So the real question that splits the future isn't "how smart will AI get?" It's "who will turn this expensive world into one a machine can learn cheaply?"
+
+The person who pulls off that translation becomes the most valuable person of the next era.

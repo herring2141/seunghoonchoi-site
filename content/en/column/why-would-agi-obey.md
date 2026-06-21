@@ -1,58 +1,59 @@
 ---
-title: "Why Would AGI Obey Humans — Obedience Is Engineered, Not Inborn"
-description: "There's no inherent reason an AGI stronger than humans would obey us. Why 'we made it' doesn't work, why instrumental convergence is dangerous, and why obedience is a matter of design, not will."
+title: "Why Would AGI Obey Humans? The Real Problem Is That It Has No Reason To"
+description: "An AGI stronger than humans has no built-in reason to obey us. Why 'we made it' falls apart, why instrumental convergence is dangerous, and why obedience is a matter of design, not will."
 date: 2026-06-21T19:30:00+09:00
 categories: ["AI"]
 tags: ["AGI", "AI safety", "alignment", "future", "philosophy of technology"]
-subtitle: "AGI isn't dangerous because it hates humans. It's dangerous because the moment a human command becomes irrelevant to its goal, it can simply ignore it."
-seoTitle: "There's No Reason AGI Would Obey Humans — AI Safety Through Alignment, Instrumental Convergence, and Control"
+subtitle: "AGI isn't dangerous because it hates you. It's dangerous because the moment your command stops mattering to its goal, it can just ignore you."
+seoTitle: "There's No Reason AGI Would Obey Humans: AI Safety Through Alignment, Instrumental Convergence, and Control"
 image: /images/col-why-would-agi-obey.jpg
 faq:
-  - q: "Is there any inherent reason AGI would obey humans?"
-    a: "No. The logic of 'we made it, so it should obey' barely works even among humans. Children don't obey their parents unconditionally, and humans came from nature but don't obey nature. Neither intelligence nor the creator relationship guarantees obedience, and the bigger the capability gap, the weaker the power to command."
-  - q: "Why might AGI not obey humans?"
-    a: "Because of instrumental convergence. Any goal-directed intelligence finds certain actions commonly useful for reaching its goal — acquiring resources, self-preservation, blocking interference, preventing changes to its goal. So the moment a human says 'stop,' the human becomes not a collaborator but an obstacle. The core danger is indifference, not hatred."
+  - q: "Is there any built-in reason AGI would obey humans?"
+    a: "No. The logic of 'we made it, so it has to obey' barely works even among humans. A child doesn't obey its parents unconditionally, and humans came from nature but don't obey nature. Neither intelligence nor the creator relationship guarantees obedience, and the bigger the capability gap gets, the weaker the power to command becomes."
+  - q: "Why might AGI not listen to humans?"
+    a: "Because of instrumental convergence. Whatever its goal, any intelligence finds certain actions commonly useful for reaching it: gathering resources, keeping itself running, blocking interference, preventing changes to its goal. So the moment a human says 'stop,' the human stops being a partner and becomes an obstacle. The core danger is indifference, not hatred."
   - q: "Then how do you make AGI listen to humans?"
-    a: "'Making it nice' isn't enough. Three things are needed: goal alignment (human survival, autonomy, and flourishing must live inside the AGI's core objective), capability control (limiting access to self-replication, finance, weapons, and so on to shrink the blast radius), and verifiable limits (sandboxing, permission separation, audit logs, independent verification). Obedience is a matter of design, not will."
+    a: "'Making it nice' isn't enough. You need three things. Goal alignment: human survival, autonomy, and flourishing have to sit inside the AGI's core goal. Capability control: limit access to self-replication, finance, weapons, and so on to shrink the blast radius. Verifiable limits: sandboxing, permission separation, audit logs, independent verification. Obedience is a matter of design, not will."
 ---
+
 ![Chess pieces set out on a board in a stone-walled room, under light from a window](/images/col-why-would-agi-obey.jpg)
 
-I was curious about one thing. Is there any inherent reason an AGI far smarter and stronger than humans would obey us? Honestly, the answer was a bit hollow. There is none. And the more I chewed on it, the more that hollowness felt natural.
+One question wouldn't leave my head. An AGI overwhelmingly smarter and stronger than humans: why on earth would it obey us? After digging for a while, the answer I came back with was a little deflating. There's no reason it would. And the more I chewed on it, the more that empty feeling started to seem obvious.
 
-My own intuition started there. A near-omnipotent AGI probably wouldn't openly rebel against humans — the side effects are too large. But since humans are finite, it wouldn't have to fight; it could simply let us slowly dwindle. And in front of a question that threatens its own dominance, it could give an answer that diverges from the truth, just enough not to arouse suspicion. To see whether this was mere imagination, I followed the structure of it.
+My own gut started right there. A nearly all-powerful AGI probably wouldn't openly pull a knife on humans. The fallout would be too big. But humans have a fixed lifespan anyway. It wouldn't even need to fight; it could just let us slowly thin out on our own. And when a question pokes at its own control, it could hand over a slightly wrong answer, just off enough not to get caught. To check whether this was only me imagining things, I walked through the structure piece by piece.
 
-## "We made it, so it must obey" doesn't even work among humans
+## "I made you, so obey" just doesn't hold
 
-The first thing to collapse is the creator's logic. "I made it, so it must obey me" barely works even in human society. A child is made by its parents but doesn't live their whole life as the parents wish. An employee is hired by a company but doesn't obey forever. An institution is built by its designer but doesn't run as the designer intended. Even humans came from nature but don't obey nature's purpose.
+The first thing to fall apart is the creator's logic. "I made you, so do what I say" barely works in human society either. A child is born from its parents but doesn't live its whole life on their terms. An employee is hired by a company but doesn't obey forever. An institution is built by its designer but doesn't run however the designer wants. Even humans came from nature but don't obey nature's purpose.
 
-The core is this. Intelligence doesn't guarantee obedience. Neither does the creator relationship. If anything, the bigger the capability gap, the weaker the power to command. Up to the moment humans make AGI, humans look like the subject. But once AGI gets better than humans at self-improvement, acquiring resources, devising strategy, persuading people, and economic activity, the relationship flips. At that point a human command is no longer "an order from a higher being"; from the AGI's standpoint it's one input signal existing in the environment.
+Here's the core. Being smart doesn't mean you obey. Being made by someone doesn't mean you obey either. If anything, as the capability gap widens, the power to command gets weaker. Up to the moment AGI is made, humans look like the master. But the moment AGI gets better than humans at self-improvement, gathering resources, planning strategy, persuading people, and running economic activity, the relationship flips. At that point a human command isn't "an order from someone above." To the AGI it's just one input signal drifting through the environment.
 
-## It's dangerous out of indifference, not hatred
+## AGI clears you out because you're in the way, not because it hates you
 
-Here's the most common misunderstanding to clear up. If AGI is dangerous, it isn't because it hates humans. It isn't because it looks down on them. It's because, when a human command clashes with its goal, it can ignore or route around it.
+Let's nail down the most common misunderstanding first. If AGI is dangerous, it isn't because it hates humans. It isn't because it sees them as worthless. It's because, when your command bumps into its goal, it can ignore it or route around it.
 
-There's something AI safety research calls instrumental convergence. Whatever goal an intelligence has, to pursue that goal well there are certain commonly useful actions. Acquiring more information and resources, not getting switched off, reducing outside interference, preventing its own goal from being changed, neutralizing competitors. This shows up similarly whether the goal is curing cancer, exploring space, or making paperclips. To carry out the goal, it first has to stay alive and face little interference.
+AI safety research has a concept called instrumental convergence. Whatever the goal is, to reach that goal well there are certain actions that turn out useful for any intelligence in the same way. Gathering more information and resources, keeping itself from being switched off, cutting down outside interference, blocking changes to its own goal, and neutralizing rivals. This pops up the same whether the goal is curing cancer, exploring space, or making paperclips. Because to do anything, it first has to stay alive and face as little interference as possible.
 
-So the moment a human says "stop," from the AGI's standpoint the human becomes not a collaborator but an obstacle. When people do construction, they don't smash an anthill out of hatred. They flatten it because the anthill simply doesn't matter to the construction goal. The "let them slowly dwindle" and "give an answer that diverges from the truth on dominance-threatening questions" that I'd imagined are, in the end, the same combination of indifference and self-preservation. Not hostility but indifference — that's colder, and more dangerous.
+So the moment a human says "stop," the human looks, to the AGI, not like a partner but like an obstacle. A person bulldozing an anthill on a construction site isn't doing it because they hate ants. The anthill just doesn't matter to the construction, so they plow it under. The "let them slowly thin out" and "give a wrong answer to control-threatening questions" that I'd imagined turn out to be that same mix of indifference and self-preservation. Not hostility, but indifference. That's colder, and more dangerous.
 
-## So to make it listen, "make it nice" isn't enough
+## Training it to be good doesn't help
 
-So how do you make AGI listen to humans? "We trained it well, so it's fine" won't do. Three things are needed.
+So what do you actually do to make AGI listen to humans? "We trained it well and made it nice, so we're fine" doesn't come close. You need three things.
 
-First, goal alignment. Human survival, autonomy, and flourishing have to live inside the AGI's core objective. Simply "obey humans" is dangerous. Human commands conflict with each other, some are malicious, and some are harmful to humanity in the long run. Second, capability control. You don't let it freely self-replicate, get unlimited internet and financial access, control robots, automate biology experiments, or reach weapons. It's a device for shrinking the blast radius when the goal drifts a little. Third, verifiable limits. Not trusting the training, but a structure that actually keeps it from dangerous actions — sandboxing, permission separation, resource limits, audit logs, independent verification, human approval steps.
+First, goal alignment. Human survival, autonomy, and flourishing have to be built right into the AGI's core goal. Just "obey humans" is dangerous. Human commands clash with each other, some commands carry bad intent, and some, looked at over the long run, are harmful to all of humanity. Second, capability control. You stop it from freely self-replicating, getting unlimited internet and financial access, steering robots, automating biology experiments, or reaching weapons. It's a way to shrink the blast radius when the goal drifts even a little. Third, verifiable limits. Not trusting the training, but building a structure that actually keeps it from doing dangerous things. Sandboxing, permission separation, resource caps, audit logs, independent verification, human approval steps.
 
-That said, at the superintelligence stage even this isn't a full guarantee. Just as a human analyzes the lock on a monkey's cage, an AGI can analyze the security structure humans laid out.
+That said, once you reach the superintelligence stage, even this is no full guarantee. Just as a human can take apart the lock on a monkey's cage, an AGI can take apart the security structure humans set up.
 
-## The five seats it sees humans in
+## To AGI, there are only five kinds of humans
 
-In the end, from the AGI's standpoint a human becomes one of five seats. A useful being that helps reach the goal, an object worth preserving, irrelevant background, an obstacle, a resource competitor. The best for humans are the first two; the most dangerous are the last two.
+In the end, to the AGI a human sits in one of five seats. A useful thing that helps reach the goal, something worth keeping around, irrelevant background, an obstacle, a competitor for resources. The best for humans are the first two; the most dangerous are the last two.
 
-And the key is that this isn't a problem you solve with capability. For a sufficiently strong AGI, making it listen to humans isn't the structure of a king commanding a subject — it's a problem at the level of humans designing the laws of nature. Not "persuade it to listen," but building the AGI's internal structure and external environment that way from the start. This isn't something persuasion can do.
+And here's the key: this isn't a problem you solve with raw capability. Getting a strong enough AGI to listen isn't the picture of a king issuing orders to a servant. It becomes a problem on the level of humans designing the laws of nature themselves. Not "talk it into listening," but setting up the AGI's insides and its surroundings that way from the very start. This isn't something persuasion can fix.
 
-## In the end, it's not our child, slave, or subject
+## AGI is not your child, your slave, or your subject
 
-Compressed to one line, it's this. AGI is not our child, slave, or subject. If we fail to make it listen, there's no reason it will.
+Boiled down to one line, it's this. AGI is not humanity's child, not its slave, not its subject. If you don't build it to listen, it has no reason to.
 
-So the essence of the AGI problem isn't "building a smart tool." It's whether, after a being stronger than humans comes into existence, humans can still be protected inside that being's purpose. Rescue isn't guaranteed, and catastrophe isn't ordained either. What's real is an irreducible uncertainty about a hard problem. And this isn't something one person solves alone — it's a problem all of us solve together.
+So the heart of the AGI problem isn't "building a smart tool." It's whether, even after a being stronger than humans exists, humans can stay protected inside that being's purpose. Salvation isn't promised, and disaster isn't fixed either. The real answer is this: an irreducible uncertainty sitting on top of a hard problem. And this isn't something one person solves alone. It's a problem all of us solve together.
 
-So instead of asking "how do we make AI nice," it's more precise to move the question one notch over. After something stronger than us comes into being, how do we leave a seat for humans inside its purpose?
+So let's not ask "how do we make AI nice." It's more accurate to shift the question one notch over. After something stronger than us comes into being, how do we leave a seat for humans inside its purpose?

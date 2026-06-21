@@ -1,27 +1,30 @@
 ---
-title: "12 Principles for the AGI Era — Never Do Work That Leaves Nothing Behind"
-seoTitle: "12 Principles to Survive the AGI Era — Build Real Assets"
+title: "12 Rules to Survive the AGI Era: Don't Do Work That Leaves Nothing"
+seoTitle: "12 Rules to Survive the AGI Era: How I Decide What Becomes an Asset"
 date: 2026-06-20
 categories: ["AI"]
-tags: ["agi", "ai", "career", "strategy", "positioning"]
-subtitle: "Twelve rules I use as a daily decision filter"
-description: "Twelve principles for surviving the AGI era: don't try to outsmart AI — use it as a productivity engine and leave behind real assets human society recognizes."
+tags: ["agi", "ai", "survival", "career", "strategy"]
+subtitle: "When I decide what to do each day, I cut it against these twelve"
+description: "12 rules for surviving the age of AI. Don't try to be smarter than AI. Leave behind real assets that human society recognizes. How to build assets, position yourself, and put AI to work."
 ---
-![An uphill path in the fog — the long game, run by principles](/images/col-agi-strategy.jpg)
 
-Here are my rules for how to live in the age of AI, compressed into twelve. None of them are flashy. I use them instead as the filter I run every decision through.
+![A foggy uphill road, the long game you hold with one rule at a time](/images/col-agi-strategy.jpg)
 
-1. **Don't try to be smarter than the AI.** A human's survival isn't in the intelligence race; it's in the ability to connect to reality.
-2. **Hold the ground that human society keeps treating as valuable.** People don't buy function alone. They buy trust, accountability, relationships, a sense of the real, and ownership.
-3. **Use AI as a productivity engine, and leave the result behind as an asset in human society.** Selling the AI's answer as-is is weak.
-4. **The bottleneck moves from "intelligence" to "execution in reality."** The future bottleneck isn't who knows more — it's who verifies, executes, takes responsibility, and owns.
-5. **Concentrate on the value only a human can deliver with force.** Realness, accountability, ownership, relationships and trust, emotional stability, reading the unspoken need, delivering the uncomfortable truth, and inventing the workflow.
-6. **Split the roles.** AI does the gathering, summarizing, drafting, coding, and repetition. The human sets the goal, factors in real-world constraints, takes responsibility, secures ownership, runs the final check, and turns it into an asset.
-7. **Selling function is weak. Sell the outcome and the reduction of risk.** Customers pay less for features than for saved time, lower odds of failure, a result they can actually submit, and a judgment someone stands behind.
-8. **Every activity has to leave something behind.** A paper, a patent, code, data, a portfolio, a brand, a credential, a company, equity. Ask, "What will this turn into later?" If the answer is nothing, don't keep doing it for long.
-9. **Manage relationships as access.** You don't have to be good to everyone. Invest deeply in the people who take feedback, who execute, and whose work leaves a trace.
-10. **Use emotion as a warning light, but translate it into structure.** Not "what is wrong with this person?" but "how do I change the role, the authority, the compensation, the standard of review?" Don't attack the person — talk about the structure.
-11. **AI is a work engine, not an answer machine.** What you actually need is AI plus a memory platform plus a checklist. I'm not someone who hands out tasks; I'm someone who designs the workflow that lets AI do the work reliably.
-12. **Fix the central axis, and bolt everything else on as modules.** My central axis is materials, computation, experiment, simulation, and AI. Coding, statistics, patents, business, taxes, and immigration are tools that reinforce the axis.
+If you spend your days fighting to be smarter than AI, you lose. I'm sure of it.
 
-Reduced to a single sentence: the survivor of the AGI era is not the human who is better than the AI, but the human who keeps using AI to produce real assets that human society recognizes.
+I've boiled down what to do with my life in the age of AI to twelve rules. None of them are fancy. Instead, every day, when I have to decide something, I cut it against these twelve.
+
+1. **Don't try to be smarter than AI.** The place where humans survive isn't a contest of brains. It's the power to take an answer and press it against the real world to see if it holds.
+2. **Plant yourself where people keep paying.** People don't buy function alone. They also buy trust and accountability, relationships, the feeling that something is real, and the sense that it belongs to them.
+3. **Use AI to move fast, but leave the result behind as an asset in the human world.** Taking what AI spits out and selling it as is, that's weak.
+4. **The bottleneck moves from "knowing" to "doing."** What blocks you from here on isn't who knows more. It's who checks, who executes, who takes responsibility, and who holds onto it as their own to the end.
+5. **Go after what only a human can give with full force.** The sense that something is real. Accountability. Ownership. Relationships and trust. Peace of mind. Naming the thing a person never said out loud. Telling a truth nobody wants to hear. Rebuilding the whole way work gets done. Things like that.
+6. **Split the roles.** Gathering, summarizing, drafting, writing code, repeating: throw that at AI. Setting the goal, fitting in the walls of the real world, securing responsibility and ownership, and doing the final check so it survives as an asset: that's the human's job.
+7. **Selling function is weak. Sell the outcome and the risk you took off the table.** What the customer pays for isn't the function. It's the time you saved them, the chance of failure you cut down, a result they can hand in as is, and a judgment you made and stood behind.
+8. **Every piece of work has to leave something behind.** A paper, a patent, code, data, a portfolio, a brand, a credential, a company, equity. Start by asking, "What does this turn into later?" If it leaves nothing, don't hold onto it for long.
+9. **Manage relationships as access.** You don't have to be good to everyone. Invest deeply in people who take feedback and fix things, who get things done, and who leave results behind.
+10. **Use emotion as a warning light, but move it into structure.** Don't stop at "what is wrong with this person?" Push it to "how do I change the role, the authority, the pay, the standard of review?" Don't tear down the person. Talk about the structure.
+11. **AI is not an answer machine. It's a machine that runs the work.** What you need is AI with memory and a checklist bolted on. I'm not someone who hands out orders. I'm someone who builds the setup that lets AI run steadily.
+12. **Keep the core axis fixed, and bolt the rest on as modules.** My core axis is materials, computation, experiment, simulation, and AI. Coding, statistics, patents, business, taxes, and immigration are just tools that grow that axis.
+
+Cut down to one line, it's this. The person who survives the AGI era isn't the human who is better than AI. It's the human who puts AI to work and keeps stamping out real assets that the human world recognizes.

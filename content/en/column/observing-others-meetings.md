@@ -1,39 +1,47 @@
 ---
-title: "Learning from Meetings That Aren't Yours — An Observation Checklist for Power and Unwritten Rules"
-seoTitle: "Reading Office Politics in Meetings — A New Hire's Checklist"
+title: "How to Read a Whole Power Structure From a Meeting That Isn't Yours"
+seoTitle: "Reading Office Power in Meetings: A New Hire's Observation Checklist"
 date: 2026-06-20
 categories: ["Guide"]
 tags: ["meetings", "career", "onboarding", "junior", "metacognition"]
-subtitle: "Turning a meeting you don't own into free practice"
-description: "An observation checklist for new hires: pull decision criteria, power dynamics, and unwritten rules out of meetings that aren't yours. See how decisions really get made."
+subtitle: "Turn a meeting you don't own into a free practice room"
+description: "An observation checklist for new hires and juniors: pull decision criteria, the real power structure, and unwritten rules out of meetings that aren't yours. How to use a meeting as a place to train your thinking."
 ---
-![An empty meeting table — turning a meeting you don't own into observation](/images/col-meetings.jpg)
 
-If you're new, or you've switched fields, you end up in a lot of meetings that aren't yours and that you don't really understand. Most people just sit there and zone out until it's over. I use that time differently. A meeting outside your field is a free practice room — you can watch the organization's decision criteria, its problem-solving patterns, its power structure, and its unwritten rules all at once. This isn't a guide to running a good meeting. It's a checklist for what to extract from one.
+![An empty meeting table, where a meeting you don't own becomes a place to observe](/images/col-meetings.jpg)
 
-## 1. The decision lens
-- What actually got decided today?
-- What was the decision based on? (cost · schedule · performance · reliability)
-- Why B and not A?
+Two people sit in the same meeting. One walks out having wasted an hour. The other walks out having read exactly how the whole organization works.
 
-## 2. Problem-solving patterns
-- What were the main issues on the table?
-- What root-cause hypotheses came up?
-- What solution did they land on? Is it a *rule* that would hold in other situations too?
+If you're new, or you've just switched fields, you keep getting pulled into meetings that aren't yours and that you barely understand. Most people sit there in a fog and leave. I spend that hour differently. A meeting in someone else's field is full of buried treasure. What this organization decides things on, how it solves problems, who actually holds the power, and which rules nobody ever says out loud: it's all laid out in one room. What follows isn't a guide to running a good meeting. It's a checklist for what to carry out of one.
 
-## 3. Domain knowledge and keywords
+## 1. What got decided, and why that's the answer
+
+- What was finally decided today?
+- What was that decision judged on? (cost, schedule, performance, reliability)
+- Why pick B and not A?
+
+## 2. This organization's habit for solving problems
+
+- What were the main issues handled today?
+- What guesses about the cause came up?
+- What solution did they go with? Is it a *rule* that would hold in other situations too?
+
+## 3. Pick up words you don't know as keywords
+
 - One or two terms or concepts you heard for the first time?
 - The context they were used in? (keywords to study later)
 
-## 4. Reading the organization and the people
-- Who had the most weight in the decision? (how often they spoke, comments from above)
-- Whose input got buried? (the balance of power inside the organization)
-- What got emphasized again and again? (that organization's unwritten rules)
+## 4. Whose words land and whose get buried
 
-## 5. What to keep for yourself
-- One principle of work or research you picked up today
+- Who had the most weight in the decision? (how often they spoke, comments from up top)
+- And the reverse: whose opinion got buried? (the balance of power inside the organization)
+- What got pushed again and again? (that organization's unwritten rules)
+
+## 5. Principles and patterns you can use in your own field
+
+- One principle of work or research you learned today
 - One way of thinking you can carry into your own field
 
 ---
 
-The fourth one is the heart of it. Most people only follow the *content* of a meeting, but the real signal is in whose words land and whose get buried. That pattern is how the organization actually works, and it isn't written down in any onboarding doc.
+The real one is the fourth. Everyone chases the *content* of the meeting. But the meat is in whose words land and whose get quietly buried. That pattern is how the organization actually runs. And it isn't written down in any guide. Only you, sitting in that room, get to pick it up.

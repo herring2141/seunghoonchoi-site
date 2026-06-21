@@ -1,68 +1,80 @@
 ---
-title: "How Politics Wins Popularity and Power — and Where the Person Who Can't Fake It Belongs"
-description: "The real mechanism behind a politician's popularity (emotion and identity), the four markets that separate politics from administration, and why someone whose lies show on their face can actually be stronger in politics."
+title: "How Politics Wins Hearts and Power, and Where the Person Who Can't Fake It Belongs"
+description: "The real mechanism behind a politician's popularity (emotion and identity), the four markets that split politics from administration, and why someone whose lies show on their face can actually win in politics."
 date: 2026-06-21T19:10:00+09:00
 categories: ["Essays"]
 tags: ["politics", "power", "persuasion", "trust", "leadership", "political psychology"]
-subtitle: "Politics isn't a debating hall of reason — it's a market of emotion. But that market splits into separate functions, and one of its seats can only be filled by someone who can't tell a comfortable lie."
-seoTitle: "The Mechanics of Political Popularity and the Politics-Administration Split — How an Honest Person Wins in Politics"
+subtitle: "Politics isn't a debating hall where you argue with your head. It's a market where feelings are bought and sold. But that market is split into separate boxes, and one of its seats can only be filled by a person whose lies show on their face."
+seoTitle: "The Mechanics of Political Popularity and the Politics vs Administration Split: How an Honest Person Wins in Politics"
 image: /images/col-anatomy-of-politics.jpg
 faq:
   - q: "How does a politician win popularity?"
-    a: "Not through better policy, but through emotion and identity. People respond to 'who's on my side' before 'who's right.' A clear enemy, a story that says 'I know your pain,' an air of conviction, and the signal that 'everyone supports them' are the levers of popularity. But short-term popularity is made by emotion, while long-term survival is decided by results."
+    a: "Not through better policy, but through emotion and identity. People react to 'who's on my side' before 'who's right.' A clear enemy, a story that says 'I know your pain,' an air of certainty, and the signal that 'everyone supports them' are the levers of popularity. But short-term popularity is made by emotion, while long-term survival is decided by results."
   - q: "Can politics and administration be separated?"
-    a: "By function, yes. Over a century ago political science split them: politics decides what to do, administration executes it (Woodrow Wilson, Max Weber). But they're entangled in time — you can't govern if you don't get elected, and you only win again if you govern well. So the skill of winning votes and the skill of delivering results are different, and rarely does one person hold both."
+    a: "By function, yes. About a century ago, political science split them: politics decides what to do, administration carries it out (Woodrow Wilson, Max Weber). But in time they stay tangled. You can't govern if you don't get elected, and you only win again if you govern well. So the skill of winning votes and the skill of delivering results are two different things, and one person rarely holds both."
   - q: "Is someone who can't lie well unsuited to politics?"
-    a: "They're at a disadvantage in the fast bluffing game, but it's a strength in the slow trust game. In a market where everyone can lie, the promise of 'someone whose lies show instantly' becomes an un-fakeable signal. Angela Merkel spent 16 years turning 'trustworthy dullness' into an asset. The answer isn't to learn to bluff — it's to move the game to one you can win."
+    a: "They lose the fast bluffing game, but in the slow trust game it's a strength. In a market where everyone can lie, the promise of 'a person whose lies show instantly' becomes a signal you can't fake. Merkel spent 16 years using 'trustworthy dullness' as an asset. The answer isn't to learn to fake it. It's to move the game to one you can win."
 ---
-![A brass microphone in focus on a dim event-hall podium](/images/col-anatomy-of-politics.jpg)
 
-I wanted to understand politics. Not just how you win, though — I had a particular kind of politics I wanted to do. The kind that gives people something they can actually hold: solid happiness. Winning matters, of course. I just didn't want to win by stirring feelings alone.
+![A brass microphone glowing on a dim event-hall podium](/images/col-anatomy-of-politics.jpg)
 
-The problem is that I'm the worst-suited person for that game. When I say something I don't mean, it shows on my face, dramatically. Hollow praise and diplomatic phrasing don't sit right in my mouth; force them and I'm the first to squirm, and it all leaks out on my face. So I wondered for a long time: how does politics actually run, and is there a seat in it for someone like me?
+When I lie, it's written all over my face. Hollow praise and soulless diplomatic lines don't stick in my mouth. Force them out and I'm the first to feel uncomfortable, and my expression falls apart. And yet I wanted to understand politics. Not simply how to win, but how to do a kind of politics that puts something real into people's hands.
 
-## Politics runs on emotion, not reason
+The problem is that I'm the worst-suited person on earth for that game. So I've wondered for a long time. How does politics actually run? Is there even a seat in it for someone like me? I dug into it. To say the conclusion first: there was one. In a place I didn't expect.
 
-First, something to admit and move past. A politician's popularity isn't decided by the quality of their policy. It's decided by voters' emotion and identity. People respond to "who's on our side" before "who's right."
+## Popularity is made by emotion, not policy
 
-Jonathan Haidt has an image that nails it. Reason is a rider on top of an elephant. The elephant (emotion and intuition) sets the direction first, and the rider (reason) just makes it sound plausible afterward. A seasoned politician aims at the elephant, not the rider. So the levers of popularity are always similar.
+Let's admit this and move on. A politician's popularity doesn't come from good policy. It comes from the voters' emotion and identity. People react to "who's on our side" before "who's right."
 
-They set up a clear enemy. People bind together more tightly around what they oppose than around what they support. And they seize the narrative — "I know your pain, this is its cause, and I will fix it." People understand the world through stories, not data. To that they add a dramatic single event (an accident, a crime, a scandal), repeated until it manufactures a sense of crisis untethered from the statistics. What springs easily to mind, people mistake for common and important. Finally, they perform conviction. People follow the person who is certain over the person who is right. Hesitation reads as weakness, certainty as strength. Say it with conviction and the votes follow even when the content is wrong — that's the structural reason an expert loses to a populist.
+Jonathan Haidt has an image that gets it exactly right. Reason is a rider sitting on an elephant. The direction is set first by the elephant (emotion and intuition). The rider (reason) only makes that choice sound good afterward. A seasoned politician isn't aiming at the rider. They aim at the elephant. So the levers that make popularity are always the same.
 
-It's bitter, but it has to be faced. Short-term popularity is made almost entirely by emotion.
+First, they set up an enemy. A clear enemy. People bind together harder over what they oppose than over what they support. Then they grab the story. "I know your pain. The cause is that guy over there. I'll fix it." Because people understand the world through stories, not data. On top of that, they keep pushing one dramatic event (an accident, a crime, a scandal). Whatever the statistics say, a sense of crisis gets manufactured. That's because people mistake whatever comes easily to mind for something common and important. Finally, they perform certainty. People follow the person who is sure, not the person who is right. Hesitate and you look weak. Speak flatly and firmly and you look strong. Even when the content is wrong, say it with certainty and the votes follow. This is why an expert loses to a populist.
 
-## But I want a politics that delivers solid rewards
+It's bitter, but face it. Short-term popularity is made almost entirely by emotion.
 
-Here's why the path I want is hard. Good politics is structurally at a disadvantage.
+## Good politics is a game that loses on purpose
 
-Results arrive late; emotion is immediate. An education reform, infrastructure, an institutional redesign — the payoff takes years, but the election won't wait that long. And the better the reform, the more fiercely the few who lose out resist, while the many who gain stay indifferent. Pain concentrates; benefit spreads thin. On top of that, truth is complicated and a lie is simple. So anyone trying to do solid politics has to do twice the work — make good policy (the opponent doesn't have to) and translate it into the language of emotion too.
+Here's where it becomes clear why the road I want to walk is so brutal. Good politics is, by its very structure, a game that takes a loss.
 
-That translation has a method. You turn an abstract result into one person's face. "Unemployment down 2%" passes through the head; "the day in the life of Ms. Kim, who got her job back through this policy" lodges in the chest. The brain can't feel the statistic of a million people, but it's overwhelmed by one concrete story. And even in a vast reform, you deliberately place a small, tangible win up front within six months. The elephant needs proof that "this direction is right" before the rider will trust the long vision. You set the enemy differently, too. Where a populist makes a person the enemy (immigrants, elites), you turn that same binding energy toward an impersonal problem — inefficiency, corruption, waste. It's the way to unite without dividing. Lincoln, Mandela, and Lee Kuan Yew all defined the enemy not as a group of humans but as a condition to overcome.
+Results come late and emotion is instant. Education reform, infrastructure, institutional design: it takes years to bear fruit. The election won't wait that long. On top of that, the better the reform, the harder the small group that loses out fights for its life, while the large group that gains doesn't even care. Pain piles up in one spot, and benefit spreads thin across everyone. Add to that: truth is complicated and a lie is simple. So a person trying to do solid politics has to do twice the work of their opponent. Make good policy (the opponent doesn't even have to), and then translate it into the language of emotion on top.
 
-Conviction, too, can be delivered honestly. "I'm convinced this is right. And if I'm wrong, I'll take responsibility." That's the posture of dropping the hesitation while keeping the truth. Repeat the cycle of promising, delivering, and proving, and the reputation that "this person does what they say" compounds. A populist's popularity evaporates easily; trust capital accumulates.
+That translation has a method too. You turn an abstract result into one person's face. "Unemployment down 2%" just grazes the head and passes by. But "a day in the life of Mr. Kim, who got his job back through this policy" lodges in the chest. The human brain can't feel the statistic of a million people, but it crumbles at one person's specific story. And no matter how huge the reform, you deliberately put a small win that people can feel within six months out front. You have to give the elephant proof that "this direction is right" first, before the rider will believe the long vision. You set the enemy differently, too. Where the populist makes a person (immigrants, elites) the enemy, you turn that same uniting energy toward faceless problems like inefficiency, corruption, and waste. It's the way to make people band together without splitting into camps. Lincoln, Mandela, and Lee Kuan Yew all nailed the enemy down not as a group of people but as "a condition to overcome."
 
-## Politics can be separated — four markets
+Certainty, too, can be delivered honestly. "I'm certain this is right. If I'm wrong, I'll take responsibility." It's a stance that throws away the hesitation but keeps the truth. Promise like that, keep it, prove it, and repeat, and the reputation that "this person does what they say" stacks up with compound interest. A populist's popularity flies off fast. Trust capital builds up.
 
-Here I found that political science had already sorted out, a century ago, the thing I'd kept getting confused about. Governing politics and popularity-and-power politics are different jobs, and they really do separate.
+## Winning votes and doing the job well are different things
 
-Woodrow Wilson drew the same line in 1887. Politics is deciding what to do; administration is executing it. Max Weber split it by human type. The politician fights for power and bears responsibility for their decisions; the bureaucrat faithfully executes orders even against their own opinion. The two run on opposite ethics.
+The thing I kept getting confused about, political science had already sorted out a hundred years ago. Governing politics and the politics of winning popularity and power are different jobs. They really do split apart.
 
-Cut it finer and politics is four markets, each trading in a different currency. The market of acquisition (votes — persuasion, emotion), the market of retention that manages the loyalty of core backers, the market of administration that produces actual results, and the market of legitimation that makes people accept "why should I hold power." A cold truth of that second market: a power-holder is loyal first not to the whole public but to the core group that put them in the seat.
+Woodrow Wilson drew the same line in 1887. Politics is deciding what to do, and administration is carrying it out. Max Weber split it by type of person. The politician fights for power and takes responsibility for their own decisions. The bureaucrat faithfully carries out orders even when they disagree. The two run on opposite ethics.
 
-The key is that these markets reward different behavior. Acquisition rewards "promise everything to everyone," while administration rewards "say no, set priorities, and disappoint someone." Mario Cuomo's line compresses it — "You campaign in poetry; you govern in prose." The two markets speak opposite languages. So a genius of the campaign can be a fool of governance, and usually one person doesn't hold both. The realistic answer is clear: pick one core function and fill the rest with people beside you. That's why the leader-and-staff structure became the standard.
+Cut it finer and politics is four markets, each with a different currency.
 
-## Why being unable to fake it is an asset, not a weakness
+- **The market of acquisition**: where you win votes. The currency is persuasion and emotion.
+- **The market of retention**: where you manage the loyalty of your core backers.
+- **The market of administration**: where you actually deliver results.
+- **The market of legitimation**: where you make people accept "why should I be the one to hold power."
 
-So where does someone like me — whose empty words show instantly — belong? I saw it as a weakness for a long time, but flipped over, it was a misplaced asset.
+Here's one cold truth about that second market. A power-holder is, surprisingly, loyal first not to the whole public but to the core group that put them in that seat.
 
-Politics has one fundamental problem. Because anyone can lie, the value of every statement has been flattened. Voters don't take anyone's promise at face value. In exactly this environment, "someone whose lies get exposed instantly" holds something rare: verifiable honesty. For a signal to carry value, the cost of forging it has to be high, and an empty promise anyone can make is worth zero. The promise of someone who can't lie is structurally a more expensive signal. Angela Merkel sat precisely in this seat. Weak on charisma, weak on grand rhetoric, weak on emotional appeal — and she turned that into "trustworthy dullness" as an asset for 16 years.
+The key point is this. These markets reward different behavior. Acquisition rewards "promise everything to everyone," while administration rewards "say no, set priorities, and disappoint someone." Mario Cuomo's line compresses this into a single sentence. "You campaign in poetry, but you govern in prose." The two markets speak opposite languages. So a genius of the campaign can be a fool at governing. Usually one person can't hold both. The answer is clear. Pick one core function, and fill the rest by putting people beside you. That's why the leader-and-staff structure became the standard.
 
-So you shouldn't spend time learning to fake it. You only become a clumsy liar. Instead you drag the game into a kind you can win. A person who can't lie sits down at a bluffing game and gets wrecked, but sit them at a game where everyone plays with cards face-up, and their "my hand is good" becomes the one signal that gets believed. Concrete moves follow. Instead of empty praise ("you're brilliant"), you offer a precise observation ("holding the line on that clause to the end in that negotiation was decisive") — it's true, so your mouth doesn't resist. The seats that genuinely need ceremonial rhetoric, you delegate to a spokesperson or a document. And the words you don't have to say, you don't. "I won't answer that right now" is not a lie. Silence doesn't leak.
+## A promise from someone who can't hide a lie can't be copied
 
-## In the end, campaign in poetry but make your results the poem
+So where should a person like me, whose lies pop up on his face at once, stand? For a long time I only saw it as a weakness. Flip it over, and it was a misplaced asset.
 
-After dissecting politics, the picture that's left is this. Politics separates cleanly by function but is tightly bound by time. If you don't get elected you won't execute a single line of results, and you only win again if you govern well. So the most common reason a capable person fails in politics isn't a lack of ability — it's contempt for the market of acquisition.
+The political market has one basic hole in it. Because anyone can lie, the value of every word has been flattened to zero. Voters don't believe anyone's promise at face value. In exactly this arena, "a person who gets caught the instant he lies" holds something rare. Verifiable honesty. For a signal to carry value, the cost of forging it has to be high, but an empty promise anyone can make is worth zero. The promise of a person who can't lie is, by structure, a more expensive signal. Angela Merkel sat in precisely this seat. Weak on charisma, weak on flashy talk, weak on emotional appeal. She turned that into "trustworthy dullness" and ran it as an asset for 16 years.
 
-My conclusion got simple. I won't try to win the fast bluffing game. There I lose. Instead I bet everything on the slow trust game of promising, delivering, and proving. As Cuomo said, campaign in poetry — but make my poem the results I actually delivered, not words. Not manipulating emotion, but interpreting real results into the language of emotion: that's the road Lincoln and Merkel both took in the end.
+So you shouldn't spend time learning to fake it. You'll only become a clumsy liar. Instead, drag the game into the kind you can win. When a person who can't lie sits down at a bluffing game, it's a massacre. But sit them at a game where everyone plays with cards face up, and their "my hand is good" becomes the one signal that gets believed. Concrete moves follow too.
 
-So if you're thinking about politics now, before polishing your rhetoric, just ask yourself first. Am I a person who wins votes, or a person who delivers results — and if I can't do both, who will I keep beside me? That's where it starts.
+- Instead of empty praise ("you're brilliant"), say a precise observation ("holding the line on that clause to the very end in that negotiation was the decisive move"). It's true, so your mouth doesn't fight it.
+- The seats where ceremonial lines are truly required, hand off to a spokesperson and a document.
+- The words you don't have to say, don't say. "I won't answer that right now" is not a lie. Silence doesn't leak.
+
+## Bet everything on the slow trust game
+
+After dissecting all of politics, the picture left behind is this. Politics splits cleanly by function but is tightly tangled by time. If you don't get elected you can't carry out a single line of results, and you only win again if you govern well. So the most common reason a capable person fails in politics isn't a lack of ability. It's that they looked down on the market of winning votes.
+
+My conclusion got simple. I won't try to win the fast bluffing game. There I lose. Instead I bet everything on the slow trust game of promising, keeping, and proving. As Cuomo said, campaign in poetry, but make my poem the actual results I deliver, not words. It's not manipulating emotion. It's translating real results into the language of emotion. Lincoln and Merkel both walked that road in the end.
+
+So if you're thinking about politics right now, before you polish your way with words, ask yourself first. Am I a person who wins votes, or a person who delivers results? If I can't do both, who will I keep beside me? That's where it starts.

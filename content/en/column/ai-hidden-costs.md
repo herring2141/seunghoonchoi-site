@@ -1,78 +1,81 @@
 ---
-title: "Company AI Isn't Free: Tokens, Hidden Costs, and the Subscription Illusion"
+title: "Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall"
 date: 2026-06-21T17:56:30+09:00
 categories: ["AI"]
 tags: ["AI cost","token cost","productivity","subscription illusion","decision making","workplace automation"]
-subtitle: "The real cost of company AI leaks like electricity behind the wall — tokens, verification time, decision delay. A plain look through one rule: the AI-intervention threshold."
-seoTitle: "The Hidden Costs of Company AI: Tokens, Subscriptions, and a Simple Rule"
+subtitle: "It looks like a flat monthly fee, but the real cost of company AI leaks out like electricity behind the wall. Tokens, verification time, decisions that arrive late: this piece bundles them all into one number called the AI intervention threshold."
+seoTitle: "Hidden Costs of Company AI: Tokens, the Subscription Illusion, and the AI Intervention Threshold"
 image: /images/col-ai-hidden-costs.jpg
 ---
-![Close-up of old analog electricity meter dials in dim light](/images/col-ai-hidden-costs.jpg)
 
-## Like electricity leaking behind the wall
+![Close-up of an old analog electricity meter dial shot in dim light](/images/col-ai-hidden-costs.jpg)
 
-The AI a company runs behaves differently from the old software. With the old kind, you installed one program per seat and a fixed sum left the account each month. Use it a lot or a little, the bill was the same. So nobody really thought about cost.
+## Company AI leaks money every time you use it
 
-AI isn't like that. Every run costs something. Ask a longer question and it costs more. Paste in a whole long document and it costs more again. The more you use it, the more the cost climbs. The trouble is that the cost is invisible.
+When you drop a question into the chat box, no sign pops up on the screen to say money is draining away. So you never notice it leaking.
 
-Think of electricity flowing behind the wall. You can leave the lights on in every room and feel nothing in the moment. Only much later, when the bill arrives, do you realize it was all running. Company AI is the same. The instant you drop a question into the chat box, no meter ticks where you can see it. So it leaks quietly.
+The AI you use at work behaves differently from the old software. Back then you installed one program per seat and a fixed sum left the account each month. Whether you used it a lot or a little, the bill stayed the same. So cost was almost never something you had to think about.
 
-## When it isn't your money, it feels free
+AI is different. Every single run costs money. Ask a longer question and it costs more. Drop in a long document whole and it costs more again. The more you use it, the higher the cost climbs. The trouble is that none of this is visible.
 
-When the bill goes to the company, people treat the resource as free. This is an old story. It's why the office snack jar empties so fast.
+Picture electricity running behind the wall. You can leave the lights on in every room and feel nothing in the moment. Only much later, when the bill arrives, do you realize it was all switched on. Company AI is exactly the same. The instant you throw out a question, nothing shows up on the screen, so it leaks in silence.
 
-But AI is more dangerous than snacks. Snacks are visible. When the jar is empty, everyone knows. Tokens disappear silently behind the screen. You can't watch them drain, so the instinct to conserve never even forms.
+## When it is the company's money, people burn tokens
 
-And everyone defends themselves with the same line: "But it was for work." Early on, that's hard to argue with — it really was for work. But work-related waste is still waste. Money spent in the name of a job doesn't automatically mean the job got done.
+When the bill runs to the company, people use the resource as if it were free. This is nothing new. It is the same reason the office snack jar empties so fast.
 
-## What we quietly let leak
+But AI is more dangerous than snacks. Snacks are visible. When the jar is empty, everyone can see it. Tokens vanish silently behind the screen. You cannot watch them drain, so the urge to cut back never even forms.
 
-Waste doesn't come from grand gestures. It seeps out of small daily habits.
+On top of that, everyone defends themselves with the very same line: "I was using it for work." At first it is hard to argue with, because it really was for work. But waste in the name of work is still waste. Money you let slip away under the excuse of a job does not mean the job got done.
 
-First, using the most expensive top model for trivial things. Cleaning up a sentence in an email, a two-line summary — and we still summon the heaviest model. It's like firing up a full-size sedan every time for a trip a scooter would cover.
+## Five habits that leak money
 
-Second, dumping in the whole thing when the key part would do. You need one paragraph of a report, so you paste the entire PDF. You want one line from a meeting, so you throw in the full transcript. The amount you feed in is the cost, yet everyone loads it all "just in case."
+Waste does not come from grand gestures. It seeps out a little every day from small habits.
 
-Third, infinite regeneration. "A bit better." "Again." "Another version too." The first few rounds genuinely raise quality. Then at some point it slides from quality into taste-play — the output isn't getting better, just coming out different, and we keep running it anyway.
+First, using the most expensive top model for light tasks. Smoothing out a sentence in an email, a two or three line summary: even for these, people summon the heaviest model. It is like firing up a full size sedan every time for a trip a tiny city car could handle.
 
-Fourth, turning an autonomous agent loose for dozens of steps on something a person would finish in ten minutes. We hand it off because it "does everything for you," but every one of those round trips is a cost.
+Second, feeding in the whole thing every time when the key part would do. What you need is one paragraph of a report, but you paste in the entire PDF. You are curious about one line of a meeting, but you throw in the whole transcript. The amount you feed in is the cost, yet everyone loads it all "just in case."
 
-Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a lot is not an achievement. It's just using a lot.
+Third, endless regeneration. "A little better." "Again." "Another version too." The first few rounds genuinely raise the quality. But at some point it slides from quality into a game of taste. The output is not getting better, just coming out different, and you keep running it anyway.
 
-## The shelf life of "I used it for work"
+Fourth, turning an autonomous agent loose for dozens of steps on a task a person could finish in ten minutes. You hand it off because it "does everything for you," but every one of those dozens of round trips is a cost.
 
-"You can't fault me, it was for work" works at first. It doesn't last. A company that brings in AI tends to walk through the same stages.
+Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a lot is not an achievement. It is just using a lot.
 
-First it encourages use. Try it, everyone — fall behind if you don't. Usage explodes. A while later the bill arrives and there's a jolt. From there, the company starts looking at who spends how much, by team, by person, by task.
+## "It was for work" stops working soon
 
-Next come the rules. Cheap model for this, in-house model for that, sign-off required for the other. Finally it looks at outcomes: did spending those tokens actually make the work better? The question shifts — from the early "is this really work?" to the later "is this a reasonable use?"
+"You cannot blame me, it was for work" holds up at first. But it does not last. A company that brings in AI tends to walk through the same stages.
 
-In the end, the pardon stops depending on "was it work-related" and starts depending on "was it spent somewhere worthwhile."
+At first it encourages use. Everyone, give it a try; fall behind if you do not. Then usage explodes. A while later the bill arrives and there is a jolt. From that point the company starts looking at who spends how much, by team, by person, by task.
 
-## The subscription illusion
+Next come the rules. Cheap model for this, in house model for that, sign off required for yet another. Finally it looks at outcomes: did spending those tokens actually make the work better? The question changes. From the early "is this really work?" to the later "is this a reasonable use?"
 
-Many companies, instead of paying per call, use a per-seat subscription chatbot. This setup hides a trap. Ask one more question and the bill doesn't visibly rise. So the extra cost of one more use looks like zero.
+In the end the pardon shifts from "was it work related" to "was it spent somewhere worthwhile."
 
-But "the extra cost looks like zero" and "the organization's cost is zero" are completely different claims. The cost didn't vanish. It just moved.
+## The cost moved onto people's time
 
-Where did it go? Into the seat fee, first. Then it scattered: into the time to read the answer and verify it's right, the time to tidy up context so the AI understands the situation, the decision that runs late because it had to pass through AI, the work of managing it and minding security. A one-line cost called token fees became a many-line cost called human time. It may even have gotten more expensive.
+Instead of paying for what they use, many companies run a per seat subscription chatbot. There is a trap hidden here. Throw out one more question and the bill does not visibly rise. So the extra cost of one more use looks like zero.
 
-## What "put AI on every decision" really means
+But "the extra cost looks like zero" and "the organization's cost is zero" are completely different claims. The cost did not disappear. It only moved.
+
+Where did it go? First, it moved into the per seat subscription fee. Then it scattered: into the time to read the answer and verify it is right, the time to tidy up materials to explain the situation to the AI, the decision that runs late because it had to pass through AI once, the work of managing all of it and minding security. A one line cost called a token fee turned into a many line cost called human time. It may even have gotten more expensive.
+
+## Attach AI only when the payoff is big
 
 So the slogan "let's put AI into every decision," spelled out honestly, becomes "let's attach a cost to every decision."
 
-It helps to keep one simple rule. In this essay I'll call it the AI-intervention threshold — the line that decides whether a given decision gets AI on it or not. The rule is plain: put AI on a decision only when what you gain outweighs what you pay.
+It would help to keep one rule. In this piece I will call it the AI intervention threshold. It is the line that decides whether a given decision gets AI attached or not. The rule is simple. Attach AI only when what you gain from it outweighs what you pay.
 
-On the gain side: better quality, reduced risk, time saved, value you can reuse again and again. On the cost side: tokens, verification time, delay, the prep time to explain the situation, security overhead.
+On the gain side: better quality, lower risk, time saved, value you can reuse again and again. On the cost side: tokens, verification time, delay, the prep time to explain the situation, the security burden.
 
-Then the answer splits. If the stakes are high, the alternatives are many, and the criteria you set will be reused over and over — yes, put AI on it. But if the risk is small, it must be decided right now, the answer is already obvious, and being wrong costs little — a human is faster and cheaper.
+Then the answer splits. If the stakes are high, the choices are many, and you will keep reusing the criteria once you set them, attaching AI is the right call. The other way around, if the risk is small, it has to be decided right now, the answer is already obvious, and being wrong costs little, a person is faster and cheaper.
 
-## The real problem is fake productivity
+## If no decision gets made, the output is just noise
 
-Honestly, the token bill is only the shadow of a bigger problem. The real problem is fake productivity.
+The token bill is really only the shadow of a bigger problem. The real problem is fake productivity.
 
-Suppose you spent all day generating twenty versions, pulling summaries, tidying minutes. But not a single decision got made that day, and nothing got faster. That isn't productivity. It's a stack of digital paper. It looks busy, but nothing moved forward.
+Suppose you spent all day making twenty versions, pulling summaries, tidying up meeting notes. But if not a single decision got made that day, and nothing got faster, that is not productivity. It is just a tall pile of digital paper. It looks busy, but nothing moved forward.
 
-AI earns its keep only when it shrinks the work. If output grew but decisions didn't get any faster, that isn't automation. It's amplified noise — louder, with the work unchanged.
+AI earns its keep only when it shrinks the work. If output grew but decisions did not get any faster, that is not automation. It is louder noise. The volume goes up and the work stays exactly where it was.
 
-So the one who wins in the end isn't the person who uses the most AI. It's the one who gets a better result from fewer tokens. The strong position isn't "I use a lot of AI." It's "I design AI's output-per-cost." The person who stays aware of the electricity leaking behind the wall is the one who ends up working in the brightest room.
+So the one who wins in the end is not the person who uses the most AI. It is the one who pulls a better result out of fewer tokens. The strong position is not "I use a lot of AI" but "I design AI for output per cost." The person who stays aware of the electricity leaking behind the wall is the one who ends up working in the brightest room.
