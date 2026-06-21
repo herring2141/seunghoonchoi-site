@@ -46,6 +46,7 @@
 {{ with .Site.Params.orcid }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.googleScholar }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.github }}{{ $same = $same | append . }}{{ end }}
+{{ with .Site.Params.wikidata }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.instagram }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.twitter }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.threads }}{{ $same = $same | append . }}{{ end }}
@@ -102,13 +103,6 @@
   "sameAs" (printf "https://doi.org/%s" .)
   "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .)
   | jsonify (dict "indent" "  ") | safeJS }}
-</script>
-{{ end }}
-{{- /* FAQPage — generated from front-matter `faq` (list of q/a). Lets AI engines & Google lift Q&A pairs verbatim. */ -}}
-{{ with .Params.faq }}
-{{ $items := slice }}{{ range . }}{{ $items = $items | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}{{ end }}
-<script type="application/ld+json">
-{{ dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{ end }}
 {{- /* GoatCounter analytics — production build only, so local `hugo server` visits aren't counted. */ -}}
