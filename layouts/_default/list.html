@@ -9,6 +9,7 @@
   {{ $cats := slice }}
   {{ range $pages }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
   {{ $cats = ($cats | uniq) }}
+  {{ if in $cats "AI" }}{{ $ordered := slice "AI" }}{{ range $cats }}{{ if ne . "AI" }}{{ $ordered = $ordered | append . }}{{ end }}{{ end }}{{ $cats = $ordered }}{{ end }}
   {{ if gt (len $cats) 1 }}
   <div class="filterbar" data-filter>
     <button class="chip is-active" data-cat="*">{{ i18n "all" }}</button>
