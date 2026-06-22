@@ -5,7 +5,7 @@ title: "研究"
 
 今后，我想用计算材料科学与机器学习，缩小原子尺度特征与真实工艺、性能之间的差距。
 
-[**完整简历（CV）PDF ↗**](/cv/Seunghoon_Choi_CV.pdf)
+[**完整简历（CV）PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## 研究方向
 

@@ -5,7 +5,7 @@ title: "البحث والإنجازات"
 
 في المستقبل أريد أن أواصل بحثًا يقلّص المسافة بين الخصائص على المستوى الذري وبين العمليات والأداء الفعلي، باستخدام علم المواد الحاسوبي وتعلّم الآلة.
 
-[**السيرة الذاتية الكاملة (CV) بصيغة PDF ↗**](/cv/Seunghoon_Choi_CV.pdf)
+[**السيرة الذاتية الكاملة (CV) بصيغة PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## اتجاهات البحث
 

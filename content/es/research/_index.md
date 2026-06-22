@@ -5,7 +5,7 @@ Me interesa encontrar maneras de hacer que los materiales y los procesos de fabr
 
 De aquí en adelante quiero seguir investigando cómo reducir la distancia entre las propiedades a escala atómica y el proceso y el rendimiento reales, usando la ciencia de materiales computacional y el aprendizaje automático.
 
-[**Currículum (CV) completo en PDF ↗**](/cv/Seunghoon_Choi_CV.pdf)
+[**Currículum (CV) completo en PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## Líneas de investigación
 

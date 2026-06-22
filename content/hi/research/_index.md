@@ -5,7 +5,7 @@ title: "अनुसंधान और उपलब्धियाँ"
 
 आगे मैं कंप्यूटेशनल मटेरियल साइंस और मशीन लर्निंग की मदद से परमाणु-स्तर के गुणों और असली प्रक्रिया तथा प्रदर्शन के बीच के अंतर को कम करने का अनुसंधान जारी रखना चाहता हूँ।
 
-[**पूरा रेज़्यूमे (CV) PDF ↗**](/cv/Seunghoon_Choi_CV.pdf)
+[**पूरा रेज़्यूमे (CV) PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## अनुसंधान की दिशा
 

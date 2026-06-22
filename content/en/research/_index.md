@@ -5,7 +5,7 @@ I want to make materials and manufacturing processes more predictable. During my
 
 Going forward, I want to use computational materials science and machine learning to close the gap between atomic-scale features and what actually happens in process and performance.
 
-[**Download full CV (PDF) ↗**](/cv/Seunghoon_Choi_CV.pdf)
+[**Download full CV (PDF) ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## Research Directions
 

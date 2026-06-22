@@ -5,7 +5,7 @@ title: "연구·성과"
 
 앞으로는 계산재료과학과 머신러닝으로 원자 단위 특성과 실제 공정·성능 사이의 간격을 줄이는 연구를 이어가려 합니다.
 
-[**이력서(CV) 전체 PDF ↗**](/cv/Seunghoon_Choi_CV.pdf)
+[**이력서(CV) 전체 PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## 연구 방향
 
