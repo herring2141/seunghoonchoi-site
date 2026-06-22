@@ -48,7 +48,7 @@ Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificia
 
 ## Under Review
 
-- Pilot clinical study of a biomimetic suction patch for transdermal delivery. _Journal of Cosmetic Dermatology_ 심사 중, 2026.
+- Pilot clinical study of a biomimetic suction patch for transdermal delivery. _Journal of Cosmetic Dermatology,_ Under Review, 2026.
 
 ## 특허
 
