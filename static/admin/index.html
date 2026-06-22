@@ -232,7 +232,7 @@
         <div id="list"><p class="empty"><span class="spin"></span> 불러오는 중…</p></div>
       </section>
 
-      <p class="note">언어별 파일을 따로 편집합니다(<b>KO·EN·ZH</b>). <b>섹션 소개</b>(앱·도구/유학·정착 등 랜딩 본문)도 목록에 나오며 <span class="badge-sec" style="margin:0">섹션 소개</span> 배지가 붙습니다. 홈만 제외됩니다. 삭제는 모든 언어 파일을 함께 지웁니다.</p>
+      <p class="note">언어별 파일을 따로 편집합니다(<b>KO·EN·ZH·ES·HI·AR</b>). <b>홈</b>과 <b>섹션 소개</b>(앱·도구/유학·정착 등 랜딩 본문)도 목록에 나오며 <span class="badge-sec" style="margin:0">섹션 소개</span> 배지가 붙습니다. 홈은 숨김·삭제 없이 편집과 검수만 할 수 있습니다.</p>
     </main>
   </div>
 
@@ -380,7 +380,10 @@
     }
 
     /* ---------- list / edit / save / delete ---------- */
-    const SEC_KO = {research:'연구',column:'칼럼',books:'책',literature:'문학집',youtube:'유튜브',apps:'앱',career:'커리어가이드',about:'소개'};
+    const LANGS = ['ko','en','zh','es','hi','ar'];
+    const LANG_RE = LANGS.join('|');
+    const LANG_LABEL = LANGS.map(l => l.toUpperCase()).join('·');
+    const SEC_KO = {home:'홈',research:'연구',column:'칼럼',books:'책',literature:'문학집',youtube:'유튜브',apps:'앱',career:'커리어가이드',about:'소개'};
     let POSTS = [], CUR = null, dirty = false, view = 'edit', rawMode = false, draftTimer = null;
 
     /* 검수 상태를 localStorage에 미러 → 같은 도메인 라이브 사이트가 카드에 '나만 보이는' 배지를 그림.
@@ -403,17 +406,17 @@
         if (r.status === 403) throw new Error('이 계정은 권한이 없습니다(403). 허용 이메일/클라이언트 ID 설정을 확인하세요.');
         if (!r.ok) throw new Error('목록을 가져오지 못했습니다 ('+r.status+').');
         const data = await r.json();
-        const re = /^content\/(en|ko|zh)\/(.+\.md)$/, map = {};
+        const re = new RegExp('^content\\/(' + LANG_RE + ')\\/(.+\\.md)$'), map = {};
         for (const t of (data.tree||[])){
           if (t.type !== 'blob') continue;
           const m = t.path.match(re); if (!m) continue;
-          const rel = m[2]; if (rel === '_index.md') continue; // 홈(루트 _index)만 제외 — 섹션 소개(apps/_index 등)는 편집 허용
-          (map[rel] = map[rel] || { rel, section: rel.split('/')[0], langs:{}, title:null });
+          const rel = m[2], section = rel === '_index.md' ? 'home' : rel.split('/')[0];
+          (map[rel] = map[rel] || { rel, section, langs:{}, title:null });
           map[rel].langs[m[1]] = { path: t.path, sha: t.sha };
         }
         POSTS = Object.values(map).sort((a,b)=>a.rel.localeCompare(b.rel));
         await Promise.all(POSTS.map(async p => {
-          const order = ['ko','en','zh'].filter(l=>p.langs[l]);
+          const order = LANGS.filter(l=>p.langs[l]);
           const titleLang = p.langs.ko ? 'ko' : order[0];
           await Promise.all(order.map(async l => {
             try{ const cr = await api('GET','file',{path:p.langs[l].path}); if (cr.ok){ const cj=await cr.json(); const txt=b64utf8(cj.content);
@@ -438,20 +441,22 @@
         html += `<div class="sec">${SEC_KO[sec]||sec}</div>`;
         bySec[sec].forEach(p=>{
           const idx = POSTS.indexOf(p);
-          const order = ['ko','en','zh'].filter(l=>p.langs[l]);
+          const order = LANGS.filter(l=>p.langs[l]);
           const lbtns = order.map(l=>`<button class="lbtn" data-idx="${idx}" data-lang="${l}">${l.toUpperCase()} 편집</button>`).join('');
           const RVA = {none:'미검수', reviewing:'검수중', done:'검수완료'};
           const revbtns = order.map(l=>{ const s=p.langs[l].status||'none'; return `<button class="lbtn rev rv-${s}" data-rev="${idx}" data-rlang="${l}" title="${l.toUpperCase()} 검수상태 — 클릭하면 미검수→검수중→검수완료 순환">${l.toUpperCase()}: ${RVA[s]}</button>`; }).join('');
           const doneN = order.filter(l=>(p.langs[l].status||'none')==='done').length;
           const revBadge = doneN===order.length ? '<span class="badge-rev">검수완료</span>' : (doneN===0 ? '<span class="badge-unrev">미검수</span>' : `<span class="badge-partial">검수완료 ${doneN}/${order.length}</span>`);
-          const secIntro = /\/_index\.md$/.test(p.rel) ? '<span class="badge-sec">섹션 소개</span>' : '';
+          const isHome = p.rel === '_index.md';
+          const secIntro = isHome ? '<span class="badge-sec">홈</span>' : (/\/_index\.md$/.test(p.rel) ? '<span class="badge-sec">섹션 소개</span>' : '');
           const badge = secIntro + (p.hidden ? '<span class="badge-hidden">숨김</span>' : '') + revBadge;
-          const hideBtn = `<button class="lbtn" style="background:#FFF3D9;color:#8a6d1f" data-hide="${idx}">${p.hidden?'표시':'숨기기'}</button>`;
+          const hideBtn = isHome ? '' : `<button class="lbtn" style="background:#FFF3D9;color:#8a6d1f" data-hide="${idx}">${p.hidden?'표시':'숨기기'}</button>`;
+          const delBtn = isHome ? '' : `<button class="lbtn" style="background:#FDECEA;color:var(--danger)" data-del="${idx}">삭제</button>`;
           html += `<div class="post${p.hidden?' is-hidden':''}"><div class="post__main">
               <div class="post__title">${p.title?escapeHtml(p.title):'(제목 없음)'}${badge}</div>
               <div class="post__path">${escapeHtml(p.rel)}</div>
               <div class="editbtns" style="margin-top:7px"><span style="font-size:.74rem;color:var(--muted);align-self:center">검수:</span>${revbtns}</div></div>
-            <div class="editbtns">${lbtns}${hideBtn}<button class="lbtn" style="background:#FDECEA;color:var(--danger)" data-del="${idx}">삭제</button></div></div>`;
+            <div class="editbtns">${lbtns}${hideBtn}${delBtn}</div></div>`;
         });
       });
       list.innerHTML = html;
@@ -463,10 +468,11 @@
 
     async function toggleHide(idx, btn){
       const p = POSTS[idx]; const hide = !p.hidden;
-      if(!confirm(hide ? `"${p.title||p.rel}" 을(를) 공개 사이트에서 숨길까요?\n모든 언어(KO·EN·ZH)에서 숨겨지고, 관리자 페이지에서만 보입니다.` : `"${p.title||p.rel}" 을(를) 다시 공개할까요?`)) return;
+      if(p.rel === '_index.md') return;
+      if(!confirm(hide ? `"${p.title||p.rel}" 을(를) 공개 사이트에서 숨길까요?\n모든 언어(${LANG_LABEL})에서 숨겨지고, 관리자 페이지에서만 보입니다.` : `"${p.title||p.rel}" 을(를) 다시 공개할까요?`)) return;
       const old = btn.textContent; btn.disabled=true; btn.innerHTML='<span class="spin"></span>';
       try{
-        for(const l of ['ko','en','zh'].filter(l=>p.langs[l])){
+        for(const l of LANGS.filter(l=>p.langs[l])){
           const f = p.langs[l];
           const gr = await api('GET','file',{path:f.path}); if(!gr.ok) throw new Error(l.toUpperCase()+' 읽기 실패('+gr.status+')');
           const gj = await gr.json(); const raw = b64utf8(gj.content);
@@ -632,6 +638,7 @@
 
     async function delPost(idx, btn){
       const p = POSTS[idx];
+      if(p.rel === '_index.md') return;
       const langsList = Object.keys(p.langs).map(l=>l.toUpperCase()).join(' + ');
       if (!confirm(`정말 삭제할까요?\n\n${p.title||p.rel}\n(${langsList} 모두 삭제됩니다. 되돌리려면 GitHub 기록에서 복구.)`)) return;
       btn.disabled=true; btn.innerHTML='<span class="spin"></span>';
