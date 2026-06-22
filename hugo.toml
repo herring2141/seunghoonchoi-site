@@ -106,7 +106,28 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     [languages.es.params]
       role = "Ingeniero · Creador de contenido"
       tagline = "Aclaro lo que aprendí con dificultad, para que el siguiente avance más fácil."
-      description = "Seunghoon Choi — ingeniero y creador de contenido. Investigación, ensayos, apps y guías, todo en un solo lugar."
+      description = "Seunghoon Choi · ingeniero y creador de contenido. Investigación, ensayos, apps y guías, todo en un solo lugar."
+  [languages.hi]
+    label = "हिन्दी"
+    locale = "hi-IN"
+    contentDir = "content/hi"
+    weight = 5
+    title = "Seunghoon Choi"
+    [languages.hi.params]
+      role = "इंजीनियर · कंटेंट क्रिएटर"
+      tagline = "जो रास्ता मैंने मुश्किल से पार किया, उसे मैं आसान बनाता हूँ, ताकि अगला व्यक्ति कम भटके."
+      description = "Seunghoon Choi · इंजीनियर और कंटेंट क्रिएटर. शोध, लेख, ऐप्स और गाइड, सब एक ही जगह."
+  [languages.ar]
+    label = "العربية"
+    locale = "ar"
+    languagedirection = "rtl"
+    contentDir = "content/ar"
+    weight = 6
+    title = "Seunghoon Choi"
+    [languages.ar.params]
+      role = "مهندس · صانع محتوى"
+      tagline = "أُمهّد الطريق الذي قطعته بصعوبة، ليسير عليه من يأتي بعدي بسهولة أكبر."
+      description = "Seunghoon Choi · مهندس وصانع محتوى. الأبحاث والمقالات والتطبيقات والأدلة في مكان واحد."
 
 # Primary navigation is defined in layouts/partials/header.html with hover
 # dropdowns (홈 · 연구 · 글▾[칼럼·책·문학집] · 유튜브 · 자료▾[앱·커리어가이드] · 소개).

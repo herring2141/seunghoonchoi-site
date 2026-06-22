@@ -1,0 +1,129 @@
+# Navigation (keyed by menu identifier)
+[research]
+other = "शोध और उपलब्धियाँ"
+# parent dropdown labels
+[writing]
+other = "लेखन"
+[resources]
+other = "संसाधन"
+# leaf sections
+[column]
+other = "कॉलम"
+[books]
+other = "किताबें"
+[literature]
+other = "साहित्य"
+[youtube]
+other = "यूट्यूब"
+[apps]
+other = "ऐप और टूल"
+[career]
+other = "विदेश में पढ़ाई और बसना"
+[about]
+other = "परिचय"
+
+# UI
+[home]
+other = "होम"
+[latest]
+other = "नए लेख"
+[read_more]
+other = "पढ़ें"
+[view_all]
+other = "सभी देखें"
+[no_posts]
+other = "अभी कोई लेख नहीं है। जल्द ही जुड़ेंगे।"
+[posted_on]
+other = "लिखा गया"
+[categories]
+other = "श्रेणियाँ"
+[tags]
+other = "टैग"
+[all]
+other = "सभी"
+[contact]
+other = "संपर्क करें"
+[connect_linkedin]
+other = "लिंक्डइन पर जुड़ें ↗"
+[email_university]
+other = "विश्वविद्यालय"
+[email_personal]
+other = "निजी"
+[skip_to_content]
+other = "मुख्य सामग्री पर जाएँ"
+[explore]
+other = "देखें"
+[reading_in]
+other = "कोरियाई में पढ़ रहे हैं"
+[switch_lang]
+other = "English"
+[footer_rights]
+other = "सर्वाधिकार सुरक्षित।"
+[search_placeholder]
+other = "खोजें…"
+[by]
+other = "लेखक"
+[author_name]
+other = "Seunghoon Choi"
+[cite_this]
+other = "इस लेख को उद्धृत करें"
+[cite_copy]
+other = "उद्धरण कॉपी करें"
+[cite_copied]
+other = "कॉपी हो गया!"
+[copy_source]
+other = "स्रोत"
+[rf_heading]
+other = "प्रमुख शोध"
+[rf_gripper]
+other = "ऑक्टोपस से प्रेरित सॉफ्ट ग्रिपर"
+[rf_electrode]
+other = "सूखे और गीले माहौल के लिए EMG चिपकने वाला इलेक्ट्रोड"
+[rf_plant]
+other = "पौधे की पत्ती पर हाइड्रोजेल इलेक्ट्रोड"
+[dir_research]
+other = "शोध पत्र, पेटेंट और कंप्यूटेशनल मटेरियल्स शोध"
+[dir_writing]
+other = "कॉलम, निबंध, किताबें और साहित्य"
+[dir_youtube]
+other = "वीडियो"
+[dir_apps]
+other = "खुद बनाए हुए मुफ़्त टूल"
+[dir_career]
+other = "विदेश में पढ़ाई और अमेरिका में बसने की व्यावहारिक गाइड"
+[dir_about]
+other = "शिक्षा, अनुभव और संपर्क"
+
+[profile]
+other = "प्रोफ़ाइल"
+
+[cta_writing]
+other = "लेख पढ़ें"
+[cta_tools]
+other = "बनाए हुए टूल"
+[cta_research]
+other = "शोध और उपलब्धियाँ"
+
+[toc_title]
+other = "विषय सूची"
+[more_posts]
+other = "इसी विषय पर और देखें"
+
+[brand]
+other = "Seunghoon Choi"
+
+[cta_cv]
+other = "बायोडाटा (CV) डाउनलोड करें ↓"
+
+[cta_contact]
+other = "साथ काम करने के लिए संपर्क करें"
+
+[copied_email]
+other = "ईमेल कॉपी हो गया"
+
+[faq_title]
+other = "अक्सर पूछे जाने वाले सवाल"
+[written_by]
+other = "लेखक"
+[author_bio]
+other = "मैं कंप्यूटेशनल मटेरियल्स का शोधकर्ता हूँ और फ्लोरिडा विश्वविद्यालय (UF) में पीएचडी कर रहा हूँ। बैटरी उत्पादन के काम और मटेरियल्स शोध से गुज़रने के बाद, अब मैं यह जाँचता और लिखता हूँ कि AI के दौर में एक आम इंसान कैसे टिक सकता है। मैं सत्ता से ज़्यादा ढाँचे पर, अंदाज़े से ज़्यादा मॉडल पर, और मेहनत से ज़्यादा सिस्टम पर भरोसा करता हूँ।"

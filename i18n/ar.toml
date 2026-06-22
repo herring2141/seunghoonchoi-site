@@ -1,0 +1,129 @@
+# Navigation (keyed by menu identifier)
+[research]
+other = "الأبحاث والإنجازات"
+# parent dropdown labels
+[writing]
+other = "الكتابة"
+[resources]
+other = "الموارد"
+# leaf sections
+[column]
+other = "المقالات"
+[books]
+other = "الكتب"
+[literature]
+other = "الأعمال الأدبية"
+[youtube]
+other = "يوتيوب"
+[apps]
+other = "التطبيقات والأدوات"
+[career]
+other = "الدراسة بالخارج والاستقرار"
+[about]
+other = "نبذة"
+
+# UI
+[home]
+other = "الرئيسية"
+[latest]
+other = "أحدث المقالات"
+[read_more]
+other = "اقرأ المزيد"
+[view_all]
+other = "عرض الكل"
+[no_posts]
+other = "لا توجد مقالات بعد. سننشرها قريبًا."
+[posted_on]
+other = "نُشر في"
+[categories]
+other = "التصنيفات"
+[tags]
+other = "الوسوم"
+[all]
+other = "الكل"
+[contact]
+other = "تواصل معي"
+[connect_linkedin]
+other = "تواصل عبر لينكدإن ↗"
+[email_university]
+other = "الجامعة"
+[email_personal]
+other = "شخصي"
+[skip_to_content]
+other = "انتقل إلى المحتوى"
+[explore]
+other = "تصفّح"
+[reading_in]
+other = "أنت تقرأ بالعربية"
+[switch_lang]
+other = "English"
+[footer_rights]
+other = "جميع الحقوق محفوظة."
+[search_placeholder]
+other = "ابحث…"
+[by]
+other = "بقلم"
+[author_name]
+other = "سيونغ هون تشوي"
+[cite_this]
+other = "اقتبس هذه المقالة"
+[cite_copy]
+other = "نسخ الاقتباس"
+[cite_copied]
+other = "تم النسخ!"
+[copy_source]
+other = "المصدر"
+[rf_heading]
+other = "أبرز الأبحاث"
+[rf_gripper]
+other = "ماسك ناعم مستوحى من الأخطبوط"
+[rf_electrode]
+other = "قطب لاصق لتخطيط العضلات في البيئات الجافة والرطبة"
+[rf_plant]
+other = "قطب هيدروجيلي على أوراق النبات"
+[dir_research]
+other = "أبحاث في الأوراق العلمية وبراءات الاختراع والمواد الحاسوبية"
+[dir_writing]
+other = "مقالات ومقالات قصيرة وكتب وأعمال أدبية"
+[dir_youtube]
+other = "مقاطع فيديو"
+[dir_apps]
+other = "أدوات مجانية صنعتها بنفسي"
+[dir_career]
+other = "دليل عملي للدراسة بالخارج والاستقرار في أمريكا"
+[dir_about]
+other = "السيرة والخبرة والتواصل"
+
+[profile]
+other = "الملف الشخصي"
+
+[cta_writing]
+other = "اقرأ المقالات"
+[cta_tools]
+other = "أدوات صنعتها"
+[cta_research]
+other = "الأبحاث والإنجازات"
+
+[toc_title]
+other = "المحتويات"
+[more_posts]
+other = "مزيد من المقالات في الموضوع نفسه"
+
+[brand]
+other = "سيونغ هون تشوي"
+
+[cta_cv]
+other = "حمّل السيرة الذاتية ↓"
+
+[cta_contact]
+other = "للتعاون والاستفسار"
+
+[copied_email]
+other = "تم نسخ البريد الإلكتروني"
+
+[faq_title]
+other = "الأسئلة الشائعة"
+[written_by]
+other = "بقلم"
+[author_bio]
+other = "باحث في المواد الحاسوبية وطالب دكتوراه في جامعة فلوريدا (UF). عملت في مصانع البطاريات وفي أبحاث المواد، وأركّز الآن على تجربة وتوثيق كيف يمكن للفرد أن ينجح في عصر الذكاء الاصطناعي. أؤمن بالبنية أكثر من السلطة، وبالنماذج أكثر من الحدس، وبالأنظمة أكثر من بذل الجهد وحده."
