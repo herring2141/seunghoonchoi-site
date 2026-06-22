@@ -11,11 +11,12 @@
 
   var titleEl = document.querySelector('.post__title');
   var subEl = document.querySelector('.post__subtitle');
-  var bodyEl = document.querySelector('.post__body');
-  if (!bodyEl && !titleEl) return; // 편집 대상 없는 페이지(목록/홈)면 버튼 안 만듦
-  // 본문에 raw HTML(앱 카드/시/표 등)이 있으면 본문 인라인 편집은 위험 → 제목/부제만
-  var bodyHasRawHtml = bodyEl ? !!bodyEl.querySelector('.appcard, .poem, table, iframe, .cta, script, style') : true;
-  var bodyEditable = bodyEl && !bodyHasRawHtml;
+  var bodyEl = document.querySelector('.post__body') || document.querySelector('.home-hero__intro');
+  if (!bodyEl && !titleEl) return; // 편집 대상 없는 페이지(목록 등)면 버튼 안 만듦
+  // 본문은 항상 인라인 편집. 단 raw HTML 특수 블록(앱 카드·시·표·통계)은 편집을 잠가 구조를 보호하고 저장 때 그대로 보존(turndown keep).
+  var SPECIAL = '.appcard, .poem, table, iframe, .stats';
+  var bodyHasRawHtml = bodyEl ? !!bodyEl.querySelector('.appcard, .poem, table, iframe, .cta, script, style, .stats') : false;
+  var bodyEditable = !!bodyEl;
 
   /* ---- front-matter helpers (단위테스트 11/11) ---- */
   function splitDoc(raw){ if(!/^---\r?\n/.test(raw)) return {hasFm:false,fmFull:'',body:raw}; var m=raw.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n/); if(!m) return {hasFm:false,fmFull:'',body:raw}; return {hasFm:true,fmFull:m[0],body:raw.slice(m[0].length)}; }
@@ -93,9 +94,11 @@
       editing = true; document.body.classList.add('sc-editing');
       if (titleEl){ titleEl.setAttribute('data-sc-edit','title'); titleEl.contentEditable = 'true'; }
       if (subEl){ subEl.setAttribute('data-sc-edit','sub'); subEl.contentEditable = 'true'; }
-      if (bodyEditable){ bodyEl.setAttribute('data-sc-edit','body'); bodyEl.contentEditable = 'true'; }
+      if (bodyEditable){ bodyEl.setAttribute('data-sc-edit','body'); bodyEl.contentEditable = 'true';
+        try{ bodyEl.querySelectorAll(SPECIAL).forEach(function(el){ el.contentEditable='false'; }); }catch(e){} // 특수 블록은 잠가서 구조 보호
+      }
       var hint = document.getElementById('scHint');
-      if (!bodyEditable && bodyEl){ hint.textContent = '이 글은 특수 서식이 있어 본문은 잠갔습니다. 제목·부제만 인라인 편집(본문은 /admin/에서).'; hint.classList.add('show'); }
+      if (bodyHasRawHtml){ hint.textContent = '앱 카드·표 같은 특수 블록은 잠겨 있고 그대로 보존됩니다. 글·문단을 직접 고치세요.'; hint.classList.add('show'); }
       msg('점선 영역을 직접 고치세요 · ⌘/Ctrl+S 저장');
       // 자동 포커스 안 함 — 편집 진입 시 화면이 맨 위(제목)로 튀지 않게. 보던 자리에서 고칠 영역을 직접 클릭해 이어 편집.
     }).catch(function(e){ msg(''); document.getElementById('scBar').classList.remove('show'); alert(e.message); });
@@ -117,7 +120,8 @@
     if (!CUR) return;
     var sv = document.querySelector('#scBar .save'); sv.disabled = true; var old = sv.textContent; sv.textContent = '저장 중…';
     ensureTurndown().then(function(){
-      if (!td) td = new window.TurndownService({ headingStyle:'atx', bulletListMarker:'-', codeBlockStyle:'fenced', emDelimiter:'_', hr:'---' });
+      if (!td){ td = new window.TurndownService({ headingStyle:'atx', bulletListMarker:'-', codeBlockStyle:'fenced', emDelimiter:'_', hr:'---' });
+        td.keep(function(node){ try{ return node.nodeType===1 && node.matches('.appcard, .poem, .cta, .stats, table, iframe, script, style'); }catch(e){ return false; } }); }
       // 본문 잠긴 글이면 원본 raw가 필요 → 없으면 다시 GET
       if (!bodyEditable && !CUR._raw){
         return api('GET','file',{path:CFG.path}).then(function(r){return r.json();}).then(function(j){ CUR._raw=b64utf8(j.content); CUR.sha=j.sha; });

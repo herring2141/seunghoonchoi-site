@@ -329,7 +329,8 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 .hsec__h .amp{font-family:"Kumbh Sans",var(--sans);font-style:italic;font-weight:400;font-size:.86em;color:var(--copper);padding:0 .02em}
 .hsec__more{font-size:.92rem;color:var(--muted);white-space:nowrap}
 .hsec__more:hover{color:var(--copper)}
-.hsec--contact .contact-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:2px 56px;max-width:760px}
+.hsec--contact .hsec__head{justify-content:center;text-align:center}
+.hsec--contact .contact-list{list-style:none;margin:0 auto;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:2px 56px;max-width:760px}
 .contact-list li{display:flex;align-items:baseline;justify-content:space-between;gap:14px;padding:13px 0;border-bottom:1px solid var(--hair);font-size:.95rem}
 .contact-list span{color:var(--muted);flex:none}
 .contact-list a{color:var(--navy);font-weight:500;word-break:keep-all;text-align:right}
