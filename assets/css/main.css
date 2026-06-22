@@ -262,6 +262,11 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .about-portrait img{display:block;width:100%;height:auto;border-radius:14px;margin:0;box-shadow:none}
 html[dir="rtl"] .about-portrait{float:left;margin:.15em 1.8rem 1.1em 0}
 @media (max-width:560px){.about-portrait,html[dir="rtl"] .about-portrait{float:none;width:min(78%,260px);margin:0 auto 1.4rem}}
+/* same small float when the portrait is a bare markdown image (no figure wrapper, e.g. after inline-editing the about body) */
+.post__body p:has(> img[src*="about-portrait"]){margin:0}
+.post__body p img[src*="about-portrait"]{float:right;width:min(46%,300px);height:auto;margin:.15em 0 1.1em 1.8rem}
+html[dir="rtl"] .post__body p img[src*="about-portrait"]{float:left;margin:.15em 1.8rem 1.1em 0}
+@media (max-width:560px){.post__body p img[src*="about-portrait"]{float:none;display:block;width:min(78%,260px);margin:0 auto 1.4rem}}
 .lede blockquote,.post__body blockquote{border-left:3px solid var(--copper);background:linear-gradient(90deg,rgba(184,115,51,.06),transparent);padding:14px 20px;margin:1.3em 0;font-family:var(--serif);font-style:italic;color:var(--ink);border-radius:0 8px 8px 0}
 /* card titles pick up navy on hover, copper meta already */
 .card__title a:hover{color:var(--copper)}
