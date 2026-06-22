@@ -58,8 +58,16 @@
   function clearToken(){ ID_TOKEN = null; TOKEN_EXP = 0; try{ localStorage.removeItem('sc_edit_tok'); }catch(e){} }
   function gisCallback(resp){
     try { var c = decodeJwt(resp.credential);
-      if ((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true'){ saveToken(resp.credential, c.exp); onReady(); if (pendingAuth){ pendingAuth.resolve(); pendingAuth=null; } }
-      else { if (pendingAuth){ pendingAuth.reject(new Error('이 계정('+(c.email||'?')+')은 권한이 없습니다 — '+ALLOWED+' 로 로그인하세요')); pendingAuth=null; } }
+      if (!((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true')){
+        if (pendingAuth){ pendingAuth.reject(new Error('이 계정('+(c.email||'?')+')은 권한이 없습니다 — '+ALLOWED+' 로 로그인하세요')); pendingAuth=null; }
+        return;
+      }
+      var done = function(){ onReady(); if (pendingAuth){ pendingAuth.resolve(); pendingAuth=null; } };
+      // 구글 ID 토큰(약 1시간)을 30일 세션 토큰으로 교환(Worker /session). 실패하면 구글 토큰 그대로 사용(하위호환 — 구 Worker에서도 동작).
+      fetch(WORKER + '/session', { method:'POST', headers:{ 'Authorization':'Bearer '+resp.credential } })
+        .then(function(r){ return r.ok ? r.json() : null; })
+        .then(function(j){ if (j && j.session){ saveToken(j.session, j.exp); } else { saveToken(resp.credential, c.exp); } done(); })
+        .catch(function(){ saveToken(resp.credential, c.exp); done(); });
     } catch(e){ if (pendingAuth){ pendingAuth.reject(e); pendingAuth=null; } }
   }
   function ensureAuth(){
