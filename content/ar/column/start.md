@@ -4,6 +4,8 @@ date: 2026-06-14
 categories: ["مقالة"]
 tags: ["البداية"]
 subtitle: "ما الغرض من هذا المكان"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![شخص يكتب بخط اليد في دفتر](/images/col-start.jpg)
