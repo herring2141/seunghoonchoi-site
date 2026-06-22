@@ -1,5 +1,5 @@
 ---
-title: "자세한 프롬프트가 우리 AI 의 창의력을 막는다"
+title: "자세한 프롬프트가 AI 의 창의력을 막는다"
 seoTitle: "AI PPT·엑셀 검수 도구가 결과물 망치는 이유"
 date: 2026-06-16
 categories: ["AI"]
