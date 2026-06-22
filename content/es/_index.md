@@ -1,7 +1,7 @@
 ---
 title: "Seunghoon Choi"
 ---
-Ordeno los problemas complejos con la forma de pensar de un ingeniero.<br>Existo para que otras personas se pierdan menos y tomen buenas decisiones más rápido.
+Nada importa más que la autenticidad.
 
 <div class="stats">
   <div class="stat"><span class="stat__num">140+</span><span class="stat__label">Citas</span></div>
