@@ -1,6 +1,10 @@
 ---
 title: "关于"
 ---
+<figure class="about-portrait">
+  <img src="/images/about-portrait.jpg" alt="崔胜勋" width="820" height="1093" loading="eager">
+</figure>
+
 我是一名工程师，写文章、做工具。我把自己亲身经历和钻研过的复杂而琐碎的问题——材料、电池工艺、AI、在美国读研落地——整理成别人能直接拿来用的文章和应用。从 2026 年起，我将在佛罗里达大学 (University of Florida) 攻读计算材料科学博士。
 
 从微结构经过设计的材料、界面、软物质，到电池量产现场——我在学界与产业之间往来，始终抓住同一个问题：结构与工艺如何决定性能。

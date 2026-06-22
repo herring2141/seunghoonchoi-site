@@ -1,6 +1,10 @@
 ---
 title: "Acerca de"
 ---
+<figure class="about-portrait">
+  <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">
+</figure>
+
 Antes que ingeniero, soy alguien que crea contenido. Cuando me toca enfrentar de primera mano problemas complicados y tediosos, como los materiales, los procesos de fabricación de baterías, la inteligencia artificial o la adaptación a un posgrado en Estados Unidos, los ordeno en textos y aplicaciones que otras personas pueden reutilizar. A partir de 2026 empiezo el doctorado en ciencia de materiales computacional en la Universidad de Florida (UF).
 
 Pero en realidad, más que el título y la investigación

@@ -1,6 +1,10 @@
 ---
 title: "소개"
 ---
+<figure class="about-portrait">
+  <img src="/images/about-portrait.jpg" alt="최승훈" width="820" height="1093" loading="eager">
+</figure>
+
 저는 공학자이기 전에 컨텐츠를 만드는 사람입니다. 특히 소재·배터리 공정·AI·미국 대학원 정착처럼 복잡하고 귀찮은 문제를 직접 겪으면, 다른 사람이 다시 쓸 수 있는 글과 앱으로 정리합니다. 2026년부터는 플로리다대학교(UF)에서 계산재료과학 박사과정을 시작합니다.
 
 근데 사실 학위와 연구보다는 
