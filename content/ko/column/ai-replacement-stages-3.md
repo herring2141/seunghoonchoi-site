@@ -64,5 +64,5 @@ faq:
 **연재 〈AI 일자리 대체 16단계〉 · 3편**
 
 - 전체 지도: [AI는 인간의 일을 어떤 순서로 대체하는가 (전체 지도)](/ko/column/ai-replacement-stages/)
-- 이전 글: [몸과 ‘감(感)‘도 결국 대체된다 (6~8단계)](/ko/column/ai-replacement-stages-2/)
+- 이전 글: [몸과 ‘감(感)’도 결국 대체된다 (6~8단계)](/ko/column/ai-replacement-stages-2/)
 - 다음 글: [소유도 무너지고 마지막 변수는 ‘정렬’ (15~16단계)](/ko/column/ai-replacement-stages-4/)

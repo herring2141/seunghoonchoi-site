@@ -1,5 +1,5 @@
 ---
-title: "Ride an Exponential Curve With Labor, and Your Bank Account Stays Linear"
+title: "Labor Income Alone Won't Make You Rich: How to Grow Assets on an Exponential Curve"
 description: "Beating a more talented person isn't about doing the work better. It's about climbing onto a curve that grows exponentially. How to tell what is exponential and what is fake, and why the way you climb on decides whether the gains reach you."
 date: 2026-06-21T19:20:00+09:00
 categories: ["Essays"]

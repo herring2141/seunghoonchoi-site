@@ -1,5 +1,5 @@
 ---
-title: "Si subes a la curva exponencial con tu trabajo, tu cuenta crece de forma lineal"
+title: "Solo con ingresos laborales no te haces rico: cómo hacer crecer activos en una curva exponencial"
 description: "La forma de ganarle a alguien con más talento no es hacerlo mejor, sino subirte a una curva que crece de forma exponencial. Cómo distinguir lo que es exponencial de lo que es falso, y por qué la manera en que te subes decide cuánto ganas."
 date: 2026-06-21T19:20:00+09:00
 categories: ["Ensayo"]
