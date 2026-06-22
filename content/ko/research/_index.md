@@ -46,7 +46,7 @@ Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificia
 3.  **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.** Subi Jeon†, **Seunghoon Choi**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. _International Journal of Internet, Broadcasting and Communication_ 18(1), 2026, 274–284. — **공동 1저자**
 4.  **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.** Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. _International Journal of Advanced Smart Convergence_ 15(1), 2026, 241–253. — **공동 1저자**
 
-## 심사 중 원고
+## Under Review
 
 - Pilot clinical study of a biomimetic suction patch for transdermal delivery. _Journal of Cosmetic Dermatology_ 심사 중, 2026.
 
