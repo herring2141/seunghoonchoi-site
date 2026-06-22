@@ -17,7 +17,7 @@ faq:
   - q: "Isn't the difference between 'holding the keys' and 'being protected' really just having more money or less?"
     a: "Money helps, but that's not the core. The difference is whether you have room to act for yourself when things go wrong. Someone who holds the decision and reads the situation has a handhold to grab if they slip. Someone who only takes what they're given just loses the moment the supplier pulls back, with nothing they can do alone. So holding the keys means more than money. It means an eye on the situation, a say in the decisions, and something of your own that stays in your hands as a right."
 ---
-![What to do in the age of AI: bet on the seat, not the skill](/images/col-ai-replacement-stages.jpg)
+![What to do in the age of AI: bet on the seat, not the skill](/images/col-ai-replacement-stages-5.jpg)
 
 Type a sentence into a translation app and decent English comes out in seconds. If you spent years grinding away at English, it stings. All that time, done in one button press. And the skill you built over a lifetime is now heading down the exact same road.
 

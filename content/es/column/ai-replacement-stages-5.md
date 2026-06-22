@@ -17,7 +17,7 @@ faq:
   - q: "La diferencia entre 'quien tiene la llave' y 'quien es protegido' ¿no es, al final, tener más o menos dinero?"
     a: "El dinero ayuda, pero no es lo esencial. La diferencia está en si, cuando algo sale mal, te queda margen para reaccionar por tu cuenta. Quien tiene la decisión y conoce la situación, aunque dé un paso en falso, tiene algo a lo que agarrarse para volver a levantarse. Quien solo recibe lo que le dan, si el que provee lo retira, pierde y ya está, no puede hacer nada por sí mismo. Por eso, tener la llave no es solo dinero, sino tener a la vez una mirada que entiende la situación, la decisión en tus manos y algo propio que te queda como un derecho."
 ---
-![Qué hacer en la era de la IA: apuesta por el puesto, no por la habilidad](/images/col-ai-replacement-stages.jpg)
+![Qué hacer en la era de la IA: apuesta por el puesto, no por la habilidad](/images/col-ai-replacement-stages-5.jpg)
 
 Pones una frase en una app de traducción y en pocos segundos sale un inglés que parece correcto. Si eres de los que pasó años estudiando inglés, eso duele. Todo ese tiempo largo se resuelve con un solo botón. Esa habilidad que tú construiste durante toda tu vida va ahora por el mismo camino.
 

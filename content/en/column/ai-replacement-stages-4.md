@@ -17,7 +17,7 @@ faq:
   - q: "So in the end, are people finished?"
     a: "There's no settled ending. Salvation isn't guaranteed, and ruin isn't decided either. The honest answer is the plain, unshrinkable uncertainty you face before a hard problem. But in front of that uncertainty, what you have to do actually gets simpler. The branches where an individual's choice means nothing give the same result no matter what you do, so you can set them aside. And across the branches where choice does matter, what you have to do is nearly the same. The next piece covers exactly that overlapping choice: how to bet on a position instead of on skill."
 ---
-![Your House Deed Is Just a Sheet of Paper: The Last Two Stages of the AI Age (Stages 15 and 16)](/images/col-ai-replacement-stages.jpg)
+![Your House Deed Is Just a Sheet of Paper: The Last Two Stages of the AI Age (Stages 15 and 16)](/images/col-ai-replacement-stages-4.jpg)
 
 Say you buy a house. Your name goes on the deed and the key is in your hand. But what actually makes that house yours? Not because the bricks recognize you. If someone walks in and takes over, the police come and the court drags them out. A society that has agreed to do that for you is standing behind it. So ownership isn't a fact carved into an object. It's a promise that everyone has agreed to keep.
 

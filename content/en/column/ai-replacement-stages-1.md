@@ -17,7 +17,7 @@ faq:
   - q: "Isn't it safer if a person checks it one more time?"
     a: "Usually yes, but it flips when two things happen together: when AI gets it wrong less often than a person, and when the work can be undone even if it goes wrong. In that case a human review becomes noise. It fixes perfectly good results for no reason or just slows things down. But this is limited to work that competes on accuracy. Oversight that decides responsibility or weighs what matters lasts much longer."
 ---
-![The jobs AI replaces first, the brain work with set answers goes first (Stages 1 to 5)](/images/col-ai-replacement-stages.jpg)
+![The jobs AI replaces first, the brain work with set answers goes first (Stages 1 to 5)](/images/col-ai-replacement-stages-1.jpg)
 
 What you're good at is about to become common. And it goes first. There's a pattern in the order AI takes over human work, and the ones standing at the very front of the line are, of all things, the jobs with a set answer.
 

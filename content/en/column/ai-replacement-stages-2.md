@@ -17,7 +17,7 @@ faq:
   - q: "How do Stages 6 to 8 in this part connect to the next?"
     a: "Stages 6 to 8 are all about capability: things that happen almost on their own once AI can do them. What's left at the end of Stage 8 is the seat where someone takes responsibility and places a bet on a conviction, and that's a matter of authority, not ability. The next part covers the stretch where law and institutions protect that authority for a while. What holds AI back isn't that people do the job better. It's that the law has decided it that way."
 ---
-![Hands, bodies, and 30 years of gut: AI takes them all in the end (Stages 6 to 8)](/images/col-ai-replacement-stages.jpg)
+![Hands, bodies, and 30 years of gut: AI takes them all in the end (Stages 6 to 8)](/images/col-ai-replacement-stages-2.jpg)
 
 Walk into a car factory and you'll see robot arms repeating the same motion all day long. The spot where the welding sparks fly, the spot where the body of the car gets lifted and moved, the spot where the same screw goes into the same place. People used to do this work; now machines do. Nobody finds it strange.
 

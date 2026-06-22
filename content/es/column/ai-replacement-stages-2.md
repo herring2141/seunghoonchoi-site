@@ -17,7 +17,7 @@ faq:
   - q: "¿Cómo se conectan las etapas 6 a 8 de esta entrega con la siguiente?"
     a: "Las etapas 6 a 8 hablan de capacidades que ocurren casi solas en cuanto la IA es capaz de hacerlas. Al final de la etapa 8 queda el puesto de quien responde y apuesta con convicción, y eso no es una cuestión de capacidad sino de autoridad. La siguiente entrega trata el tramo en que la ley y las instituciones protegen esa autoridad durante un tiempo. Lo que frena a la IA no es que la persona lo haga mejor, sino que la ley lo ha decidido así."
 ---
-![Las manos, el cuerpo y hasta el instinto de 30 años: al final la IA se lo lleva todo (etapas 6 a 8)](/images/col-ai-replacement-stages.jpg)
+![Las manos, el cuerpo y hasta el instinto de 30 años: al final la IA se lo lleva todo (etapas 6 a 8)](/images/col-ai-replacement-stages-2.jpg)
 
 Si entras en una fábrica de coches, ves brazos robóticos que repiten el mismo movimiento todo el día. El punto donde saltan las chispas de la soldadura, el punto donde levantan y mueven la carrocería, el punto donde aprietan el mismo tornillo en el mismo sitio. Antes lo hacía una persona; ahora lo hace la máquina. Nadie lo ve raro.
 

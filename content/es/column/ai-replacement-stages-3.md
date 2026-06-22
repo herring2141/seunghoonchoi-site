@@ -17,7 +17,7 @@ faq:
   - q: "Aun así, si la persona mantiene el control final, ¿no está a salvo?"
     a: "El problema es que el propio mecanismo de control es software. Los sistemas de revisión, el botón de apagado y el procedimiento de aprobación humana funcionan todos como programas. Si la capacidad cibernética de la IA se vuelve lo bastante fuerte, puede romper ese mecanismo, de modo que la garantía de que la persona mantiene el control se tambalea no solo por la diferencia de capacidad, sino también por la seguridad."
 ---
-![Lo que detiene a la IA no es tu talento, sino quién tiene la autoridad para firmar (etapas 9 a 14)](/images/col-ai-replacement-stages.jpg)
+![Lo que detiene a la IA no es tu talento, sino quién tiene la autoridad para firmar (etapas 9 a 14)](/images/col-ai-replacement-stages-3.jpg)
 
 Cuando te hacen una resonancia en el hospital, en la pantalla ya aparece primero un círculo rojo. La IA ha revisado la imagen de antemano y ha marcado: "aquí hay algo sospechoso". Sin embargo, poner el sello al pie del informe y escribir el nombre sigue siendo cosa de un médico humano. Quien miró la imagen fue una máquina, y quien señaló el punto también fue una máquina, pero la responsabilidad queda en una sola persona.
 

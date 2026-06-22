@@ -17,7 +17,7 @@ faq:
   - q: "¿No es más seguro que una persona lo revise una vez más?"
     a: "Casi siempre sí, pero hay dos condiciones que, juntas, lo invierten: que la IA se equivoque menos que la persona y que, aunque algo salga mal, se pueda deshacer. En ese caso la revisión humana se vuelve ruido, porque corrige sin necesidad resultados que estaban bien o ralentiza el trabajo. Esto vale solo para tareas donde se compite por 'precisión'; la supervisión que decide quién responde o qué importa más dura mucho más."
 ---
-![El trabajo que la IA reemplaza primero: las tareas mentales con respuesta fija desaparecen antes (etapas 1 a 5)](/images/col-ai-replacement-stages.jpg)
+![El trabajo que la IA reemplaza primero: las tareas mentales con respuesta fija desaparecen antes (etapas 1 a 5)](/images/col-ai-replacement-stages-1.jpg)
 
 Aquello que haces bien pronto se vuelve común. Y además, antes que nada. El orden en que la IA toma el trabajo de las personas sigue una regla, y en la primera fila se coloca justamente "el trabajo cuya respuesta está fijada".
 

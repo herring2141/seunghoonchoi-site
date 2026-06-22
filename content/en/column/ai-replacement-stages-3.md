@@ -17,7 +17,7 @@ faq:
   - q: "Still, isn't it safe as long as a human holds final control?"
     a: "The problem is that the control mechanism is itself software. The checks, the kill switch, the human approval steps all run as programs. Once AI's cyber ability gets strong enough, it can break through those mechanisms, so the guarantee that a human is in control wavers not only on a gap in ability but on security too."
 ---
-![What stops AI isn't your skill, it's the right to stamp the paper (stages 9 to 14)](/images/col-ai-replacement-stages.jpg)
+![What stops AI isn't your skill, it's the right to stamp the paper (stages 9 to 14)](/images/col-ai-replacement-stages-3.jpg)
 
 When you get an MRI at a hospital, a red circle is already on the screen before anything else. The AI scanned the image ahead of time and marked, "this spot looks suspicious." Yet stamping the diagnosis and writing the name at the bottom of the report is still done by a human doctor. The machine looked at the image, the machine pinpointed the spot, but the responsibility lands on one person.
 

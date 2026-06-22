@@ -17,7 +17,7 @@ faq:
   - q: "Entonces, al final, ¿la persona está acabada?"
     a: "No hay un final fijado. Ni la salvación está garantizada ni la ruina está decidida; la respuesta honesta es la incertidumbre irreductible que aparece ante un problema difícil. Pero ante esa incertidumbre, lo que hay que hacer se vuelve más simple. En las ramas donde la elección individual no significa nada, hagas lo que hagas el resultado es el mismo, así que se descartan; y en las ramas donde la elección sí importa, lo que hay que hacer casi coincide. En la próxima entrega tratamos en detalle esa elección común: cómo apostar por el 'lugar' y no por la capacidad."
 ---
-![Tu escritura de propiedad, al final, es solo un papel: las dos últimas etapas de la era de la IA (etapas 15 y 16)](/images/col-ai-replacement-stages.jpg)
+![Tu escritura de propiedad, al final, es solo un papel: las dos últimas etapas de la era de la IA (etapas 15 y 16)](/images/col-ai-replacement-stages-4.jpg)
 
 Supongamos que compraste una casa. Tu nombre queda inscrito en el registro y tienes la llave en la mano. Pero ¿por qué esa casa es realmente tuya? No porque los ladrillos te reconozcan. Si alguien entra a vivir sin permiso, viene la policía y un tribunal lo saca de allí. Es porque detrás hay una sociedad que decidió hacerlo así. Es decir, la propiedad no es un hecho grabado en la cosa, sino una promesa que todos decidieron mantener.
 
