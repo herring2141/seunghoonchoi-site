@@ -63,7 +63,7 @@ Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificia
 
 ## 보유 기술
 
-- **분석·구조 평가** — SEM (EDS) · AFM · 광학현미경 · XRD · FT-IR · UV-Vis · 접촉각
+- **분석·구조 평가** — SEM (EDS) · AFM · 광학현미경 · XRD · FT-IR · UV-Vis · Contact-angle Measurement 
 - **공정·미세구조 제작** — 미세구조 임프린팅 · 고분자 표면 패터닝 · 신축성 복합체 제작 · 표면 코팅
 - **슬러리·콜로이드** — 슬러리 유변학 · 콜로이드 분산 안정성 · 입자 현탁 · 산업용 믹싱
 - **모델링·데이터 분석** — COMSOL Multiphysics (FEM) · MATLAB · Minitab (SPC) · OriginPro · Excel VBA
