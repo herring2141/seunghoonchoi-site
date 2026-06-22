@@ -4,6 +4,8 @@ date: 2026-06-14
 categories: ["Ensayo"]
 tags: ["inicio"]
 subtitle: "Qué es este espacio"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Una mano escribiendo a mano en un cuaderno](/images/col-start.jpg)

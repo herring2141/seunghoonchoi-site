@@ -6,20 +6,17 @@ categories: ["유학"]
 tags: ["미국유학", "박사유학", "토플", "SOP", "F-1비자", "대학원"]
 image: /images/book-us-phd-guide-card.jpg
 ---
-<div style="display:flex;gap:30px;flex-wrap:wrap;align-items:flex-start;margin:.4em 0 1.4em">
-  <img src="/images/book-us-phd-guide.jpg" alt="《미국 박사 유학, 혼자 준비해도 됩니다》 표지" style="width:230px;max-width:44%;border-radius:10px;box-shadow:0 16px 40px rgba(13,27,76,.24)">
-  <div style="flex:1;min-width:240px">
-    <p style="margin:.25em 0;color:#44423E">최승훈 지음 · 벨루닉스 펴냄 · 2026년 6월</p>
-    <p style="margin:.25em 0;color:#44423E">eBook(ePUB) · 16,000원</p>
-    <p style="margin:1.1em 0 0">
-      <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px">교보문고에서 보기 ↗</a>
-    </p>
-  </div>
-</div>
+![《미국 박사 유학, 혼자 준비해도 됩니다》 표지](/images/book-us-phd-guide.jpg)
 
-토플 점수가 0인 상태에서 시작했습니다. 직장을 다니면서, 주변에 먼저 그 길을 간 사람도 없이, 18개월 동안 혼자 준비했습니다. 그리고 미국 플로리다대학교(UF) 재료공학 박사과정에 전액 펀딩으로 합격했고, F-1 비자까지 받았습니다.
+최승훈 지음 · 벨루닉스 펴냄 · 2026년 6월
 
-이 책은 그 과정을 미화하지 않고 순서대로 정리한 기록입니다. 합격 수기가 아니라, 다음 사람이 그대로 따라 할 수 있는 지도에 가깝습니다.
+eBook(ePUB) · 16,000원
+
+[교보문고에서 보기 ↗](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412)
+
+토플 점수가 필요하다는 것 빼고는 아무것도 몰랐습니다. 노베이스부터 Offer Letter를 받기까지 18개월 동안의 모든 경험과 시행착오를 한권에 담았습니다. 그리고 미국 플로리다대학교(UF) 재료공학 박사과정에 전액 펀딩으로 합격했고, F-1 비자까지 받았습니다.
+
+이 책은 그 과정을 미화하지 않고 순서대로 정리한 기록입니다. 합격 수기가 아니라, 다음 사람이 그대로 따라 할 수 있는 실전 매뉴얼입니다.
 
 ## 이 책이 담은 것
 
@@ -36,6 +33,4 @@ image: /images/book-us-phd-guide-card.jpg
 
 느꼈던 감정과 시행착오까지 그대로 담았습니다. 막막함을 체크리스트와 시스템으로 바꾸는 것, 그게 이 책의 목표입니다.
 
-<p style="margin:1.6em 0 .4em">
-  <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px">교보문고에서 보기 ↗</a>
-</p>
+[교보문고에서 보기 ↗](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412)
