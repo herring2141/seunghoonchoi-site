@@ -1,10 +1,10 @@
 ---
-title: "손과 몸,베테랑의 감까지 결국 AI가 가져간다 (6~8단계)"
+title: "육체 노동, 베테랑의 감까지 결국 AI가 가져간다 (6~8단계)"
 date: 2026-06-21T17:43:00+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "자동화", "일자리", "미래", "생존전략", "커리어"]
-subtitle: "공장 로봇부터 베테랑의 감까지, 손과 몸이 잠깐 더 버티는 진짜 이유"
+subtitle: "공장 로봇부터 베테랑의 감까지, 그래도 육체노동이 조금 더 오래가는 이유"
 seoTitle: "AI 일자리 대체 순서 2편: 물리 노동과 직감이 왜 늦게, 그래도 결국 밀리는가"
 image: /images/col-ai-replacement-stages-2.jpg
 series: "ai-replacement-stages"
