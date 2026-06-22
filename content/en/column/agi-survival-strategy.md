@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["agi", "ai", "survival", "career", "strategy"]
 subtitle: "When I decide what to do each day, I cut it against these twelve"
 description: "12 rules for surviving the age of AI. Don't try to be smarter than AI. Leave behind real assets that human society recognizes. How to build assets, position yourself, and put AI to work."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![A foggy uphill road, the long game you hold with one rule at a time](/images/col-agi-strategy.jpg)
