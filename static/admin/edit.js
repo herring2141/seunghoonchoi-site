@@ -97,7 +97,7 @@
       var hint = document.getElementById('scHint');
       if (!bodyEditable && bodyEl){ hint.textContent = '이 글은 특수 서식이 있어 본문은 잠갔습니다. 제목·부제만 인라인 편집(본문은 /admin/에서).'; hint.classList.add('show'); }
       msg('점선 영역을 직접 고치세요 · ⌘/Ctrl+S 저장');
-      if (titleEl) titleEl.focus();
+      // 자동 포커스 안 함 — 편집 진입 시 화면이 맨 위(제목)로 튀지 않게. 보던 자리에서 고칠 영역을 직접 클릭해 이어 편집.
     }).catch(function(e){ msg(''); document.getElementById('scBar').classList.remove('show'); alert(e.message); });
   }
 
@@ -129,11 +129,13 @@
     .then(function(res){
       if (!res.ok) throw new Error('저장 실패 ('+res.status+') '+((res.j&&res.j.message)||''));
       if (res.j.content && res.j.content.sha) CUR.sha = res.j.content.sha;
+      var sy = window.pageYOffset || document.documentElement.scrollTop || 0; // 저장 직전 스크롤 위치
       // 편집 모드 종료(편집한 내용은 화면에 그대로 남겨 미리보기)
       editing = false; document.body.classList.remove('sc-editing');
       [titleEl,subEl,bodyEl].forEach(function(el){ if(el){ el.removeAttribute('contenteditable'); el.removeAttribute('data-sc-edit'); } });
       document.getElementById('scHint').classList.remove('show');
       msg('저장됨 ✓ 1~2분 뒤 실제 페이지에 반영됩니다.');
+      window.scrollTo(0, sy); // 모드 종료로 스크롤이 움직였으면 보던 자리로 복원
       setTimeout(function(){ var b=document.getElementById('scBar'); if(b) b.classList.remove('show'); }, 4000);
     })
     .catch(function(e){ alert(e.message); })
