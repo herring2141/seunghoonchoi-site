@@ -10,6 +10,7 @@
   <p class="home-hero__cv">
     <a href="/cv/Seunghoon_Choi_CV.pdf" download>{{ i18n "cta_cv" }}</a>
     <button type="button" class="home-hero__contact" data-copy-email="{{ .Site.Params.email }}" data-copied="{{ i18n "copied_email" }}">{{ i18n "cta_contact" }}</button>
+    {{ with .Site.Params.instagram }}<a href="https://ig.me/m/hoonchoi.mk1" data-ig-follow="{{ . }}" target="_blank" rel="noopener">{{ i18n "cta_instagram" }}</a>{{ end }}
   </p>
   <p class="home-hero__copied" data-copy-toast role="status" aria-live="polite"></p>
 </section>
