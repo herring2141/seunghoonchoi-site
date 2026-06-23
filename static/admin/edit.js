@@ -11,9 +11,10 @@
 
   var titleEl = document.querySelector('.post__title') || document.querySelector('.section__title');
   var subEl = document.querySelector('.post__subtitle');
+  var tagEl = document.querySelector('.home-hero__tag');
   var bodyEl = document.querySelector('.post__body') || document.querySelector('.lede') || document.querySelector('.home-hero__intro');
   var hasCards = !!document.querySelector('[data-rk]');
-  if (!bodyEl && !titleEl && !hasCards) return; // 편집 대상도 카드도 없으면 아무것도 안 함
+  if (!bodyEl && !titleEl && !tagEl && !hasCards) return; // 편집 대상도 카드도 없으면 아무것도 안 함
   // 본문은 항상 인라인 편집. 단 raw HTML 특수 블록(앱 카드·시·표·통계)은 편집을 잠가 구조를 보호하고 저장 때 그대로 보존(turndown keep).
   var SPECIAL = '.appcard, .poem, table, iframe, .stats';
   var bodyHasRawHtml = bodyEl ? !!bodyEl.querySelector('.appcard, .poem, table, iframe, .cta, script, style, .stats') : false;
@@ -132,6 +133,7 @@
     if (!CUR || !CUR.pageOriginal) return true;
     if (titleEl && cleanText(titleEl) !== CUR.pageOriginal.title) return true;
     if (subEl && cleanText(subEl) !== CUR.pageOriginal.sub) return true;
+    if (tagEl && cleanText(tagEl) !== CUR.pageOriginal.tagline) return true;
     if (bodyEditable && bodyEl.innerHTML !== CUR.pageOriginal.bodyHtml) return true;
     return false;
   }
@@ -296,7 +298,7 @@
       body.appendChild(meta); body.appendChild(h); g.appendChild(body); list.appendChild(g);
     });
   }
-  function onReady(){ if (bodyEl||titleEl||cardExcerptEls.length) btn.classList.add('show'); paintCardBadges(); paintHiddenGhosts(); }
+  function onReady(){ if (bodyEl||titleEl||tagEl||cardExcerptEls.length) btn.classList.add('show'); paintCardBadges(); paintHiddenGhosts(); }
 
   function bar(){
     var b = document.getElementById('scBar');
@@ -325,6 +327,7 @@
       editing = true; document.body.classList.add('sc-editing');
       if (titleEl){ titleEl.setAttribute('data-sc-edit','title'); titleEl.contentEditable = 'true'; }
       if (subEl){ subEl.setAttribute('data-sc-edit','sub'); subEl.contentEditable = 'true'; }
+      if (tagEl){ tagEl.setAttribute('data-sc-edit','tagline'); tagEl.contentEditable = 'true'; }
       if (bodyEditable){ bodyEl.setAttribute('data-sc-edit','body'); bodyEl.contentEditable = 'true';
         try{ bodyEl.querySelectorAll(SPECIAL).forEach(function(el){ el.contentEditable='false'; }); }catch(e){} // 특수 블록은 잠가서 구조 보호
       }
@@ -336,6 +339,7 @@
       CUR.pageOriginal = {
         title: titleEl ? cleanText(titleEl) : null,
         sub: subEl ? cleanText(subEl) : null,
+        tagline: tagEl ? cleanText(tagEl) : null,
         bodyHtml: bodyEditable ? bodyEl.innerHTML : null
       };
       var hint = document.getElementById('scHint');
@@ -349,6 +353,7 @@
     var fm = CUR.fmFull;
     if (titleEl) fm = setField(fm, 'title', (titleEl.innerText||'').trim());
     if (subEl) fm = setField(fm, 'subtitle', (subEl.innerText||'').trim());
+    if (tagEl) fm = setField(fm, 'tagline', cleanText(tagEl));
     if (bodyEditable){
       var md = turndown.turndown(bodyEl.innerHTML).replace(/^([ \t]*[-*]) {2,}/gm, '$1 ').replace(/\n{3,}/g,'\n\n').trim() + '\n';
       return fm + md;
@@ -389,7 +394,7 @@
       var sy = window.pageYOffset || document.documentElement.scrollTop || 0; // 저장 직전 스크롤 위치
       // 편집 모드 종료(편집한 내용은 화면에 그대로 남겨 미리보기)
       editing = false; document.body.classList.remove('sc-editing');
-      [titleEl,subEl,bodyEl].forEach(function(el){ if(el){ el.removeAttribute('contenteditable'); el.removeAttribute('data-sc-edit'); } });
+      [titleEl,subEl,tagEl,bodyEl].forEach(function(el){ if(el){ el.removeAttribute('contenteditable'); el.removeAttribute('data-sc-edit'); } });
       cardExcerptEls.forEach(function(el){ el.removeAttribute('contenteditable'); el.removeAttribute('data-sc-edit'); });
       document.getElementById('scHint').classList.remove('show');
       msg('저장됨 ✓ 1~2분 뒤 실제 페이지에 반영됩니다.');
