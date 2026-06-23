@@ -7,6 +7,8 @@ tags: ["전략", "의사결정", "집중", "커리어"]
 subtitle: "불리한 판을 뒤집는 건 전체 전력이 아니다. 상대가 가장 약해지는 한 순간, 그 한 점의 격차다."
 seoTitle: "선택과 집중 전략: 국소 우위로 결정적 순간만 이겨라"
 image: /images/col-localized-advantage.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![체스판 위에 쓰러진 킹. 승부를 가른 결정적 한 수](/images/col-localized-advantage.jpg)
