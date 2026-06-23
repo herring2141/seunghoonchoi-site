@@ -1,7 +1,7 @@
 ---
 title: "崔胜勋"
 ---
-没有什么比真诚更重要。
+The Continuity of Earth-Originating Intelligence
 
 <div class="stats">
   <div class="stat"><span class="stat__num">140+</span><span class="stat__label">被引次数</span></div>

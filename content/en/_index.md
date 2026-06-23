@@ -1,7 +1,7 @@
 ---
 title: "Seunghoon Choi"
 ---
-Nothing matters more than authenticity.
+The Continuity of Earth-Originating Intelligence
 
 <div class="stats">
   <div class="stat"><span class="stat__num">140+</span><span class="stat__label">Citations</span></div>

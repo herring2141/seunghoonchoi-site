@@ -5,7 +5,6 @@
   <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
   {{ $n := split .Site.Title " " }}
   <h1 class="home-hero__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
-  <p class="home-hero__tag">{{ .Params.tagline | default .Site.Params.tagline }}</p>
   <div class="home-hero__intro">{{ .Content }}</div>
   <p class="home-hero__cv">
     <a href="/cv/Seunghoon_Choi_CV.pdf" download>{{ i18n "cta_cv" }}</a>

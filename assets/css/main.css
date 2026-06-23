@@ -344,12 +344,11 @@ body.lang-ko .cite__text{word-break:keep-all}
 /* ---------- Home: hero (identity only, first screen) ---------- */
 .home-hero{max-width:var(--maxw);margin:0 auto;padding:clamp(36px,6vw,72px) clamp(20px,5vw,56px) clamp(48px,7vw,88px);min-height:calc(85vh - var(--header-h));display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
 .home-hero .eyebrow{justify-content:center;margin:0 0 20px}
-.home-hero__name{font-family:var(--serif-en);font-weight:700;font-size:clamp(3rem,7vw,6rem);line-height:.98;letter-spacing:-.02em;color:var(--navy);margin:0 0 20px}
+.home-hero__name{font-family:var(--serif-en);font-weight:700;font-size:clamp(3rem,7vw,6rem);line-height:.98;letter-spacing:-.02em;color:var(--navy);margin:0 0 clamp(18px,2.6vw,30px)}
 .home-hero__name .hero__name-accent{color:var(--copper)}
-.home-hero__tag{font-size:1.12rem;color:var(--ink-soft);opacity:.92;margin:0 0 22px;line-height:1.45}
-body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-size:1.25rem}
-.home-hero__intro{font-size:1.05rem;color:var(--ink-soft);line-height:1.7;max-width:600px;margin:0}
-.home-hero__intro p{margin:0 0 12px}
+.home-hero__intro{font-size:clamp(1.08rem,2vw,1.36rem);color:var(--ink-soft);line-height:1.45;max-width:min(760px,100%);margin:0 auto}
+.home-hero__intro p{margin:0}
+.home-hero__intro .stats{margin-top:clamp(24px,4.5vw,44px)}
 .home-hero__cta{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:26px}
 .btn{display:inline-flex;align-items:center;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:15px;font-weight:600;letter-spacing:.02em;padding:13px 30px;border-radius:999px;transition:transform .15s,background .2s,border-color .2s}
 .btn:hover{transform:translateY(-2px)}
@@ -394,7 +393,7 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 .post__more a{color:var(--copper);text-decoration:none;font-weight:500}
 .post__more a:hover{text-decoration:underline}
 
-.home-hero__cv{margin-top:14px;display:flex;gap:0 22px;justify-content:center;align-items:center;flex-wrap:wrap}
+.home-hero__cv{margin-top:clamp(16px,2.4vw,24px);display:flex;gap:0 22px;justify-content:center;align-items:center;flex-wrap:wrap}
 .home-hero__cv a{font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:14px;letter-spacing:.02em;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--hair);padding-bottom:2px}
 .home-hero__cv a:hover{color:var(--copper);border-color:var(--copper)}
 .home-hero__contact{font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:14px;letter-spacing:.02em;color:var(--muted);background:none;border:none;border-bottom:1px solid var(--hair);padding:0 0 2px;cursor:pointer}

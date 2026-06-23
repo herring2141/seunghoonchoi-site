@@ -1,7 +1,7 @@
 ---
 title: "सेउंगहुन चोई"
 ---
-सच्चाई से ज़्यादा महत्वपूर्ण कुछ भी नहीं है।
+The Continuity of Earth-Originating Intelligence
 
 <div class="stats">
   <div class="stat"><span class="stat__num">140+</span><span class="stat__label">उद्धरण</span></div>
