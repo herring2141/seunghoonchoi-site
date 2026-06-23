@@ -18,6 +18,7 @@
   var SPECIAL = '.appcard, .poem, table, iframe, .stats';
   var bodyHasRawHtml = bodyEl ? !!bodyEl.querySelector('.appcard, .poem, table, iframe, .cta, script, style, .stats') : false;
   var bodyEditable = !!bodyEl;
+  var cardExcerptEls = Array.prototype.slice.call(document.querySelectorAll('[data-rk] .card__excerpt'));
 
   /* ---- front-matter helpers (단위테스트 11/11) ---- */
   function splitDoc(raw){ if(!/^---\r?\n/.test(raw)) return {hasFm:false,fmFull:'',body:raw}; var m=raw.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n/); if(!m) return {hasFm:false,fmFull:'',body:raw}; return {hasFm:true,fmFull:m[0],body:raw.slice(m[0].length)}; }
@@ -113,6 +114,50 @@
     return fetch(u, { method: method, headers: Object.assign({ 'Authorization': 'Bearer ' + ID_TOKEN }, opts.body ? { 'Content-Type': 'application/json' } : {}), body: opts.body ? JSON.stringify(opts.body) : undefined });
   }
   function msg(m){ var e=document.querySelector('#scBar .m'); if(e) e.textContent=m||''; }
+  function cleanText(el){ return (el.innerText || el.textContent || '').replace(/\u00a0/g, ' ').replace(/[ \t]+\n/g, '\n').trim(); }
+  function cardSourcePath(rk){ return 'content/' + (CFG.lang || rvLang()) + '/' + rk + '.md'; }
+  function changedCardExcerpts(){
+    var byPath = {};
+    cardExcerptEls.forEach(function(el){
+      var card = el.closest ? el.closest('[data-rk]') : null;
+      var rk = card ? card.getAttribute('data-rk') : '';
+      if (!rk) return;
+      var next = cleanText(el), prev = el.__scOriginalText;
+      if (prev == null) prev = cleanText(el);
+      if (next !== prev) byPath[cardSourcePath(rk)] = { path: cardSourcePath(rk), text: next, el: el };
+    });
+    return Object.keys(byPath).map(function(k){ return byPath[k]; });
+  }
+  function pageChanged(){
+    if (!CUR || !CUR.pageOriginal) return true;
+    if (titleEl && cleanText(titleEl) !== CUR.pageOriginal.title) return true;
+    if (subEl && cleanText(subEl) !== CUR.pageOriginal.sub) return true;
+    if (bodyEditable && bodyEl.innerHTML !== CUR.pageOriginal.bodyHtml) return true;
+    return false;
+  }
+  function saveCardExcerpts(jobs){
+    var i = 0;
+    function step(){
+      if (i >= jobs.length) return Promise.resolve();
+      var job = jobs[i++];
+      msg('카드 설명 저장 중 ' + i + '/' + jobs.length + '…');
+      return api('GET','file',{path:job.path}).then(function(r){
+        if (r.status===401){ clearToken(); throw new Error('세션 만료 — 다시 저장하세요'); }
+        if (!r.ok) throw new Error('카드 원문 읽기 실패 ('+r.status+') '+job.path);
+        return r.json();
+      }).then(function(j){
+        var raw = b64utf8(j.content), d = splitDoc(raw);
+        if (!d.hasFm) throw new Error('front matter가 없어 카드 설명을 저장할 수 없습니다: '+job.path);
+        var next = setField(d.fmFull, 'subtitle', job.text) + d.body;
+        if (next === raw){ job.el.__scOriginalText = job.text; return; }
+        return api('PUT','file',{ path:job.path, body:{ content:utf8b64(next), sha:j.sha, message:'edit: '+job.path+' subtitle' } }).then(function(pr){
+          if(!pr.ok) throw new Error('카드 설명 저장 실패 ('+pr.status+') '+job.path);
+          job.el.__scOriginalText = job.text;
+        });
+      }).then(step);
+    }
+    return step();
+  }
 
   /* ---- review-status badges on card lists (owner-only, interactive 3-state) ---- */
   var RV = { none:{l:'미검수',c:'#9a7b1f',bg:'#FBF1D6',bd:'#E8D6A8'}, reviewing:{l:'검수중',c:'#8a6d1f',bg:'#FFF3D9',bd:'#EBD9B0'}, done:{l:'검수완료',c:'#1b7a3d',bg:'#E7F6EC',bd:'#B7E4C7'} };
@@ -251,7 +296,7 @@
       body.appendChild(meta); body.appendChild(h); g.appendChild(body); list.appendChild(g);
     });
   }
-  function onReady(){ if (bodyEl||titleEl) btn.classList.add('show'); paintCardBadges(); paintHiddenGhosts(); }
+  function onReady(){ if (bodyEl||titleEl||cardExcerptEls.length) btn.classList.add('show'); paintCardBadges(); paintHiddenGhosts(); }
 
   function bar(){
     var b = document.getElementById('scBar');
@@ -275,17 +320,27 @@
       if (!r.ok) throw new Error('불러오기 실패 ('+r.status+')');
       return r.json();
     }).then(function(j){
-      var d = splitDoc(b64utf8(j.content));
-      CUR = { sha: j.sha, hasFm: d.hasFm, fmFull: d.fmFull };
+      var raw = b64utf8(j.content), d = splitDoc(raw);
+      CUR = { sha: j.sha, hasFm: d.hasFm, fmFull: d.fmFull, _raw: raw };
       editing = true; document.body.classList.add('sc-editing');
       if (titleEl){ titleEl.setAttribute('data-sc-edit','title'); titleEl.contentEditable = 'true'; }
       if (subEl){ subEl.setAttribute('data-sc-edit','sub'); subEl.contentEditable = 'true'; }
       if (bodyEditable){ bodyEl.setAttribute('data-sc-edit','body'); bodyEl.contentEditable = 'true';
         try{ bodyEl.querySelectorAll(SPECIAL).forEach(function(el){ el.contentEditable='false'; }); }catch(e){} // 특수 블록은 잠가서 구조 보호
       }
+      cardExcerptEls.forEach(function(el){
+        el.__scOriginalText = cleanText(el);
+        el.setAttribute('data-sc-edit','card-subtitle');
+        el.contentEditable = 'true';
+      });
+      CUR.pageOriginal = {
+        title: titleEl ? cleanText(titleEl) : null,
+        sub: subEl ? cleanText(subEl) : null,
+        bodyHtml: bodyEditable ? bodyEl.innerHTML : null
+      };
       var hint = document.getElementById('scHint');
       if (bodyHasRawHtml){ hint.textContent = '앱 카드·표 같은 특수 블록은 잠겨 있고 그대로 보존됩니다. 글·문단을 직접 고치세요.'; hint.classList.add('show'); }
-      msg('점선 영역을 직접 고치세요 · ⌘/Ctrl+S 저장');
+      msg((cardExcerptEls.length ? '점선 영역과 카드 설명문을 직접 고치세요' : '점선 영역을 직접 고치세요') + ' · ⌘/Ctrl+S 저장');
       // 자동 포커스 안 함 — 편집 진입 시 화면이 맨 위(제목)로 튀지 않게. 보던 자리에서 고칠 영역을 직접 클릭해 이어 편집.
     }).catch(function(e){ msg(''); document.getElementById('scBar').classList.remove('show'); alert(e.message); });
   }
@@ -305,7 +360,10 @@
   function save(){
     if (!CUR) return;
     var sv = document.querySelector('#scBar .save'); sv.disabled = true; var old = sv.textContent; sv.textContent = '저장 중…';
-    ensureTurndown().then(function(){
+    var cardJobs = changedCardExcerpts();
+    var savePage = pageChanged();
+    (savePage ? ensureTurndown() : Promise.resolve()).then(function(){
+      if (!savePage) return;
       if (!td){ td = new window.TurndownService({ headingStyle:'atx', bulletListMarker:'-', codeBlockStyle:'fenced', emDelimiter:'_', hr:'---' });
         td.keep(function(node){ try{ return node.nodeType===1 && node.matches('.appcard, .poem, .cta, .stats, table, iframe, script, style'); }catch(e){ return false; } }); }
       // 본문 잠긴 글이면 원본 raw가 필요 → 없으면 다시 GET
@@ -313,16 +371,26 @@
         return api('GET','file',{path:CFG.path}).then(function(r){return r.json();}).then(function(j){ CUR._raw=b64utf8(j.content); CUR.sha=j.sha; });
       }
     }).then(function(){
+      if (!savePage) return { skip:true };
       var content = buildRaw(td);
+      if (content === CUR._raw) return { skip:true };
       return api('PUT','file',{ path: CFG.path, body: { content: utf8b64(content), sha: CUR.sha, message: 'edit: '+CFG.path } });
-    }).then(function(r){ return r.json().then(function(j){ return {ok:r.ok,status:r.status,j:j}; }); })
+    }).then(function(r){
+      if (r && r.skip) return r;
+      return r.json().then(function(j){ return {ok:r.ok,status:r.status,j:j}; });
+    })
     .then(function(res){
+      if (res && res.skip) return saveCardExcerpts(cardJobs);
       if (!res.ok) throw new Error('저장 실패 ('+res.status+') '+((res.j&&res.j.message)||''));
       if (res.j.content && res.j.content.sha) CUR.sha = res.j.content.sha;
+      return saveCardExcerpts(cardJobs);
+    })
+    .then(function(){
       var sy = window.pageYOffset || document.documentElement.scrollTop || 0; // 저장 직전 스크롤 위치
       // 편집 모드 종료(편집한 내용은 화면에 그대로 남겨 미리보기)
       editing = false; document.body.classList.remove('sc-editing');
       [titleEl,subEl,bodyEl].forEach(function(el){ if(el){ el.removeAttribute('contenteditable'); el.removeAttribute('data-sc-edit'); } });
+      cardExcerptEls.forEach(function(el){ el.removeAttribute('contenteditable'); el.removeAttribute('data-sc-edit'); });
       document.getElementById('scHint').classList.remove('show');
       msg('저장됨 ✓ 1~2분 뒤 실제 페이지에 반영됩니다.');
       window.scrollTo(0, sy); // 모드 종료로 스크롤이 움직였으면 보던 자리로 복원
