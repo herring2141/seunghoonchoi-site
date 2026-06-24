@@ -6,6 +6,8 @@ tags: ["단편소설"]
 subtitle: "The one thing a former translator never let go of."
 image: /images/col-ai-replacement-stages.jpg
 aliases: ["/literature/the-window/"]
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![The silhouette of a person sitting by a window that looks out on the sea](/images/col-ai-replacement-stages.jpg)
