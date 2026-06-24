@@ -3,6 +3,7 @@ title: "남는 것"
 date: 2026-06-15
 categories: ["시"]
 tags: ["별"]
+reviewStatus: "done"
 ---
 
 ![Raindrops on a window](/images/lit-remains.jpg)
