@@ -61,4 +61,4 @@ reviewStatus: "done"
 
 यहाँ तक प्रस्तावना थी। टॉफेल की तैयारी से लेकर स्कूल और प्रोफेसर चुनने, कोल्ड ईमेल और SOP, ज़ूम इंटरव्यू, सिफारिशी पत्र, आवेदन और प्रतीक्षा सूची की रणनीति, और दाखिले के बाद I-20 तथा F-1 वीज़ा तक, 18 महीने की पूरी प्रक्रिया को बिना सजाए क्रम से एक किताब में रखा है।
 
-<p style="margin:1.2em 0 0"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">क्योबो बुक पर देखें (कोरियाई में) ↗</a></p>
+<p style="margin:1.2em 0 0;display:flex;flex-wrap:wrap;gap:10px"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">क्योबो बुक पर देखें (कोरियाई में) ↗</a><a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#03C75A;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">Naver Smartstore पर देखें ↗</a></p>

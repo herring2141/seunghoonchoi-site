@@ -49,4 +49,4 @@ Resume를 어떻게 쓰는지 몰랐다. SOP는 그게 자기소개서라는 것
 
 여기까지가 프롤로그입니다. 토플 준비부터 학교·교수 선정, 콜드메일과 SOP, 줌 인터뷰, 추천서, 지원과 대기자 전략, 그리고 합격 이후 I-20와 F-1 비자까지. 18개월의 모든 과정을 미화 없이 순서대로 책 한 권에 담았습니다.
 
-<p style="margin:1.2em 0 0"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">교보문고에서 책 보기 ↗</a></p>
+<p style="margin:1.2em 0 0;display:flex;flex-wrap:wrap;gap:10px"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">교보문고에서 책 보기 ↗</a><a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#03C75A;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">스마트스토어에서 보기 ↗</a></p>

@@ -49,4 +49,4 @@ reviewStatus: "done"
 
 序言到这里结束。从托福准备到选校、选教授，从 cold email 和 SOP，到 Zoom 面试、推荐信，再到申请与候补名单策略，以及录取之后的 I-20 和 F-1 签证。18 个月的全过程，我都不加美化，按顺序装进了这一本书里。
 
-<p style="margin:1.2em 0 0"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">在教保文库查看（韩语）↗</a></p>
+<p style="margin:1.2em 0 0;display:flex;flex-wrap:wrap;gap:10px"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">在教保文库查看（韩语）↗</a><a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#03C75A;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">在 Naver Smartstore 查看 ↗</a></p>
