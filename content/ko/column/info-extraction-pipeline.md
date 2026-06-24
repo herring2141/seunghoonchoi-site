@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "llm", "프롬프트 엔지니어링", "정보 추출", "지식 관리"]
 subtitle: "많이 뽑는 도구 말고, 독하게 버리는 도구"
 description: "ChatGPT·AI 대화에서 저장할 것만 골라 노션에 옮기는 3단 정보 추출 프롬프트. 핵심은 추출이 아니라 버리는 기준. 복붙용 프롬프트 포함."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![라벨 붙은 것만 남기는 카드목록 서랍장. 골라내는 게 곧 시스템이다](/images/col-info-extraction.jpg)
