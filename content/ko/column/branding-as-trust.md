@@ -7,6 +7,8 @@ tags: ["브랜딩","신뢰","AI시대","퍼스널브랜딩","포지셔닝"]
 subtitle: "AI가 초고를 공짜로 찍어내니까 브랜딩이 덜 중요할 것 같죠. 정반대입니다."
 seoTitle: "AI 시대 퍼스널 브랜딩, 핵심은 신뢰다"
 image: /images/col-branding-as-trust.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![장인이 가죽에 자기 각인을 찍는 손, 신뢰의 표식](/images/col-branding-as-trust.jpg)
