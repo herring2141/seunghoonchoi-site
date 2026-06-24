@@ -6,6 +6,8 @@ date: 2026-06-17T15:00:00+09:00
 categories: ["Settling In"]
 tags: ["SSN","bank account","driver license","credit score"]
 subtitle: "From your phone to a bank account, SSN, a Florida license (Korea reciprocity), and building credit — the post-arrival admin checklist to follow in sequence"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
