@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "notion"]
 subtitle: "不是抽得更多的工具，而是狠下心丢的工具"
 description: "把 ChatGPT 等 AI 对话里值得保存的内容挑出来、放进 Notion 的三段式提取提示词。核心不是提取，而是丢弃的标准。附复制即用的提示词。"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![一整柜贴着标签的卡片抽屉，只留下贴了标签的那些。会挑会扔，本身就是系统](/images/col-info-extraction.jpg)
