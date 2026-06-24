@@ -6,6 +6,8 @@ date: 2026-06-17T14:00:00+09:00
 categories: ["세금"]
 tags: ["미국세금","F-1","한미조세조약","1040-NR","8843"]
 subtitle: "플로리다 주 소득세 0%, 조약 21조 연 $2,000 면제, Form 8843·1040-NR과 마감일까지"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
