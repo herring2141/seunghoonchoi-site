@@ -6,6 +6,8 @@ date: 2026-06-17T14:00:00+09:00
 categories: ["Taxes"]
 tags: ["US taxes","F-1","tax treaty","1040-NR","8843"]
 subtitle: "佛罗里达州所得税 0%、协定第 21 条每年 $2,000 豁免，以及 Form 8843、1040-NR 和各项截止日期"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
