@@ -6,6 +6,9 @@ categories: ["AI"]
 tags: ["ai", "ai네이티브", "조직설계", "업무자동화", "거버넌스"]
 subtitle: "툴 개수 자랑이 아니다. 일하는 길 자체를 AI로 다시 깐 거다."
 description: "AI 네이티브 조직은 AI를 잘 쓰는 회사가 아니라, AI 없이는 속도·구조·원가가 성립 안 되게 재설계된 조직. 6단계 성숙도 모델과 개인 적용법까지."
+image: /images/col-ai-native-org.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![기하학적 건물 구조, 조직을 다시 배선한다는 것](/images/col-ai-native-org.jpg)
