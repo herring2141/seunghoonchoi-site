@@ -6,6 +6,8 @@ date: 2026-06-17T15:00:00+09:00
 categories: ["Instalarse"]
 tags: ["SSN","cuenta bancaria","licencia de conducir","puntaje de crédito","instalarse en Estados Unidos"]
 subtitle: "Del móvil al banco, el SSN, la licencia de Florida (reconocimiento mutuo con Corea) y construir crédito: una lista de trámites para los primeros días, paso a paso"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Cajas de mudanza y maletas en un lugar nuevo](/images/uf3-arrival.jpg)
