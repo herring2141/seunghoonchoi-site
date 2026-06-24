@@ -7,6 +7,8 @@ tags: ["조직 심리","의사결정","일의 기본","사람 이해","리더십
 subtitle: "종이에 적힌 규칙 말고, 진짜로 사람을 움직이는 규칙을 같이 읽는 법"
 seoTitle: "사내정치, 좋은 안이 통과 안 되는 진짜 이유"
 image: /images/col-operating-rules.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![창가에서 부드러운 빛이 드는 빈 회의실, 탁자 둘레로 의자들이 제각기 다른 각도로 놓여 있다](/images/col-operating-rules.jpg)
