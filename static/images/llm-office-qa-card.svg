@@ -1,5 +1,5 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="loqTitle loqDesc">
-  <title id="loqTitle">llm-office-qa</title>
+  <title id="loqTitle">Office File Inspector</title>
   <desc id="loqDesc">A document with body lines and a green check badge, marking objective defects caught without enforcing style.</desc>
 
   <rect width="512" height="512" fill="#0D1B4C"/>
