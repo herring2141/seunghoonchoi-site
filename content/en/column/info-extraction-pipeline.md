@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "llm", "prompt-engineering", "information-extraction", "knowledge-management"]
 subtitle: "Not a tool that grabs more, but one that throws away hard"
 description: "A 3-stage info extraction prompt that pulls only what's worth keeping from your ChatGPT and AI chats into Notion. The real point isn't pulling more, it's the rule for what to throw out. Copy-paste prompts included."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![A drawer of card files where only the labeled ones stay. Picking is the system](/images/col-info-extraction.jpg)
