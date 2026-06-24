@@ -7,6 +7,8 @@ tags: ["손기술", "ai", "자동화", "전문성", "커리어"]
 subtitle: "고수의 손은 정확한 동작이 아니다. 변하는 접촉을 그때그때 읽고 힘과 각도를 고쳐 나가는 능력이다"
 seoTitle: "손기술, AI·로봇이 못 따라오는 손끝 감각"
 image: /images/col-hand-skill.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![닳은 손도구들이 가지런히 놓인 작업대](/images/col-hand-skill.jpg)
