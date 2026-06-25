@@ -1147,7 +1147,7 @@ body.lang-ko .cite__text{word-break:keep-all}
   position:relative;
   z-index:2;
 }
-.home-search .search-module{width:min(560px,100%)}
+.home-search .search-module{width:min(374px,100%)}
 .home-search .searchbox__input{background:rgba(252,251,249,.98)}
 @media(max-width:700px){
   .home-search{margin:-22px auto 0;justify-content:stretch}
