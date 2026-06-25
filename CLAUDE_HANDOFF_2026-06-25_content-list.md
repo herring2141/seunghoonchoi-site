@@ -15,7 +15,8 @@ The user wanted the content list on seunghoonchoi.com changed from the large two
 
 ## Design intent
 
-- Match the dashboard feel: row number, compact thumbnail, title, explanatory sentence, metadata pills, tags, and a small read button.
+- Match the dashboard feel: row number, compact thumbnail, title, explanatory sentence, metadata pills, and tags.
+- The old `read_more` button was removed because the title and thumbnail already link to the article.
 - Section rows are intentionally taller than the local dashboard list so the website can show the article subtitle/summary naturally.
 - On mobile, the thumbnail sits above the text column so Korean titles and explanatory sentences have enough width.
 - Keep public UI honest: no fake star/check/delete controls were added.
