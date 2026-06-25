@@ -22,6 +22,8 @@ El detonante de la burbuja puntocom no fue la pérdida de fe en internet. Fue el
 
 Cuando aparece una nueva tecnología, incluso empresas con fundamentos débiles pueden ganar dinero durante un tiempo. No es raro. Al principio nadie sabe quién será el verdadero ganador. Por eso el capital se reparte ampliamente. En ese montón puede estar la próxima Amazon. El problema es que también puede estar Pets.com.
 
+<p style="margin-block:1.1em 1.5em;margin-inline-start:1.4rem;color:var(--muted);font-style:italic;font-size:.95em;">Pets.com era una tienda estadounidense en línea de productos para mascotas. Gastó mucho en publicidad, pero el negocio perdía dinero, y cuando estalló la burbuja puntocom no pudo aguantar. Por eso se cita como ejemplo de una empresa débil subida a una moda tecnológica.</p>
+
 Cuando los tipos son bajos, "la próxima ronda" empieza a parecer un modelo de negocio. Las pérdidas parecen una prueba de crecimiento. El gasto en publicidad parece el coste de conquistar el mercado. Si las acciones suben y la ventana de IPO está abierta, quedarse sin efectivo no parece un problema, sino una cuestión de calendario. Solo hay que aguantar un poco más y quizá llegue el siguiente cheque.
 
 Cuando los tipos suben, esa ilusión se rompe. Desaparece el siguiente inversor. Se cierra el camino de financiarse con una acción que no para de subir. A partir de ahí, las empresas se juzgan menos por su historia tecnológica y más por el saldo de caja. Así se rompió la burbuja puntocom. Internet no estaba equivocado. La cuenta de caja de demasiadas empresas de internet sí lo estaba.
