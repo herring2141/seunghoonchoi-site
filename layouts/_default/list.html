@@ -34,12 +34,17 @@
   {{ range $listedPages }}{{ with .Params.categories }}{{ $cats = $cats | append (index . (sub (len .) 1)) }}{{ end }}{{ end }}
   {{ $cats = ($cats | uniq) }}
   {{ if in $cats "AI" }}{{ $ordered := slice "AI" }}{{ range $cats }}{{ if ne . "AI" }}{{ $ordered = $ordered | append . }}{{ end }}{{ end }}{{ $cats = $ordered }}{{ end }}
-  {{ if gt (len $cats) 1 }}
-  <div class="filterbar" data-filter>
-    <button class="chip is-active" type="button" data-cat="*" aria-pressed="true">{{ i18n "all" }}</button>
-    {{ range $cats }}<button class="chip" type="button" data-cat="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}
+  <div class="list-tools">
+    {{ if gt (len $cats) 1 }}
+    <div class="filterbar" data-filter>
+      <button class="chip is-active" type="button" data-cat="*" aria-pressed="true">{{ i18n "all" }}</button>
+      {{ range $cats }}<button class="chip" type="button" data-cat="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}
+    </div>
+    {{ else }}
+    <div class="filterbar filterbar--empty" aria-hidden="true"></div>
+    {{ end }}
+    {{ partial "search-module.html" (dict "scope" "section" "section" .Section) }}
   </div>
-  {{ end }}
 
   <div class="cards cards--list content-list" data-list>
     {{ $offset := mul (sub $paginator.PageNumber 1) $paginator.PagerSize }}

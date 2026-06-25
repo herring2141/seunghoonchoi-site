@@ -1,0 +1,39 @@
+{{- $items := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- if and (not .Params.hidden) (ne .Section "incomplete") -}}
+    {{- $img := .Params.image -}}
+    {{- if not $img -}}
+      {{- $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` .Content -}}
+      {{- if gt (len $mm) 0 }}{{ $img = index (index $mm 0) 1 }}{{ end -}}
+    {{- end -}}
+    {{- $tags := slice -}}{{ with .Params.tags }}{{ $tags = . }}{{ end -}}
+    {{- $cats := slice -}}{{ with .Params.categories }}{{ $cats = . }}{{ end -}}
+    {{- $cat := "" -}}{{ with $cats }}{{ $cat = index . (sub (len .) 1) }}{{ end -}}
+    {{- $source := .Section -}}{{ with .CurrentSection }}{{ $source = .Title }}{{ end -}}
+    {{- $subtitle := "" -}}
+    {{- with .Params.subtitle -}}
+      {{- $subtitle = . -}}
+    {{- else -}}
+      {{- $subtitle = (.Summary | plainify | htmlUnescape | strings.TrimSpace | truncate 150) -}}
+    {{- end -}}
+    {{- $desc := "" -}}{{ with .Params.description }}{{ $desc = . }}{{ end -}}
+    {{- $body := (.Plain | htmlUnescape | strings.TrimSpace) -}}
+    {{- $date := "" -}}{{- $datetime := "" -}}
+    {{- if not .Date.IsZero -}}{{ $date = .Date.Format "2006.01.02" }}{{ $datetime = .Date.Format "2006-01-02" }}{{ end -}}
+    {{- $search := delimit (slice .Title $subtitle $desc (delimit $tags " ") (delimit $cats " ") $body) " " -}}
+    {{- $items = $items | append (dict
+      "title" .Title
+      "url" .RelPermalink
+      "section" .Section
+      "source" $source
+      "subtitle" $subtitle
+      "date" $date
+      "datetime" $datetime
+      "category" $cat
+      "tags" $tags
+      "image" $img
+      "search" $search
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $items | jsonify -}}

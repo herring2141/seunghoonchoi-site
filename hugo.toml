@@ -34,9 +34,15 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     isPlainText = true
     rel = "alternate"
     permalinkable = false
+  [outputFormats.SEARCH]
+    mediaType = "application/json"
+    baseName = "search"
+    isPlainText = true
+    notAlternative = true
+    permalinkable = false
 
 [outputs]
-  home = ["HTML", "RSS", "LLMS", "LLMSFULL"]
+  home = ["HTML", "RSS", "LLMS", "LLMSFULL", "SEARCH"]
   section = ["HTML", "RSS"]
 
 [params]

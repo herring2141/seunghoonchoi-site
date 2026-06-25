@@ -1,0 +1,17 @@
+{{- $scope := .scope | default "section" -}}
+{{- $section := .section | default "" -}}
+{{- $id := printf "site-search-%s-%s" $scope (default "all" $section) -}}
+<div class="search-module search-module--{{ $scope }}" data-site-search data-search-scope="{{ $scope }}"{{ with $section }} data-search-section="{{ . }}"{{ end }} data-search-index="{{ "search.json" | relLangURL }}" data-search-count-suffix="{{ i18n "search_count_suffix" }}">
+  <div class="searchbox">
+    <label class="sr-only" for="{{ $id }}">{{ i18n "search_label" }}</label>
+    <input id="{{ $id }}" class="searchbox__input" type="search" autocomplete="off" spellcheck="false" placeholder="{{ i18n "search_placeholder" }}" aria-label="{{ i18n "search_label" }}" data-search-input>
+    <button class="searchbox__clear" type="button" aria-label="{{ i18n "search_clear" }}" data-search-clear hidden>×</button>
+  </div>
+  <div class="search-results" data-search-results hidden>
+    <div class="search-results__head">
+      <span data-search-count></span>
+    </div>
+    <div class="search-results__list" data-search-list></div>
+    <p class="search-results__empty" data-search-empty hidden>{{ i18n "search_no_results" }}</p>
+  </div>
+</div>

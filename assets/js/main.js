@@ -195,6 +195,131 @@
     });
   });
 
+  /* Language-scoped site search. Home searches the current language; section pages
+     search only their current tab/section, including title, subtitle, tags, and body text. */
+  var searchIndexCache = {};
+  function normalizeSearchText(value) {
+    var text = String(value || "");
+    if (text.normalize) text = text.normalize("NFKC");
+    return text.toLowerCase();
+  }
+  function escapeHTML(value) {
+    return String(value || "").replace(/[&<>"']/g, function (ch) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[ch];
+    });
+  }
+  function loadSearchIndex(url) {
+    if (!url || !window.fetch) return Promise.resolve([]);
+    if (!searchIndexCache[url]) {
+      searchIndexCache[url] = fetch(url, { credentials: "same-origin" })
+        .then(function (res) { return res.ok ? res.json() : []; })
+        .catch(function () { return []; });
+    }
+    return searchIndexCache[url];
+  }
+  function resultCard(item) {
+    var tags = Array.isArray(item.tags) ? item.tags.slice(0, 6) : [];
+    var meta = [];
+    if (item.source) meta.push('<span class="search-result__source">' + escapeHTML(item.source) + '</span>');
+    if (item.date) meta.push('<time datetime="' + escapeHTML(item.datetime || "") + '">' + escapeHTML(item.date) + '</time>');
+    if (item.category) meta.push('<span class="search-result__cat">' + escapeHTML(item.category) + '</span>');
+    var thumb = item.image
+      ? '<a class="search-result__thumb" href="' + escapeHTML(item.url) + '" tabindex="-1" aria-hidden="true"><img src="' + escapeHTML(item.image) + '" alt="" loading="lazy"></a>'
+      : '<a class="search-result__thumb search-result__thumb--fallback" href="' + escapeHTML(item.url) + '" tabindex="-1" aria-hidden="true"><span>' + escapeHTML(item.category || item.source || "Result") + '</span></a>';
+    return '<article class="card search-result">' +
+      thumb +
+      '<div class="search-result__body">' +
+        '<h3 class="card__title search-result__title"><a href="' + escapeHTML(item.url) + '">' + escapeHTML(item.title) + '</a></h3>' +
+        (item.subtitle ? '<p class="search-result__excerpt">' + escapeHTML(item.subtitle) + '</p>' : '') +
+        (meta.length ? '<div class="card__meta search-result__meta">' + meta.join("") + '</div>' : '') +
+        (tags.length ? '<div class="search-result__tags">' + tags.map(function (tag) { return '<span class="search-result__tag">#' + escapeHTML(tag) + '</span>'; }).join("") + '</div>' : '') +
+      '</div>' +
+    '</article>';
+  }
+  document.querySelectorAll("[data-site-search]").forEach(function (module) {
+    var input = module.querySelector("[data-search-input]");
+    var clear = module.querySelector("[data-search-clear]");
+    var panel = module.querySelector("[data-search-results]");
+    var list = module.querySelector("[data-search-list]");
+    var count = module.querySelector("[data-search-count]");
+    var empty = module.querySelector("[data-search-empty]");
+    var indexURL = module.getAttribute("data-search-index");
+    var suffix = module.getAttribute("data-search-count-suffix") || " results";
+    var mode = module.getAttribute("data-search-scope") || "section";
+    var section = module.getAttribute("data-search-section") || "";
+    var sectionRoot = module.closest(".section");
+    var normalList = sectionRoot ? sectionRoot.querySelector("[data-list]") : null;
+    var pager = sectionRoot ? sectionRoot.querySelector(".pagination") : null;
+    var homeFull = mode === "home" ? document.querySelector(".home-full") : null;
+    var seq = 0;
+    if (!input || !panel || !list) return;
+
+    function setSearchActive(active) {
+      module.classList.toggle("is-searching", active);
+      if (sectionRoot) sectionRoot.classList.toggle("is-searching", active);
+      if (normalList) normalList.hidden = active;
+      if (pager) pager.hidden = active;
+      if (homeFull) homeFull.hidden = active;
+      if (clear) clear.hidden = !active;
+      panel.hidden = !active;
+    }
+    function applySearch() {
+      var query = input.value || "";
+      var terms = normalizeSearchText(query).trim().split(/\s+/).filter(Boolean);
+      var run = ++seq;
+      if (!terms.length) {
+        list.innerHTML = "";
+        if (count) count.textContent = "";
+        if (empty) empty.hidden = true;
+        setSearchActive(false);
+        return;
+      }
+      setSearchActive(true);
+      loadSearchIndex(indexURL).then(function (items) {
+        if (run !== seq) return;
+        var results = (Array.isArray(items) ? items : []).filter(function (item) {
+          if (mode === "section" && section && item.section !== section) return false;
+          var hay = normalizeSearchText(item.search);
+          return terms.every(function (term) { return hay.indexOf(term) !== -1; });
+        }).map(function (item) {
+          var hay = normalizeSearchText(item.search);
+          var title = normalizeSearchText(item.title);
+          var subtitle = normalizeSearchText(item.subtitle);
+          var tagText = normalizeSearchText(Array.isArray(item.tags) ? item.tags.join(" ") : "");
+          var score = 0;
+          terms.forEach(function (term) {
+            if (title.indexOf(term) !== -1) score += 40;
+            if (subtitle.indexOf(term) !== -1) score += 18;
+            if (tagText.indexOf(term) !== -1) score += 14;
+            if (hay.indexOf(term) !== -1) score += 1;
+          });
+          item._score = score;
+          return item;
+        }).sort(function (a, b) {
+          if (b._score !== a._score) return b._score - a._score;
+          return String(b.datetime || "").localeCompare(String(a.datetime || ""));
+        });
+        if (count) count.textContent = results.length + suffix;
+        if (empty) empty.hidden = results.length !== 0;
+        list.innerHTML = results.map(resultCard).join("");
+      });
+    }
+    input.addEventListener("input", applySearch);
+    input.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && input.value) {
+        input.value = "";
+        applySearch();
+      }
+    });
+    if (clear) {
+      clear.addEventListener("click", function () {
+        input.value = "";
+        input.focus();
+        applySearch();
+      });
+    }
+  });
+
   /* Copy attribution — append source line when copying article text */
   var post = document.querySelector(".post");
   if (post && window.SC) {

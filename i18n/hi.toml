@@ -61,6 +61,14 @@ other = "한국어"
 other = "सर्वाधिकार सुरक्षित।"
 [search_placeholder]
 other = "खोजें…"
+[search_label]
+other = "खोज"
+[search_clear]
+other = "खोज साफ़ करें"
+[search_no_results]
+other = "कोई मिलता-जुलता परिणाम नहीं मिला।"
+[search_count_suffix]
+other = " परिणाम"
 [by]
 other = "लेखक"
 [author_name]

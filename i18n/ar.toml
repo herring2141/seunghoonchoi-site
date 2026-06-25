@@ -61,6 +61,14 @@ other = "한국어"
 other = "جميع الحقوق محفوظة."
 [search_placeholder]
 other = "بحث…"
+[search_label]
+other = "بحث"
+[search_clear]
+other = "مسح البحث"
+[search_no_results]
+other = "لا توجد نتائج مطابقة."
+[search_count_suffix]
+other = " نتيجة"
 [by]
 other = "بقلم"
 [author_name]

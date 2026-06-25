@@ -61,6 +61,14 @@ other = "English"
 other = "All rights reserved."
 [search_placeholder]
 other = "검색…"
+[search_label]
+other = "검색"
+[search_clear]
+other = "검색어 지우기"
+[search_no_results]
+other = "검색 결과가 없습니다."
+[search_count_suffix]
+other = "개 결과"
 [by]
 other = "글쓴이"
 [author_name]

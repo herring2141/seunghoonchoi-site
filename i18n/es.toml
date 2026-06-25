@@ -61,6 +61,14 @@ other = "한국어"
 other = "Todos los derechos reservados."
 [search_placeholder]
 other = "Buscar…"
+[search_label]
+other = "Buscar"
+[search_clear]
+other = "Borrar búsqueda"
+[search_no_results]
+other = "No hay resultados coincidentes."
+[search_count_suffix]
+other = " resultados"
 [by]
 other = "Por"
 [author_name]
