@@ -40,9 +40,10 @@
   {{ end }}
 
   {{ $paginator := .Paginate $rest }}
-  <div class="cards cards--list" data-list>
-    {{ range $paginator.Pages }}
-      {{ partial "post-card.html" . }}
+  <div class="cards cards--list content-list" data-list>
+    {{ $offset := mul (sub $paginator.PageNumber 1) $paginator.PagerSize }}
+    {{ range $i, $page := $paginator.Pages }}
+      {{ partial "post-list-row.html" (dict "page" $page "index" (add (add $offset $i) 1)) }}
     {{ else }}
       {{ if not $pinned }}<p class="muted">{{ i18n "no_posts" }}</p>{{ end }}
     {{ end }}

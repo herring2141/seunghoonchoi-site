@@ -1,0 +1,37 @@
+{{ $p := .page }}
+{{ $idx := .index }}
+{{ $img := $p.Params.image }}
+{{ if not $img }}{{ $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` $p.Content }}{{ if gt (len $mm) 0 }}{{ $img = index (index $mm 0) 1 }}{{ end }}{{ end }}
+{{ $cat := "" }}{{ with $p.Params.categories }}{{ $cat = index . 0 }}{{ end }}
+{{ $source := $p.Section }}{{ with $p.CurrentSection }}{{ $source = .Title }}{{ end }}
+{{ $excerpt := "" }}{{ with $p.Params.subtitle }}{{ $excerpt = . }}{{ else }}{{ $excerpt = ($p.Summary | plainify | truncate 128) }}{{ end }}
+<article class="card content-row reveal{{ if $img }} content-row--has-thumb{{ end }}" data-cat="{{ range $p.Params.categories }}{{ . | urlize }} {{ end }}"{{ with $p.File }} data-rk="{{ $p.Section }}/{{ .ContentBaseName }}"{{ end }}>
+  <div class="content-row__num" aria-label="List number">
+    {{ if eq $idx 1 }}<span class="content-row__new">New!</span>{{ end }}
+    <span>{{ $idx }}</span>
+  </div>
+  {{ with $img }}
+  <a class="content-row__thumb" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ . }}" alt="" loading="lazy">
+  </a>
+  {{ else }}
+  <a class="content-row__thumb content-row__thumb--fallback" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
+    <span>{{ with $cat }}{{ . }}{{ else }}{{ $source }}{{ end }}</span>
+  </a>
+  {{ end }}
+  <div class="content-row__body">
+    <h3 class="card__title content-row__title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+    {{ with $excerpt }}<p class="content-row__excerpt">{{ . }}</p>{{ end }}
+    <div class="card__meta content-row__meta">
+      <span class="content-row__source">{{ i18n "copy_source" }}: {{ $source }}</span>
+      {{ with $p.Date }}{{ if not .IsZero }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006.01.02" }}</time>{{ end }}{{ end }}
+      {{ with $cat }}<span class="card__cat">{{ . }}</span>{{ end }}
+    </div>
+    {{ with $p.Params.tags }}
+    <div class="content-row__tags">
+      {{ range first 5 . }}<span class="content-row__tag">#{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+  <a class="content-row__open" href="{{ $p.RelPermalink }}">{{ i18n "read_more" }}</a>
+</article>
