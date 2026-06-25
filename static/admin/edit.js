@@ -55,9 +55,9 @@
   /* ---- 인증: 토큰을 localStorage에 보관(새로고침·탭·메뉴 이동에도 유지). 페이지 로드 때는 로그인 팝업을 띄우지 않는다.
      배지·편집버튼은 소유 브라우저면 바로 보이고, 실제 편집/검수 저장을 누를 때만(토큰 없거나 만료면) ensureAuth()로 한 번 로그인. ---- */
   var TOKEN_EXP = 0, pendingAuth = null, gisInit = false;
-  function saveToken(tok, exp){ ID_TOKEN = tok; TOKEN_EXP = exp || 0; try{ localStorage.setItem('sc_edit_tok', JSON.stringify({ token: tok, exp: exp })); }catch(e){} }
+  function saveToken(tok, exp){ ID_TOKEN = tok; TOKEN_EXP = exp || 0; try{ localStorage.setItem('sc_edit_tok', JSON.stringify({ token: tok, exp: exp })); }catch(e){} try{ window.dispatchEvent(new Event('sc-admin-auth')); }catch(e){} }
   function tokenValid(){ return !!(ID_TOKEN && TOKEN_EXP*1000 > Date.now()+60000); }
-  function clearToken(){ ID_TOKEN = null; TOKEN_EXP = 0; try{ localStorage.removeItem('sc_edit_tok'); }catch(e){} }
+  function clearToken(){ ID_TOKEN = null; TOKEN_EXP = 0; try{ localStorage.removeItem('sc_edit_tok'); }catch(e){} try{ window.dispatchEvent(new Event('sc-admin-auth')); }catch(e){} }
   function gisCallback(resp){
     try { var c = decodeJwt(resp.credential);
       if (!((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true')){
@@ -107,6 +107,7 @@
   function authInit(){
     try { var t = JSON.parse(localStorage.getItem('sc_edit_tok') || 'null'); if (t && t.token && t.exp*1000 > Date.now()+60000){ ID_TOKEN = t.token; TOKEN_EXP = t.exp; } } catch(e){}
     onReady(); // 로그인 팝업 없이 바로 배지·편집버튼 노출(소유 브라우저). 인증은 편집/검수 저장 누를 때.
+    if (tokenValid()){ try{ window.dispatchEvent(new Event('sc-admin-auth')); }catch(e){} }
   }
 
   function api(method, seg, opts){

@@ -3,6 +3,19 @@
 <meta name="google-site-verification" content="5h_1hvrNbXYfdfI3_LSVPdx4zljugAFwu2eFw9YcXnA">
 {{- /* Hidden pages: kept reachable (and listed in /admin/) but dropped from search + public listings. Pair `hidden: true` with `build: {list: never}` in front-matter. */ -}}
 {{ if .Params.hidden }}<meta name="robots" content="noindex, nofollow">{{ end }}
+{{ if eq .Section "incomplete" }}
+<script>
+(function(){
+  var home = "{{ "" | relLangURL }}";
+  try {
+    var raw = localStorage.getItem("sc_edit_tok");
+    var tok = raw ? JSON.parse(raw) : null;
+    if (tok && tok.token && tok.exp && tok.exp * 1000 > Date.now() + 60000) return;
+  } catch (e) {}
+  location.replace(home);
+})();
+</script>
+{{ end }}
 <title>{{ if .IsHome }}{{ .Site.Title }} · {{ .Site.Params.role }}{{ else }}{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }} · {{ i18n "brand" }}{{ end }}</title>
 {{- /* Per-page meta description: explicit front-matter, else first-paragraph summary (pages), else site default. Helps AI search engines lift a clean snippet. */ -}}
 {{- $metadesc := .Site.Params.description -}}

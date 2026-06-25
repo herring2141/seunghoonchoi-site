@@ -106,6 +106,56 @@
     });
   }
 
+  /* Admin-only draft shelf link. The link is created only in an owner browser with a
+     valid admin session token, so public visitors do not see an unfinished tab. */
+  function validAdminToken() {
+    try {
+      var raw = localStorage.getItem("sc_edit_tok");
+      if (!raw) return false;
+      var tok = JSON.parse(raw);
+      return !!(tok && tok.token && tok.exp && tok.exp * 1000 > Date.now() + 60000);
+    } catch (e) {
+      return false;
+    }
+  }
+  function currentLang() {
+    var m = (document.body.className || "").match(/lang-([a-z]+)/);
+    return m ? m[1] : (document.documentElement.lang || "en");
+  }
+  function incompleteHref() {
+    var lang = currentLang();
+    return (lang === "en" ? "" : "/" + lang) + "/incomplete/";
+  }
+  function paintAdminIncompleteNav() {
+    var nav = document.querySelector(".nav");
+    var right = document.querySelector(".topbar__right");
+    if (!validAdminToken()) {
+      document.querySelectorAll("[data-admin-incomplete]").forEach(function (el) { el.remove(); });
+      return;
+    }
+    function makeLink(kind) {
+      var a = document.createElement("a");
+      a.href = incompleteHref();
+      a.className = "nav__link admin-incomplete-link admin-incomplete-link--" + kind;
+      a.setAttribute("data-admin-incomplete", "");
+      a.textContent = "미완료";
+      if (/\/incomplete\/?$/.test(location.pathname)) a.classList.add("is-active");
+      return a;
+    }
+    if (right && !right.querySelector("[data-admin-incomplete]")) {
+      right.insertBefore(makeLink("top"), right.firstChild);
+    }
+    if (nav && !nav.querySelector("[data-admin-incomplete]")) {
+      nav.appendChild(makeLink("mobile"));
+    }
+  }
+  paintAdminIncompleteNav();
+  window.addEventListener("sc-admin-auth", paintAdminIncompleteNav);
+  window.addEventListener("storage", function (e) {
+    if (e.key === "sc_edit_tok") paintAdminIncompleteNav();
+  });
+  window.setInterval(paintAdminIncompleteNav, 60000);
+
   /* Reveal on scroll */
   var reveals = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window && reveals.length) {

@@ -1,0 +1,42 @@
+{{ $p := .page }}
+{{ $idx := .index }}
+{{ $img := $p.Params.image }}
+{{ if not $img }}{{ $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` $p.Content }}{{ if gt (len $mm) 0 }}{{ $img = index (index $mm 0) 1 }}{{ end }}{{ end }}
+{{ $cat := "" }}{{ with $p.Params.categories }}{{ $cat = index . (sub (len .) 1) }}{{ end }}
+{{ $source := "미완료" }}
+{{ with $p.Params.draftSource }}{{ $source = . }}{{ else }}{{ with $p.Params.source }}{{ $source = . }}{{ else }}{{ with $cat }}{{ $source = . }}{{ end }}{{ end }}{{ end }}
+{{ $status := default "none" $p.Params.reviewStatus }}
+{{ $statusLabel := "미검수" }}
+{{ if eq $status "reviewing" }}{{ $statusLabel = "검수중" }}{{ else if eq $status "done" }}{{ $statusLabel = "검수완료" }}{{ end }}
+{{ $excerpt := "" }}{{ with $p.Params.subtitle }}{{ $excerpt = . }}{{ else }}{{ $excerpt = ($p.Summary | plainify | htmlUnescape | strings.TrimSpace | truncate 150) }}{{ end }}
+<article class="card incomplete-row{{ if $img }} incomplete-row--has-thumb{{ end }}" data-cat="{{ $cat | urlize }}"{{ with $p.File }} data-rk="{{ $p.Section }}/{{ .ContentBaseName }}"{{ end }}>
+  <div class="incomplete-row__num" aria-label="List number">
+    {{ if eq $idx 1 }}<span class="incomplete-row__new">New!</span>{{ end }}
+    <span>{{ $idx }}</span>
+  </div>
+  {{ with $img }}
+  <a class="incomplete-row__thumb" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ . }}" alt="" loading="lazy">
+  </a>
+  {{ else }}
+  <a class="incomplete-row__thumb incomplete-row__thumb--fallback" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
+    <span>{{ with $cat }}{{ . }}{{ else }}Draft{{ end }}</span>
+  </a>
+  {{ end }}
+  <div class="incomplete-row__body">
+    <h3 class="card__title incomplete-row__title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+    {{ with $excerpt }}<p class="incomplete-row__excerpt">{{ . }}</p>{{ end }}
+    <div class="card__meta incomplete-row__meta">
+      <span class="incomplete-row__pill">Source: {{ $source }}</span>
+      {{ with $p.Date }}{{ if not .IsZero }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006.01.02" }}</time>{{ end }}{{ end }}
+      {{ with $cat }}<span class="incomplete-row__pill incomplete-row__pill--cat">{{ . }}</span>{{ end }}
+      {{ if $p.Params.hidden }}<span class="incomplete-row__pill incomplete-row__pill--hidden">숨김</span>{{ end }}
+      <span class="rv-badge incomplete-row__review" data-rv="{{ $status }}">{{ $statusLabel }}</span>
+    </div>
+    {{ with $p.Params.tags }}
+    <div class="incomplete-row__tags">
+      {{ range first 8 . }}<span class="incomplete-row__tag">#{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+</article>
