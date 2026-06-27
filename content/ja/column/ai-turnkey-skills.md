@@ -6,11 +6,11 @@ categories: ["AI"]
 tags: ["AI時代","仕事の力","EQ","信頼","評判","生産性","基本力"]
 subtitle: "AIが知性を外注化するほど、任せれば最後まで責任を持つ人、一緒に働きたいと思われる人の価値が高まる。"
 seoTitle: "AI時代に必要な7つの力と、もっと大切なEQ・信頼・評判"
-image: /images/col-ai-turnkey-skills.svg
+image: /images/col-ai-turnkey-skills.png
 reviewStatus: "done"
 ---
 
-![AI研究アシスタントのイラスト](/images/col-ai-turnkey-skills.svg)
+![AI研究アシスタントのイラスト](/images/col-ai-turnkey-skills.png)
 
 AIが答えをすばやく作り出す時代になりました。資料を探し、文章を書き、アイデアを整理し、下書きを作る作業は、いまやずっと楽になりました。けれど答えが速くなったからといって、仕事が自然に良くなるわけではありません。むしろ知性のかなりの部分がAIに外注化されるほど、人に残る役割はもっとはっきりしてきます。
 

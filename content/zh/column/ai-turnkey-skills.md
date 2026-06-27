@@ -6,11 +6,11 @@ categories: ["AI"]
 tags: ["AI时代","工作能力","EQ","信任","声誉","生产力","基本功"]
 subtitle: "AI 越能把智能外包出去，越需要那种接下任务就负责到底、让人愿意一起工作的人。"
 seoTitle: "AI 时代需要的 7 种能力，以及更重要的 EQ、信任和声誉"
-image: /images/col-ai-turnkey-skills.svg
+image: /images/col-ai-turnkey-skills.png
 reviewStatus: "done"
 ---
 
-![AI 研究助手插图](/images/col-ai-turnkey-skills.svg)
+![AI 研究助手插图](/images/col-ai-turnkey-skills.png)
 
 AI 已经能很快给出答案。找资料、写句子、整理想法、做草稿，都比以前容易得多。但答案变快，不代表工作会自动变好。恰恰相反，越多智能被 AI 外包出去，人身上剩下的角色反而越清楚。
 

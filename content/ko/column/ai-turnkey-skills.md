@@ -6,11 +6,11 @@ categories: ["AI"]
 tags: ["AI시대","업무역량","EQ","신뢰","평판","생산성","기본기"]
 subtitle: "AI가 지능을 외주화할수록, 맡기면 끝까지 책임지는 사람과 함께 일하고 싶은 사람의 가치가 커진다."
 seoTitle: "AI 시대에 필요한 7가지 역량과 더 중요한 EQ, 신뢰, 평판"
-image: /images/col-ai-turnkey-skills.svg
+image: /images/col-ai-turnkey-skills.png
 reviewStatus: "done"
 ---
 
-![AI 연구 도우미 삽화](/images/col-ai-turnkey-skills.svg)
+![AI 연구 도우미 삽화](/images/col-ai-turnkey-skills.png)
 
 AI가 답을 빠르게 만들어내는 시대가 왔다. 자료를 찾고, 문장을 쓰고, 아이디어를 정리하고, 초안을 만드는 일은 이제 훨씬 쉬워졌다. 하지만 답이 빨라졌다고 해서 일이 저절로 좋아지는 것은 아니다. 오히려 지능의 상당 부분이 AI로 외주화될수록 사람에게 남는 역할은 더 선명해진다.
 
