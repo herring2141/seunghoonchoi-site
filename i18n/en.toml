@@ -1,6 +1,6 @@
 # Navigation (keyed by menu identifier)
 [research]
-other = "Research & Achievements"
+other = "Research"
 # parent dropdown labels
 [writing]
 other = "Content"
@@ -16,9 +16,9 @@ other = "Literary Works"
 [youtube]
 other = "YouTube"
 [apps]
-other = "Apps & Tools"
+other = "Tools"
 [career]
-other = "Study Abroad & Settling In"
+other = "U.S. Guide"
 [about]
 other = "About"
 

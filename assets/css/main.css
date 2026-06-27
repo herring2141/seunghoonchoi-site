@@ -37,7 +37,7 @@ img{max-width:100%;height:auto}
 .brand__node circle{fill:var(--navy)}
 .brand__core{fill:var(--copper)}
 .nav{display:flex;align-items:center;gap:30px}
-.nav__link{position:relative;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:18px;font-weight:500;letter-spacing:.04em;color:var(--ink-soft);padding:6px 0;transition:color .25s}
+.nav__link{position:relative;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:18px;font-weight:500;letter-spacing:.04em;color:var(--ink-soft);padding:6px 0;white-space:nowrap;transition:color .25s}
 body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 .nav__link::after{content:"";position:absolute;left:0;bottom:-5px;width:0;height:1px;background:var(--ink-soft);transition:width .3s var(--ease)}
 .nav__link:hover{color:var(--navy)} .nav__link:hover::after{width:100%}
