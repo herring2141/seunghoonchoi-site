@@ -1,6 +1,6 @@
 ---
 title: "Diseño"
-subtitle: "Es la etapa en que se decide de antemano qué hacer y cómo"
+subtitle: "Se decide de antemano lo que se va a construir después"
 weight: 1
 ---
-Es la etapa en que se decide de antemano qué hacer y cómo. Una sola línea aquí reduce un gran coste más adelante.
+En el diseño se fija con antelación qué se va a construir y cómo. Una línea que aquí se resuelve a la ligera vuelve más tarde convertida en un costo grande. Al revés, un criterio bien fijado desde el principio reduce mucho el ensayo y error que viene después.

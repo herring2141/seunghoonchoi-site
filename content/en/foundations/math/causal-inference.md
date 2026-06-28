@@ -1,6 +1,6 @@
 ---
 title: "Causal inference"
-subtitle: "You tell apart things that just move together (correlation) from real causes"
+subtitle: "Separating things that move together from real causes"
 weight: 6
 ---
-You tell apart things that just move together (correlation) from real causes. Only when you can answer "if I change A, does B change?" do policies and experiments stop spinning their wheels.
+Causal inference is the work of separating things that merely move together from the ones that are real causes. Only when you can answer "if I change A, does B actually change?" do policies and experiments stop spinning their wheels.

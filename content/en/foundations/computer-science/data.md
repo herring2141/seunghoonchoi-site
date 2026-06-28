@@ -1,6 +1,6 @@
 ---
 title: "Data"
-subtitle: "It's the structure for gathering, storing, and quickly pulling out information."
+subtitle: "Deciding the shape you store and retrieve information in"
 weight: 4
 ---
-It's the structure for gathering, storing, and quickly pulling out information. A single good data structure can make a slow program fast in an instant.
+Whenever a program saves something and later looks it up, the shape it was stored in is doing quiet work. Data is the groundwork of gathering, storing, and pulling information back out. The shape you pour it into can make the very same program slow or fast, and a single good data structure can turn a sluggish program around in one stroke.

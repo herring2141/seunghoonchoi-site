@@ -1,6 +1,6 @@
 ---
 title: "Optimización"
-subtitle: "Encuentra la mejor opción dentro de unos límites dados"
+subtitle: "Buscar la mejor opción dentro de unos límites"
 weight: 5
 ---
-Encuentra la mejor opción dentro de unos límites dados. Es definir y hallar lo "mejor" entre las restricciones de coste, tiempo y materiales. El propio hecho de que el aprendizaje automático "aprenda" es una optimización enorme.
+La optimización es buscar la mejor opción dentro de unos límites fijados. Cuando el coste, el tiempo y los materiales están todos acotados, primero hay que decidir qué se va a considerar "lo mejor". Que un modelo de aprendizaje automático aprenda es, en el fondo, resolver una optimización enorme.

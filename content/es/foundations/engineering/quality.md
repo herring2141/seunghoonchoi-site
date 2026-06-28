@@ -1,6 +1,6 @@
 ---
 title: "Calidad"
-subtitle: "Es lograr que funcione al mismo nivel sin importar quién lo use ni cuándo"
+subtitle: "Se logra que funcione al mismo nivel sin importar cuándo se use"
 weight: 4
 ---
-Es lograr que funcione al mismo nivel sin importar quién lo use ni cuándo. Un resultado irregular a veces es peor que no tener nada.
+La calidad consiste en lograr que algo funcione al mismo nivel sin importar cuándo ni quién lo use. Sacar un buen resultado una vez es más fácil que repetir resultados parecidos una y otra vez. Un resultado que va a saltos a veces resulta peor que no tener nada.

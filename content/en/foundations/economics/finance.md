@@ -1,6 +1,6 @@
 ---
 title: "Finance"
-subtitle: "It's how you move money and risk across time"
+subtitle: "Moving money and risk across time"
 weight: 4
 ---
-It's how you move money and risk across time. It's the machinery for bringing future money into the present and spreading today's risk.
+Finance is the machinery for moving money and risk across time. It can pull future money forward to spend now, and it can split a risk too heavy for one person across many shoulders.

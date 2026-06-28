@@ -1,6 +1,6 @@
 ---
 title: "Derechos"
-subtitle: "Es la parte que corresponde a cada persona y que no se puede invadir sin más."
+subtitle: "La parte que nadie puede invadir sin permiso"
 weight: 1
 ---
-Es la parte que corresponde a cada persona y que no se puede invadir sin más. Aquí se decide hasta dónde son míos mis textos, imágenes y datos.
+Un derecho marca la parte que nadie puede tocar a su antojo. Es donde se decide hasta dónde son míos mi texto, mi dibujo o mis datos. En una época en que la IA aprende del material ajeno y lo vuelve a producir, esa frontera pesa todavía más.

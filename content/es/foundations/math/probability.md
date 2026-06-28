@@ -1,6 +1,6 @@
 ---
 title: "Probabilidad"
-subtitle: "Maneja con números aquello que es incierto"
+subtitle: "Manejar con números lo que es incierto"
 weight: 3
 ---
-Maneja con números aquello que es incierto. Cambiar un "quizás" por un "70 %" te deja comparar y decidir. Como las respuestas de la IA salen casi siempre montadas sobre probabilidades, si no entiendes de probabilidad es fácil malinterpretar esa seguridad.
+La probabilidad es la forma de manejar con números aquello que no es seguro. Cuando cambias un "quizás" por un "70 %", puedes comparar y decidir. Las respuestas de una IA también salen casi siempre de un cálculo de probabilidades, así que sin entenderla es fácil malinterpretar esa seguridad con la que contesta.

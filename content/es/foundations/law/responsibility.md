@@ -1,6 +1,6 @@
 ---
 title: "Responsabilidad"
-subtitle: "Es quién carga con las consecuencias cuando algo sale mal."
+subtitle: "Mira quién carga con las cosas cuando salen mal"
 weight: 2
 ---
-Es quién carga con las consecuencias cuando algo sale mal. Cuando una decisión tomada por una IA provoca un accidente, hacia dónde va esa responsabilidad es aún una pregunta en disputa.
+La responsabilidad es el criterio que pregunta quién asume las consecuencias cuando algo sale mal. Si una decisión tomada por una IA provoca un accidente, todavía se discute si esa carga recae en quien la desarrolló, en quien la usó o en la empresa.

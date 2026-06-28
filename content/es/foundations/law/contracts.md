@@ -1,6 +1,6 @@
 ---
 title: "Contratos"
-subtitle: "Es el mecanismo que ata a cumplir lo prometido."
+subtitle: "El mecanismo que ata a cumplir lo prometido"
 weight: 3
 ---
-Es el mecanismo que ata a cumplir lo prometido. Hay que dejar claro qué se acordó intercambiar para que disminuyan las disputas.
+Un contrato sujeta a las partes a cumplir lo que prometieron. Solo cuando queda claro qué se acordó dar y recibir, y qué pasa si eso no se cumple, los conflictos se reducen.

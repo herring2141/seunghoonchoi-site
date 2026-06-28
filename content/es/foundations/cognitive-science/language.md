@@ -1,6 +1,6 @@
 ---
 title: "Lenguaje"
-subtitle: "Es la estructura para intercambiar pensamiento con palabras"
+subtitle: "La forma de pasarnos ideas con palabras"
 weight: 3
 ---
-Es la estructura para intercambiar pensamiento con palabras. Una misma frase llega distinto según quién la diga y cómo la diga.
+Un mismo "está bien" puede ser un permiso o una queja según quién lo diga y en qué momento. Las palabras llevan ideas de una mente a otra, pero su sentido depende del hablante y de la situación, no solo del texto. Que una IA maneje frases con soltura no significa que siempre capte de verdad lo que quieren decir.

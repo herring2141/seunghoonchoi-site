@@ -1,17 +1,17 @@
 ---
 title: "Derecho"
-subtitle: "Las reglas entre las personas y sus límites"
+subtitle: "La ley que decide qué se permite y quién responde"
 weight: 8
-description: "Lo esencial en la era de la IA — derecho. Por qué los derechos, la responsabilidad, los contratos, la regulación y los márgenes de lo permitido son fundamentos, y cómo se enlazan con la filosofía y la economía, explicado de forma sencilla."
+description: "Hasta dónde se permiten los textos e imágenes que crea una IA y las decisiones que toma. Aquí se ordena cómo leer los límites de la responsabilidad y los derechos."
 ---
-Ante los textos e imágenes que crea una IA y las decisiones que toma, crecen deprisa las preguntas de "¿de quién es esto y quién responde?". El derecho es el conjunto de reglas que fija esas fronteras, así que se convierte en el criterio que separa **lo permitido de lo prohibido**.
+Cuando una IA escribe un texto, dibuja una imagen o toma una decisión, enseguida aparece la pregunta de quién es eso y quién responde si algo sale mal. El derecho es el conjunto de reglas que fija esos límites. Sirve para distinguir qué se permite y qué no.
 
-El derecho no es memorizar artículos, sino un viejo diseño sobre cómo lograr que se cumplan las promesas entre las personas. Es fijar de antemano quién puede tener qué y, si algo se tuerce, quién responde.
+El derecho no termina en memorizar artículos. Es un diseño antiguo sobre cómo hacer que la gente cumpla los acuerdos entre sí. Consiste en dejar establecido de antemano quién puede tener qué y quién responde cuando algo se incumple.
 
-## Por qué importa más en la era de la IA
+## AI 시대에 왜 더 중요한가
 
-A quién corresponde el derecho de autor, hacia dónde va la responsabilidad, qué datos se pueden usar — la tecnología corre rápido y el derecho va tratando de alcanzarla por detrás. Por eso, ahora mismo, **la propia frontera de lo permitido se vuelve el límite real de los negocios y la investigación**. Quien sabe leer esa frontera ahorra pasos en vano.
+A quién pertenece un derecho de autor, hacia dónde va la responsabilidad, qué datos se pueden usar. La tecnología corre rápido y el derecho va detrás tratando de alcanzarla. Por eso, hoy el propio límite de lo que se permite se convierte en el límite real de un negocio o una investigación. Quien sabe leer esa frontera se ahorra pasos en falso.
 
-## Hacia dónde se enlaza
+## 어디로 이어지나
 
-El derecho es el valor y la ética de la [Filosofía](../philosophy/) trasladados a instituciones, y la regulación y la responsabilidad cambian los incentivos de la [Economía](../economics/) para mover las decisiones de la gente. Por las cuestiones de seguridad y responsabilidad, también roza la [Ingeniería](../engineering/).
+El derecho traslada a instituciones los valores y la ética de la [filosofía](../philosophy/), y la regulación y la responsabilidad cambian los incentivos de la [economía](../economics/), moviendo así las decisiones de la gente. Por los problemas de seguridad y responsabilidad, también roza con la [ingeniería](../engineering/).

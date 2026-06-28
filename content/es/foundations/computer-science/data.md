@@ -1,6 +1,6 @@
 ---
 title: "Datos"
-subtitle: "Son las estructuras para reunir, almacenar y sacar la información rápido"
+subtitle: "Definir la forma de guardar y recuperar la información"
 weight: 4
 ---
-Son las estructuras para reunir, almacenar y sacar la información rápido. Una sola buena estructura de datos transforma en un instante un programa lento en uno rápido.
+Cada vez que guardas algo y luego lo vuelves a sacar, la forma en que está organizado decide cuánto tardas. Según el molde en que la metas, el mismo programa se vuelve lento o rápido. Una buena estructura de datos basta para transformar de golpe un programa que se atascaba.

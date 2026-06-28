@@ -1,6 +1,6 @@
 ---
 title: "Materia"
-subtitle: "Son los materiales que forman el mundo y sus propiedades"
+subtitle: "De qué está hecho cambia el resultado"
 weight: 2
 ---
-Son los materiales que forman el mundo y sus propiedades. Un mismo diseño funciona o no según con qué material se haga.
+El mismo plano puede salir bien o fallar según el material con que se fabrique. La materia es aquello de lo que está hecho el mundo y las propiedades que trae consigo. Una estructura que aguanta sin problema en la pantalla muchas veces no resiste cuando se construye con un material real.

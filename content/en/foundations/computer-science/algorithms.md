@@ -1,6 +1,6 @@
 ---
 title: "Algorithms"
-subtitle: "These are procedures for solving the same problem at less cost."
+subtitle: "Making the order in which you solve a problem better"
 weight: 3
 ---
-These are procedures for solving the same problem at less cost. The difference between a method that holds up when data grows a hundredfold and one that doesn't gets decided here.
+An algorithm is the order in which you solve a problem, and the order itself decides whether the work holds up. Two methods can reach the same answer while one runs quickly and the other grinds to a halt. When the data grows a hundredfold, this is where the method that keeps running parts ways with the one that gives out.

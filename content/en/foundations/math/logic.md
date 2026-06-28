@@ -1,6 +1,6 @@
 ---
 title: "Logic"
-subtitle: "You work out, with no gaps, what follows from what"
+subtitle: "Checking whether the conclusion really follows from what came before"
 weight: 2
 ---
-You work out, with no gaps, what follows from what. It's the eye that tells you whether a "proof" or "reasoning" an AI hands you actually holds up.
+Logic is the work of checking whether a conclusion really follows from the statements that came before it. An AI can hand you a proof or a line of reasoning that looks convincing, but if a single link is missing in the middle, the whole conclusion collapses.

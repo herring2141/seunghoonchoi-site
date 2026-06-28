@@ -1,6 +1,6 @@
 ---
 title: "Seguridad"
-subtitle: "Es la forma de proteger la información y hacerla confiable"
+subtitle: "Proteger la información y hacerla confiable"
 weight: 5
 ---
-Es la forma de proteger la información y hacerla confiable. Garantizar quién la envió y que no se alteró por el camino es el cimiento de todo lugar donde circulan dinero y confianza.
+Cuando pagas por internet o firmas un documento, alguien tiene que poder comprobar quién lo envió y que nadie lo cambió por el camino. De eso trata la seguridad: proteger la información y hacerla confiable. Donde circulan dinero y confianza, si esta base se cae, todo se tambalea con ella.

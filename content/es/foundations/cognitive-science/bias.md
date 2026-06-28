@@ -1,6 +1,6 @@
 ---
 title: "Sesgos"
-subtitle: "Es la costumbre de las personas de ver mal en una misma dirección"
+subtitle: "La costumbre de equivocarnos en la misma dirección"
 weight: 6
 ---
-Es la costumbre de las personas de ver mal en una misma dirección. Confiar de más en lo que vimos y quedarnos solo con lo que queríamos ver son sesgos que todos tenemos.
+Cuando una IA da una respuesta segura pero equivocada, solemos creerla justo porque suena convincente, y ahí asoma un sesgo. Confiamos de más en lo que vimos, nos quedamos solo con lo que queríamos ver y creemos antes la explicación que ya nos resulta familiar. Conocer esta debilidad es lo que te deja dejarte arrastrar menos por lo que dice una IA.

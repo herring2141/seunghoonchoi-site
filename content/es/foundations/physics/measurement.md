@@ -1,6 +1,6 @@
 ---
 title: "Medición"
-subtitle: "Es la forma de medir y comparar para convertirlo en hecho"
+subtitle: "Medir y comparar para convertir algo en un hecho"
 weight: 4
 ---
-Es la forma de medir y comparar para convertirlo en hecho. Un solo número bien medido vence a cien afirmaciones.
+Medir y comparar es lo que convierte una afirmación en un hecho. Un solo número bien tomado suele pesar más que cien frases de explicación. La respuesta de una IA también solo sirve cuando cuadra con lo que se mide.

@@ -1,6 +1,6 @@
 ---
 title: "Safety"
-subtitle: "It's the safeguards you put in ahead of time so it doesn't harm people or the environment."
+subtitle: "Guarding against failure ahead of time"
 weight: 5
 ---
-It's the safeguards you put in ahead of time so it doesn't harm people or the environment. You design around when things go wrong, not when they go well.
+Safety is the set of guards put in place ahead of time so that people and the environment are not harmed. If you design only by looking at what happens when things go well, you miss the danger. Engineering has to imagine the moment things go wrong first, and make sure the damage does not grow from there.

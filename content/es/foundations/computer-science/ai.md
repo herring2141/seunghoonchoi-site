@@ -1,6 +1,6 @@
 ---
 title: "IA"
-subtitle: "La máquina encuentra sola las reglas en los datos, en vez de que una persona las escriba una a una"
+subtitle: "Dejar que las reglas se descubran a partir de los datos"
 weight: 6
 ---
-Es el método por el cual, en vez de que una persona escriba las reglas una a una, la máquina las encuentra sola en los datos. Es potente, pero arrastra también el límite de equivocarse con total seguridad ante situaciones que nunca ha visto.
+En lugar de que una persona escriba a mano cada regla, la IA deja que esas reglas se descubran a partir de los datos, como un modelo que aprende a predecir una propiedad de un material. Es potente, pero ante una situación que nunca vio puede equivocarse con total seguridad. Por eso, antes de usar el resultado, conviene revisar hasta dónde aprendió y desde dónde ya no sabe.

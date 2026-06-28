@@ -1,6 +1,6 @@
 ---
 title: "Matter"
-subtitle: "The materials the world is made of and how they behave"
+subtitle: "What it is made of changes the result"
 weight: 2
 ---
-It's the materials the world is made of and how they behave. The same design works or fails depending on which material you build it from.
+The same shelf design holds up in steel and sags in cheap plastic. Matter is the stuff the world is built from and how it behaves, and the same blueprint can work or fail depending on the material you use. A structure that holds together on a screen often cannot survive in a real material.

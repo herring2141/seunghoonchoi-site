@@ -1,6 +1,6 @@
 ---
 title: "Rights"
-subtitle: "The share a person holds that others can't trespass on"
+subtitle: "The share that no one may trespass on"
 weight: 1
 ---
-These are the share a person holds that others can't trespass on. How far your writing, images, and data are yours gets settled here.
+When you post your own writing, your own drawing, or a dataset you built, rights are what decide how far it stays yours. They mark the share that no one may take or trespass on without permission. In an age when a model learns from other people's work and produces something new from it, that boundary matters more than ever.

@@ -1,17 +1,17 @@
 ---
 title: "Economics"
-subtitle: "How people move over limited resources"
+subtitle: "How people move when resources run short"
 weight: 7
-description: "Foundations for the AI era — economics. A plain take on why scarcity, incentives, markets, finance, firms, and resource allocation are foundational, and how they connect to mathematics and law."
+description: "What does AI make cheap, and what does it make rarer? Here are the economic basics you need to read the flow of jobs and money."
 ---
-There's a lot of talk about AI changing jobs and the flow of money. To read that change **as structure** rather than gut feeling, you have to know what signals people follow as they move over limited resources.
+People keep saying AI is reshaping where jobs and money go. To read that shift with more than a hunch, you need to know which signals make people move when resources are limited.
 
-Economics starts from something simple: because everything is in short supply, you always have to choose. The habit of weighing what you give up to get something (opportunity cost) applies directly to every decision about spending — not just money, but time and effort too.
+Economics starts from something plain: because everything is in short supply, you are always choosing. The habit of asking what you give up to get something carries over to every decision about time and effort, not just money.
 
-## Why it matters more in the AI era
+## AI 시대에 왜 더 중요한가
 
-What will AI make cheap and what will it make precious — this question sorts the landscape of jobs and business. The value of work that automation makes common falls, and so the value of work that becomes rarer for it (judgment, responsibility, relationships) rises. Which technology spreads is, in the end, decided by people's incentives.
+What does AI make cheap, and what does it make valuable? That question decides the shape of jobs and businesses. As automation makes some work common, its price falls, while the price of judging, taking responsibility, and moving people rises. Which technology spreads is, in the end, settled by people's incentives.
 
-## Where it leads
+## 어디로 이어지나
 
-Economics uses the optimization and statistics of [Mathematics](../math/) as tools, and it runs on top of the rules set by [Law](../law/). How people respond to signals also connects to [Cognitive Science](../cognitive-science/).
+Economics uses the optimization and statistics of [math](../math/) as tools, and runs on top of the rules set by [law](../law/). How people respond to signals also connects to [cognitive science](../cognitive-science/).

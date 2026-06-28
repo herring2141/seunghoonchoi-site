@@ -1,6 +1,6 @@
 ---
 title: "Learning"
-subtitle: "You look at how experience turns into ability"
+subtitle: "How experience turns into ability"
 weight: 4
 ---
-You look at how experience turns into ability. The way people learn is a long-standing hint for how to teach AI.
+A child learns to recognize a cat from a handful of examples, while an AI may need millions; comparing the two tells you something about both. The way people turn experience into skill has long been a hint for how to teach machines. And watching how AI learns sends the question back the other way, making us ask again how people really pick things up.

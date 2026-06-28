@@ -1,6 +1,6 @@
 ---
 title: "Productization"
-subtitle: "It's the stage of turning something that works once into something many people can use reliably."
+subtitle: "Turning something that works once into something many people can use"
 weight: 6
 ---
-It's the stage of turning something that works once into something many people can use reliably. The real value usually gets made in this last stretch.
+Productization is the stage where something that works once becomes something many people can rely on. Setup, guidance, error handling, cost, and maintenance all have to line up before it truly becomes a product. The real value is usually made in this last stretch.

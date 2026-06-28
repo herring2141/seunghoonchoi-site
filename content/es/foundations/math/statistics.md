@@ -1,6 +1,6 @@
 ---
 title: "Estadística"
-subtitle: "Distingue en los datos los patrones reales del azar"
+subtitle: "Separar el patrón real del azar dentro de los datos"
 weight: 4
 ---
-Distingue en los datos los patrones reales del azar. Si la muestra es pequeña o se inclina hacia un lado, hasta una conclusión convincente se derrumba con facilidad.
+La estadística es la forma de distinguir, dentro de los datos, un patrón real de lo que solo es casualidad. Cuando la muestra es pequeña o está sesgada hacia un lado, hasta una conclusión convincente se cae con facilidad. Por eso tener muchos números no convierte algo, sin más, en una respuesta fiable.

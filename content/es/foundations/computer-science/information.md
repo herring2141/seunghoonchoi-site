@@ -1,6 +1,6 @@
 ---
 title: "Información"
-subtitle: "Es la forma de medir, comprimir y transmitir datos"
+subtitle: "Cómo medir, reducir y transmitir datos"
 weight: 2
 ---
-Es la forma de medir, comprimir y transmitir datos. Guardar el mismo contenido en menos bits es la base de la búsqueda, la comunicación y el almacenamiento.
+Cuando descargas un archivo comprimido o ves un vídeo sin cortes, detrás está la teoría de la información: medir datos, reducirlos y transmitirlos. Si puedes guardar el mismo contenido en menos bits, la búsqueda, la comunicación y el almacenamiento se vuelven todos más fáciles.

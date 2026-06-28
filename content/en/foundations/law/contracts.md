@@ -1,6 +1,6 @@
 ---
 title: "Contracts"
-subtitle: "The device that binds people to keep a promise"
+subtitle: "What binds a promise so it holds"
 weight: 3
 ---
-These are the device that binds people to keep a promise. Making clear what each side agreed to give and take cuts down on disputes.
+Before two sides build something together, they write down what each will give and what happens if one side falls short, and that writing is a contract. Setting out plainly what was exchanged, and what to do when it breaks, is what keeps later disputes small.

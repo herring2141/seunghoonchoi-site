@@ -1,6 +1,6 @@
 ---
 title: "Regulación"
-subtitle: "Son las líneas de prohibición que la sociedad traza de antemano."
+subtitle: "La línea que la sociedad traza por adelantado"
 weight: 4
 ---
-Son las líneas de prohibición que la sociedad traza de antemano. Si son demasiado estrictas, frenan los intentos nuevos; si son demasiado laxas, agrandan el daño.
+La regulación es la línea que la sociedad traza de antemano para marcar lo prohibido. Si es demasiado estricta, frena los nuevos intentos; si es demasiado laxa, deja crecer el daño. Una buena regulación se parece a buscar el equilibrio entre velocidad y seguridad.

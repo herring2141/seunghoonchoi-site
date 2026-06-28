@@ -1,6 +1,6 @@
 ---
 title: "Conocimiento"
-subtitle: "Examina qué es saber y hasta dónde se puede confiar"
+subtitle: "Examina hasta dónde es cierto decir que se 'sabe'"
 weight: 2
 ---
-Examina qué es saber y hasta dónde se puede confiar. Aunque la IA responda con seguridad, que eso sea "saber" o "decir algo que suena bien" es otra cuestión.
+Cuando una IA responde con total seguridad, vale la pena revisar hasta dónde llega de verdad lo que afirma saber. Una respuesta segura y a la vez equivocada deja claro que sonar convincente y saber de verdad son cosas distintas. Examinar esa diferencia es de lo que trata el conocimiento.

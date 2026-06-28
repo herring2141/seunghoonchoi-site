@@ -1,6 +1,6 @@
 ---
-title: "Illusion"
-subtitle: "It's the habit of people seeing things wrong in consistent directions"
+title: "Bias"
+subtitle: "The habit of getting things wrong in the same direction"
 weight: 6
 ---
-It's the habit of people seeing things wrong in consistent directions. Biases like overtrusting what you saw and picking out only what you wanted to see are in everyone.
+When a model trained on skewed data keeps making the same kind of error, it is mirroring a habit people already have. We overtrust what we saw, pick out only what we wanted to see, and believe a familiar explanation more readily than a true one. Knowing these weak spots is what keeps you from being swayed by what an AI confidently says.

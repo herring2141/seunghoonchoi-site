@@ -1,6 +1,6 @@
 ---
-title: "Operation"
-subtitle: "It's keeping what you built running without stopping."
+title: "Operations"
+subtitle: "Keeping what you built running without stopping"
 weight: 3
 ---
-It's keeping what you built running without stopping. Often, keeping it from stopping is harder than building it in the first place.
+Operations is the work of keeping what you built running without stopping. Holding it at the same level every day is often harder than switching it on once. The strength to get back up after a failure comes from here.

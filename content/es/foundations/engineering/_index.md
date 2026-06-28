@@ -1,17 +1,17 @@
 ---
 title: "Ingeniería"
-subtitle: "Cómo hacer que una idea funcione de verdad"
+subtitle: "Cómo convertir lo que funciona una vez en algo que funciona todos los días"
 weight: 6
-description: "Lo esencial en la era de la IA — ingeniería. Por qué el diseño, la implementación, la operación, la calidad, la seguridad y la conversión en producto son fundamentos, y cómo se enlazan con la física, la informática y el derecho, explicado de forma sencilla."
+description: "Entre una demo impresionante y un producto que funciona a diario hay una gran distancia. Aquí reunimos la base de ingeniería que cubre ese hueco."
 ---
-Entre una buena idea y un objeto que de verdad se usa cada día hay una distancia mayor de lo que parece. La ingeniería es lo que cubre esa distancia. Para que un modelo de IA pase de una demostración llamativa a **un producto que funciona cada día**, también tiene que recorrer entero este camino.
+Entre una buena idea y algo que la gente usa de verdad cada día hay más distancia de la que parece. La ingeniería es el trabajo de recorrer esa distancia. Un modelo de IA también tiene que pasar por todas estas etapas para dejar de ser una demo llamativa y volverse un producto que funciona a diario.
 
-El núcleo de la ingeniería no es "hacer que funcione una vez", sino "hacer que funcione siempre". Que algo salga bien una vez por suerte y que funcione igual llueva o se llene de gente son problemas de niveles por completo distintos.
+Lo esencial de la ingeniería es no detenerse cuando algo funciona una sola vez. Que salga bien por suerte una vez y que siga funcionando igual cuando llueve o cuando llega mucha gente a la vez son problemas completamente distintos.
 
 ## Por qué importa más en la era de la IA
 
-Gracias a la IA, hacer una demostración se ha vuelto asombrosamente fácil. Por eso la partida se trasladó a lo que viene después de la demostración. La diferencia real está en el coste de verificar, rehacer y operar sin que se detenga. Es frecuente que lo que se veía llamativo en pantalla, al ponerlo a funcionar, se lo coma todo en ese coste.
+Gracias a la IA, hacer una demo se ha vuelto sorprendentemente fácil. Por eso la competencia se trasladó al paso siguiente. La diferencia real aparece en el costo de verificar, rehacer y mantener algo en marcha sin que se caiga. Es común que lo que se veía estupendo en pantalla pierda toda esa ventaja en ese costo cuando por fin se pone a funcionar.
 
-## Hacia dónde se enlaza
+## Hacia dónde conecta
 
-La ingeniería convierte los resultados de la [Informática](../computer-science/) en objetos reales, dentro de los límites que traza la [Física](../physics/). Las cuestiones de seguridad y responsabilidad rozan el [Derecho](../law/), y las de coste y escala, la [Economía](../economics/).
+La ingeniería convierte los resultados de la [informática](../computer-science/) en objetos reales, dentro de los límites que traza la [física](../physics/). Las cuestiones de seguridad y responsabilidad se tocan con el [derecho](../law/), y las de costo y escala, con la [economía](../economics/).

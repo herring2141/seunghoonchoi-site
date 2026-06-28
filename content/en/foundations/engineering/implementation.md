@@ -1,6 +1,6 @@
 ---
 title: "Implementation"
-subtitle: "It's actually building out the design."
+subtitle: "Turning a design on paper into a real thing"
 weight: 2
 ---
-It's actually building out the design. The gap between the picture in your head and the real thing shows up here.
+Implementation is where a design on paper actually gets built. The parts that looked easy in your head are exactly where you get stuck here. That is also why you only find out whether the design was really right once you try to build it.

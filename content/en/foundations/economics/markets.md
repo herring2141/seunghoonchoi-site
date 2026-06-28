@@ -1,6 +1,6 @@
 ---
 title: "Markets"
-subtitle: "These are where buying and selling set price and quantity"
+subtitle: "Where buying and selling set price and quantity"
 weight: 3
 ---
-These are where buying and selling set price and quantity. Countless scattered decisions gather into one number called price.
+A market is where people buy and sell, and price and quantity get settled in the process. Countless scattered decisions collapse into one number, the price. That number becomes a signal telling you what is in short supply and what is left over.
