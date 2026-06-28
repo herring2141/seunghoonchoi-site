@@ -60,12 +60,12 @@ body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 .nav__menu .nav__sublink:not(:first-child){border-top:1px solid rgba(255,255,255,.09)}
 .nav__sublink:hover{background:rgba(255,255,255,.12);color:#fff}
 .nav__sublink.is-active{color:var(--copper-soft)}
-.nav__menu--foundations{min-width:330px;padding:6px 8px 8px;background:var(--navy);border-radius:11px;overflow:visible;box-shadow:0 16px 38px rgba(13,27,76,.30)}
-.nav__sublink--foundations-map{display:block;padding:13px 14px 12px;color:var(--copper);font-size:18px;font-weight:800;line-height:1.15;border-top:0;text-align:center}
+.nav__menu--foundations{min-width:304px;padding:6px 8px 8px;background:var(--navy);border-radius:11px;overflow:visible;box-shadow:0 16px 38px rgba(13,27,76,.30)}
+.nav__sublink--foundations-map{display:block;padding:12px 12px 10px;color:var(--copper);font-size:17px;font-weight:800;line-height:1.15;border-top:0;text-align:center}
 .nav__menu .nav__sublink--foundations-map:not(:first-child){border-top:0}
 .nav__sublink--foundations-map:hover,.nav__sublink--foundations-map.is-active{background:transparent;color:var(--copper-soft)}
-.nav__foundations-grid{display:grid;grid-template-rows:repeat(4,minmax(44px,auto));grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);direction:ltr;border-top:1px solid rgba(255,255,255,.10)}
-.nav__sublink--foundation{display:flex;align-items:center;justify-content:center;min-height:44px;padding:8px 10px;color:rgba(255,255,255,.82);font-size:16px;font-weight:700;line-height:1.22;text-align:center;white-space:normal;border-bottom:1px solid rgba(255,255,255,.10);word-break:keep-all}
+.nav__foundations-grid{display:grid;grid-template-rows:repeat(4,minmax(40px,auto));grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);direction:ltr;border-top:1px solid rgba(255,255,255,.10)}
+.nav__sublink--foundation{display:flex;align-items:center;justify-content:center;min-height:40px;padding:7px 9px;color:rgba(255,255,255,.82);font-size:15.5px;font-weight:700;line-height:1.22;text-align:center;white-space:normal;border-bottom:1px solid rgba(255,255,255,.10);word-break:keep-all}
 .nav__menu .nav__sublink--foundation:not(:first-child){border-top:0}
 .nav__sublink--foundation:nth-child(n+5){border-left:1px solid rgba(255,255,255,.10)}
 .nav__sublink--foundation:hover{background:rgba(255,255,255,.06);color:#fff}
