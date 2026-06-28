@@ -3,9 +3,30 @@
 other = "Investigación y logros"
 # parent dropdown labels
 [writing]
-other = "Contenido"
+other = "Escritos y libros"
 [resources]
 other = "Recursos"
+# Foundations (Fundamentos) — nav dropdown
+[foundations]
+other = "Fundamentos"
+[foundations_map]
+other = "Mapa general"
+[fnd_math]
+other = "Matemáticas"
+[fnd_cs]
+other = "Informática"
+[fnd_philosophy]
+other = "Filosofía"
+[fnd_cogsci]
+other = "Ciencia cognitiva"
+[fnd_physics]
+other = "Física"
+[fnd_engineering]
+other = "Ingeniería"
+[fnd_economics]
+other = "Economía"
+[fnd_law]
+other = "Derecho"
 # leaf sections
 [column]
 other = "Columnas"

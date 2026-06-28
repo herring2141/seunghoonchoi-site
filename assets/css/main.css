@@ -1214,3 +1214,30 @@ body.lang-ko .cite__text{word-break:keep-all}
 .post__authorbox-links a{color:var(--copper);font-size:.88rem;font-weight:500;text-decoration:none}
 .post__authorbox-links a:hover{text-decoration:underline}
 body.lang-ko .post__faq-a,body.lang-ko .post__authorbox-bio{word-break:keep-all}
+
+/* ---------- Foundations: overview map (기초지식 / 전체 지도) ---------- */
+.section__subtitle{font-family:var(--serif);font-size:clamp(18px,2.4vw,23px);font-weight:500;color:var(--navy-soft);letter-spacing:-.01em;max-width:760px;margin-top:-2px}
+body.lang-ko .section__subtitle,body.lang-zh .section__subtitle{font-weight:600;word-break:keep-all}
+.fmap{list-style:none;margin:34px 0 0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.fmap__item{margin:0}
+.fmap__card{display:flex;align-items:flex-start;gap:18px;height:100%;padding:22px 24px;background:var(--paper-2);border:1px solid var(--hair);border-left:3px solid var(--copper);border-radius:12px;box-shadow:var(--shadow);transition:transform .3s var(--ease),border-color .3s var(--ease),box-shadow .3s var(--ease)}
+.fmap__card:hover{transform:translateY(-3px);border-color:var(--copper);box-shadow:0 14px 34px rgba(13,27,76,.1)}
+.fmap__n{flex:none;min-width:1.6em;padding-top:2px;font-family:var(--serif-en);font-size:24px;font-weight:600;line-height:1;color:var(--copper)}
+.fmap__body{display:flex;flex-direction:column;gap:6px;min-width:0;flex:1}
+.fmap__title{font-family:var(--sans);font-size:21px;font-weight:700;color:var(--navy);letter-spacing:-.01em;line-height:1.2}
+body.lang-ko .fmap__title{letter-spacing:-.02em}
+.fmap__concepts{font-size:15px;color:var(--ink-soft);line-height:1.5}
+body.lang-ko .fmap__concepts,body.lang-zh .fmap__concepts{word-break:keep-all}
+.fmap__arrow{flex:none;align-self:center;color:var(--muted);font-size:18px;transition:color .25s var(--ease),transform .25s var(--ease)}
+.fmap__card:hover .fmap__arrow{color:var(--copper);transform:translateX(3px)}
+html[dir="rtl"] .fmap__card{border-left:1px solid var(--hair);border-right:3px solid var(--copper)}
+html[dir="rtl"] .fmap__arrow{transform:scaleX(-1)}
+html[dir="rtl"] .fmap__card:hover .fmap__arrow{transform:scaleX(-1) translateX(3px)}
+@media(max-width:760px){
+  .fmap{grid-template-columns:1fr;gap:12px}
+  .fmap__card{padding:18px 20px;gap:14px}
+  .fmap__title{font-size:19px}
+  /* On touch, dropdown submenus are always expanded inline. When a header is tapped
+     (.is-open), keep the submenu aligned — don't inherit the desktop centered transform. */
+  .nav .nav__group.is-open .nav__menu{transform:none}
+}

@@ -3,9 +3,30 @@
 other = "الأبحاث والإنجازات"
 # parent dropdown labels
 [writing]
-other = "المحتوى"
+other = "كتابات وكتب"
 [resources]
 other = "الموارد"
+# Foundations (الأساسيات) — nav dropdown
+[foundations]
+other = "الأساسيات"
+[foundations_map]
+other = "الخريطة الشاملة"
+[fnd_math]
+other = "الرياضيات"
+[fnd_cs]
+other = "علوم الحاسوب"
+[fnd_philosophy]
+other = "الفلسفة"
+[fnd_cogsci]
+other = "العلوم المعرفية"
+[fnd_physics]
+other = "الفيزياء"
+[fnd_engineering]
+other = "الهندسة"
+[fnd_economics]
+other = "الاقتصاد"
+[fnd_law]
+other = "القانون"
 # leaf sections
 [column]
 other = "مقالات"

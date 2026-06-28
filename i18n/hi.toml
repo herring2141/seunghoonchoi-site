@@ -3,9 +3,30 @@
 other = "शोध और उपलब्धियाँ"
 # parent dropdown labels
 [writing]
-other = "कंटेंट"
+other = "लेख और किताबें"
 [resources]
 other = "संसाधन"
+# Foundations (बुनियादी ज्ञान) — nav dropdown
+[foundations]
+other = "बुनियादी ज्ञान"
+[foundations_map]
+other = "समग्र मानचित्र"
+[fnd_math]
+other = "गणित"
+[fnd_cs]
+other = "कंप्यूटर विज्ञान"
+[fnd_philosophy]
+other = "दर्शन"
+[fnd_cogsci]
+other = "संज्ञानात्मक विज्ञान"
+[fnd_physics]
+other = "भौतिकी"
+[fnd_engineering]
+other = "इंजीनियरिंग"
+[fnd_economics]
+other = "अर्थशास्त्र"
+[fnd_law]
+other = "कानून"
 # leaf sections
 [column]
 other = "कॉलम"

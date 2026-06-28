@@ -3,9 +3,30 @@
 other = "研究・成果"
 # parent dropdown labels
 [writing]
-other = "コンテンツ"
+other = "文章・書籍"
 [resources]
 other = "資料"
+# Foundations (基礎知識) — nav dropdown
+[foundations]
+other = "基礎知識"
+[foundations_map]
+other = "全体マップ"
+[fnd_math]
+other = "数学"
+[fnd_cs]
+other = "コンピュータ科学"
+[fnd_philosophy]
+other = "哲学"
+[fnd_cogsci]
+other = "認知科学"
+[fnd_physics]
+other = "物理"
+[fnd_engineering]
+other = "工学"
+[fnd_economics]
+other = "経済"
+[fnd_law]
+other = "法"
 # leaf sections
 [column]
 other = "コラム"

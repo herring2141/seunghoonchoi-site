@@ -34,6 +34,29 @@
       </div>
     </div>
 
+    {{/* Foundations — dropdown */}}
+    {{ $fnRoot := "foundations/" | relLangURL }}
+    {{ $foundationsActive := and (ne $cur $home) (hasPrefix $cur $fnRoot) }}
+    {{ $fnKids := slice
+      (dict "u" "foundations/" "key" "foundations_map")
+      (dict "u" "foundations/math/" "key" "fnd_math")
+      (dict "u" "foundations/computer-science/" "key" "fnd_cs")
+      (dict "u" "foundations/philosophy/" "key" "fnd_philosophy")
+      (dict "u" "foundations/cognitive-science/" "key" "fnd_cogsci")
+      (dict "u" "foundations/physics/" "key" "fnd_physics")
+      (dict "u" "foundations/engineering/" "key" "fnd_engineering")
+      (dict "u" "foundations/economics/" "key" "fnd_economics")
+      (dict "u" "foundations/law/" "key" "fnd_law") }}
+    <div class="nav__group">
+      <button type="button" class="nav__link nav__toggle{{ if $foundationsActive }} is-active{{ end }}" aria-haspopup="true" aria-expanded="false">{{ i18n "foundations" }}<span class="nav__caret" aria-hidden="true">▾</span></button>
+      <div class="nav__menu" role="menu">
+        {{ range $fnKids }}
+          {{ $u := .u | relLangURL }}
+          <a role="menuitem" href="{{ $u }}" class="nav__sublink{{ if and (ne $cur $home) (eq $cur $u) }} is-active{{ end }}">{{ i18n .key }}</a>
+        {{ end }}
+      </div>
+    </div>
+
     {{/* Apps & Tools */}}
     {{ $apps := "apps/" | relLangURL }}
     <a href="{{ $apps }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $apps) }} is-active{{ end }}">{{ i18n "apps" }}</a>

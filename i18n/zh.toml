@@ -3,9 +3,30 @@
 other = "研究成果"
 # parent dropdown labels
 [writing]
-other = "内容"
+other = "文章与书"
 [resources]
 other = "资料"
+# Foundations (基础知识) — nav dropdown
+[foundations]
+other = "基础知识"
+[foundations_map]
+other = "全局地图"
+[fnd_math]
+other = "数学"
+[fnd_cs]
+other = "计算机科学"
+[fnd_philosophy]
+other = "哲学"
+[fnd_cogsci]
+other = "认知科学"
+[fnd_physics]
+other = "物理"
+[fnd_engineering]
+other = "工程"
+[fnd_economics]
+other = "经济"
+[fnd_law]
+other = "法律"
 # leaf sections
 [column]
 other = "专栏"

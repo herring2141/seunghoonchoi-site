@@ -3,9 +3,30 @@
 other = "연구·성과"
 # parent dropdown labels
 [writing]
-other = "콘텐츠"
+other = "글·책"
 [resources]
 other = "자료"
+# Foundations (기초지식) — nav dropdown
+[foundations]
+other = "기초지식"
+[foundations_map]
+other = "전체 지도"
+[fnd_math]
+other = "수학"
+[fnd_cs]
+other = "컴퓨터과학"
+[fnd_philosophy]
+other = "철학"
+[fnd_cogsci]
+other = "인지과학"
+[fnd_physics]
+other = "물리"
+[fnd_engineering]
+other = "공학"
+[fnd_economics]
+other = "경제"
+[fnd_law]
+other = "법"
 # leaf sections
 [column]
 other = "칼럼"

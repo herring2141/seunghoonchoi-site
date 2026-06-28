@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="section">
+  <header class="section__head section__head--page reveal">
+    <h1 class="section__title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="section__subtitle">{{ . }}</p>{{ end }}
+  </header>
+
+  {{ with .Content }}<div class="lede reveal">{{ . }}</div>{{ end }}
+
+  {{ with .Params.axes }}
+  <ol class="fmap reveal" aria-label="{{ $.Title }}">
+    {{ range . }}
+    {{ $u := (printf "foundations/%s/" .slug) | relLangURL }}
+    <li class="fmap__item">
+      <a class="fmap__card" href="{{ $u }}">
+        <span class="fmap__n">{{ printf "%02d" (int .n) }}</span>
+        <span class="fmap__body">
+          <span class="fmap__title">{{ .title }}</span>
+          {{ with .concepts }}<span class="fmap__concepts">{{ . }}</span>{{ end }}
+        </span>
+        <span class="fmap__arrow" aria-hidden="true">→</span>
+      </a>
+    </li>
+    {{ end }}
+  </ol>
+  {{ end }}
+</section>
+{{ end }}
