@@ -6,40 +6,6 @@ other = "Research"
 other = "Writing"
 [resources]
 other = "Resources"
-# Foundations — nav dropdown
-[foundations]
-other = "Foundations"
-[foundations_map]
-other = "Overview Map"
-[fnd_math]
-other = "Mathematics"
-[fnd_cs]
-other = "Computer Science"
-[fnd_philosophy]
-other = "Philosophy"
-[fnd_cogsci]
-other = "Cognitive Science"
-[fnd_physics]
-other = "Physics"
-[fnd_engineering]
-other = "Engineering"
-[fnd_economics]
-other = "Economics"
-[fnd_law]
-other = "Law"
-# Foundations — axis groups + relationship map (overview)
-[grp_formal]
-other = "Form & Computation"
-[grp_mind]
-other = "Mind & Meaning"
-[grp_nature]
-other = "Nature & Making"
-[grp_society]
-other = "Society & Institutions"
-[fnd_relations]
-other = "How the fields connect"
-[fnd_ai_bridge]
-other = "computer science × cognitive science"
 # leaf sections
 [column]
 other = "Columns"

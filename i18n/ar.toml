@@ -6,40 +6,6 @@ other = "الأبحاث والإنجازات"
 other = "كتابات وكتب"
 [resources]
 other = "الموارد"
-# Foundations (الأساسيات) — nav dropdown
-[foundations]
-other = "الأساسيات"
-[foundations_map]
-other = "الخريطة الشاملة"
-[fnd_math]
-other = "الرياضيات"
-[fnd_cs]
-other = "علوم الحاسوب"
-[fnd_philosophy]
-other = "الفلسفة"
-[fnd_cogsci]
-other = "العلوم المعرفية"
-[fnd_physics]
-other = "الفيزياء"
-[fnd_engineering]
-other = "الهندسة"
-[fnd_economics]
-other = "الاقتصاد"
-[fnd_law]
-other = "القانون"
-# Foundations — axis groups + relationship map (overview)
-[grp_formal]
-other = "الصورة والحساب"
-[grp_mind]
-other = "العقل والمعنى"
-[grp_nature]
-other = "الطبيعة والصنع"
-[grp_society]
-other = "المجتمع والمؤسسات"
-[fnd_relations]
-other = "كيف تترابط المجالات"
-[fnd_ai_bridge]
-other = "علوم الحاسوب × العلوم المعرفية"
 # leaf sections
 [column]
 other = "مقالات"

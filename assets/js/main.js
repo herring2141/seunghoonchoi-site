@@ -128,7 +128,6 @@
     return (lang === "en" ? "" : "/" + lang) + "/" + slug + "/";
   }
   var adminNavItems = [
-    { slug: "foundations", label: "기초지식" },
     { slug: "incomplete", label: "미완료" }
   ];
   function paintAdminPrivateNav() {

@@ -6,40 +6,6 @@ other = "研究・成果"
 other = "文章・書籍"
 [resources]
 other = "資料"
-# Foundations (基礎知識) — nav dropdown
-[foundations]
-other = "基礎知識"
-[foundations_map]
-other = "全体マップ"
-[fnd_math]
-other = "数学"
-[fnd_cs]
-other = "コンピュータ科学"
-[fnd_philosophy]
-other = "哲学"
-[fnd_cogsci]
-other = "認知科学"
-[fnd_physics]
-other = "物理"
-[fnd_engineering]
-other = "工学"
-[fnd_economics]
-other = "経済"
-[fnd_law]
-other = "法"
-# Foundations — axis groups + relationship map (overview)
-[grp_formal]
-other = "形式・計算"
-[grp_mind]
-other = "心・意味"
-[grp_nature]
-other = "自然・実装"
-[grp_society]
-other = "社会・制度"
-[fnd_relations]
-other = "分野間のつながり"
-[fnd_ai_bridge]
-other = "コンピュータ科学 × 認知科学"
 # leaf sections
 [column]
 other = "コラム"

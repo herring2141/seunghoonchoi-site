@@ -60,16 +60,6 @@ body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 .nav__menu .nav__sublink:not(:first-child){border-top:1px solid rgba(255,255,255,.09)}
 .nav__sublink:hover{background:rgba(255,255,255,.12);color:#fff}
 .nav__sublink.is-active{color:var(--copper-soft)}
-.nav__menu--foundations{min-width:304px;padding:6px 8px 8px;background:var(--navy);border-radius:11px;overflow:visible;box-shadow:0 16px 38px rgba(13,27,76,.30)}
-.nav__sublink--foundations-map{display:block;padding:12px 12px 10px;color:var(--copper);font-size:17px;font-weight:800;line-height:1.15;border-top:0;text-align:center}
-.nav__menu .nav__sublink--foundations-map:not(:first-child){border-top:0}
-.nav__sublink--foundations-map:hover,.nav__sublink--foundations-map.is-active{background:transparent;color:var(--copper-soft)}
-.nav__foundations-grid{display:grid;grid-template-rows:repeat(4,minmax(40px,auto));grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);direction:ltr;border-top:1px solid rgba(255,255,255,.10)}
-.nav__sublink--foundation{display:flex;align-items:center;justify-content:center;min-height:40px;padding:7px 9px;color:rgba(255,255,255,.82);font-size:15.5px;font-weight:700;line-height:1.22;text-align:center;white-space:normal;border-bottom:1px solid rgba(255,255,255,.10);word-break:keep-all}
-.nav__menu .nav__sublink--foundation:not(:first-child){border-top:0}
-.nav__sublink--foundation:nth-child(n+5){border-left:1px solid rgba(255,255,255,.10)}
-.nav__sublink--foundation:hover{background:rgba(255,255,255,.06);color:#fff}
-html[dir="rtl"] .nav__sublink--foundation:nth-child(n+5){border-left:0;border-right:1px solid rgba(255,255,255,.10)}
 .topbar__right{display:flex;align-items:center;gap:16px;justify-self:end}
 .langswitch{position:relative;font-size:13.5px;font-family:var(--sans)}
 .langswitch__toggle{display:inline-flex;align-items:center;gap:6px;background:var(--navy);border:1.5px solid var(--navy);border-radius:999px;padding:6px 13px;font:inherit;font-weight:600;color:#fff;cursor:pointer;line-height:1;white-space:nowrap;transition:background .2s,border-color .2s}
@@ -829,11 +819,6 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
   .nav__group.is-open .nav__menu{display:block;transform:none}
   .nav__menu::before{display:none}
   .nav__sublink{padding:11px clamp(36px,8vw,72px);color:var(--ink-soft);text-align:left;border-top:0}
-  .nav__menu--foundations{min-width:0;padding:0 0 6px;background:transparent;border-radius:0;box-shadow:none;overflow:visible}
-  .nav__sublink--foundations-map{padding:11px clamp(36px,8vw,72px);font-size:16px;font-weight:600;color:var(--ink-soft);text-align:left}
-  .nav__foundations-grid{display:block;border-top:0}
-  .nav__sublink--foundation{display:block;min-height:0;padding:11px clamp(36px,8vw,72px);font-size:16px;font-weight:500;color:var(--ink-soft);text-align:left;border-bottom:0;white-space:nowrap}
-  .nav__sublink--foundation:nth-child(n+5),html[dir="rtl"] .nav__sublink--foundation:nth-child(n+5){border-left:0;border-right:0}
   .admin-private-link--top{display:none}
   .admin-private-link--mobile{display:block}
   .hamburger{display:flex}
@@ -1153,28 +1138,6 @@ body.lang-ko .cite__text{word-break:keep-all}
 .btn--ghost{background:transparent;color:var(--navy);border:1.5px solid var(--hair)}
 .btn--ghost:hover{border-color:var(--navy)}
 @media(max-width:560px){.home-hero__name{font-size:clamp(2.6rem,12vw,3.6rem)}}
-/* ---------- Foundations: axis groups + concept map + home entry ---------- */
-.fgroup{margin:28px 0 0}
-.fgroup__title{font-family:var(--sans);font-size:15px;font-weight:700;letter-spacing:.01em;color:var(--copper);margin:0 0 12px;padding-bottom:7px;border-bottom:1px solid var(--hair)}
-body.lang-en .fgroup__title{text-transform:uppercase;letter-spacing:.07em;font-size:13px}
-.fgroup .fmap{margin-top:0}
-.fmap-rel{margin:22px auto 8px;max-width:800px}
-.fmap-rel__svg{width:100%;height:auto;display:block}
-.fmap-rel__grp{font-family:var(--sans);font-size:13.5px;font-weight:700;fill:var(--navy)}
-.fmap-rel__edges line,.fmap-rel__edges path{stroke:var(--copper);stroke-width:1.4;fill:none;opacity:.5}
-.fmap-rel__ai-edge{stroke:var(--copper);stroke-width:2.6;fill:none}
-.fmap-rel__ai-chip rect{fill:var(--copper)}
-.fmap-rel__ai-chip text{fill:#fff;font-family:var(--sans);font-size:11px;font-weight:700}
-.fmap-rel__node{fill:var(--paper-2);stroke:var(--copper);stroke-width:1.7}
-.fmap-rel__num{fill:var(--navy);font-family:var(--serif-en);font-size:16px;font-weight:600}
-.fmap-rel__cap{text-align:center;font-size:12.5px;color:var(--muted);margin-top:8px}
-.fmap-rel__cap-ai{color:var(--copper);font-weight:700}
-.fmece{margin-top:8px}
-.home-fnd{display:flex;flex-wrap:wrap;gap:10px}
-.home-fnd__chip{display:inline-flex;align-items:center;gap:7px;padding:9px 15px;border:1px solid var(--hair);border-radius:999px;background:var(--paper-2);color:var(--ink-soft);font-size:14px;font-weight:600;transition:border-color .2s,color .2s,transform .2s}
-.home-fnd__chip:hover{border-color:var(--copper);color:var(--navy);transform:translateY(-2px)}
-.home-fnd__chip span{font-family:var(--serif-en);color:var(--copper);font-size:12.5px}
-
 /* ---------- Home: full content (clean paper, scroll-reveal) ---------- */
 .home-full{position:relative;z-index:1;background:var(--paper);border-top:1px solid var(--hair)}
 .hsec{max-width:var(--maxw);margin:0 auto;padding:clamp(40px,5vw,60px) clamp(20px,5vw,56px);border-top:1px solid var(--hair)}
@@ -1254,28 +1217,7 @@ body.lang-en .fgroup__title{text-transform:uppercase;letter-spacing:.07em;font-s
 .post__authorbox-links a:hover{text-decoration:underline}
 body.lang-ko .post__faq-a,body.lang-ko .post__authorbox-bio{word-break:keep-all}
 
-/* ---------- Foundations: overview map (기초지식 / 전체 지도) ---------- */
-.section__subtitle{font-family:var(--serif);font-size:clamp(18px,2.4vw,23px);font-weight:500;color:var(--navy-soft);letter-spacing:-.01em;max-width:760px;margin-top:-2px}
-body.lang-ko .section__subtitle,body.lang-zh .section__subtitle{font-weight:600;word-break:keep-all}
-.fmap{list-style:none;margin:34px 0 0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
-.fmap__item{margin:0}
-.fmap__card{display:flex;align-items:flex-start;gap:18px;height:100%;padding:22px 24px;background:var(--paper-2);border:1px solid var(--hair);border-left:3px solid var(--copper);border-radius:12px;box-shadow:var(--shadow);transition:transform .3s var(--ease),border-color .3s var(--ease),box-shadow .3s var(--ease)}
-.fmap__card:hover{transform:translateY(-3px);border-color:var(--copper);box-shadow:0 14px 34px rgba(13,27,76,.1)}
-.fmap__n{flex:none;min-width:1.6em;padding-top:2px;font-family:var(--serif-en);font-size:24px;font-weight:600;line-height:1;color:var(--copper)}
-.fmap__body{display:flex;flex-direction:column;gap:6px;min-width:0;flex:1}
-.fmap__title{font-family:var(--sans);font-size:21px;font-weight:700;color:var(--navy);letter-spacing:-.01em;line-height:1.2}
-body.lang-ko .fmap__title{letter-spacing:-.02em}
-.fmap__concepts{font-size:15px;color:var(--ink-soft);line-height:1.5}
-body.lang-ko .fmap__concepts,body.lang-zh .fmap__concepts{word-break:keep-all}
-.fmap__arrow{flex:none;align-self:center;color:var(--muted);font-size:18px;transition:color .25s var(--ease),transform .25s var(--ease)}
-.fmap__card:hover .fmap__arrow{color:var(--copper);transform:translateX(3px)}
-html[dir="rtl"] .fmap__card{border-left:1px solid var(--hair);border-right:3px solid var(--copper)}
-html[dir="rtl"] .fmap__arrow{transform:scaleX(-1)}
-html[dir="rtl"] .fmap__card:hover .fmap__arrow{transform:scaleX(-1) translateX(3px)}
 @media(max-width:760px){
-  .fmap{grid-template-columns:1fr;gap:12px}
-  .fmap__card{padding:18px 20px;gap:14px}
-  .fmap__title{font-size:19px}
   /* On touch, dropdown submenus are always expanded inline. When a header is tapped
      (.is-open), keep the submenu aligned — don't inherit the desktop centered transform. */
   .nav .nav__group.is-open .nav__menu{transform:none}

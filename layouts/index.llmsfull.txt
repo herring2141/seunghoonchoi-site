@@ -5,7 +5,7 @@
 
 Source: {{ .Site.BaseURL }} — content may be quoted with attribution to {{ .Site.Title }}.
 {{ range sort site.RegularPages "Date" "desc" }}
-{{ if and (not .Params.hidden) (not (in (slice "incomplete" "foundations") .Section)) }}
+{{ if and (not .Params.hidden) (not (in (slice "incomplete") .Section)) }}
 ================================================================================
 # {{ .Title }}
 URL: {{ .Permalink }}

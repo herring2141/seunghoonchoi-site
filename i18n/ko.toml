@@ -6,40 +6,6 @@ other = "연구·성과"
 other = "글·책"
 [resources]
 other = "자료"
-# Foundations (기초지식) — nav dropdown
-[foundations]
-other = "기초지식"
-[foundations_map]
-other = "전체 지도"
-[fnd_math]
-other = "수학"
-[fnd_cs]
-other = "컴퓨터과학"
-[fnd_philosophy]
-other = "철학"
-[fnd_cogsci]
-other = "인지과학"
-[fnd_physics]
-other = "물리"
-[fnd_engineering]
-other = "공학"
-[fnd_economics]
-other = "경제"
-[fnd_law]
-other = "법"
-# Foundations — axis groups + relationship map (전체 지도)
-[grp_formal]
-other = "형식·계산"
-[grp_mind]
-other = "마음·의미"
-[grp_nature]
-other = "자연·구현"
-[grp_society]
-other = "사회·제도"
-[fnd_relations]
-other = "분야 간 관계"
-[fnd_ai_bridge]
-other = "컴퓨터과학 × 인지과학"
 # leaf sections
 [column]
 other = "칼럼"

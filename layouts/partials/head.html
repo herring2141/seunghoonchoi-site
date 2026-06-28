@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="5h_1hvrNbXYfdfI3_LSVPdx4zljugAFwu2eFw9YcXnA">
-{{- $privateSections := slice "incomplete" "foundations" -}}
+{{- $privateSections := slice "incomplete" -}}
 {{- $isPrivateSection := in $privateSections .Section -}}
 {{- /* Hidden/private pages stay buildable for the owner, but are kept out of public discovery. */ -}}
 {{ if or .Params.hidden $isPrivateSection }}<meta name="robots" content="noindex, nofollow">{{ end }}
