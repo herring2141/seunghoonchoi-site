@@ -2,6 +2,11 @@
 title: "AI 시대의 기본기"
 subtitle: "답을 빨리 받는 시대에, 사람이 판단하려면 필요한 공부들"
 description: "AI가 답을 빠르게 내놓는 시대에 사람이 판단하려면 무엇을 공부해야 할까요. 수학, 컴퓨터과학, 철학, 인지과학, 물리, 공학, 경제, 법을 한곳에 모았습니다."
+sitemap:
+  disable: true
+cascade:
+  sitemap:
+    disable: true
 groups:
   - title: "형식·계산"
     items:

@@ -2,6 +2,11 @@
 title: "AI 时代的基本功"
 subtitle: "答案来得越快，越需要有人能判断它对不对"
 description: "AI 很快就能给出答案，可人要判断这答案能不能用，得先有些底子。这里把数学、计算机科学、哲学、认知科学、物理、工程、经济、法律放到了一处。"
+sitemap:
+  disable: true
+cascade:
+  sitemap:
+    disable: true
 groups:
   - title: "形式·计算"
     items:

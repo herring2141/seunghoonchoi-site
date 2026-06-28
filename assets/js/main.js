@@ -107,8 +107,8 @@
     });
   }
 
-  /* Admin-only draft shelf link. The link is created only in an owner browser with a
-     valid admin session token, so public visitors do not see an unfinished tab. */
+  /* Admin-only private links. These are created only in an owner browser with a
+     valid admin session token, so public visitors do not see unfinished tabs. */
   function validAdminToken() {
     try {
       var raw = localStorage.getItem("sc_edit_tok");
@@ -123,39 +123,53 @@
     var m = (document.body.className || "").match(/lang-([a-z]+)/);
     return m ? m[1] : (document.documentElement.lang || "en");
   }
-  function incompleteHref() {
+  function adminHref(slug) {
     var lang = currentLang();
-    return (lang === "en" ? "" : "/" + lang) + "/incomplete/";
+    return (lang === "en" ? "" : "/" + lang) + "/" + slug + "/";
   }
-  function paintAdminIncompleteNav() {
+  var adminNavItems = [
+    { slug: "foundations", label: "기초지식" },
+    { slug: "incomplete", label: "미완료" }
+  ];
+  function paintAdminPrivateNav() {
     var nav = document.querySelector(".nav");
     var right = document.querySelector(".topbar__right");
     if (!validAdminToken()) {
-      document.querySelectorAll("[data-admin-incomplete]").forEach(function (el) { el.remove(); });
+      document.querySelectorAll("[data-admin-private-nav], [data-admin-incomplete]").forEach(function (el) { el.remove(); });
       return;
     }
-    function makeLink(kind) {
+    function makeLink(item, kind) {
       var a = document.createElement("a");
-      a.href = incompleteHref();
-      a.className = "nav__link admin-incomplete-link admin-incomplete-link--" + kind;
-      a.setAttribute("data-admin-incomplete", "");
-      a.textContent = "미완료";
-      if (/\/incomplete\/?$/.test(location.pathname)) a.classList.add("is-active");
+      a.href = adminHref(item.slug);
+      a.className = "nav__link admin-private-link admin-private-link--" + kind;
+      a.setAttribute("data-admin-private-nav", item.slug);
+      a.setAttribute("data-admin-private-kind", kind);
+      a.textContent = item.label;
+      if (new RegExp("\\/" + item.slug + "\\/?$").test(location.pathname)) a.classList.add("is-active");
       return a;
     }
-    if (right && !right.querySelector("[data-admin-incomplete]")) {
-      right.insertBefore(makeLink("top"), right.firstChild);
+    if (right) {
+      var anchor = right.querySelector(".langswitch") || right.firstChild;
+      adminNavItems.forEach(function (item) {
+        if (!right.querySelector("[data-admin-private-nav='" + item.slug + "'][data-admin-private-kind='top']")) {
+          right.insertBefore(makeLink(item, "top"), anchor);
+        }
+      });
     }
-    if (nav && !nav.querySelector("[data-admin-incomplete]")) {
-      nav.appendChild(makeLink("mobile"));
+    if (nav) {
+      adminNavItems.forEach(function (item) {
+        if (!nav.querySelector("[data-admin-private-nav='" + item.slug + "'][data-admin-private-kind='mobile']")) {
+          nav.appendChild(makeLink(item, "mobile"));
+        }
+      });
     }
   }
-  paintAdminIncompleteNav();
-  window.addEventListener("sc-admin-auth", paintAdminIncompleteNav);
+  paintAdminPrivateNav();
+  window.addEventListener("sc-admin-auth", paintAdminPrivateNav);
   window.addEventListener("storage", function (e) {
-    if (e.key === "sc_edit_tok") paintAdminIncompleteNav();
+    if (e.key === "sc_edit_tok") paintAdminPrivateNav();
   });
-  window.setInterval(paintAdminIncompleteNav, 60000);
+  window.setInterval(paintAdminPrivateNav, 60000);
 
   /* Reveal on scroll */
   var reveals = document.querySelectorAll(".reveal");

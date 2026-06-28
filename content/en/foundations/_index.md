@@ -2,6 +2,11 @@
 title: "Fundamentals for the AI Era"
 subtitle: "When answers arrive fast, the studies a person needs to judge them"
 description: "When AI hands you answers quickly, what should a person study in order to judge them? Mathematics, computer science, philosophy, cognitive science, physics, engineering, economics, and law, gathered in one place."
+sitemap:
+  disable: true
+cascade:
+  sitemap:
+    disable: true
 groups:
   - title: "Form & Computation"
     items:

@@ -2,6 +2,11 @@
 title: "AI時代の基礎力"
 subtitle: "答えがすぐ返ってくる時代に、人が判断するために必要な学び"
 description: "AIが答えを素早く出す時代に、人が判断するために何を学べばよいのでしょうか。数学、コンピュータ科学、哲学、認知科学、物理、工学、経済、法を一つの場所にまとめました。"
+sitemap:
+  disable: true
+cascade:
+  sitemap:
+    disable: true
 groups:
   - title: "形式・計算"
     items:

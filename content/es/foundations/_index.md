@@ -2,6 +2,11 @@
 title: "Lo esencial para la era de la IA"
 subtitle: "En una época que entrega respuestas al instante, lo que hay que estudiar para poder juzgarlas"
 description: "Cuando la IA produce respuestas en segundos, ¿qué conviene estudiar para que una persona pueda juzgarlas? Aquí están reunidos en un mismo sitio las matemáticas, la informática, la filosofía, la ciencia cognitiva, la física, la ingeniería, la economía y el derecho."
+sitemap:
+  disable: true
+cascade:
+  sitemap:
+    disable: true
 groups:
   - title: "Forma y cómputo"
     items:

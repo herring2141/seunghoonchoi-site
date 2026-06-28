@@ -2,8 +2,12 @@
 title: "미완료"
 description: "관리자 전용 초안 보관함입니다."
 hidden: true
+sitemap:
+  disable: true
 cascade:
   hidden: true
+  sitemap:
+    disable: true
   reviewStatus: "none"
 ---
 

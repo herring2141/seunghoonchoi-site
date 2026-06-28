@@ -1,6 +1,6 @@
 {{- $items := slice -}}
 {{- range .Site.RegularPages -}}
-  {{- if and (not .Params.hidden) (ne .Section "incomplete") -}}
+  {{- if and (not .Params.hidden) (not (in (slice "incomplete" "foundations") .Section)) -}}
     {{- $img := .Params.image -}}
     {{- if not $img -}}
       {{- $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` .Content -}}

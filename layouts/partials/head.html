@@ -1,9 +1,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="5h_1hvrNbXYfdfI3_LSVPdx4zljugAFwu2eFw9YcXnA">
-{{- /* Hidden pages: kept reachable (and listed in /admin/) but dropped from search + public listings. Pair `hidden: true` with `build: {list: never}` in front-matter. */ -}}
-{{ if .Params.hidden }}<meta name="robots" content="noindex, nofollow">{{ end }}
-{{ if eq .Section "incomplete" }}
+{{- $privateSections := slice "incomplete" "foundations" -}}
+{{- $isPrivateSection := in $privateSections .Section -}}
+{{- /* Hidden/private pages stay buildable for the owner, but are kept out of public discovery. */ -}}
+{{ if or .Params.hidden $isPrivateSection }}<meta name="robots" content="noindex, nofollow">{{ end }}
+{{ if $isPrivateSection }}
 <script>
 (function(){
   var home = "{{ "" | relLangURL }}";

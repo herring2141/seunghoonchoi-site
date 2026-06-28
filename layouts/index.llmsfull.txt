@@ -5,6 +5,7 @@
 
 Source: {{ .Site.BaseURL }} — content may be quoted with attribution to {{ .Site.Title }}.
 {{ range sort site.RegularPages "Date" "desc" }}
+{{ if and (not .Params.hidden) (not (in (slice "incomplete" "foundations") .Section)) }}
 ================================================================================
 # {{ .Title }}
 URL: {{ .Permalink }}
@@ -12,4 +13,5 @@ Section: {{ .Section }}{{ with .Date }} | Date: {{ .Format "2006-01-02" }}{{ end
 {{ with .Description }}Summary: {{ . | plainify | chomp }}
 {{ end }}
 {{ .RawContent }}
+{{ end }}
 {{ end }}
