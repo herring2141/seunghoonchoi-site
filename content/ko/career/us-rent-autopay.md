@@ -7,6 +7,7 @@ aliases: ["/column/us-rent-autopay/"]
 tags: ["미국유학","렌트","자동납부","미국은행계좌","ACH","유학생활"]
 subtitle: "입주도 하기 전에 자동납부부터 설정하려다가, 안 하는 게 낫다는 걸 알게 됐습니다."
 seoTitle: "미국 유학생 렌트 자동납부, 미국 계좌 없을 때 주의점"
+reviewStatus: "done"
 ---
 ![펼쳐 놓은 미국 20달러 지폐](/images/uf-rent-autopay.jpg)
 
