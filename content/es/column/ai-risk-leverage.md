@@ -36,7 +36,7 @@ Ahí aparece la responsabilidad. Decir "la IA lo escribió así" no ayuda mucho 
 
 ## El riesgo legal se esconde dentro de la frase
 
-El riesgo legal no suele aparecer como una luz roja desde el principio. Normalmente se esconde en frases naturales: una promesa de producto un poco exagerada, una comparación con base débil, una imagen de derechos dudosos, un caso armado con datos de clientes, una frase que descalifica a un competidor con demasiada seguridad. En la etapa de borrador cada cosa parece un detalle de estilo. Afuera puede convertirse en un problema de publicidad, contrato, copyright, datos personales o difamación.
+El riesgo legal no suele aparecer como una luz roja desde el principio. Normalmente está dentro de frases naturales: una promesa de producto un poco exagerada, una comparación con base débil, una imagen de derechos dudosos, un caso armado con datos de clientes, una frase que descalifica a un competidor con demasiada seguridad. En la etapa de borrador cada cosa parece un detalle de estilo. Afuera puede convertirse en un problema de publicidad, contrato, copyright, datos personales o difamación.
 
 La IA hace muy bien ese tipo de frases. Las hace más persuasivas, más seguras y más pulidas. El problema es que la fluidez no reemplaza la evidencia.
 

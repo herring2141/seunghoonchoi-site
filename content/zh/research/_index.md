@@ -15,7 +15,7 @@ reviewStatus: "done"
 - 设计连接原子尺度特征与真实性能的指标（descriptor）
 - 梳理能源材料中结构、工艺、性能如何相互关联
 - 微结构与界面如何影响传感器与电极的性能
-- 用数据解读电池电极工艺，缩小工艺条件
+- 用数据分析电池电极工艺，缩小工艺条件
 
 ## 代表工作
 
@@ -33,7 +33,7 @@ reviewStatus: "done"
 
 [![章鱼仿生软体抓手 — 吸盘·臂·混合结构与传感](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
-这是一篇梳理章鱼仿生软体抓手的综述——灵感来自章鱼的腕足、吸盘和柔软的身体。文章涵盖结构设计、传感元件、控制策略与 AI 应用，并分析几何结构与材料选择如何决定吸附与传感性能。它把仿生结构整理成工程设计的语言，也与我此后看待微结构、界面、传感问题的方式相连。
+这是一篇梳理章鱼仿生软体抓手的综述——灵感来自章鱼的腕足、吸盘和柔软的身体。文章涵盖结构设计、传感元件、控制策略与 AI 应用，并分析几何结构与材料选择如何决定吸附与传感性能。它从工程设计的角度梳理了仿生结构，也与我此后看待微结构、界面、传感问题的方式相连。
 
 <p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>Seunghoon Choi</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · 共同第一作者</p>
 

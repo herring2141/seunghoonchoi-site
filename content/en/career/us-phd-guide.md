@@ -23,7 +23,7 @@ It was only when application season was right on top of me that I found out ther
 
 I drafted it with ChatGPT, then revised it on my own, testing whether the logic held together. And once it was done, I understood something: this was a thing I could do.
 
-It was the same after I finished applying and started hearing from schools that I had been placed on a waitlist. A waitlist did not look like a place to wait. It looked like a place to move. So I followed my own judgment and sent contact emails to every professor, and those emails actually produced interviews.
+It was the same after I finished applying and started hearing from schools that I had been placed on a waitlist. A waitlist did not look like a place to wait. It looked like a place to move. So I followed my own judgment and sent contact emails to every professor, and thanks to those emails I actually got interviews.
 
 Let me start honestly. When I decided to pursue a PhD in the US, I knew nothing. Thirty-four by Korean reckoning, sitting at my desk one day at the office, I asked myself, "What do I need in order to go to the US for a doctorate?" Nothing came to mind. Truly nothing.
 
@@ -39,7 +39,7 @@ I will not write only about what I did well. For example, I started by studying 
 
 There is one thing I should note. Because I have a career as an office worker, stories from work come up here and there in this book. But this book is not only for office workers who want a PhD. Whether you are an undergraduate, a master's student, or working a job, it is a general-purpose map for anyone headed to a US graduate program in science or engineering. Wherever my work stories appear, put your own lab experience, internships, or projects in their place and it works just the same.
 
-And another. This book stands, after all, on my single experience. If a passage of explanation leans toward my own case, I hope you will read it generously. As for adapting it to fit your situation, the AI methods scattered through the text and in the appendix will help you do that.
+And another. This book is based, after all, on my single experience. If a passage of explanation leans toward my own case, I hope you will read it generously. As for adapting it to fit your situation, the AI methods scattered through the text and in the appendix will help you do that.
 
 If you are standing right now before the question "What do I need in order to go to the US for a doctorate?" and feel stuck, that exact stuck feeling was my starting point. To you, preparing to study at a science or engineering graduate program, I hope this book becomes the one-page map I never had.
 

@@ -25,7 +25,7 @@ La idea de fondo es una sola: **lo que limita la velocidad de lectura no son “
 
 - **Automatización del vocabulario + cobertura** — reconocimiento de palabras rápido y constante mediante repetición espaciada por orden de frecuencia
 - **Lectura atenta ERR** — puntuación = velocidad × comprensión (si la comprensión es menor al 60 %, son 0 puntos). Leer por encima no sirve
-- **Modo Conquistar (Conquer)** — domina un texto difícil con una primera lectura comprensiva, luego léelo rápido varias veces y transfiere lo aprendido a un texto nuevo
+- **Modo Conquistar (Conquer)** — comprende por completo un texto difícil con una primera lectura, luego léelo rápido varias veces y transfiere lo aprendido a un texto nuevo
 - **Tres pasadas para artículos académicos · autoexplicación y recuperación · segmentación y reconocimiento de caracteres en chino**
 - **Pestaña «Principios»** — por qué funciona, con la fuerza de la evidencia y las fuentes
 - **PWA instalable** — agrégala a la pantalla de inicio y funciona como una app, incluso sin conexión

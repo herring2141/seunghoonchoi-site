@@ -31,7 +31,7 @@ Responder al calentamiento global, cambiar el sistema energético o construir in
 
 La IA puede calcular, predecir y diseñar. Pero no construye una central eléctrica por sí sola. No tiende una red de transmisión. No pone en marcha una planta de captura de carbono. No consigue permisos para una mina. No convence a vecinos que se oponen. No abre en terreno una máquina averiada para repararla.
 
-Tampoco huele un defecto de fábrica y dice: "esto no está en los datos". Por eso el humano que hará falta no es el que calcula mejor que la IA. Es el humano que fija en el mundo real las posibilidades que la IA propone.
+Tampoco huele un defecto de fábrica y dice: "esto no está en los datos". Por eso el humano que hará falta no es el que calcula mejor que la IA. Es el humano que hace realidad en el mundo concreto las posibilidades que la IA propone.
 
 El punto es más directo: necesitamos humanos no porque la IA sea débil, sino porque la realidad no es una base de datos.
 
@@ -93,6 +93,6 @@ La IA no es una tecnología para achicar eso. Es maquinaria pesada que permite a
 
 ## Al final, ¿por qué hacen falta los humanos?
 
-La conclusión es simple. La IA crea posibilidades. Los humanos fijan esas posibilidades en la realidad. La IA produce respuestas. El empleo convierte las respuestas en civilización.
+La conclusión es simple. La IA crea posibilidades. Los humanos hacen realidad esas posibilidades. La IA produce respuestas. El empleo convierte las respuestas en civilización.
 
 Los humanos no son necesarios porque sean más inteligentes que la IA. Son necesarios porque responden por la realidad. En la era de la IA, lo que desaparece no es la necesidad de los humanos, sino el papel humano encerrado en problemas pequeños. Si la humanidad quiere superar crisis globales y ampliar su zona de supervivencia al espacio, los humanos no deben ser competidores de la IA. Deben convertirse en la capa de ejecución de la civilización.

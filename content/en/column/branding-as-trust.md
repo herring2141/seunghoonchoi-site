@@ -27,7 +27,7 @@ When people hear "branding," they usually think of one of two things. One is get
 
 The most accurate way to put branding is this. "What does this person do? What problem do they solve?" When the market and the people around you all recall the same answer to that question, as if they'd rehearsed it together, that's branding. That's all of it.
 
-Say there are ten restaurants on your block. Nine blur together into "just a place to eat." But about one, everyone says the same thing: "Oh, that's the great noodle place." That one line of agreement is the brand. Not because the owner yells that their noodles are the best, but because the same sentence is lodged in many customers' heads. That's not the same as being famous. Even if only the neighborhood knows you, inside that neighborhood you have a crisp brand.
+Say there are ten restaurants on your block. Nine blur together into "just a place to eat." But about one, everyone says the same thing: "Oh, that's the great noodle place." That one line of agreement is the brand. Not because the owner yells that their noodles are the best, but because many customers remember the same sentence. That's not the same as being famous. Even if only the neighborhood knows you, inside that neighborhood you have a crisp brand.
 
 ## Trust is when handing it over means fewer things go wrong
 

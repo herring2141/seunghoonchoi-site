@@ -4,7 +4,7 @@ seoTitle: "Understand a New Concept in 10 Minutes: 9-Box Study Method"
 date: 2026-06-20
 categories: ["Essays"]
 tags: ["study method", "learning", "metacognition", "comprehension", "ai"]
-subtitle: "A summary is food someone else already chewed. Understanding has to be a frame you build with your own hands."
+subtitle: "A summary is a conclusion someone else organized for you. Understanding has to be a structure you build yourself."
 description: "A 9-box template to take over any unfamiliar concept, paper, or meeting in 10 minutes. Instead of summarizing, break it down by essence, mechanism, and boundaries, then end with the questions to verify. Ready to use prompt included."
 hidden: true
 build: {list: never, render: always}
@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 One minute before walking into a meeting in a field I don't know. The first time I open a paper, the first time I hear about a technology. At that moment, I don't start by making a summary.
 
-A summary is, in the end, food someone else already chewed for you. Understanding has to be a frame you build with your own hands. So whatever the concept is, I always force it into the same nine boxes and work out its role and structure inside them. Study that just memorizes labels and study that knows how something actually works split apart right here.
+A summary is, in the end, a conclusion someone else organized for you. Understanding has to be a structure you build yourself. So whatever the concept is, I always force it into the same nine boxes and work out its role and structure inside them. Study that just memorizes labels and study that knows how something actually works split apart right here.
 
 ## Force Any Concept Into These Nine Boxes
 
@@ -57,4 +57,4 @@ First, **Boundaries**. It forces you, even if you have to push, to write down ho
 
 Second, the **inferred and needs verification flag**. It doesn't throw the blanks an AI or a source filled in into the same pot as the facts that have actually been confirmed.
 
-Third, **it ends on a question**. It leaves understanding not as "done" but as "the next thing to do." The moment you cover it up thinking you know it, the studying dies right there.
+Third, **it ends on a question**. It leaves understanding not as "done" but as "the next thing to do." The moment you cover it up thinking you know it, the studying stops right there.

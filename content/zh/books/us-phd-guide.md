@@ -36,7 +36,7 @@ reviewStatus: "done"
 
 已经下定决心或正在准备留学，却对录取之后该怎么走感到迷茫的人。不想花高价咨询，想靠自己一路走到底的人。打算读理工科研究生院、瞄准美国博士项目的人。
 
-我把当时的心情和走过的弯路也都如实写了进去。把迷茫变成清单和系统，这就是这本书的目标。
+我把当时的心情和走过的弯路也都如实写了进去。用清单和系统理清迷茫、让它变得清楚，这就是这本书的目标。
 
 <p style="margin:1.6em 0 .4em">
   <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px">在教保文库查看（韩语）↗</a>

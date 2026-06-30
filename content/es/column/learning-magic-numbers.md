@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Una persona al atardecer, parada en un cruce urbano mirando tres caminos](/images/col-learning-magic-numbers.jpg)
 
-Cuando alguien empieza un campo nuevo, suele preguntar: "¿cuántos ejemplos tengo que ver para agarrarle el sentido?" Parece que bastaría con ver muchos. En la práctica no funciona así. Puedes mirar cien ejemplos del mismo tipo y seguir con la cabeza igual de borrosa.
+Cuando alguien empieza un campo nuevo, suele preguntar: "¿cuántos ejemplos tengo que ver para agarrarle el sentido?" Parece que bastaría con ver muchos. En la práctica no funciona así. Puedes mirar cien ejemplos del mismo tipo y seguir con las ideas igual de desordenadas.
 
 La intuición no nace solo del número de casos. Aparece cuando miras desde ángulos distintos, reduces las variables importantes, comparas casos de tipos diferentes y luego lo intentas tú mismo y corriges. Por eso, cuando aprendo un campo nuevo, pienso en el orden 3·7·30·100. No es una ley exacta. Es más bien una serie de marcas para entender cómo se forma la intuición.
 

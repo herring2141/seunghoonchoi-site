@@ -11,7 +11,7 @@ hidden: true
 build: {list: never, render: always}
 ---
 
-![기하학적 건물 구조, 조직을 다시 배선한다는 것](/images/col-ai-native-org.jpg)
+![기하학적 건물 구조, 조직을 처음부터 다시 짠다는 것](/images/col-ai-native-org.jpg)
 
 AI 네이티브 조직이 뭐냐고 물으면 나는 거꾸로 묻는다. 지금 쓰는 AI를 다 빼면 회사가 어떻게 되냐고. 좀 느려질 뿐이면 그냥 AI 쓰는 회사다. **AI를 빼는 순간 속도도, 구조도, 원가도, 제품 경험도 다 무너지면** 그게 AI 네이티브 조직이다.
 

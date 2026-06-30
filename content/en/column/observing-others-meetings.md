@@ -44,7 +44,7 @@ Once the purpose is clear, every remark changes meaning. A feature discussion me
 
 ## Separate what was decided from what remains open
 
-To understand a meeting, separate what was decided from what is still undecided. If those two mix, the meeting becomes blurry. You end up reconsidering things that are already settled, or treating open questions as if they were decisions.
+To understand a meeting, separate what was decided from what is still undecided. If those two mix, the meeting content becomes confusing. You end up reconsidering things that are already settled, or treating open questions as if they were decisions.
 
 Do not ask AI for a simple summary and stop there. Ask for the separation explicitly. What decisions were finalized today? What remains undecided? What needs another meeting or additional confirmation?
 
@@ -58,7 +58,7 @@ An unfamiliar task is hard because the issues are tangled. Cost, schedule, quali
 
 This is where AI helps. Ask it to "break down the issues in this meeting in a MECE way." Then keep asking whether any issues are missing, whether categories overlap, whether causes and solutions are being mixed, and whether decisions and to-dos are being confused.
 
-Do not trust the first AI answer as final. AI may not catch the meeting structure perfectly at once. You need to ask again, fix the categories, and have it fill missing items. Through that process, unfamiliar work starts to look like a map.
+Do not trust the first AI answer as final. AI may not catch the meeting structure perfectly at once. You need to ask again, fix the categories, and have it fill missing items. Through that process, the structure of unfamiliar work starts to come into focus.
 
 ## The work appears when you hear the decision criteria
 

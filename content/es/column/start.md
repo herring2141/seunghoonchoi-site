@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 De día trabajo con materiales mediante cálculos. De noche, aquí escribo otra cosa.
 
-Este es un cuarto al que los artículos científicos no entran. Ensayos, historias cortas, a veces video. Mi profesión es científico de materiales computacional. Pero esa sola línea no alcanza para describir quién soy. Aquí dejo lo que se desborda de ella.
+Este es un espacio donde no escribo artículos científicos. Ensayos, historias cortas, a veces video. Mi profesión es científico de materiales computacional. Pero esa sola línea no alcanza para describir quién soy. Aquí dejo lo que se desborda de ella.
 
 ## No hago grandes declaraciones. Solo escribo un texto a la vez.
 

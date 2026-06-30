@@ -32,7 +32,7 @@ Un mal político crea ahí un enemigo fácil. Carga un problema complejo sobre a
 
 Pero la buena política también debe ganar corazones. La diferencia está en a quién convierte en enemigo. Si el enemigo es un grupo de personas, se parte a la sociedad. Si el enemigo es la corrupción, el despilfarro, la ineficiencia o la irresponsabilidad, aparece una política que se puede arreglar en conjunto.
 
-La política es, al final, orientar emociones. Puedes clavar la ira contra personas o desviarla hacia resolver problemas.
+La política es, al final, orientar emociones. Puedes dirigir la ira contra las personas o desviarla hacia resolver problemas.
 
 ## Una buena política no se vende sola
 

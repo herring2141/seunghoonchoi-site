@@ -32,7 +32,7 @@ Cada flecha es una conversión. Cambiar una forma de valor por otra que puede ll
 
 La mayoría se detiene en la primera casilla. Imaginemos una escena en una sala de reuniones. Una persona pasó la noche en vela preparando el material. La presentación fue fluida y respondió a las preguntas sin trabarse. Termina la reunión y todos asienten con la cabeza. Ella se siente satisfecha. Y a la semana siguiente, vuelve a pasar la noche en vela preparando un material parecido. Y a la otra semana también.
 
-Sin duda trabajó duro. Pero ese esfuerzo no se acumula en ninguna parte. Se evapora en el momento en que termina la presentación. La próxima vez vuelve a empezar desde cero. La cantidad total de esfuerzo es enorme, pero pasa un año y no tiene más de lo que tenía. Solo se volvió más diestra; no tiene más.
+Sin duda trabajó duro. Pero ese esfuerzo no queda en ninguna parte. Desaparece en el momento en que termina la presentación. La próxima vez vuelve a empezar desde cero. La cantidad total de esfuerzo es enorme, pero pasa un año y no tiene más de lo que tenía. Solo se volvió más diestra; no tiene más.
 
 El esfuerzo en sí no está mal. El problema es que ese esfuerzo no se solidifica en una forma que se pueda reutilizar y trasladar. El esfuerzo que no se puede volver a usar desaparece en el momento en que paras las manos. Solo el esfuerzo que cambió de forma sigue trabajando después de que tú te vas.
 
@@ -50,7 +50,7 @@ Encima de esto hay otro escalón más. Si ya creaste el activo, tienes que decid
 
 La misma receta, si la usas solo dentro de un callejón, vale lo que vale ese callejón. Las mismas notas de trabajo, si solo circulan dentro del cajón de la empresa, valen lo que vale ese departamento. Pero si pones ese activo en un escenario más amplio, el mismo activo produce un resultado de un tamaño completamente distinto. Un video de clase grabado una vez marca la diferencia entre hablarle una vez a treinta personas en un aula y llegar de forma continua a diez mil. Un buen texto marca la diferencia entre contárselo al compañero de al lado y llegar a miles de desconocidos atrapados en la misma duda.
 
-Si el activo hace el trabajo, el escenario lo multiplica. Por eso la pregunta del siguiente nivel es esta. "¿En qué escenario voy a usar este activo como palanca?" Es frecuente que llegue más lejos quien puso un activo común en un escenario amplio que quien tiene un activo excelente en un escenario estrecho.
+Si el activo hace el trabajo, el escenario multiplica su resultado varias veces. Por eso la pregunta del siguiente nivel es esta. "¿En qué escenario voy a usar este activo como palanca?" Es frecuente que llegue más lejos quien puso un activo común en un escenario amplio que quien tiene un activo excelente en un escenario estrecho.
 
 ## El nombre abre la siguiente puerta
 

@@ -31,7 +31,7 @@ Problems like responding to global warming, transforming energy systems, and bui
 
 AI can calculate, predict, and design. But it cannot build a power plant by itself. It cannot lay transmission lines. It cannot commission a carbon capture plant. It cannot secure permits for a mine. It cannot persuade residents who oppose a project. It cannot open broken equipment in the field and repair it.
 
-It also cannot smell a factory defect and decide, "This problem is not in the data." So the human needed next is not a human who calculates better than AI. It is a human who fixes AI-made possibilities into the real world.
+It also cannot smell a factory defect and decide, "This problem is not in the data." So the human needed next is not a human who calculates better than AI. It is a human who actually realizes AI-made possibilities in the real world.
 
 The core is more direct than that. Humans are needed not because AI is weak. Humans are needed because reality is not a database.
 

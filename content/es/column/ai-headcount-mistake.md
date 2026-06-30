@@ -71,7 +71,7 @@ Ese trabajo no aparece bien en las tablas. El costo de tokens se ve; el tiempo h
 
 Lo más peligroso de recortar personal es que el feedback deja de subir bien. Si una herramienta nueva incomoda, una persona puede decirlo. Si un proceso nuevo es ineficiente, puede levantar algún problema. Pero decir que una reducción de personal fue un error es mucho más difícil. "Falta gente" puede sonar muy fácil al director como "entonces tú no aguantas el trabajo". Quienes quedan se cuidan porque pueden ser los próximos. Aunque el trabajo se esté rompiendo, lo que llega hacia arriba se vuelve más suave.
 
-Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atención al cliente. La dirección siente que va bien. Por dentro, la revisión se empuja a la noche, la responsabilidad se concentra en pocas personas, se acumulan errores pequeños y la gente se desgasta en silencio. Por eso recortar personal no es la primera pregunta. Primero hay que hacer pilotos, ver cómo cambia de verdad el trabajo y completar conceptualmente la nueva estructura con IA. Solo después debe aparecer la última pregunta.
+Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atención al cliente. La dirección siente que va bien. Por dentro, la revisión se empuja a la noche, la responsabilidad se concentra en pocas personas, se acumulan errores pequeños y la gente se agota en silencio. Por eso recortar personal no es la primera pregunta. Primero hay que hacer pilotos, ver cómo cambia de verdad el trabajo y completar conceptualmente la nueva estructura con IA. Solo después debe aparecer la última pregunta.
 
 "¿De verdad podemos reducir personas ahora?" La reducción no debe ser el punto de partida. Debe ser la pregunta final.
 
@@ -79,9 +79,9 @@ Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atenció
 
 Cuando una empresa reduce personal, suele tocar una zona concreta: la cintura intermedia. Recorta juniors porque todavía no están maduros y seniors porque son caros. A quienes quedan les dice: "usen IA". Pero gran parte de la memoria real de una organización vive en esa cintura intermedia.
 
-Dónde se equivoca a menudo un número, qué expresión molesta a qué área, qué palabras odia un cliente, qué decisión antigua causó un problema. Eso no queda perfectamente escrito en documentos. La IA lee bien documentos ordenados. Pero no capta fácil el conocimiento tácito que fluye entre personas dentro de la empresa. Alguien debe conocer ese contexto para corregir los resultados de IA y hacerlos realistas. Si cortas la cintura intermedia, esa memoria se va también. Entonces los resultados de IA fallan más, y quienes quedan gastan más tiempo corrigiéndolos.
+Dónde se equivoca a menudo un número, qué expresión molesta a qué área, qué palabras odia un cliente, qué decisión antigua causó un problema. Eso no queda perfectamente escrito en documentos. La IA lee bien documentos ordenados. Pero no capta fácil el conocimiento tácito que se acumula entre las personas dentro de la empresa. Alguien debe conocer ese contexto para corregir los resultados de IA y hacerlos realistas. Si cortas la cintura intermedia, esa memoria se va también. Entonces los resultados de IA fallan más, y quienes quedan gastan más tiempo corrigiéndolos.
 
-Pensabas que reducías costos recortando personas. En realidad vendiste memoria organizacional.
+Pensabas que reducías costos recortando personas. En realidad desechaste la memoria organizacional.
 
 ## La reducción va al final, no al principio
 

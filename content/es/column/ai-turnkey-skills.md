@@ -30,15 +30,15 @@ Si falta una, el trabajo se tambalea con facilidad. Pero hay algo aún más impo
 
 Primero, alinear objetivos es el punto de partida de todo trabajo.
 
-La IA responde rápido, pero no garantiza que la respuesta mire en la dirección correcta. Hay que aclarar primero qué problema se va a resolver, qué valor se dará a quién y cuál será el criterio de éxito. Si el objetivo es borroso, incluso un buen prompt produce resultados dispersos, y una gran capacidad de ejecución puede correr hacia el lugar equivocado.
+La IA responde rápido, pero no garantiza que la respuesta mire en la dirección correcta. Hay que aclarar primero qué problema se va a resolver, qué valor se dará a quién y cuál será el criterio de éxito. Si el objetivo no está claro, incluso un buen prompt produce resultados dispersos, y una gran capacidad de ejecución puede correr hacia el lugar equivocado.
 
 Segundo, estructurar el trabajo convierte la velocidad de la IA en productividad real.
 
-Si se le entrega un problema complejo de golpe, la respuesta de la IA también se desordena. Hay que dividir el problema, ordenar los pasos y definir los materiales y criterios de juicio necesarios. Estructurar no es solo ordenar bonito. Es diseñar el trabajo para que pueda llegar hasta el final.
+Si se le entrega un problema complejo de golpe, la respuesta de la IA también se vuelve dispersa. Hay que dividir el problema, ordenar los pasos y definir los materiales y criterios de juicio necesarios. Estructurar no es solo ordenar bonito. Es diseñar el trabajo para que pueda llegar hasta el final.
 
 Tercero, resolver cuellos de botella es la capacidad de destrabar el punto donde el trabajo se detiene.
 
-En la era de la IA, los cuellos de botella no son solo falta de técnica. También son decisiones lentas, información atascada, responsabilidad difusa o criterios de calidad poco claros. Lo importante es detectar rápido dónde está el bloqueo, estrechar la causa y convertirla en una acción siguiente.
+En la era de la IA, los cuellos de botella no son solo falta de técnica. También son decisiones lentas, información atascada, responsabilidad poco clara o criterios de calidad poco claros. Lo importante es detectar rápido dónde está el bloqueo, estrechar la causa y convertirla en una acción siguiente.
 
 Cuarto, cerrar la ejecución es un fundamento aún más valioso con IA.
 

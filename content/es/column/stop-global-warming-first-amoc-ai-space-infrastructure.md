@@ -38,7 +38,7 @@ Enfriar el Ártico no significa proteger solo el Ártico. El Ártico es el refle
 
 El hielo blanco refleja mucha luz solar. El océano oscuro la absorbe. Cuando el hielo retrocede y aparece el océano, el mar toma más calor. Entonces el hielo se derrite más rápido. Ese bucle asusta.
 
-[NASA](https://science.nasa.gov/earth/earth-observatory/arctic-amplification-81214/) explica que cuando disminuye el hielo marino del Ártico, la superficie terrestre absorbe más luz solar. No es una idea abstracta sobre un futuro lejano. Es física que ya está en marcha. Cuando desaparece la tapa blanca, la Tierra come más calor.
+[NASA](https://science.nasa.gov/earth/earth-observatory/arctic-amplification-81214/) explica que cuando disminuye el hielo marino del Ártico, la superficie terrestre absorbe más luz solar. No es una idea abstracta sobre un futuro lejano. Es física que ya está en marcha. Cuando desaparece la cubierta blanca, la Tierra absorbe más calor.
 
 Por eso importa el verano ártico. En invierno casi no hay luz solar que bloquear. La ventana importante va de finales de primavera al verano, cuando se derrite el hielo marino y se derrite la superficie de Groenlandia. Si logramos reducir aunque sea un poco el calor que entra en ese periodo, podemos frenar el calor y el agua dulce que llegan al Atlántico Norte.
 
@@ -82,7 +82,7 @@ Hay demasiados datos que observar. Área y grosor del hielo marino ártico. Derr
 
 Unas pocas personas no pueden juzgar todo eso por intuición. Satélites, boyas oceánicas, sensores terrestres, observaciones desde barcos, modelos climáticos y contabilidad de carbono tienen que conectarse. La IA debería leer esas conexiones y responder preguntas concretas: ¿podemos aumentar 0,05% la sombra del verano ártico este año? Si la remoción de CO2 avanza a este ritmo, ¿podemos reducir un poco la sombra el año que viene?
 
-La IA no debe convertirse en un dios que gobierne la Tierra por nosotros. Pero sí puede convertirse en un médico que detecta señales demasiado complejas para que los humanos las veamos solos.
+La IA no debe convertirse en un dios que gobierne la Tierra por nosotros. Pero sí puede cumplir el papel de señalar indicios demasiado complejos para que los humanos los veamos solos.
 
 ## SpaceX debería mirar la circulación de la Tierra antes que Marte
 

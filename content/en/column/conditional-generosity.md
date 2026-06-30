@@ -62,7 +62,7 @@ The problem begins when you throw that impulse outward as-is. Angry words feel r
 
 So anger should not be removed. It should be translated. When "I want to curse that person" rises, ask immediately: which of my boundaries was stepped on? What was unfair? What can I no longer allow?
 
-Emotion is fuel. If you vent it raw, it becomes smoke. If you aim it, it becomes momentum. If you want to blame, state the boundary. If you want to expose, record the facts. If you want to belittle, adjust the distance. Do not explode hot. Turn it into cold action.
+Emotion is a force. If you vent it raw, it does harm. If you aim it, it becomes momentum. If you want to blame, state the boundary. If you want to expose, record the facts. If you want to belittle, adjust the distance. Do not explode hot. Turn it into cold action.
 
 ## Gossip is not something to endure. It is something to turn into safer speech.
 

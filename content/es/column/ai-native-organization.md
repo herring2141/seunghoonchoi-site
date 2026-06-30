@@ -10,7 +10,7 @@ hidden: true
 build: {list: never, render: always}
 ---
 
-![Estructura geométrica de un edificio, lo que significa volver a cablear una organización](/images/col-ai-native-org.jpg)
+![Estructura geométrica de un edificio, lo que significa reconstruir una organización desde cero](/images/col-ai-native-org.jpg)
 
 Cuando me preguntan qué es una organización nativa de IA, yo respondo con otra pregunta. Si quitamos toda la IA que usan ahora, ¿qué le pasa a la empresa? Si solo se vuelve un poco más lenta, entonces es simplemente una empresa que usa IA. **Si en el momento en que quitas la IA se derrumban la velocidad, la estructura, los costos y la experiencia del producto**, eso es una organización nativa de IA.
 

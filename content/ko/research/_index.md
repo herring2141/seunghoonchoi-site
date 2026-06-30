@@ -14,7 +14,7 @@ reviewStatus: "done"
 - 원자 단위 특성과 실제 성능을 연결하는 지표 연구
 - 에너지 소재의 구조·공정·성능 관계 분석
 - 미세구조와 계면이 센서·전극 성능에 미치는 영향 분석
-- 배터리 전극 공정을 데이터로 읽고 조건을 좁히는 연구
+- 배터리 전극 공정을 데이터로 분석해 조건을 좁히는 연구
 
 ## 대표 연구
 
@@ -32,7 +32,7 @@ Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Wate
 
 [![문어 영감 소프트 그리퍼 — 흡착컵·팔·하이브리드 구조와 센싱](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
-문어의 팔, 흡착컵, 유연한 몸에서 영감을 받은 소프트 그리퍼 연구를 정리한 리뷰입니다. 구조 설계, 센싱 소자, 제어 전략, AI 응용을 함께 다루며, 기하 구조와 소재 선택이 흡착·센싱 성능을 어떻게 좌우하는지 분석했습니다. 생체모사 구조를 공학 설계의 언어로 옮긴 작업이고, 이후 제가 미세구조·계면·센싱 문제를 바라보는 방식과도 이어집니다.
+문어의 팔, 흡착컵, 유연한 몸에서 영감을 받은 소프트 그리퍼 연구를 정리한 리뷰입니다. 구조 설계, 센싱 소자, 제어 전략, AI 응용을 함께 다루며, 기하 구조와 소재 선택이 흡착·센싱 성능을 어떻게 좌우하는지 분석했습니다. 생체모사 구조를 공학 설계의 관점으로 풀어낸 작업이고, 이후 제가 미세구조·계면·센싱 문제를 바라보는 방식과도 이어집니다.
 
 Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. _Biomimetics_ 2025, 10(12), 813. · 공동 1저자
 

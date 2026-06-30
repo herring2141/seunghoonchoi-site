@@ -14,11 +14,11 @@ build: {list: never, render: always}
 
 "Si te vuelves más inteligente que la IA, sobrevives." Eso dice todo el mundo. Es falso. La AGI supera al ser humano en casi cualquier tarea mental. Si intentas ganar con la cabeza, pierdes.
 
-La salida no está en la pelea de inteligencia. Está en la capacidad de tocar la realidad. La IA maneja bien el mundo que ya está capturado en datos. Pero tantear el mundo que todavía no está capturado en datos, y unir eso a las cosas reales, a las personas y a la responsabilidad, sigue siendo tarea humana. Por eso la verdadera pregunta no es "¿la IA reemplaza al ser humano?". Es *hasta dónde llega la IA y dónde entra la persona*.
+La salida no está en la pelea de inteligencia. Está en la capacidad de tocar la realidad. La IA maneja bien el mundo que ya está capturado en datos. Pero examinar el ámbito que todavía no está capturado en datos, y unir eso a las cosas reales, a las personas y a la responsabilidad, sigue siendo tarea humana. Por eso la verdadera pregunta no es "¿la IA reemplaza al ser humano?". Es *hasta dónde llega la IA y dónde entra la persona*.
 
 ## La IA tampoco es gratis, todo cuesta dinero
 
-Mucha gente habla de la IA como si fuera un trabajador infinito y gratis. No lo es. La IA también está atada al dinero. Cuesta quemar tokens, cuesta verificar los resultados, cuesta rehacer lo que sale mal, cuesta cargar con la fricción de la seguridad y del entorno, y sobre todo cuesta responder por el resultado. Por eso, aunque baje el costo de fabricar la IA, no hay garantía de que el precio baje con él.
+Mucha gente habla de la IA como si fuera un trabajador infinito y gratis. No lo es. La IA también está atada al dinero. Cuesta usar tokens, cuesta verificar los resultados, cuesta rehacer lo que sale mal, cuesta cargar con la fricción de la seguridad y del entorno, y sobre todo cuesta responder por el resultado. Por eso, aunque baje el costo de fabricar la IA, no hay garantía de que el precio baje con él.
 
 Lo más interesante está en el empleo. La demanda de personas no solo cae. Una empresa recorta personal pensando que la IA lo hará, choca con la fricción de la realidad y vuelve a contratar. Reorganiza el orden del trabajo, recorta otra vez, aparece una nueva excepción y vuelve a llamar a una persona. Cuando esto se repite, al final queda un mínimo en el que la persona es imprescindible. Quien sabe dónde está esa línea diseña los empleos de los próximos diez años.
 

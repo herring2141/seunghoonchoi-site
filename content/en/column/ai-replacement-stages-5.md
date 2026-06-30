@@ -72,7 +72,7 @@ A community I built.
 A brand I accumulated.
 An output I tied into rights.
 
-These last longer than ability. Being ahead itself melts. Others learn. AI catches up. But what you turned into ownership while you were ahead remains longer.
+These last longer than ability. Being ahead itself does not last. Others learn. AI catches up. But what you turned into ownership while you were ahead remains longer.
 
 So in the AI era, it is not enough to ask, "What will I be good at?" Ask, "What result of my being good will remain mine?"
 

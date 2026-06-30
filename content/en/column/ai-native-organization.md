@@ -10,7 +10,7 @@ hidden: true
 build: {list: never, render: always}
 ---
 
-![A geometric building facade: what it means to rewire an organization](/images/col-ai-native-org.jpg)
+![A geometric building facade: what it means to rebuild an organization from the ground up](/images/col-ai-native-org.jpg)
 
 When someone asks me what an AI-native organization is, I ask back. What happens to your company if you strip out all the AI you use right now? If things just get a bit slower, you're a company that uses AI. **If the moment you remove AI your speed, your structure, your cost, and your product experience all collapse,** that's an AI-native organization.
 

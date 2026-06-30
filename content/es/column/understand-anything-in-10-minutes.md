@@ -4,7 +4,7 @@ seoTitle: "Entender un concepto nuevo en 10 minutos con 9 casillas"
 date: 2026-06-20
 categories: ["Ensayo"]
 tags: ["métodos de estudio", "aprendizaje", "metacognición", "comprensión de conceptos", "ia"]
-subtitle: "Un resumen es comida que ya masticó otro. La comprensión tiene que ser una estructura que armas tú mismo."
+subtitle: "Un resumen es, al final, una conclusión que ya organizó otro. La comprensión tiene que ser una estructura que construyes tú mismo."
 description: "La plantilla de 9 casillas para dominar en 10 minutos un concepto, un artículo o una reunión nuevos. En lugar de resumir, descompones la idea en esencia, principio y límites, y terminas con preguntas para verificar. Incluye un prompt listo para usar."
 hidden: true
 build: {list: never, render: always}
@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 Falta un minuto para entrar a una reunión que no conozco. Un artículo que abro por primera vez, una tecnología que escucho por primera vez. En ese momento yo no empiezo por hacer un resumen.
 
-Al final, un resumen es comida que ya masticó otro. La comprensión tiene que ser una estructura que armo con mis propias manos. Por eso, sea cual sea el concepto, siempre lo meto en las mismas nueve casillas y, dentro de ellas, analizo su función y su estructura. Estudiar memorizando solo la etiqueta y estudiar entendiendo cómo funciona algo se separan justo aquí.
+Al final, un resumen es una conclusión que ya organizó otro. La comprensión tiene que ser una estructura que construyo yo mismo. Por eso, sea cual sea el concepto, siempre lo meto en las mismas nueve casillas y, dentro de ellas, analizo su función y su estructura. Estudiar memorizando solo la etiqueta y estudiar entendiendo cómo funciona algo se separan justo aquí.
 
 ## Mete cualquier concepto en estas nueve casillas
 
@@ -52,8 +52,8 @@ Organiza el siguiente material con la "plantilla común para entender conceptos"
 
 Hay de sobra plantillas para organizar conceptos en el mundo. Lo que hace distinta a esta son solo tres cosas.
 
-Primero, el **límite**. Te obliga a anotar, aunque sea a la fuerza, la diferencia con un concepto parecido. Solo así se corta la confusión.
+Primero, el **límite**. Te obliga a anotar, aunque sea a la fuerza, la diferencia con un concepto parecido. Solo así desaparece la confusión.
 
 Segundo, la **marca de "supuesto" o "por verificar"**. No mezclas en la misma olla los huecos que llenó la IA o el material con los hechos ya comprobados.
 
-Tercero, **termina con preguntas**. Deja la comprensión no como algo "terminado", sino como "lo que toca hacer después". En el momento en que la das por cerrada creyendo que ya sabes, el estudio se muere ahí.
+Tercero, **termina con preguntas**. Deja la comprensión no como algo "terminado", sino como "lo que toca hacer después". En el momento en que la das por cerrada creyendo que ya sabes, el estudio se detiene ahí.

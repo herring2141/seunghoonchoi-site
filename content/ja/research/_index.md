@@ -14,7 +14,7 @@ reviewStatus: "done"
 - 原子レベルの特性と実際の性能をつなぐ指標の研究
 - エネルギー素材の構造・プロセス・性能の関係分析
 - 微細構造と界面がセンサー・電極の性能に与える影響の分析
-- 電池電極のプロセスをデータで読み、条件を絞り込む研究
+- 電池電極のプロセスをデータで分析し、条件を絞り込む研究
 
 ## 代表的な研究
 
@@ -32,7 +32,7 @@ Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Wate
 
 [![タコに着想したソフトグリッパー — 吸盤・腕・ハイブリッド構造とセンシング](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
-タコの腕、吸盤、しなやかな体から着想を得たソフトグリッパー研究をまとめたレビューです。構造設計、センシング素子、制御戦略、AI応用をあわせて扱い、幾何構造と素材選択が吸着・センシング性能をどう左右するかを分析しました。生体模倣の構造を工学設計の言葉に置き換えた仕事であり、その後に私が微細構造・界面・センシングの問題を見る視点にもつながっています。
+タコの腕、吸盤、しなやかな体から着想を得たソフトグリッパー研究をまとめたレビューです。構造設計、センシング素子、制御戦略、AI応用をあわせて扱い、幾何構造と素材選択が吸着・センシング性能をどう左右するかを分析しました。生体模倣の構造を工学設計の観点から解き明かした仕事であり、その後に私が微細構造・界面・センシングの問題を見る視点にもつながっています。
 
 Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. _Biomimetics_ 2025, 10(12), 813. · 共同第一著者
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A person standing at a city intersection at dusk, looking at three roads](/images/col-learning-magic-numbers.jpg)
 
-When people first learn a new field, they often ask, "How many examples do I need before I get a feel for it?" It seems like seeing more should solve it, but that is not how it works. You can look at a hundred examples of the same kind and still remain foggy.
+When people first learn a new field, they often ask, "How many examples do I need before I get a feel for it?" It seems like seeing more should solve it, but that is not how it works. You can look at a hundred examples of the same kind and your thoughts can still stay unorganized.
 
 Feel does not come from the number of examples alone. It comes from seeing from different angles, narrowing the core variables, comparing different kinds of cases, trying it yourself, and correcting it. So when I learn a new field, I think in the order of 3, 7, 30, 100. It is not an exact law. It is a set of landmarks for understanding how a feel develops.
 

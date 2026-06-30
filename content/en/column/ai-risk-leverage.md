@@ -40,7 +40,7 @@ Using AI as a drafting tool is fine. We should use it a lot. The problem is carr
 
 ## Legal Risk Hides Inside Ordinary Sentences
 
-Legal risk does not usually show up as a red warning light. It hides inside natural sentences.
+Legal risk does not usually show up as a red warning light. It is contained inside natural sentences.
 
 A product claim that is a little too strong. A comparison with weak evidence. An image with unclear copyright. A customer example made from mixed-in data. A sentence that attacks a competitor too directly. At the draft stage, each one looks like a small difference in wording. Outside, it can become an advertising review issue, contract problem, copyright issue, privacy problem, or defamation risk.
 

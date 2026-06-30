@@ -27,7 +27,7 @@ Cuando oímos "marca personal", solemos pensar en una de dos cosas. Una es hacer
 
 La forma más exacta de definir la marca personal es esta: ante la pregunta "¿A qué se dedica esta persona? ¿Qué problema resuelve?", el mercado y la gente de tu entorno piensan la misma respuesta, como si se hubieran puesto de acuerdo. Eso es todo.
 
-Imagina que en un barrio hay diez restaurantes. Nueve quedan agrupados como "bueno, un sitio para comer, sin más". Pero de uno la gente dice lo mismo: "Ah, ese hace muy buen kalguksu". Ese acuerdo en una sola frase es la marca. No porque el dueño grite "mi kalguksu es el mejor", sino porque en la cabeza de muchos clientes está grabada la misma frase. Eso es distinto de ser famoso. Aunque solo lo conozca la gente del barrio, dentro de ese barrio es una marca clara.
+Imagina que en un barrio hay diez restaurantes. Nueve quedan agrupados como "bueno, un sitio para comer, sin más". Pero de uno la gente dice lo mismo: "Ah, ese hace muy buen kalguksu". Ese acuerdo en una sola frase es la marca. No porque el dueño grite "mi kalguksu es el mejor", sino porque muchos clientes recuerdan la misma frase. Eso es distinto de ser famoso. Aunque solo lo conozca la gente del barrio, dentro de ese barrio es una marca clara.
 
 ## La confianza es esto: si le encargas algo, salen menos cosas mal
 

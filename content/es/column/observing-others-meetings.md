@@ -44,7 +44,7 @@ Cuando el propósito aparece, las intervenciones cambian de sentido. La misma di
 
 ## Hay que separar lo decidido de lo pendiente
 
-Para entender una reunión, hay que separar lo decidido de lo que aún no se decidió. Si se mezclan, todo se vuelve borroso. Puedes volver a debatir algo ya cerrado o creer que un tema pendiente ya quedó definido.
+Para entender una reunión, hay que separar lo decidido de lo que aún no se decidió. Si se mezclan, el contenido se vuelve confuso. Puedes volver a debatir algo ya cerrado o creer que un tema pendiente ya quedó definido.
 
 No basta con pedirle a la IA un resumen simple de la minuta. Hay que pedir separación explícita. Qué decisiones se confirmaron hoy. Qué sigue pendiente. Qué necesita otra reunión o verificación adicional.
 
@@ -58,7 +58,7 @@ Un trabajo nuevo parece difícil porque los temas vienen enredados. No se sabe s
 
 El punto al usar IA está aquí: pedir "divide los temas de esta reunión de forma MECE". Luego hay que volver a preguntar si falta algún tema, si hay categorías solapadas, si se están mezclando causas y soluciones, o si se confunden decisiones con tareas.
 
-No hay que creer la primera respuesta de la IA tal cual. La IA tampoco entiende la estructura de la reunión perfectamente de una vez. Hay que repreguntar, corregir la clasificación y hacer que complete lo faltante. En ese proceso, el trabajo desconocido empieza a verse como un mapa.
+No hay que creer la primera respuesta de la IA tal cual. La IA tampoco entiende la estructura de la reunión perfectamente de una vez. Hay que repreguntar, corregir la clasificación y hacer que complete lo faltante. En ese proceso, la estructura del trabajo desconocido empieza a verse con claridad.
 
 ## Cuando oyes los criterios de juicio, ves el trabajo
 

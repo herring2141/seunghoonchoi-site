@@ -71,7 +71,7 @@ This work does not show up well in tables. Token cost is visible, but the time a
 
 The frightening thing about headcount cuts is that feedback stops rising honestly. If a new tool is uncomfortable, employees can say it is uncomfortable. If a new process is inefficient, they can raise some objections. But saying that a headcount cut was wrong is much harder. "We do not have enough people" can easily sound to the CEO like "so you cannot handle your work?" The remaining employees worry that they will be next. So even when work is actually breaking, the words that move upward become softer.
 
-On the surface, work continues. Documents come out, meetings happen, and customers are answered. So leadership feels things are going well. But inside, review time moves into the night, responsibility piles onto specific people, small errors accumulate, and employees wear down silently. That is why headcount cuts should not be the question thrown at the beginning. First run a pilot, check how work actually changes, and complete the new AI-involved work structure conceptually. Only then ask the final question.
+On the surface, work continues. Documents come out, meetings happen, and customers are answered. So leadership feels things are going well. But inside, review time moves into the night, responsibility piles onto specific people, small errors accumulate, and employees grow exhausted silently. That is why headcount cuts should not be the question thrown at the beginning. First run a pilot, check how work actually changes, and complete the new AI-involved work structure conceptually. Only then ask the final question.
 
 "Can we really reduce people now?" Headcount cuts should be the last question, not the starting point.
 
@@ -79,7 +79,7 @@ On the surface, work continues. Documents come out, meetings happen, and custome
 
 When companies reduce people, they often touch the middle. Juniors are cut because they are not yet mature, and seniors are cut because they are expensive. The people left are told, "Just use AI." But much of the company's real memory sits in that middle layer.
 
-Where numbers often go wrong, which department is sensitive to which wording, which customer dislikes which phrase, and which past decision caused trouble. These things are not perfectly written down. AI reads organized documents well. But it does not easily know the tacit knowledge that flows between people inside the company. Someone has to know that context so AI outputs can be corrected to fit reality. Cut the middle layer and that memory disappears too. Then AI outputs miss the point more often, and the people left spend more time fixing them.
+Where numbers often go wrong, which department is sensitive to which wording, which customer dislikes which phrase, and which past decision caused trouble. These things are not perfectly written down. AI reads organized documents well. But it does not easily know the tacit knowledge that builds up between people inside the company. Someone has to know that context so AI outputs can be corrected to fit reality. Cut the middle layer and that memory disappears too. Then AI outputs miss the point more often, and the people left spend more time fixing them.
 
 The company thinks it lowered cost by reducing people, but in reality it sold off its memory.
 

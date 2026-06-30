@@ -35,7 +35,7 @@ Este libro es un registro de ese proceso ordenado paso a paso, sin adornarlo. No
 
 Para quien ya decidió estudiar en el extranjero o está preparándose, pero se siente perdido sobre qué viene después de la admisión. Para quien quiere llegar hasta el final por su cuenta, sin una consultoría cara. Para quien tiene en mente un posgrado en ciencias o ingeniería y un doctorado en Estados Unidos.
 
-También recogí las emociones que sentí y los errores que cometí, tal como fueron. Convertir esa sensación de estar perdido en listas de verificación y sistemas: ese es el objetivo de este libro.
+También recogí las emociones que sentí y los errores que cometí, tal como fueron. Aclarar esa sensación de estar perdido con listas de verificación y sistemas: ese es el objetivo de este libro.
 
 <p style="margin:1.6em 0 .4em">
   <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px">Ver en Kyobo Book (en coreano) ↗</a>

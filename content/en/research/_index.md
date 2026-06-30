@@ -14,7 +14,7 @@ Going forward, I want to use computational materials science and machine learnin
 - Designing descriptors that link atomic-scale features to real performance
 - Tracing how structure, processing, and performance connect in energy materials
 - How microstructure and interfaces shape sensor and electrode performance
-- Reading battery electrode processes from data to narrow down conditions
+- Analyzing battery electrode processes from data to narrow down conditions
 
 ## Selected Work
 
@@ -32,7 +32,7 @@ I built fine hierarchical structures on fiber surfaces and made them conductive,
 
 [![Octopus-inspired soft gripper — suction cup, arm, and hybrid architectures with sensing](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
-A review of soft grippers inspired by the octopus — its arms, suction cups, and pliable body. It covers structural design, sensing elements, control strategies, and AI applications, and analyzes how geometry and material choice shape adhesion and sensing. It puts bio-inspired structures into engineering design terms, and connects to how I now approach microstructure, interface, and sensing problems.
+A review of soft grippers inspired by the octopus — its arms, suction cups, and pliable body. It covers structural design, sensing elements, control strategies, and AI applications, and analyzes how geometry and material choice shape adhesion and sensing. It interprets bio-inspired structures from an engineering design perspective, and connects to how I now approach microstructure, interface, and sensing problems.
 
 <p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>Seunghoon Choi</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · Co-first author</p>
 

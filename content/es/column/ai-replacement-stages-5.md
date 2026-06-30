@@ -72,7 +72,7 @@ Una comunidad que construí.
 Una marca acumulada.
 Un resultado atado a derechos.
 
-Eso dura más que la capacidad. La ventaja momentánea se derrite. Otros aprenden. La IA alcanza. Pero lo que convertiste en propiedad mientras ibas delante dura más.
+Eso dura más que la capacidad. La ventaja momentánea no dura. Otros aprenden. La IA alcanza. Pero lo que convertiste en propiedad mientras ibas delante dura más.
 
 En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que preguntar: "de lo que hago bien, ¿qué queda como mío?"
 

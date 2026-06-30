@@ -30,11 +30,11 @@ If even one of these is missing, work shakes easily. But something sits above th
 
 First, goal alignment is the starting point of all work.
 
-AI can produce answers quickly, but it does not guarantee that those answers point in the right direction. What problem are we solving? Who should receive what value? What counts as success this time? These have to be clear first. If the goal is blurry, even a good prompt produces scattered output, and strong execution runs toward the wrong place.
+AI can produce answers quickly, but it does not guarantee that those answers point in the right direction. What problem are we solving? Who should receive what value? What counts as success this time? These have to be clear first. If the goal is unclear, even a good prompt produces scattered output, and strong execution runs toward the wrong place.
 
 Second, work structuring is the power that turns AI speed into real productivity.
 
-If you hand AI a complex job all at once, the answer easily loses shape. You have to break the problem apart, set the order, and organize the materials and judgment criteria. Structuring is not mere tidying. It is the design that lets work travel all the way to the end.
+If you hand AI a complex job all at once, the answer easily becomes scattered. You have to break the problem apart, set the order, and organize the materials and judgment criteria. Structuring is not mere tidying. It is the design that lets work travel all the way to the end.
 
 Third, bottleneck solving is the ability to open the point where work gets stuck.
 

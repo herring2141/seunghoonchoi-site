@@ -27,7 +27,7 @@ The premise is simple. Reading speed is constrained not only by the eyes, but by
 
 - **Lexical automaticity + coverage** - frequency-ordered spaced repetition to make word recognition fast and steady
 - **ERR close reading** - score = speed x comprehension. Reading fast means little if comprehension is low
-- **Conquer mode** - take control of a difficult text through first-pass reading, repeated speed passes, and transfer to a new text
+- **Conquer mode** - fully grasp a difficult text through first-pass reading, repeated speed passes, and transfer to a new text
 - **Step-by-step paper reading, self-explanation, and retrieval practice** - do not try to understand a paper all at once; skim first, grasp the structure, then read deeply
 - **Chinese segmentation and character-recognition training** - practice reading Chinese in chunks where word boundaries are less visible
 - **Principles tab** - why each training mode exists and which speed-reading claims to treat carefully

@@ -14,11 +14,11 @@ build: {list: never, render: always}
 
 "Get smarter than AI and you survive." Everyone says it. They're wrong. AGI will overwhelm humans at almost any job that runs on brainpower. Try to win on brains and you lose.
 
-The way out isn't on the brain side. It's on the side of touching reality. AI already handles the world that's been captured as data. But the work of feeling out the world that hasn't been captured yet, and tying it to physical things, to people, and to accountability, is still ours. So the real question isn't "will AI replace humans." It's *how far does AI go, and where does the human step in.*
+The way out isn't on the brain side. It's on the side of touching reality. AI already handles the world that's been captured as data. But the work of examining the area that hasn't been captured as data yet, and tying it to physical things, to people, and to accountability, is still ours. So the real question isn't "will AI replace humans." It's *how far does AI go, and where does the human step in.*
 
 ## AI isn't free either, it all costs money
 
-A lot of people talk about AI like it's a free, infinite worker. It isn't. AI is tied to money too. There's the cost of burning tokens, the cost of checking the output, the cost of rebuilding it when it's wrong, the cost of handling security and environmental friction, and above all, the cost of taking responsibility. So even when the cost of building AI drops, there's no guarantee the price drops with it.
+A lot of people talk about AI like it's a free, infinite worker. It isn't. AI is tied to money too. There's the cost of using tokens, the cost of checking the output, the cost of rebuilding it when it's wrong, the cost of handling security and environmental friction, and above all, the cost of taking responsibility. So even when the cost of building AI drops, there's no guarantee the price drops with it.
 
 The hiring side is even more interesting. Demand for people doesn't just shrink. A company cuts headcount assuming AI will fill in, runs into real-world friction, and hires again. It reworks the order of the job and trims again, then a new exception pops up and it calls people back. Repeat that and what's left is the minimum line where people have to be in the loop. Whoever knows where that line sits gets to design the jobs of the next decade.
 

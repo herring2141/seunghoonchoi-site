@@ -32,7 +32,7 @@ Every single arrow is a conversion. The work of swapping one form of value for a
 
 Most people stop at the first link. Picture a single scene in a meeting room. Someone stayed up all night putting together the slides. The presentation was smooth, and he answered every question without stumbling. The meeting ends and everyone nods. He feels proud. And the next week, he stays up all night again making a similar set of slides. And the week after that too.
 
-He clearly worked hard. Yet that effort never pools anywhere. The moment the presentation ends, it evaporates. Next time, he starts again from bare ground. The total amount of his effort is enormous, but a year later he doesn't have any more than before. He's just gotten more skilled. He doesn't own anything more.
+He clearly worked hard. Yet that effort never adds up anywhere. The moment the presentation ends, it is gone. Next time, he starts again from bare ground. The total amount of his effort is enormous, but a year later he doesn't have any more than before. He's just gotten more skilled. He doesn't own anything more.
 
 Effort itself isn't the problem. The problem is that the effort never hardens into a form you can reuse and move. Effort you can't reuse disappears the moment your hands stop. Only effort that has changed its form keeps working after you've left the room.
 
@@ -50,7 +50,7 @@ There's one more step above that. Once you've made an asset, you have to decide 
 
 The same recipe, used only inside one alley, earns only as much as that alley is worth. The same work notes, circulating only inside a company drawer, earn only as much as that one department is worth. But put that asset on a wider stage, and the very same asset produces a result of an entirely different size. A lecture video you record once makes the difference between speaking to thirty people in a classroom and reaching ten thousand people over and over. One well-written piece makes the difference between telling the coworker next to you and reaching thousands of strangers stuck on the very same problem.
 
-If the asset does the work, the stage puts a multiplier on that work. So the question one level higher is this: "On which stage will I use this asset as leverage?" It's common for the person who put an ordinary asset on a wide stage to go farther than the person clutching a brilliant asset on a narrow one.
+If the asset does the work, the stage multiplies the result of that work several times over. So the question one level higher is this: "On which stage will I use this asset as leverage?" It's common for the person who put an ordinary asset on a wide stage to go farther than the person clutching a brilliant asset on a narrow one.
 
 ## A Name Opens the Next Door
 

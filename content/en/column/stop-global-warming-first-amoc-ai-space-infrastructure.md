@@ -38,7 +38,7 @@ Cooling the Arctic is not only about protecting the Arctic. The Arctic is Earth'
 
 White ice reflects a lot of sunlight. Dark ocean absorbs it. When ice retreats and ocean appears, the ocean takes in more heat. Then the ice melts faster. That loop is frightening.
 
-[NASA](https://science.nasa.gov/earth/earth-observatory/arctic-amplification-81214/) explains that when Arctic sea ice decreases, Earth's surface absorbs more sunlight. This is not an abstract future scenario. It is physics already underway. When the white lid disappears, Earth eats more heat.
+[NASA](https://science.nasa.gov/earth/earth-observatory/arctic-amplification-81214/) explains that when Arctic sea ice decreases, Earth's surface absorbs more sunlight. This is not an abstract future scenario. It is physics already underway. When the white cover disappears, Earth absorbs more heat.
 
 That is why Arctic summer matters. In winter, there is little sunlight to block anyway. The important window is late spring through summer, when sea ice melts and Greenland's surface melts. If we can reduce even a small amount of incoming heat during that period, we may slow the heat and freshwater entering the North Atlantic.
 
@@ -82,7 +82,7 @@ There is too much data to watch. Arctic sea ice area and thickness. Greenland su
 
 A few people cannot judge all of this by instinct. Satellites, ocean buoys, ground sensors, ship observations, climate models, and carbon accounting all have to connect. AI should read those connections and answer questions like these: can we increase Arctic summer shading by 0.05% this year? If CO2 removal is moving at this pace, can we reduce shading a little next year?
 
-AI should not become a god that governs Earth for us. But it can become a doctor that catches signals too complex for humans to see alone.
+AI should not become a god that governs Earth for us. But it can take on the role of pointing out signals too complex for humans to see alone.
 
 ## SpaceX should look at Earth's circulation before Mars
 

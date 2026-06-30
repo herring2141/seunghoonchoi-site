@@ -14,7 +14,7 @@ De aquí en adelante quiero seguir investigando cómo reducir la distancia entre
 - Diseño de indicadores que conectan las propiedades a escala atómica con el rendimiento real
 - Análisis de cómo se enlazan la estructura, el proceso y el rendimiento en los materiales para energía
 - El efecto de la microestructura y las interfaces en el rendimiento de sensores y electrodos
-- Métodos para leer con datos el proceso de fabricación de electrodos de baterías y acotar las condiciones
+- Métodos para analizar con datos el proceso de fabricación de electrodos de baterías y acotar las condiciones
 
 ## Investigaciones destacadas
 
@@ -32,7 +32,7 @@ Creamos una microestructura jerárquica sobre la superficie de una fibra y le di
 
 [![Pinza blanda inspirada en el pulpo — estructuras de ventosa, brazo e híbridas, y sensado](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
-Es una reseña que resume la investigación sobre pinzas blandas inspiradas en los brazos, las ventosas y el cuerpo flexible del pulpo. Aborda el diseño de la estructura, los elementos de sensado, las estrategias de control y las aplicaciones de inteligencia artificial, y analiza cómo la geometría y la elección del material determinan el rendimiento de adhesión y de sensado. Es un trabajo que traduce las estructuras biológicas al lenguaje del diseño en ingeniería, y enlaza con la forma en que después abordo los problemas de microestructura, interfaces y sensado.
+Es una reseña que resume la investigación sobre pinzas blandas inspiradas en los brazos, las ventosas y el cuerpo flexible del pulpo. Aborda el diseño de la estructura, los elementos de sensado, las estrategias de control y las aplicaciones de inteligencia artificial, y analiza cómo la geometría y la elección del material determinan el rendimiento de adhesión y de sensado. Es un trabajo que reformula las estructuras biológicas desde la perspectiva del diseño en ingeniería, y enlaza con la forma en que después abordo los problemas de microestructura, interfaces y sensado.
 
 <p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>Seunghoon Choi</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · Coprimer autor</p>
 
