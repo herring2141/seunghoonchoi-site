@@ -18,15 +18,15 @@ El problema no es solo que el salario sea bajo. El salario se detiene cuando tú
 
 ## El salario entra según lo trabajado; los activos crecen de forma exponencial por interés compuesto
 
-El salario hay que ganarlo otra vez cada mes. Haber trabajado duro el mes pasado no hace que el salario de este mes crezca solo. Por eso el salario puede ser estable, pero rara vez crece por interés compuesto. Un activo, en cambio, cuando se acumula, ayuda al siguiente crecimiento. El dinero gana dinero, un texto llama lectores, un producto reúne usuarios y una marca crea confianza. No tienes que correr desde cero cada vez; lo acumulado empuja el siguiente resultado. Por eso hacerse rico no es jugar a trabajar más horas. Es convertir salario en activos y hacer que esos activos creen los siguientes activos.
+El salario hay que ganarlo otra vez cada mes. Haber trabajado duro el mes pasado no hace que el salario de este mes crezca solo. Por eso el salario puede ser estable, pero rara vez crece por interés compuesto. Un activo, en cambio, cuando se acumula, ayuda al siguiente crecimiento. El dinero gana dinero, un texto atrae lectores, un producto reúne usuarios y una marca genera confianza. No tienes que empezar desde cero cada vez; lo acumulado facilita el siguiente resultado. Por eso hacerse rico no es jugar a trabajar más horas. Es convertir salario en activos y hacer que esos activos creen los siguientes activos.
 
-## Entrar en un gran tablero no significa ser dueño de ese tablero
+## Entrar en un gran sector no significa ser dueño de ese sector
 
-Hay sectores que claramente crecerán: IA, biotecnología, plataformas, finanzas. Pero trabajar dentro de ellos no hace que ese crecimiento sea automáticamente tuyo. Entrar en un gran tablero y poseer una parte del tablero son cosas distintas. Si la empresa crece pero tu contrato solo dice salario, tu parte es el salario. Que la empresa se vuelva más valiosa no vuelve más valioso tu activo personal. Esa diferencia la captura quien tiene participación. Por eso no basta con encontrar un sector prometedor. Importa más qué posees ahí: ¿solo salario, o también participación, derechos, producto o algo que permanezca?
+Hay sectores que claramente crecerán: IA, biotecnología, plataformas, finanzas. Pero trabajar dentro de ellos no hace que ese crecimiento sea automáticamente tuyo. Entrar en un gran sector y poseer una parte de ese sector son cosas distintas. Si la empresa crece pero tu contrato solo dice salario, tu parte es el salario. Que la empresa se vuelva más valiosa no vuelve más valioso tu activo personal. Esa diferencia la captura quien tiene participación. Por eso no basta con encontrar un sector prometedor. Importa más qué posees ahí: ¿solo salario, o también participación, derechos, producto o algo que permanezca?
 
 ## El salario no es dinero para gastar; es material para convertir en activos
 
-Si gastas el salario, se vuelve costo de vida. Si lo dejas, se vuelve semilla de activos. Si consumes todo, el mes siguiente vuelves a empezar desde cero. Por eso lo importante no es solo cuánto ganas, sino cuánto queda y en qué lo conviertes.
+Si gastas el salario, se vuelve costo de vida. Si lo dejas, se vuelve capital inicial para crear activos. Si consumes todo, el mes siguiente vuelves a empezar desde cero. Por eso lo importante no es solo cuánto ganas, sino cuánto queda y en qué lo conviertes.
 
 El primer método es simple. Hay que dejar apartada una parte del salario, sí o sí. Y ese excedente debe convertirse en propiedad, no en consumo. Pueden ser acciones, índices, participación en un negocio, un producto propio o contenido. El punto es no dejar que el dinero solo pase por tus manos, sino convertirlo en algo que quede a tu nombre.
 

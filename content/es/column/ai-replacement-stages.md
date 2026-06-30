@@ -132,6 +132,6 @@ Al mirar las 16 etapas se ve una línea.
 
 Al comienzo la persona queda porque lo hace mejor. Después queda porque debe responder. Luego porque controla y posee. Después porque decide qué importa. Al final queda porque es humana.
 
-La razón cambia de capacidad a responsabilidad, de responsabilidad a control y propiedad, de control y propiedad a juicio de valor, y finalmente a existencia. Por eso "trabajo mejor que la IA" no resiste mucho tiempo. La capacidad se alcanza. Lo importante es qué responsabilidad tienes, qué autoridad, qué activos y relaciones, en qué cerca de control estás, y cómo ayudas a que los humanos sigan importando.
+La razón cambia de capacidad a responsabilidad, de responsabilidad a control y propiedad, de control y propiedad a juicio de valor, y finalmente a existencia. Por eso "trabajo mejor que la IA" no resiste mucho tiempo. La capacidad se alcanza. Lo importante es qué responsabilidad tienes, qué autoridad, qué activos y relaciones, cuánto control ejerces, y cómo ayudas a que los humanos sigan importando.
 
 Este texto es el mapa completo. En los siguientes textos veremos cada zona con más detalle. Primero empieza el trabajo mental con respuesta clara: traducción, programación y diagnóstico, donde es fácil comprobar aciertos y errores.

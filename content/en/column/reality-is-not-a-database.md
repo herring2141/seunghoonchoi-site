@@ -49,7 +49,7 @@ The energy transition does not end with "install solar." It needs grids, plants,
 
 [IEA World Energy Employment 2025](https://www.iea.org/reports/world-energy-employment-2025) treats shortages of skilled labor as an already important bottleneck in expanding energy infrastructure. In IEA survey results, about 60% of energy-related companies reported labor shortages, and a large share of new energy hiring is needed just to replace retiring workers.
 
-Even if AI accelerates design, the real steel, copper, concrete, semiconductors, factories, and transmission towers are operated by people. Repetitive office work may shrink. But grid engineers, materials researchers, process engineers, robot operators, climate risk analysts, plant commissioning specialists, AI reviewers, safety engineers, regulatory designers, and field integrators become more important. Human employment in the AI era is not just hands and feet. It is the contact surface with reality.
+Even if AI accelerates design, the real steel, copper, concrete, semiconductors, factories, and transmission towers are operated by people. Repetitive office work may shrink. But grid engineers, materials researchers, process engineers, robot operators, climate risk analysts, plant commissioning specialists, AI reviewers, safety engineers, regulatory designers, and field integrators become more important. Human employment in the AI era is not just manual labor. It is the point where plans meet reality.
 
 ## Why Does Verification Labor Matter More as AI Gets Stronger?
 
@@ -59,13 +59,13 @@ If a paper draft is wrong, it can be revised. But if a grid-operation AI is wron
 
 So the AI era needs humans who verify AI outputs against real-world risk. AI proposes. Humans see where that proposal can break in reality.
 
-This is the core of high-level employment going forward. We do not only need people who "know how to use AI." We need people who can pass AI-made outputs again through the lenses of safety, cost, responsibility, institutions, and people.
+This is the core of high-level employment going forward. We do not only need people who "know how to use AI." We need people who can check AI-made outputs again against safety, cost, responsibility, institutions, and people.
 
 ## Why Is Employment a Social Stabilizer?
 
 Employment is not merely "feeding people." Large-scale unemployment and exclusion make civilization projects impossible to sustain for long. When people lose jobs, income, and meaning, climate action or space development becomes politically hard to hold together. The tax base weakens, social trust erodes, extremism grows, and long-term projects can be reversed by one election.
 
-That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems explode politically when people are excluded. Employment is the social battery that lets civilization-scale projects keep running.
+That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems explode politically when people are excluded. Employment is the social stabilizer that lets civilization-scale projects keep running.
 
 ## Does AI Remove Humans, or Lower-Level Work?
 
@@ -87,9 +87,9 @@ AI can optimize. But human society has to decide what to optimize. This is not a
 
 ## Why Does Employment Explode Again When We Expand into Space?
 
-If we look only at the limited pie on Earth, AI can look like a job-taking force. But if humanity expands its survival zone to the Moon, Mars, orbit, asteroids, and deep space, the story changes. Space construction, closed ecosystems, radiation shielding, high-performance alloys, nuclear propulsion, cryogenic storage, space agriculture, space medicine, interplanetary communication, autonomous robots, space law, space insurance, space accounting, space education, and space logistics all become necessary.
+If we look only at the limited amount of work on Earth, AI can look like a job-taking force. But if humanity expands its survival zone to the Moon, Mars, orbit, asteroids, and deep space, the story changes. Space construction, closed ecosystems, radiation shielding, high-performance alloys, nuclear propulsion, cryogenic storage, space agriculture, space medicine, interplanetary communication, autonomous robots, space law, space insurance, space accounting, space education, and space logistics all become necessary.
 
-AI is not a technology that reduces this. It is heavy equipment that lets humans handle larger problems. AI is not a technology that deletes the SCV. It is closer to a control tower that lets you expand to 100 bases. The problem is that those bases still need commanders, engineers, maintenance workers, strategists, supply operators, and defenders.
+AI is not a technology that reduces this. It is a tool that lets humans handle larger problems. AI does not remove the workers on the ground. It lets the same effort cover far more territory. The problem is that all that added territory still needs commanders, engineers, maintenance workers, strategists, supply operators, and defenders.
 
 ## So Why Are Humans Needed?
 

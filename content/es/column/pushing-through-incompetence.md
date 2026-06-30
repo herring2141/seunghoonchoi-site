@@ -16,7 +16,7 @@ Cuando aprendes algo nuevo, la primera sensación no suele ser interés. Es inco
 
 Mucha gente abandona ahí. No abandona porque sea incapaz. Abandona porque odia sentirse incapaz. Más que la falta real de habilidad, no soporta ese momento en que se siente como alguien sin habilidad.
 
-Pero aguantar tampoco basta. Mientras soportas la sensación de no saber, tienes que mirar con precisión qué es lo que no sabes hacer. Definir el fallo en piezas pequeñas, crear una práctica que apunte a esa pieza y empujar hasta que salga. Entonces la incomodidad deja de ser solo dolor y se convierte en la entrada a la habilidad.
+Pero aguantar tampoco basta. Mientras soportas la sensación de no saber, tienes que mirar con precisión qué es lo que no sabes hacer. Definir el fallo en piezas pequeñas, crear una práctica que apunte a esa pieza y empujar hasta que salga. Entonces la incomodidad deja de ser solo dolor y se vuelve el comienzo de la habilidad.
 
 ## No lo dejas porque no puedas, sino porque odias sentir que no puedes
 
@@ -32,7 +32,7 @@ Casi nada se hace bien desde el comienzo. Aun así, en cuanto entendemos algo co
 
 Pero entre entender y ejecutar siempre hay una zona torpe. Saber cómo se conduce no te permite cambiar de carril con naturalidad el primer día. Saber gramática no hace que un idioma salga de la boca.
 
-La sensación de no poder no es señal de fracaso. Es una sensación casi obligatoria al entrar en un aprendizaje. Si no la reconoces, huyes siempre del mismo punto. Dices "esto no es para mí", cuando en realidad solo estabas en la zona antes de que se pegue al cuerpo.
+La sensación de no poder no es señal de fracaso. Es una sensación casi obligatoria al entrar en un aprendizaje. Si no la reconoces, huyes siempre del mismo punto. Dices "esto no es para mí", cuando en realidad solo estabas en la etapa previa a que se volviera automático.
 
 ## Hay que nombrar con precisión lo que no sabes hacer
 
@@ -48,21 +48,21 @@ Después de encontrar la pieza que falla, hay que cortarla más. Si agarras el b
 
 Escribir un libro asusta. Escribir dos frases es posible. Hacer una gran presentación es difícil. Practicar los primeros treinta segundos sin trabarse es entrenable. Volverse bueno en un deporte cuesta. Repetir despacio un solo movimiento sí se puede.
 
-Cuando lo cortas pequeño, la sensación de no saber también se achica. Y una incomodidad pequeña se puede aguantar. La habilidad no nace de grandes decisiones. Se pega al atravesar muchas unidades pequeñas que sí se pueden soportar.
+Cuando lo cortas pequeño, la sensación de no saber también se achica. Y una incomodidad pequeña se puede aguantar. La habilidad no nace de grandes decisiones. Se afianza al atravesar muchas unidades pequeñas que sí se pueden soportar.
 
 ## Hay que repetir aunque salga torpe
 
 Si intentas hacerlo perfecto desde el principio, empezar se vuelve difícil. El deseo de perfección suena bien, pero en la práctica te detiene. Al comienzo, lo normal es que salga tosco.
 
-La repetición trabaja distinto a la comprensión. Entender puede ocurrir en un instante; ejecutar necesita varias vueltas hasta pegarse al cuerpo. Saber la teoría del equilibrio no te hace andar en bicicleta. Te caes, vuelves a subir, te tambaleas y en algún punto te caes menos.
+La repetición trabaja distinto a la comprensión. Entender puede ocurrir en un instante; ejecutar necesita varias vueltas hasta volverse automático. Saber la teoría del equilibrio no te hace andar en bicicleta. Te caes, vuelves a subir, te tambaleas y en algún punto te caes menos.
 
 Por eso al principio vale más hacerlo varias veces de forma torpe que hacerlo una vez perfecto. Los intentos torpes dan material para corregir. Si no haces nada, no te equivocas, pero tampoco mejoras.
 
-## El feedback no es una herida, es el próximo punto de corrección
+## El feedback no es un ataque, es el próximo punto de corrección
 
 Lo que más duele en la zona torpe es el feedback. Cuando alguien dice "esto está mal", se siente como si estuviera juzgando tu persona. Por eso uno quiere evitarlo.
 
-Pero si recibes el feedback solo como herida, es difícil mejorar. El feedback no es una sentencia de que vales poco. Es información sobre qué puedes corregir la próxima vez. "Tiene demasiada sal" no significa que no sirvas para cocinar. Significa que la próxima vez puedes poner menos sal.
+Pero si recibes el feedback solo como un ataque, es difícil mejorar. El feedback no es una sentencia de que vales poco. Es información sobre qué puedes corregir la próxima vez. "Tiene demasiada sal" no significa que no sirvas para cocinar. Significa que la próxima vez puedes poner menos sal.
 
 Claro que no es fácil recibirlo con gusto. Por eso hay que hacerlo más pequeño. No escucharlo como una evaluación de toda tu vida, sino como una sola cosa a corregir en el siguiente intento. Cuando cambias así el feedback, el fallo deja de quitar orgullo y empieza a dar dirección.
 

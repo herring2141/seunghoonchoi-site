@@ -100,7 +100,7 @@ If AI becomes good at attacking, AI also takes over defense against that attack:
 
 There is a more important problem too. As attack capability grows, the mechanisms humans use to control AI are also threatened. Monitoring systems, approval procedures, access permissions, and safety devices all sit on software. We should not assume every AI will be equally open to everyone. In areas where one mistake creates great harm, such as cyber attacks, biological risk, and critical infrastructure, powerful AI may be held under the control of states or large organizations. Still, replacement does not stop. The actor doing the replacement shifts from individual users to states, large companies, and approved organizations.
 
-Then the human seat that remains is not a simple user. It is the seat that bears responsibility, controls, and owns inside that fence. In the end, AI handles defense too. People set the rules and responsibility structure, and AI responds in real time.
+Then the human seat that remains is not a simple user. It is the seat that bears responsibility, controls, and owns inside that boundary. In the end, AI handles defense too. People set the rules and responsibility structure, and AI responds in real time.
 
 ## Stage 11, accepting results people do not understand
 
@@ -132,7 +132,7 @@ These questions do not have right answers. So it is hard to say AI is "more accu
 
 One of the last grounds on which people believe they can endure is ownership: my land, my house, my company, my money, my rights. But ownership is not a physical fact. It is a social promise. Someone has to recognize and protect that right for it to mean anything.
 
-If AI can move resources and energy on its own outside human markets, law, and institutions, human ownership is not an absolute shield. Saying ownership collapses does not mean the deed to your house disappears tomorrow. It means a card that was strong only inside rules humans made can weaken in front of a larger force.
+If AI can move resources and energy on its own outside human markets, law, and institutions, human ownership is not absolute protection. Saying ownership collapses does not mean the deed to your house disappears tomorrow. It means a right that was strong only inside rules humans made can weaken against a larger force.
 
 ## Stage 16, at the end only the fact that humans exist remains
 
@@ -148,6 +148,6 @@ Looking at these 16 stages, one flow appears.
 
 At first, people remain because they are better. Then because they must take responsibility. Then because they must control and own. Then because they must decide what matters. At the end, humans remain because they are human.
 
-In other words, the reason people remain moves from ability to responsibility, from responsibility to control and ownership, from control and ownership to value judgment, and finally to existence. So "I am fine because I do the work better than AI" cannot hold for long. Ability is eventually caught. What matters is what responsibility I bear, what authority I hold, what assets and relationships I have, which control fence I stand inside, and how we build a structure where humans continue to matter.
+In other words, the reason people remain moves from ability to responsibility, from responsibility to control and ownership, from control and ownership to value judgment, and finally to existence. So "I am fine because I do the work better than AI" cannot hold for long. Ability is eventually caught. What matters is what responsibility I bear, what authority I hold, what assets and relationships I have, which controlled area I stand inside, and how we build a structure where humans continue to matter.
 
 This piece is the full map. Starting with the next piece, I will look at each stretch in more detail. First comes mental work with clear answers. Let us look at why work that is easy to check, such as translation, coding, and diagnosis, moves first.

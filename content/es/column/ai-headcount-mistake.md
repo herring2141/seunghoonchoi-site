@@ -21,7 +21,7 @@ La IA puede crear una parte considerable de los resultados de un puesto. Escribe
 
 ¿Se puede subir este informe en este momento? ¿Podemos interpretar este número así? ¿Cómo leerá esta frase el cliente? ¿Otra área se opondrá si usamos esta expresión? ¿Legal encontrará un problema? ¿Coincide con lo que realmente quiere la persona de arriba?
 
-Estas preguntas no son simples problemas de redacción. Preguntan si el resultado puede sobrevivir dentro de una organización real. La IA puede producirlo. Pero una persona debe ver si puede vivir dentro de la empresa.
+Estas preguntas no son simples problemas de redacción. Preguntan si el resultado sirve dentro de una organización real. La IA puede producirlo. Pero una persona debe ver si se puede usar dentro de la empresa.
 
 ## El borrador se aceleró, pero el trabajo no siempre disminuyó
 
@@ -37,7 +37,7 @@ Un documento creado por IA no es solo un resultado. Es un resultado que debe rev
 
 ## En la empresa, el contexto político suele importar más que tener razón
 
-En una empresa, el trabajo no se mueve solo por tener la respuesta correcta. Una frase lógica puede caerse en una reunión. Un número correcto puede rechazarse si el orden de reporte está mal. Una propuesta beneficiosa para el cliente puede detenerse si no se resolvió qué área asumirá la responsabilidad. Hoy la IA ha reducido mucho las alucinaciones descaradas. Pero en empresas aparece a menudo un problema más ambiguo y peligroso.
+En una empresa, el trabajo no se mueve solo por tener la respuesta correcta. Una frase lógica puede ser rechazada en una reunión. Un número correcto puede rechazarse si el orden de reporte está mal. Una propuesta beneficiosa para el cliente puede detenerse si no se resolvió qué área asumirá la responsabilidad. Hoy la IA ha reducido mucho las alucinaciones descaradas. Pero en empresas aparece a menudo un problema más ambiguo y peligroso.
 
 El documento parece perfecto. La lógica encaja, los números parecen correctos, las frases son naturales y la conclusión suena bien. Pero no encaja con el proceso real de la empresa. Puede saltarse el orden de aprobación, olvidar a quien decide, repetir un método que ya fracasó o apoyarse en una premisa que un área nunca aceptará.
 
@@ -75,11 +75,11 @@ Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atenció
 
 "¿De verdad podemos reducir personas ahora?" La reducción no debe ser el punto de partida. Debe ser la pregunta final.
 
-## Si cortas la cintura intermedia, desaparece la memoria de la empresa
+## Si recortas el nivel intermedio, desaparece la memoria de la empresa
 
-Cuando una empresa reduce personal, suele tocar una zona concreta: la cintura intermedia. Recorta juniors porque todavía no están maduros y seniors porque son caros. A quienes quedan les dice: "usen IA". Pero gran parte de la memoria real de una organización vive en esa cintura intermedia.
+Cuando una empresa reduce personal, suele tocar una zona concreta: el nivel intermedio. Recorta juniors porque todavía no están maduros y seniors porque son caros. A quienes quedan les dice: "usen IA". Pero gran parte de la memoria real de una organización está en ese nivel intermedio.
 
-Dónde se equivoca a menudo un número, qué expresión molesta a qué área, qué palabras odia un cliente, qué decisión antigua causó un problema. Eso no queda perfectamente escrito en documentos. La IA lee bien documentos ordenados. Pero no capta fácil el conocimiento tácito que se acumula entre las personas dentro de la empresa. Alguien debe conocer ese contexto para corregir los resultados de IA y hacerlos realistas. Si cortas la cintura intermedia, esa memoria se va también. Entonces los resultados de IA fallan más, y quienes quedan gastan más tiempo corrigiéndolos.
+Dónde se equivoca a menudo un número, qué expresión molesta a qué área, qué palabras odia un cliente, qué decisión antigua causó un problema. Eso no queda perfectamente escrito en documentos. La IA lee bien documentos ordenados. Pero no capta fácil el conocimiento tácito que se acumula entre las personas dentro de la empresa. Alguien debe conocer ese contexto para corregir los resultados de IA y hacerlos realistas. Si recortas el nivel intermedio, esa memoria se va también. Entonces los resultados de IA fallan más, y quienes quedan gastan más tiempo corrigiéndolos.
 
 Pensabas que reducías costos recortando personas. En realidad desechaste la memoria organizacional.
 

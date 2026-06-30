@@ -27,7 +27,7 @@ El principiante en la cocina solo ve "3 minutos a fuego medio" en la receta. La 
 
 ## Usa lo que aprendiste
 
-Cuando dominas algo pequeño, lo normal es guardarlo como un trofeo. Lo dejas en "hoy aprendí esto" y ahí termina. Pero lo valioso es otra cosa. Es **usarlo como palanca para el siguiente trabajo**. Imagina que quien escribe aprende un truco para pasar de un párrafo a otro. Si lo deja como "lo que aprendí hoy", se acaba ese mismo día. Pero si usa ese truco en el siguiente texto, y en el de después, desaparece por completo todo el tiempo que antes perdía atascado justo ahí. Cada vez que dominas algo pequeño, solo tienes que preguntarte una cosa: "¿Cuánto facilita esto el siguiente trabajo?".
+Cuando dominas algo pequeño, lo normal es guardarlo como un trofeo. Lo dejas en "hoy aprendí esto" y ahí termina. Pero lo valioso es otra cosa. Es **usarlo para que el siguiente trabajo cueste menos**. Imagina que quien escribe aprende un truco para pasar de un párrafo a otro. Si lo deja como "lo que aprendí hoy", se acaba ese mismo día. Pero si usa ese truco en el siguiente texto, y en el de después, desaparece por completo todo el tiempo que antes perdía atascado justo ahí. Cada vez que dominas algo pequeño, solo tienes que preguntarte una cosa: "¿Cuánto facilita esto el siguiente trabajo?".
 
 ## Con una nota no lo resuelves dos veces
 

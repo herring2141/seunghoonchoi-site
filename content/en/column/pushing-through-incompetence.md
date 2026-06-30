@@ -16,7 +16,7 @@ When you learn something new, the first feeling is not interest. It is incompete
 
 Many people quit there. They do not quit because they cannot do it. They quit because the feeling of not being able to do it is too unpleasant. More than the fact that they lack skill, they cannot stand the moment when they feel like a person without skill.
 
-But merely enduring is not enough. While standing that feeling, you have to keep examining exactly what you cannot do. Name the weak point in a small way, build a training method aimed at it, and push until it changes. Then incompetence is not just a painful emotion. It becomes the doorway into skill.
+But merely enduring is not enough. While standing that feeling, you have to keep examining exactly what you cannot do. Name the weak point in a small way, build a training method aimed at it, and push until it changes. Then incompetence is not just a painful emotion. It becomes the first step toward skill.
 
 ## People quit not because they are bad, but because they hate feeling bad
 
@@ -32,7 +32,7 @@ Almost nothing starts out smooth. But we make a mistake: once the head understan
 
 But there is always an awkward stretch between understanding and execution. Knowing in your head and doing in reality are different. Knowing how to drive does not mean you can change lanes naturally right away. Knowing grammar does not mean a foreign language immediately comes out of your mouth.
 
-The feeling of being bad is not a signal of failure. It is a feeling you almost always pass through at the entrance to learning. If you do not know this, you run away at the same point every time. You say, "This does not fit me," when in fact you were only passing through the stretch before it sticks to the body.
+The feeling of being bad is not a signal of failure. It is a feeling you almost always go through when you start learning. If you do not know this, you run away at the same point every time. You say, "This does not fit me," when in fact you were only passing through the stretch before it sticks to the body.
 
 ## Name exactly what you cannot do
 
@@ -54,17 +54,17 @@ When you cut it small, the bad feeling gets smaller too. And a smaller feeling o
 
 Trying to do it properly from the beginning makes it hard to start. The desire to be perfect looks nice, but in practice it stops people. At first, clumsy is normal.
 
-Repetition works differently from understanding. Understanding can arrive in one moment, but execution sticks only after many tries. It is like learning a bicycle. An explanation of balance does not let you ride immediately. You fall, get on again, wobble again, and one day you fall less.
+Repetition works differently from understanding. Understanding can arrive in one moment, but execution sticks only after many tries. Learning to ride a bicycle shows this. An explanation of balance does not let you ride immediately. You fall, get on again, wobble again, and one day you fall less.
 
 So at first, several clumsy tries are better than one perfect attempt. A clumsy attempt gives you something to fix. If you do nothing, you make no mistakes, but you also do not improve.
 
 ## Feedback is not a wound, but the next correction
 
-The most painful part of the bad stretch is feedback. When someone says, "This is wrong," it can feel like they are cutting into your whole existence. So people want to avoid feedback.
+The most painful part of the bad stretch is feedback. When someone says, "This is wrong," it can feel like a judgment on your whole self. So people want to avoid feedback.
 
 But if you receive feedback only as a wound, skill is hard to build. Feedback is not a verdict that you are worthless. It is information about what to fix next. "There was too much salt" does not mean you have no talent for cooking. It means reduce the salt next time.
 
-Of course, feedback rarely feels good. That is why you need to receive it smaller. Do not hear it as an evaluation of your entire life. Hear it as one thing to fix on the next attempt. The moment you translate feedback that way, failure stops cutting your pride and starts pointing your direction.
+Of course, feedback rarely feels good. That is why you need to receive it smaller. Do not hear it as an evaluation of your entire life. Hear it as one thing to fix on the next attempt. The moment you translate feedback that way, failure stops hurting your pride and starts showing you where to go.
 
 ## You have to pass through the bad stretch before the good stretch comes
 

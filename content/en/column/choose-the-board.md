@@ -35,19 +35,19 @@ A result is talent with several factors multiplied into it. The field you stand 
 
 If they were added, one factor close to zero could be made up for by the rest. Multiplication works differently. When one factor hits the floor, the whole thing is dragged down to the floor with it. However well you bake, on an alley no one walks down, your skill is multiplied by a number close to zero. That is the end of it. The reverse also holds: even with small skill, when a good location, good colleagues, and good standing are multiplied in alongside it, the result grows several times over.
 
-## One Small Result Opens Three Doors.
+## One Small Result Leads to Three More Chances.
 
 Multiplication is still only half of it. The real difference is that these factors build one another up and keep growing.
 
 Think about a meeting at work. Two new hires made similar proposals, but only one of them was chosen and produced a small result. This is where things split. The one who delivered gets called into a better project. There he works with more capable people. From that experience, his next proposal is bigger.
 
-One small success opens three more doors.
+One small success leads to three more chances.
 
 This is compounding. Compounding does not attach only to money. It attaches to reputation, to connections, to opportunity. Better chances go to the person who produced a good result, and from those chances come more good results, and those results build the reputation again. Once it starts turning, the same amount of effort moves you faster and faster.
 
 The problem is that it does not turn this way everywhere.
 
-In some positions, the result you achieved does not carry over to the next thing. It simply disappears where it stands. You do good work and no one sees it, or they see it and it does not connect to the next opportunity. The very same single success opens three doors in one place and ends with a single round of applause in another.
+In some positions, the result you achieved does not carry over to the next thing. It simply disappears where it stands. You do good work and no one sees it, or they see it and it does not connect to the next opportunity. The very same single success leads to three more chances in one place and ends with a single round of applause in another.
 
 This is the real reason results spread apart when ability is the same.
 
@@ -81,7 +81,7 @@ Back to those two go players.
 
 The one who joined the strong group lost every game at first. It must have hurt his pride. But each of those losses became the stake for the next game, and the strong people beside him pulled him up. He got stronger not because his touch changed. He got stronger because he entered a position where his skill was multiplied into a result.
 
-So along with building skill, put real effort into choosing where you will use that skill. We usually spend years on the skill and leave where we will use it to chance. Compounding does not attach only to you. It attaches to the environment you stand in. Pour the same effort into a position where opportunity is blocked and you grow only as much as that position allows. Pour it into a position where a small success opens the next door, and time becomes your ally and builds up the result.
+So along with building skill, put real effort into choosing where you will use that skill. We usually spend years on the skill and leave where we will use it to chance. Compounding does not attach only to you. It attaches to the environment you stand in. Pour the same effort into a position where opportunity is blocked and you grow only as much as that position allows. Pour it into a position where a small success leads to the next chance, and time works in your favor and builds up the result.
 
 The question to ask today is not "how do I do better?" First, this.
 

@@ -21,9 +21,9 @@ Solemos pensar que es cuestión de "saber usar bien la IA o no". Por eso tomamos
 
 Si explicamos con sinceridad la productividad en la era de la IA, es así. La cantidad de resultados que obtienes no depende solo de tu habilidad con la IA. A eso se multiplican varias condiciones.
 
-Cuánto tiempo te concentras en un mismo problema. Qué tan rápido es el entorno donde creas y ejecutas. Si llegas directo a los datos que necesitas. Si puedes decidir por ti mismo. Si puedes probar lo que haces y publicarlo enseguida. Cuando estas condiciones son buenas, los resultados salen a chorros. Si una sola se bloquea, todo el conjunto se viene abajo con ella.
+Cuánto tiempo te concentras en un mismo problema. Qué tan rápido es el entorno donde creas y ejecutas. Si llegas directo a los datos que necesitas. Si puedes decidir por ti mismo. Si puedes probar lo que haces y publicarlo enseguida. Cuando estas condiciones son buenas, los resultados salen en gran cantidad. Si una sola se bloquea, todo el conjunto rinde mucho menos.
 
-Del otro lado están las cosas que restan. Las reuniones, el mensajero que no para, las firmas y aprobaciones, los procesos de seguridad y los cambios de contexto que te arrancan de una tarea para meterte en otra. Todo esto se come el resultado. No es una fórmula para memorizar. El resultado nace de multiplicar buenas condiciones y se divide en la misma medida que la fricción. Basta con grabarte esta imagen en la cabeza.
+Del otro lado están las cosas que restan. Las reuniones, el mensajero que no para, las firmas y aprobaciones, los procesos de seguridad y los cambios de contexto que te sacan de una tarea para pasarte a otra. Todo esto reduce el resultado. No es una fórmula para memorizar. El resultado nace de multiplicar buenas condiciones y se divide en la misma medida que la fricción. Basta con grabarte esta imagen en la cabeza.
 
 ## El empleado pierde en todo a la vez
 
@@ -39,13 +39,13 @@ En el mismo tiempo, quien trabaja solo o en un equipo pequeño vive justo al rev
 
 El problema que toma por la mañana no lo suelta hasta la noche. Si necesita una herramienta, la instala ahí mismo. Si hay una API que conectar, la conecta enseguida. Si no le gusta la estructura de archivos, la cambia entera. Si algo falla, vuelve al estado anterior de inmediato. Si sale un modelo nuevo, lo prueba ese mismo día. Si llega un resultado, lo publica al mundo sin la aprobación de nadie.
 
-La IA que usa es la misma. Quizá tiene menos datos que la empresa. Pero la vuelta de crear y comprobar es muchísimo más rápida. Cuando esta diferencia de velocidad se acumula un día y luego un mes, la brecha en los resultados se abre tanto que cuesta alcanzarla.
+La IA que usa es la misma. Quizá tiene menos datos que la empresa. Pero la vuelta de crear y comprobar es muchísimo más rápida. Cuando esta diferencia de velocidad se acumula un día y luego un mes, la diferencia de resultados se vuelve tan grande que cuesta alcanzarla.
 
 ## El verdadero culpable es el VDI, la computadora de la empresa
 
 En el centro de esta fricción está el escritorio virtual, el entorno que solemos llamar VDI. Vale la pena hablar de él por separado.
 
-Visto solo desde la seguridad, el VDI es excelente. Encierra los datos importantes dentro de los muros de la empresa. Pero para quien quiere crear algo con IA, es duro. La pantalla va lenta, copiar y pegar está bloqueado, mover archivos es complicado y la instalación de nuevos paquetes está cerrada. Además, si la sesión se corta una vez, todo el contexto del trabajo que tenías unido en la cabeza se esfuma.
+Visto solo desde la seguridad, el VDI es excelente. Mantiene los datos importantes encerrados dentro de la empresa. Pero para quien quiere crear algo con IA, es duro. La pantalla va lenta, copiar y pegar está bloqueado, mover archivos es complicado y la instalación de nuevos paquetes está cerrada. Además, si la sesión se corta una vez, todo el contexto del trabajo que tenías unido en la cabeza se esfuma.
 
 Crear con IA es, en realidad, la repetición de un ciclo corto. Escribes, ejecutas, ves el error, corriges y vuelves a ejecutar. Si esa vuelta dura unos diez segundos, el trabajo fluye. Pero si el VDI alarga esa vuelta a uno, tres o cinco minutos, la concentración se corta mientras esperas y la productividad se derrumba.
 
@@ -57,15 +57,15 @@ Aquí aparece el panorama grande. En la era de la IA, el individuo y los equipos
 
 La gran empresa tiene muchos datos y un capital robusto. Pero es lenta. Lenta por las reuniones, lenta por las aprobaciones, lenta por la seguridad, lenta por el VDI. Al revés, el individuo, aunque tenga menos datos, es rápido y libre. Se mete de inmediato en un problema y, si se le ocurre algo, lo experimenta ahí mismo.
 
-En la era de la IA, esa velocidad es por sí sola un gran activo. Sobre todo en resultados que se crean y se publican rápido, como programas, flujos de trabajo, contenidos, borradores, herramientas de automatización, materiales educativos, aplicaciones pequeñas o repositorios públicos, la velocidad se convierte directamente en competitividad. El centro de gravedad se desplaza: de la era en que se ganaba por el peso de los datos a la era en que se gana por la velocidad del ciclo.
+En la era de la IA, esa velocidad es por sí sola un gran activo. Sobre todo en resultados que se crean y se publican rápido, como programas, flujos de trabajo, contenidos, borradores, herramientas de automatización, materiales educativos, aplicaciones pequeñas o repositorios públicos, la velocidad se convierte directamente en competitividad. Lo decisivo cambia: de la era en que se ganaba por la cantidad de datos a la era en que se gana por la velocidad del ciclo.
 
 ## La empresa debe liberar el experimento y apretar solo el lanzamiento
 
-Entonces, ¿qué tiene que hacer una empresa para volverse de verdad "nativa en IA"? Con consignas no basta. Decir "nosotros también adoptamos la IA" mientras mantienes las manos atadas no significa nada.
+Entonces, ¿qué tiene que hacer una empresa para volverse de verdad "nativa en IA"? Con consignas no basta. Decir "nosotros también adoptamos la IA" mientras todo sigue bloqueado no significa nada.
 
 Lo que hace falta es concreto. Preparar un cajón de arena de IA aparte para experimentar a gusto. Montar rápido un entorno de desarrollo para crear y ejecutar. Abrir una vía aprobada hacia los modelos y las API externas. Tener una forma segura de alimentar la IA con los documentos internos. Ofrecer otra opción además del equipo potente o el VDI. Liberar el permiso de instalación para los experimentos de bajo riesgo. Proteger un tiempo de concentración sin reuniones. Y, sobre todo, separar el camino para experimentar con libertad del camino para validar y publicar.
 
-Si atas hasta el experimento con un proceso de aprobación, nadie lo intenta. Al revés, si publicas todo sin validación, ocurren accidentes. Experimentar con libertad, lanzar con rigor. Solo cuando separas estos dos caminos se sueltan por fin las manos de la gente.
+Si atas hasta el experimento con un proceso de aprobación, nadie lo intenta. Al revés, si publicas todo sin validación, ocurren accidentes. Experimentar con libertad, lanzar con rigor. Solo cuando separas estos dos caminos la gente queda por fin libre para trabajar.
 
 ## En la empresa, cosas pequeñas; lo grande, afuera
 
@@ -75,8 +75,8 @@ Dentro de la empresa conviene apuntar la IA a pequeñas victorias. Ordenar datos
 
 En cambio, los resultados grandes conviene crearlos en un entorno sin fricción. Textos largos, repositorios públicos, aplicaciones pequeñas, borradores listos para usar enseguida. Si intentas hacer este tipo de trabajo dentro de la seguridad, los permisos y los cambios de contexto de la empresa, la misma tarea se vuelve varias veces más lenta. Dónde usas la herramienta decide el resultado. Saber esto y repartir el lugar según el tipo de trabajo: de eso se trata.
 
-## Si no salen resultados, sospecha primero de las manos atadas
+## Si no salen resultados, sospecha primero del entorno que te frena
 
 Usar la IA y crear resultados rápido con la IA son cosas totalmente distintas. Lo primero solo requiere saber llamar al modelo. Lo segundo requiere un entorno donde el ciclo de crear y comprobar gire sin trabas.
 
-El entorno de empresa lento, cortado y bloqueado es el mayor enemigo de ese ciclo. En su centro está el VDI. Así que, cuando no salgan resultados, no dudes primero de tu propia habilidad. Lo primero que debes mirar es el lugar donde tienes las manos atadas, esa fricción del entorno de trabajo. Quien la suelta termina creando más y más rápido.
+El entorno de empresa lento, cortado y bloqueado es el mayor enemigo de ese ciclo. En su centro está el VDI. Así que, cuando no salgan resultados, no dudes primero de tu propia habilidad. Lo primero que debes mirar es dónde está el entorno frenándote, esa fricción del entorno de trabajo. Quien la elimina termina creando más y más rápido.

@@ -20,7 +20,7 @@ Starting with work that has right answers, then repeated work, body work, work r
 
 Do not stop at building skill. Convert skill into credentials, responsible seats, and ownership.
 
-## Skill is an entry ticket, not insurance
+## Skill gets you started, but it does not protect you
 
 We usually believe this:
 
@@ -30,7 +30,7 @@ If I am better than others, I will continue to be needed.
 
 Until now, that was somewhat true. Faster and more accurate people took more work. But in the AI era, this belief shakes. Translation, coding, summarization, analysis, and image diagnosis were once the work of skilled people. Now the very act of being good is becoming the area AI catches first.
 
-Abilities with right answers, repeatable practice, and checkable results eventually enter machines. So skill is only an entry ticket. Skill gets you into the room. It does not guarantee that you can keep staying there.
+Abilities with right answers, repeatable practice, and checkable results eventually enter machines. So skill only gets you started. It lets you begin the work. It does not guarantee that you can keep doing it.
 
 It is dangerous to explain yourself only as "a person who is good at this work." The moment a better AI arrives, that seat can disappear. This does not mean skill is useless. Skill is still necessary. But you must not stop at skill. You have to convert skill into a form that lasts longer.
 

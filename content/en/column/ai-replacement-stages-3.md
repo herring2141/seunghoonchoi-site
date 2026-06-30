@@ -82,7 +82,7 @@ The core of stages 9 through 14 is one thing. Even if AI performs better, decisi
 
 First AI assists. Then people review AI. Then people approve AI results. Finally, human approval remains only as form.
 
-This does not happen all at once. It moves differently by field, by regulation, and by the way accidents occur. Dangerous AI may not be opened to everyone. In areas where one mistake can create great harm, such as cyber attacks, biological risk, and critical infrastructure, powerful AI may be kept inside the control of states or large organizations. Then the world divides between "people who use AI" and "people who control AI." Ordinary people use limited AI, while strong AI is used only inside approved fences.
+This does not happen all at once. It moves differently by field, by regulation, and by the way accidents occur. Dangerous AI may not be opened to everyone. In areas where one mistake can create great harm, such as cyber attacks, biological risk, and critical infrastructure, powerful AI may be kept inside the control of states or large organizations. Then the world divides between "people who use AI" and "people who control AI." Ordinary people use limited AI, while strong AI is used only inside approved organizations.
 
 Still, replacement does not stop. The actor doing the replacement shifts from individual users to states, large companies, and approved organizations. So the seat that remains for humans is not simple user. It is the seat that holds authority, bears responsibility, controls, and owns. Everything whose answer converges eventually moves toward AI. But decisions with no right answer, decisions that require responsibility, and decisions society must permit move slowly.
 

@@ -34,7 +34,7 @@ So goodness is not only a losing attitude. In an age when trust turns into money
 
 But do not confuse the point. Saying goodness is a strategy does not mean giving endlessly to anyone. A person who gives without conditions cannot survive for long. They feed exploiters.
 
-The strong rule in relationships is simple. Cooperate first. If the other person cooperates too, keep cooperating. If they betray you, do not just let it pass. But if they return, open the door again.
+The strong rule in relationships is simple. Cooperate first. If the other person cooperates too, keep cooperating. If they betray you, do not just let it pass. But if they return, give them another chance.
 
 This rule may sound cold, but it is the most realistic generosity. If you suspect and attack from the start, good people leave too. If you keep enduring after someone crosses the line, only bad people remain. So trust first, but charge a cost for betrayal.
 
@@ -80,6 +80,6 @@ The core is one thing. Goodness is not enduring because you have no power. It is
 
 Without firmness, goodness gets exploited. Without goodness, firmness becomes close to violence. If you have only one, you become either a pushover or a cold person. You need both.
 
-Be generous first to good people. If the other person cooperates, keep cooperating. If they cross the line, quietly charge a cost. If they come back, open the door again, but do not get hurt the same way twice.
+Be generous first to good people. If the other person cooperates, keep cooperating. If they cross the line, quietly charge a cost. If they come back, give them another chance, but do not get hurt the same way twice.
 
 So if you want to live well, do not only learn how to endure more. Learn how far you will accept, where you will stop, and from which people you will recover your heart. Even a saint draws a sword in front of a villain. But that sword should not be swung in anger. It should be drawn quietly to protect a line.

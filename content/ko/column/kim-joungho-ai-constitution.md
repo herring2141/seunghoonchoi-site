@@ -4,7 +4,7 @@ description: "김정호 카이스트 전기 및 전자공학부 교수 발언을
 date: 2026-06-25T23:40:00+09:00
 categories: ["AI"]
 tags: ["김정호", "카이스트", "AI 헌법", "AI 안전", "AI 규제"]
-subtitle: "전기, 기억, 수명, 세금, 복제까지. 인간과 AI가 같은 경기장에 서려면 무엇을 묶어야 하는가."
+subtitle: "전기, 기억, 수명, 세금, 복제까지. 인간과 AI가 공정하게 겨루려면 무엇을 제한해야 하는가."
 seoTitle: "김정호 카이스트 교수의 AI 헌법 전문"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"

@@ -27,7 +27,7 @@ A beginner cook only sees "medium heat for three minutes" in the recipe. Someone
 
 ## Put what you learned to work
 
-When you pick up something small, you usually park it as a thing to brag about. "Learned this one thing today," and that is the end of it. The valuable part is somewhere else. It is **using it as a lever for the next job.** Say a writer figures out one trick for handling paragraph transitions. Leave it as "today's lesson" and it dies that day. But use that trick in the next piece, and the one after that, and the time you used to spend stuck and struggling at that exact spot vanishes completely. Every time you pick up something small, ask one thing. "How much does this make my next job easier?"
+When you pick up something small, you usually park it as a thing to brag about. "Learned this one thing today," and that is the end of it. The valuable part is somewhere else. It is **using it to make the next job easier.** Say a writer figures out one trick for handling paragraph transitions. Leave it as "today's lesson" and it dies that day. But use that trick in the next piece, and the one after that, and the time you used to spend stuck and struggling at that exact spot vanishes completely. Every time you pick up something small, ask one thing. "How much does this make my next job easier?"
 
 ## Write it down so you never solve it twice
 
@@ -43,7 +43,7 @@ Someone who has stacked this far sees one more thing. The same job costs differe
 
 ## Do all three and nobody can copy you
 
-The last one is the strongest. Any single skill, anyone catches up with enough time. Writing, coding, presenting. All of them. What is hard to copy is the weave. **Someone who can write, can code, and can explain both to people** is nothing like three separate people who are each good at one thing. And this weave thickens on its own. A thought you sorted out in writing makes the code cleaner. Cleaner code makes the explanation easier. An easier explanation becomes better material to write about. A buildup forms here that nobody can catch overnight.
+The last one is the strongest. Any single skill, anyone catches up with enough time. Writing, coding, presenting. All of them. What is hard to copy is the combination. **Someone who can write, can code, and can explain both to people** is nothing like three separate people who are each good at one thing. And this combination grows stronger on its own. A thought you sorted out in writing makes the code cleaner. Cleaner code makes the explanation easier. An easier explanation becomes better material to write about. A buildup forms here that nobody can catch overnight.
 
 ## The gap at the start is tiny
 

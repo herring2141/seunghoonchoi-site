@@ -32,7 +32,7 @@ Una vez que tienes dirección, debes reducir los indicadores clave. En un campo 
 
 Conviene reducir lo esencial a unas siete piezas. En escritura pueden ser ortografía, palabra, longitud de frase, estructura de párrafo, flujo lógico, lector y título. Cuando mejoras, juntas ortografía y elección de palabras en un bloque llamado "pulir frase". Cuanto más agrupas varios elementos en un solo bloque, más espacio queda en la cabeza para ver estructuras grandes.
 
-La diferencia entre un principiante y alguien intermedio no es solo la cantidad de conocimiento. Es la capacidad de agrupar información en unos pocos bloques. Cuando reduces los criterios clave a unas siete piezas, la información nueva ya no te sacude tanto.
+La diferencia entre un principiante y alguien intermedio no es solo la cantidad de conocimiento. Es la capacidad de agrupar información en unos pocos bloques. Cuando reduces los criterios clave a unas siete piezas, la información nueva ya no te desorganiza tanto.
 
 ## Los 30 deben reunirse por tipo, no por número
 
@@ -46,7 +46,7 @@ Por ejemplo, si miras treinta fotos de filetes perfectos, no sabes cómo se ve e
 
 Ver con los ojos y hacerlo con las manos no es lo mismo. Que empieces a ver patrones no significa que la mano te siga de inmediato. Al principio el resultado varía mucho. Ayer salió, hoy no. Crees haber hecho lo mismo, pero el resultado cambia.
 
-La zona donde esa inestabilidad empieza a bajar está alrededor de cien repeticiones. Se parece a tocar muchas veces el mismo pasaje en un instrumento hasta que la mano se mueve sola. La técnica deportiva se pega al cuerpo y hablar en público empieza a dar menos miedo por esa zona.
+La zona donde esa inestabilidad empieza a bajar está alrededor de cien repeticiones. Es lo que pasa al tocar muchas veces el mismo pasaje en un instrumento hasta que la mano lo ejecuta sin pensar. La técnica deportiva queda automatizada y hablar en público empieza a dar menos miedo por esa zona.
 
 Pero no sirve repetir cien veces sin más. Si repites sin saber qué está mal, solo fijas un mal hábito. Hay que hacer una vez, mirar dónde se desvió, corregir y volver a hacer. Lo importante no es el número de repeticiones, sino la repetición con feedback.
 

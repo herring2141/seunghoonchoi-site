@@ -28,7 +28,7 @@ That is the Atlantic's giant water pump. It affects Europe's climate, tropical r
 
 The problem is that this pump can weaken.
 
-For water to sink well in the North Atlantic, two things matter. It has to be cold, and it has to be salty enough. Global warming attacks both. The ocean warms, while melting Greenland ice and Arctic ice add freshwater. Freshwater has less salt. The surface water becomes less salty and less heavy. Then the sinking force weakens.
+For water to sink well in the North Atlantic, two things matter. It has to be cold, and it has to be salty enough. Global warming works against both. The ocean warms, while melting Greenland ice and Arctic ice add freshwater. Freshwater has less salt. The surface water becomes less salty and less heavy. Then the sinking force weakens.
 
 The motor of the pump starts losing power.
 
@@ -82,7 +82,7 @@ There is too much data to watch. Arctic sea ice area and thickness. Greenland su
 
 A few people cannot judge all of this by instinct. Satellites, ocean buoys, ground sensors, ship observations, climate models, and carbon accounting all have to connect. AI should read those connections and answer questions like these: can we increase Arctic summer shading by 0.05% this year? If CO2 removal is moving at this pace, can we reduce shading a little next year?
 
-AI should not become a god that governs Earth for us. But it can take on the role of pointing out signals too complex for humans to see alone.
+AI should not become an all-powerful ruler that governs Earth for us. But it can take on the role of pointing out signals too complex for humans to see alone.
 
 ## SpaceX should look at Earth's circulation before Mars
 

@@ -41,7 +41,7 @@ Una persona vuelve a leer el borrador de la IA. Lo compara con datos reales. Mir
 
 El resultado de ese proceso es distinto. Alguien que solo ejecutó IA una vez no lo puede copiar fácilmente. La IA calculó y ordenó, pero una persona volvió a poner encima trabajo, atención y juicio.
 
-Ganar dinero con IA no significa vender lo que la IA produjo en el primer intento. Empieza cuando la IA hace hasta el fondo lo que sabe hacer, y el ser humano sube hacia los juicios más difíciles.
+Ganar dinero con IA no significa vender lo que la IA produjo en el primer intento. Empieza cuando la IA hace hasta el fondo lo que sabe hacer, y el ser humano pasa a los juicios más difíciles.
 
 ## Las empresas aún no han rediseñado el trabajo alrededor de la IA
 

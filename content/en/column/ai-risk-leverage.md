@@ -22,7 +22,7 @@ More output means more things that need review.
 
 ## Execution Is Not the Only Thing That Got Faster
 
-For bold people who move fast, AI is an extraordinary tool. It turns thought into documents, documents into code, and code into something close to deployable. One person can move like a small team. If the direction is right, that speed becomes achievement. Writing piles up, products ship, automations appear, and work that once sat postponed becomes a real artifact.
+For bold people who move fast, AI is an extraordinary tool. It turns thought into documents, documents into code, and code into something close to deployable. One person can produce as much as a small team. If the direction is right, that speed becomes achievement. Writing piles up, products ship, automations appear, and work that once sat postponed becomes a real artifact.
 
 But if the direction is wrong, problems pile up at the same speed. False claims spread faster. Risky wording gets published faster. Sensitive information gets copied faster. A small mistake no longer sits in an internal notebook. It can go straight to a website, a customer email, a code repository, or an ad campaign.
 

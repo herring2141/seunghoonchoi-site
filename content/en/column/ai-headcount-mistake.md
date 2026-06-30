@@ -21,7 +21,7 @@ AI can create a large part of the output for a role. It writes reports, analyzes
 
 Can this report go up at this timing? Can this number be interpreted this way? How will a customer receive this sentence? Will another department push back if we use this expression? Is there anything legal will object to? Does it match the direction the senior person actually wants?
 
-These are not simple writing problems. They are questions of whether an output can survive inside a real organization. AI can make the output. A person has to judge whether that output can live inside the company.
+These are not simple writing problems. They are questions of whether an output can survive inside a real organization. AI can make the output. A person has to judge whether that output can actually be used inside the company.
 
 ## Why drafts got faster but work did not shrink
 

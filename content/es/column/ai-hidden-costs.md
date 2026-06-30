@@ -73,7 +73,7 @@ Entonces la respuesta se separa. Si hay mucho en juego, si hay varias opciones y
 
 ## Si no decides nada, lo que produces es solo ruido
 
-En realidad, la factura de tokens es solo la sombra de un problema mayor. El verdadero problema es la productividad falsa.
+En realidad, la factura de tokens es solo una parte pequeña de un problema mayor. El verdadero problema es la productividad falsa.
 
 Imagina que te pasas el día entero haciendo veinte versiones, sacando resúmenes y ordenando actas. Pero si ese día no se decidió nada y nada fue más rápido, eso no es productividad. Es solo un montón de papel digital amontonado. Pareces ocupado, pero nada avanzó.
 

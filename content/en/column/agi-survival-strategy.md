@@ -17,7 +17,7 @@ If you spend your days fighting to be smarter than AI, you lose. I'm sure of it.
 I've boiled down what to do with my life in the age of AI to twelve rules. None of them are fancy. Instead, every day, when I have to decide something, I cut it against these twelve.
 
 1. **Don't try to be smarter than AI.** The place where humans survive isn't a contest of brains. It's the power to take an answer and press it against the real world to see if it holds.
-2. **Plant yourself where people keep paying.** People don't buy function alone. They also buy trust and accountability, relationships, the feeling that something is real, and the sense that it belongs to them.
+2. **Stay where people keep paying.** People don't buy function alone. They also buy trust and accountability, relationships, the feeling that something is real, and the sense that it belongs to them.
 3. **Use AI to move fast, but leave the result behind as an asset in the human world.** Taking what AI spits out and selling it as is, that's weak.
 4. **The bottleneck moves from "knowing" to "doing."** What blocks you from here on isn't who knows more. It's who checks, who executes, who takes responsibility, and who holds onto it as their own to the end.
 5. **Go after what only a human can give with full force.** The sense that something is real. Accountability. Ownership. Relationships and trust. Peace of mind. Naming the thing a person never said out loud. Telling a truth nobody wants to hear. Rebuilding the whole way work gets done. Things like that.

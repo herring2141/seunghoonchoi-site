@@ -14,9 +14,9 @@ draft: true
 
 ## Two Carpenters, Same Skill, Different Fates
 
-There are two people in town who make furniture. Both are good with their hands. Their planing is clean, the grain stays alive in the wood, and they hit the exact size a customer asks for. Yet after ten years, the two of them end up in completely different situations.
+There are two people in town who make furniture. Both are good with their hands. Their planing is clean, the grain of the wood stays clear, and they hit the exact size a customer asks for. Yet after ten years, the two of them end up in completely different situations.
 
-One still earns money only when an order comes in. When his hands stop, his income stops too. A sick month leaves a hole where the whole month's sales should be, and an injured wrist puts his entire retirement at risk. The other one, somewhere along the way, ended up with a workshop that carries his own name. People come to learn how he joins his pieces. While he sleeps, the work notes he wrote keep selling. A photo of a chair he made passes through someone's home and comes back as another order.
+One still earns money only when an order comes in. When his hands stop, his income stops too. A sick month means losing the whole month's sales, and an injured wrist puts his entire retirement at risk. The other one, somewhere along the way, ended up with a workshop that carries his own name. People come to learn how he joins his pieces. While he sleeps, the work notes he wrote keep selling. A photo of a chair he made passes through someone's home and comes back as another order.
 
 This isn't a gap in skill. You could watch them both plane a board and barely tell them apart. The difference is just one thing. One sold his time, and the other organized his time into results he could use again.
 
@@ -24,7 +24,7 @@ This isn't a gap in skill. You could watch them both plane a board and barely te
 
 We usually explain a market economy with money. You buy and sell, you earn and spend, and you save what's left. That isn't wrong. But money is only the result. What moves things at a deeper level is the habit of organizing what you've done once into a form you can use again.
 
-Follow the flow slowly. Knowledge you read in a book settles into your hands until your body remembers it as skill. With that skill you make a product other people will pay for. The product sells and becomes sales, and sales pile up into capital. With capital you can buy other people's time and labor. That labor produces a big result you could never have made on your own. A big result builds reputation. And that reputation opens the door to the next piece of work.
+Follow the flow slowly. Knowledge you read in a book gets practiced until your body remembers it as skill. With that skill you make a product other people will pay for. The product sells and becomes sales, and sales pile up into capital. With capital you can buy other people's time and labor. That labor produces a big result you could never have made on your own. A big result builds reputation. And that reputation opens the door to the next piece of work.
 
 At each step there's work that takes the result of the step before and organizes it into a form the next step can use. Each time, you shape it into something that can go a little farther. The people who last in a market are the ones who keep extending this chain of steps. They are not the ones who simply work hardest in the first step.
 
@@ -50,7 +50,7 @@ Above that there's one more step. Once you've made something reusable, you have 
 
 The same recipe, used only inside one alley, earns only as much as that alley is worth. The same work notes, circulating only inside a company drawer, earn only as much as that one department is worth. But use that result in a wider place, and the very same result produces an outcome of an entirely different scale. A lecture video you record once makes the difference between speaking to thirty people in a classroom and reaching ten thousand people again and again. One well-written piece makes the difference between telling the coworker next to you and reaching thousands of strangers stuck on the very same problem.
 
-If the result does the work, the size of the stage multiplies that outcome several times over. So the question one level higher is this: "Where will I use this result?" The person who used an ordinary result in a wide place often goes farther than the person holding a brilliant result in a narrow one.
+If the result does the work, the size of the audience multiplies that outcome several times over. So the question one level higher is this: "Where will I use this result?" The person who used an ordinary result in a wide place often goes farther than the person holding a brilliant result in a narrow one.
 
 ## A Name Opens the Next Door
 

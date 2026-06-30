@@ -44,7 +44,7 @@ The conclusion is this. Most existing positions stay. There are just fewer of th
 
 ## Stop hiring juniors and you cut off your future seniors
 
-"Just bolt AI onto the seniors and you're set." That's true only in the short run. Seniors also get old, get sick, switch jobs, and retire. Stop hiring juniors and you cut off the pipeline that feeds your future mid-level and senior talent.
+"Just add AI to the seniors and you're set." That's true only in the short run. Seniors also get old, get sick, switch jobs, and retire. Stop hiring juniors and you cut off the supply of your future mid-level and senior talent.
 
 What a junior needs in the AI era isn't the ability to memorize. It's the attitude of learning fresh with AI as a given, asking the right questions, verifying AI's output, putting it down in documents, and checking it firsthand on the ground. In one sentence: becoming the person who, between AI and reality, sorts out the context, verifies the results, and reports the exceptions.
 

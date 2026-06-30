@@ -18,7 +18,7 @@ Aquí está, entero, el secreto de la competitividad en la era de la IA.
 
 Piensa en los problemas que resolvías en secundaria. x + 2 = 8. La respuesta es una sola: 6. La resuelva quien la resuelva, sale 6, y una vez que lo aprendes, las siguientes veces lo terminas en cinco segundos. Es un conocimiento que cuesta casi cero copiar. En el mundo hay muchísimas cosas así. Las buscas y aparecen, se escriben en una línea, y en cuanto están escritas cualquiera las repite.
 
-Pero si mezclas dos o tres variables, el paisaje cambia por completo. Si no sabes el valor de x ni el de y, y el valor correcto de y depende de cómo fijes x, entonces la respuesta deja de ser una sola. Se convierte en un conjunto de respuestas que cambian según las condiciones. El verdadero saber práctico vive casi siempre en este segundo mundo. Y, sin embargo, una y otra vez intentamos escribirlo con el lenguaje del primer mundo, como si fuera una sola respuesta correcta. Por eso se copia. Y por eso, en la era de la IA, se copia aún más rápido.
+Pero si mezclas dos o tres variables, la cosa cambia por completo. Si no sabes el valor de x ni el de y, y el valor correcto de y depende de cómo fijes x, entonces la respuesta deja de ser una sola. Se convierte en un conjunto de respuestas que cambian según las condiciones. El verdadero saber práctico vive casi siempre en este segundo mundo. Y, sin embargo, una y otra vez intentamos escribirlo con el lenguaje del primer mundo, como si fuera una sola respuesta correcta. Por eso se copia. Y por eso, en la era de la IA, se copia aún más rápido.
 
 ## La receta se copia, pero el toque de la mano no
 
@@ -26,7 +26,7 @@ Volvamos a la cocina. Tienes toda la receta, ¿por qué no sale el sabor?
 
 La razón es sencilla. La receta escrita es solo un punto, el de las condiciones promedio. En la cocina real, ese cocinero mira la humedad del ingrediente que llegó ese día y echa una cucharada menos de agua. Nota con el dorso de la mano que la plancha está más caliente de lo normal y apaga el fuego treinta segundos antes. Cuando prueba el punto de sal, no piensa "está soso" sin más: calcula un soso que quedará salado al enfriarse. Nada de esto se escribe. No por pereza. Es que, desde el principio, no es un valor único, sino un juicio que se mueve según la situación.
 
-Si la receta es una sola respuesta correcta, el toque de la mano es un mapa de respuestas distintas para cada condición. La frontera entre lo que se copia y lo que no se copia está justo aquí.
+Si la receta es una sola respuesta correcta, el toque de la mano es un conjunto de respuestas distintas para cada condición. La diferencia entre lo que se copia y lo que no se copia está justo aquí.
 
 ## Cuando las variables se entrelazan, la respuesta correcta desaparece
 
@@ -78,4 +78,4 @@ Entonces, ¿qué hay que acumular? La respuesta es clara. Hay que acumular conoc
 
 Para eso, hay que cambiar la forma de trabajar. No anotes solo lo que salió bien. Anota lo que se arruinó. En vez de "haciéndolo así funciona", reúne los "esto no funcionó por esta razón". Vuelve a correr un ajuste que una vez tuvo éxito cambiando las condiciones, y dibuja tú mismo la frontera de hasta dónde aguanta y dónde se derrumba. Esa línea de frontera es, precisamente, tu activo: el que nadie podrá reconstruir mirando solo el producto terminado.
 
-El saber práctico que no se replica no es una jugada genial. Es el mapa que dibujaron muchísimos fracasos, y el grosor del juicio que cambia según cada condición. En una era en la que la IA se traga todas las recetas, el camino para seguir siendo alguien que no se copia no es trabajar más duro. Es acumular lo que resulta caro volver a descubrir. No hacer el trabajo que se acaba en cuanto se escribe, sino el trabajo que, por mucho que se escriba, no se traslada del todo.
+El saber práctico que no se replica no es una jugada genial. Es el mapa que dibujaron muchísimos fracasos, y el grosor del juicio que cambia según cada condición. En una era en la que la IA absorbe todas las recetas, la forma de seguir siendo alguien que no se copia no es trabajar más duro. Es acumular lo que resulta caro volver a descubrir. No hacer el trabajo que se acaba en cuanto se escribe, sino el trabajo que, por mucho que se escriba, no se traslada del todo.

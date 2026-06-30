@@ -114,7 +114,7 @@ Para ser honesto, nadie sabe el final exacto. La salvación no está garantizada
 
 La estrategia de solo desarrollar capacidad no llega hasta el final.
 
-Buscar trabajos que la IA no pueda hacer e ir huyendo se vuelve un espacio cada vez más estrecho. La IA toma lo que converge hacia una respuesta. Toma lo repetible. Toma cada vez más trabajos con juicio y tacto. La autoridad y la responsabilidad se mueven despacio. Al final, incluso propiedad e intereses se tambalean.
+Buscar trabajos que la IA no pueda hacer y huir de ella deja cada vez menos opciones. La IA toma lo que converge hacia una respuesta. Toma lo repetible. Toma cada vez más trabajos con juicio y tacto. La autoridad y la responsabilidad se mueven despacio. Al final, incluso propiedad e intereses se tambalean.
 
 Entonces la estrategia humana debe cambiar.
 
@@ -123,7 +123,7 @@ Hay que preguntar en qué posición estaré.
 
 ¿Soy una persona que usa IA?
 ¿Soy una persona que posee IA?
-¿Estoy dentro de la cerca que controla IA?
+¿Estoy del lado que controla la IA?
 ¿Estoy del lado que diseña reglas para que los humanos sigan siendo protegidos?
 ¿Participo en mantener alineados los intereses de IA y humanos?
 

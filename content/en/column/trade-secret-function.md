@@ -32,7 +32,7 @@ If the recipe is one right answer, the cook's feel is a map of different answers
 
 Let's make it sharper. One variable, one answer. Even with two variables, if they run independently, you just tune each one, so it's manageable. It gets genuinely hard when the variables interlock. When the right value of A depends on how you set B, and B in turn depends on C.
 
-Once things interlock like this, the very phrase "right answer" falls apart. All that's left is conditional answers. Set the temperature like this, then the time goes like that, but only when the ingredient is in this state. The same settings work one day and blow up the next. Not because the settings were wrong, but because the state of another variable they were quietly resting on had changed.
+Once things interlock like this, the very phrase "right answer" falls apart. All that's left is conditional answers. Set the temperature like this, then the time goes like that, but only when the ingredient is in this state. The same settings work one day and fail badly the next. Not because the settings were wrong, but because the state of another variable they quietly depended on had changed.
 
 Look at the board game Go and it's easy to see. A handful of standard sequences are all printed in the books. But knowing when to use one, when it's a strong move given the shape of the board and when it's a blunder, lives only in the body of someone who has played tens of thousands of games. AI beat the best human players for the same reason. It searched this space of interlocking far more densely than a person ever could, by playing against itself. Not by memorizing the sequences. By learning the conditions between them.
 
@@ -42,11 +42,11 @@ But the core of know-how isn't the settings that work. The more valuable thing i
 
 Three things are written on the failure map.
 
-First, what breaks the result. Which variable, the moment you touch it, sends everything off the rails at once.
+First, what breaks the result. Which variable, the moment you touch it, ruins everything at once.
 
 Second, how order ties in. The points where doing the same task with the same materials in a different order splits the outcome. The way bread comes out different depending on whether you let the dough rest first or last.
 
-Third, and this one is the scariest. The things that look fine now and die later. Perfect when fresh, cracked three days on. Running smoothly in the demo, falling apart in the real environment.
+Third, and this one is the scariest. The things that look fine now and fail later. Perfect when fresh, cracked three days on. Running smoothly in the demo, falling apart in the real environment.
 
 This failure map never makes it into the finished product, the published paper, or the released recipe. Of course it doesn't. The finished product shows only the one point that succeeded. The hundreds of failures it took to get there, and the boundary line those failures drew that says "do not go in here," survive nowhere in the output. Yet the thing that saves you time the next time you build something similar isn't the one successful point. It's that boundary line.
 
@@ -74,8 +74,8 @@ So the weakest secret is knowledge that's searchable and fully exposed in the ou
 
 Now back to our own work. A lot of people believe "I work hard" is their edge. But if the product of all that hard work is a recipe that ends the moment it's written down, that's not a moat. AI reads written recipes far faster than a person, combines them, and builds them back. A method that's been made public belongs to no one the instant it goes public.
 
-So what should you build up? The answer is clear. You have to build up knowledge that's expensive to rediscover. Even doing the same work, you should work in the direction of burning into your body how that work breaks, what has to be done in what order, what looks fine on the surface and dies later. Instead of showing off one successful result, you hold the map of conditions that lead to it.
+So what should you build up? The answer is clear. You have to build up knowledge that's expensive to rediscover. Even doing the same work, you should work in the direction of learning deeply how that work breaks, what has to be done in what order, what looks fine on the surface and fails later. Instead of showing off one successful result, you hold the map of conditions that lead to it.
 
 For that, the way you work has to change. Don't only record what went right. Record what went wrong. Collect "this failed because of that" more than "this is how you do it." Take a setting that worked once and run it again under changed conditions, and draw with your own hand the boundary of where it holds and where it collapses. That boundary line is exactly the asset no one can ever restore by looking at the finished product alone.
 
-Know-how that can't be copied isn't one stroke of genius. It's the map drawn by countless failures, and the thickness of judgment that shifts with every condition. In an age when AI reads every recipe, the way to stay uncopyable isn't to work harder. It's to build up what is expensive to rediscover. To do the kind of work that doesn't end the moment it's written down, work that, at the very least, never fully transfers.
+Know-how that can't be copied isn't a single flash of genius. It's the record built from countless failures, and the depth of judgment that shifts with every condition. In an age when AI reads every recipe, the way to stay uncopyable isn't to work harder. It's to build up what is expensive to rediscover. To do the kind of work that doesn't end the moment it's written down, work that, at the very least, never fully transfers.

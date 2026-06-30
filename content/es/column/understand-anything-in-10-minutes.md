@@ -54,6 +54,6 @@ Hay de sobra plantillas para organizar conceptos en el mundo. Lo que hace distin
 
 Primero, el **límite**. Te obliga a anotar, aunque sea a la fuerza, la diferencia con un concepto parecido. Solo así desaparece la confusión.
 
-Segundo, la **marca de "supuesto" o "por verificar"**. No mezclas en la misma olla los huecos que llenó la IA o el material con los hechos ya comprobados.
+Segundo, la **marca de "supuesto" o "por verificar"**. No mezclas en un mismo grupo los huecos que llenó la IA o el material con los hechos ya comprobados.
 
 Tercero, **termina con preguntas**. Deja la comprensión no como algo "terminado", sino como "lo que toca hacer después". En el momento en que la das por cerrada creyendo que ya sabes, el estudio se detiene ahí.

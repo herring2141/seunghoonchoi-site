@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 Con IA, crear un texto toma muy poco. Sale un aviso para clientes, un comunicado de prensa, una respuesta de correo. Un borrador que antes tomaba un día aparece en diez minutos, y en varias versiones. Por eso el momento más peligroso no es cuando la IA se equivoca. Es cuando la IA produce algo demasiado rápido y demasiado convincente. Cuando una persona lo hace a mano, se detiene varias veces. Piensa si puede usar esa frase, si puede sacar esa información, cómo la leerá la otra parte. Es molesto y lento, pero esa pausa funciona como un pequeño seguro.
 
-Cuando se conecta IA, esa pausa desaparece. El borrador sale demasiado rápido y corregirlo es demasiado fácil. Si uno quiere, puede producir diez textos, diez avisos o diez propuestas en un día. El problema es que las puertas de verificación también tendrían que multiplicarse por diez, y muchas veces siguen igual.
+Cuando se conecta IA, esa pausa desaparece. El borrador sale demasiado rápido y corregirlo es demasiado fácil. Si uno quiere, puede producir diez textos, diez avisos o diez propuestas en un día. El problema es que los controles de verificación también tendrían que multiplicarse por diez, y muchas veces siguen igual.
 
 Más producción significa más cosas que revisar.
 
@@ -64,11 +64,11 @@ Cuantas más herramientas de IA hay, mayor es el riesgo. No es lo mismo una herr
 
 Las reglas de uso de IA no tienen que ser grandiosas. Primero hay que dejar clara la lista de información que no se debe introducir: datos personales de clientes, cuentas y tokens, contratos no públicos, información financiera interna, investigación o productos antes de publicarse. Eso debe estar bloqueado por defecto y, si hace falta usarlo, solo en un entorno aprobado.
 
-## Cuanto más audaz sea la persona, más necesita una puerta
+## Cuanto más audaz sea la persona, más necesita un control
 
 La persona cautelosa ya va despacio. Antes de subir un archivo peligroso pregunta otra vez; antes de publicar, se detiene. Puede resultar lenta, pero es menos probable que mande errores en masa hacia afuera.
 
-La persona audaz hace rápido. Publica rápido, corrige rápido, pasa rápido a lo siguiente. Esa inclinación es una gran ventaja en la era de la IA. Pero sin una puerta de control, esa ventaja se convierte en riesgo.
+La persona audaz hace rápido. Publica rápido, corrige rápido, pasa rápido a lo siguiente. Esa inclinación es una gran ventaja en la era de la IA. Pero sin un punto de control, esa ventaja se convierte en riesgo.
 
 Lo que hace falta no es cambiar la personalidad. Decirle a alguien muy ejecutor que baje la velocidad no sirve de mucho. Lo que sí sirve es crear un punto de control obligatorio justo antes de salir. Me parece útil dividir los resultados de IA en tres niveles. Primero, experimentos personales. Ahí se puede crear y romper con libertad. En ese nivel importa la velocidad.
 
@@ -82,7 +82,7 @@ Antes de sacar un resultado de IA al público, como mínimo hay que preguntar es
 
 Si las preguntas son demasiadas, nadie las mira. Por eso deben ser pocas. Cinco bastan. Pero tienen que estar dentro del flujo real de publicación. Una checklist guardada en algún documento, lejos del botón de publicar, no tiene mucho efecto.
 
-Una buena puerta no existe para frenar el trabajo. Existe para poder crear más rápido con menos miedo. En el borrador se usa IA con libertad; en la publicación se filtra lo que debe filtrarse. Así una persona ejecutora puede mantener velocidad sin convertir cada salida en un riesgo.
+Un buen punto de control no existe para frenar el trabajo. Existe para poder crear más rápido con menos miedo. En el borrador se usa IA con libertad; en la publicación se filtra lo que debe filtrarse. Así una persona ejecutora puede mantener velocidad sin convertir cada salida en un riesgo.
 
 ## Borrador rápido, salida estricta
 
@@ -90,4 +90,4 @@ Con IA, cada vez más personas harán más cosas: textos, código, apps, borrado
 
 Lo que crea la IA es un borrador. Lo que sale al mundo es mi acción. Esa línea debe quedar clara. Si se borra, la IA deja de ser una herramienta que aumenta logros y se vuelve una herramienta que aumenta crisis.
 
-Creo que hay que usar más la IA. Pero cuanto más se use, más deliberada debe ser la pausa justo antes de publicar. Es la pequeña pausa para preguntar si esta frase puede salir, si este archivo puede subirse, si esta automatización puede activarse. El borrador se hace rápido. En el momento de salir, se fija un responsable, se quita la información sensible, se verifica la base y se vuelve a leer cómo lo recibirá la otra parte. Esa puerta es lo que permite que la IA siga siendo una herramienta de ejecución, no de crisis.
+Creo que hay que usar más la IA. Pero cuanto más se use, más deliberada debe ser la pausa justo antes de publicar. Es la pequeña pausa para preguntar si esta frase puede salir, si este archivo puede subirse, si esta automatización puede activarse. El borrador se hace rápido. En el momento de salir, se fija un responsable, se quita la información sensible, se verifica la base y se vuelve a leer cómo lo recibirá la otra parte. Ese punto de control es lo que permite que la IA siga siendo una herramienta de ejecución, no de crisis.

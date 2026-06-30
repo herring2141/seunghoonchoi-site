@@ -20,7 +20,7 @@ Desde trabajos con respuesta, trabajos repetitivos, trabajo físico, trabajo que
 
 No basta con desarrollar habilidad. Hay que convertir esa habilidad en certificación, en un lugar de responsabilidad y en propiedad.
 
-## La habilidad es una entrada, no un seguro
+## La habilidad es un punto de partida, no un seguro
 
 Solemos creer esto.
 
@@ -30,7 +30,7 @@ Si destaco más que otros, seguiré siendo necesario.
 
 Hasta ahora era verdad en cierta medida. Quien era más rápido y exacto se llevaba más trabajo. Pero en la era de la IA esta creencia tiembla. Traducción, programación, resumen, análisis y lectura de imágenes fueron trabajos de personas buenas en eso. Ahora, justamente hacerlo bien se vuelve una de las zonas que la IA alcanza más rápido.
 
-Las capacidades con respuesta, repetición y resultado verificable acaban entrando en la máquina. Por eso la habilidad es solo una entrada. Te deja entrar en la sala, pero no te garantiza permanecer ahí.
+Las capacidades con respuesta, repetición y resultado verificable acaban entrando en la máquina. Por eso la habilidad es solo un punto de partida. Te permite empezar, pero no garantiza que te quedes.
 
 Si te describes solo como "alguien que hace bien este trabajo", estás en riesgo. Cuando llegue una IA que lo haga mejor, tu lugar puede desaparecer. No digo que la habilidad no sirva. Sigue siendo necesaria. Pero no debes detenerte en la habilidad. Hay que convertirla en una forma que dure más.
 

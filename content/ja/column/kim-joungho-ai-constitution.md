@@ -4,7 +4,7 @@ description: "キム・ジョンホ KAIST電気・電子工学部教授の発言
 date: 2026-06-25T23:40:00+09:00
 categories: ["AI"]
 tags: ["キム・ジョンホ", "KAIST", "AI憲法", "AI安全性", "AI規制"]
-subtitle: "電力、記憶、寿命、税金、そして複製まで。人間とAIが同じ土俵に立つには、何を縛るべきか。"
+subtitle: "電力、記憶、寿命、税金、そして複製まで。人間とAIが対等な条件で向き合うには、何を縛るべきか。"
 seoTitle: "キム・ジョンホ KAIST教授のAI憲法全文"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"

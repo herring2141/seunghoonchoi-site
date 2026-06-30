@@ -55,6 +55,6 @@ Frameworks for organizing a concept are everywhere. Exactly three things make th
 
 First, **Boundaries**. It forces you, even if you have to push, to write down how a concept differs from its look alikes. That's how the confusion finally stops.
 
-Second, the **inferred and needs verification flag**. It doesn't throw the blanks an AI or a source filled in into the same pot as the facts that have actually been confirmed.
+Second, the **inferred and needs verification flag**. It doesn't treat the blanks an AI or a source filled in the same way as the facts that have actually been confirmed.
 
-Third, **it ends on a question**. It leaves understanding not as "done" but as "the next thing to do." The moment you cover it up thinking you know it, the studying stops right there.
+Third, **it ends on a question**. It leaves understanding not as "done" but as "the next thing to do." The moment you close it off thinking you know it, the studying stops right there.

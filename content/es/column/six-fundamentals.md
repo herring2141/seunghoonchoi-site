@@ -69,7 +69,7 @@ Estructurar es juntar información dispersa en una forma que pueda usarse.
 
 Solo así la información se vuelve útil. Quien no estructura trata toda la información con el mismo peso. Entonces el informe se alarga, la explicación se enturbia y la conclusión se debilita.
 
-Quien sabe estructurar primero arma el esqueleto. La IA puede proponer una estructura. Pero una persona debe elegir cuál corresponde al problema actual. Una buena estructura no es decorar el contenido. Es el esqueleto que permite mover el pensamiento.
+Quien sabe estructurar primero arma el armazón básico. La IA puede proponer una estructura. Pero una persona debe elegir cuál corresponde al problema actual. Una buena estructura no es decorar el contenido. Es el armazón que permite ordenar el pensamiento.
 
 ## 4. Manejar conceptos abstractos: hacer tangible lo que no se ve
 
@@ -79,9 +79,9 @@ Confianza, riesgo, incentivos, autoridad, responsabilidad, contexto, propiedad, 
 
 Manejar conceptos abstractos significa dar nombre a fuerzas invisibles y aplicarlas a la realidad. Por ejemplo, si conoces la idea de `deuda de contexto`, no te quedas en "el informe es difícil". Puedes separar si lo que no sabes es conocimiento, flujo, estructura de responsabilidad o intereses del decisor.
 
-Si conoces `capital de confianza`, no te quedas en "¿por qué solo le dan oportunidades a esa persona?". Puedes ver que historial comprobado, recomendaciones, reputación y acceso funcionan como una moneda real. Los conceptos no existen para memorizar palabras bonitas. Sirven para dividir una realidad compleja y poder manejarla otra vez.
+Si conoces `capital de confianza`, no te quedas en "¿por qué solo le dan oportunidades a esa persona?". Puedes ver que historial comprobado, recomendaciones, reputación y acceso tienen un valor real y se intercambian. Los conceptos no existen para memorizar palabras bonitas. Sirven para dividir una realidad compleja y poder manejarla otra vez.
 
-La IA puede explicar la definición de un concepto. Pero una persona debe juzgar si ese concepto encaja con su situación y qué parte de la realidad explica. Si no manejas conceptos abstractos, cada caso frente a ti te arrastra por separado. Si puedes manejarlos, ves la misma estructura en hechos que parecían distintos.
+La IA puede explicar la definición de un concepto. Pero una persona debe juzgar si ese concepto encaja con su situación y qué parte de la realidad explica. Si no manejas conceptos abstractos, tienes que enfrentar cada caso por separado, sin ver lo que tienen en común. Si puedes manejarlos, ves la misma estructura en hechos que parecían distintos.
 
 ## En la era de la IA, la diferencia en fundamentos se agranda
 

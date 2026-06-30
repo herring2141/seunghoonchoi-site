@@ -36,7 +36,7 @@ El motor de la bomba empieza a perder potencia.
 
 Enfriar el Ártico no significa proteger solo el Ártico. El Ártico es el reflector blanco de la Tierra y uno de los interruptores que puede afectar AMOC.
 
-El hielo blanco refleja mucha luz solar. El océano oscuro la absorbe. Cuando el hielo retrocede y aparece el océano, el mar toma más calor. Entonces el hielo se derrite más rápido. Ese bucle asusta.
+El hielo blanco refleja mucha luz solar. El océano oscuro la absorbe. Cuando el hielo retrocede y aparece el océano, el mar toma más calor. Entonces el hielo se derrite más rápido. Ese bucle es peligroso.
 
 [NASA](https://science.nasa.gov/earth/earth-observatory/arctic-amplification-81214/) explica que cuando disminuye el hielo marino del Ártico, la superficie terrestre absorbe más luz solar. No es una idea abstracta sobre un futuro lejano. Es física que ya está en marcha. Cuando desaparece la cubierta blanca, la Tierra absorbe más calor.
 

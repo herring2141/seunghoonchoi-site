@@ -24,7 +24,7 @@ No es una cuestión de habilidad. El trabajo de cepillado de las dos es casi imp
 
 Solemos explicar la economía de mercado con el dinero. Comprar y vender, ganar y gastar, ahorrar lo que sobra. No es algo falso. Pero el dinero es solo un resultado. Lo que se mueve en un nivel más profundo es el hábito de dejar ordenado, en una forma que se pueda volver a usar, aquello que ya hiciste una vez.
 
-Sigamos el recorrido despacio. El conocimiento que leíste en un libro se pega a tus manos y se vuelve una habilidad que el cuerpo recuerda. Con esa habilidad haces un producto que otra persona puede comprar con su dinero. El producto se vende y se vuelve ventas, las ventas se juntan y se vuelven capital. Con capital puedes comprar el tiempo y el trabajo de otros. Ese trabajo produce un resultado grande que tú solo nunca podrías lograr. Si logras un resultado grande, se acumula reputación. Y esa reputación abre la puerta del siguiente trabajo.
+Sigamos el recorrido despacio. El conocimiento que leíste en un libro lo practicas hasta volverlo una habilidad que el cuerpo ejecuta sin pensar. Con esa habilidad haces un producto que otra persona puede comprar con su dinero. El producto se vende y se vuelve ventas, las ventas se juntan y se vuelven capital. Con capital puedes comprar el tiempo y el trabajo de otros. Ese trabajo produce un resultado grande que tú solo nunca podrías lograr. Si logras un resultado grande, se acumula reputación. Y esa reputación te facilita conseguir el siguiente trabajo.
 
 En cada paso entra una tarea: ordenar el resultado del paso anterior en una forma que el paso siguiente pueda usar. Es pulirlo una vez para que pueda llegar más lejos. Quien dura mucho tiempo en el mercado es quien encadena estos pasos hasta hacerlos largos. No es quien trabaja más duro en el primer paso.
 
@@ -38,7 +38,7 @@ El esfuerzo en sí no está mal. El problema es que ese esfuerzo no queda ordena
 
 ## ¿En qué queda este esfuerzo?
 
-Por eso, para subir un escalón, hay una pregunta que conviene tener siempre en la boca. Es la pregunta que te haces a ti mismo cada vez que terminas un trabajo. "¿En qué queda este esfuerzo que pueda volver a usar?"
+Por eso, para subir un nivel, hay una pregunta que conviene tener siempre presente. Es la pregunta que te haces a ti mismo cada vez que terminas un trabajo. "¿En qué queda este esfuerzo que pueda volver a usar?"
 
 El mismo material de presentación cambia si pasa por esta pregunta. Después de la presentación, dejas ese material ordenado en una plantilla que cualquiera pueda usar. Anotas en un texto corto los trucos que descubriste en el proceso. Reúnes la forma de explicar que funcionó bien para poder pasársela a la siguiente persona. Así, una sola noche en vela no termina en una sola vez. Queda como una herramienta que ahorra la noche en vela de cinco compañeros que hacen el mismo trabajo. El esfuerzo cambió de forma: de algo de un solo uso que se tira, a un resultado que sacas y usas una y otra vez.
 
@@ -46,19 +46,19 @@ En un puesto de mercado pasa exactamente lo mismo. Hay dos tiendas que venden un
 
 ## El mismo resultado cambia de tamaño según dónde lo uses
 
-Encima de esto hay otro escalón más. Si ya creaste un resultado que puedes volver a usar, tienes que decidir dónde usarlo.
+Por encima de esto hay todavía un paso más. Si ya creaste un resultado que puedes volver a usar, tienes que decidir dónde usarlo.
 
-La misma receta, si la usas solo dentro de un callejón, vale lo que vale ese callejón. Las mismas notas de trabajo, si solo circulan dentro del cajón de la empresa, valen lo que vale ese departamento. Pero si usas ese resultado en un lugar más amplio, el mismo resultado produce un logro de un tamaño completamente distinto. Un video de clase grabado una vez marca la diferencia entre hablarle una vez a treinta personas en un aula y llegar de forma continua a diez mil. Un buen texto marca la diferencia entre contárselo al compañero de al lado y llegar a miles de desconocidos atrapados en la misma duda.
+La misma receta, si la usas solo en un mercado de barrio, vale lo que vale ese barrio. Las mismas notas de trabajo, si solo se usan dentro de la empresa, valen lo que vale ese departamento. Pero si usas ese resultado en un lugar más amplio, el mismo resultado produce un logro de un tamaño completamente distinto. Un video de clase grabado una vez marca la diferencia entre hablarle una vez a treinta personas en un aula y llegar de forma continua a diez mil. Un buen texto marca la diferencia entre contárselo al compañero de al lado y llegar a miles de desconocidos atrapados en la misma duda.
 
-Si el resultado hace el trabajo, el tamaño del escenario multiplica ese logro varias veces. Por eso la pregunta del siguiente nivel es esta. "¿Dónde voy a usar este resultado?" Es frecuente que llegue más lejos quien usó un resultado común en un lugar amplio que quien sostiene un resultado excelente en un lugar estrecho.
+Si el resultado hace el trabajo, el tamaño del lugar donde lo usas multiplica ese logro varias veces. Por eso la pregunta del siguiente nivel es esta. "¿Dónde voy a usar este resultado?" Es frecuente que llegue más lejos quien usó un resultado común en un lugar amplio que quien sostiene un resultado excelente en un lugar estrecho.
 
-## El nombre abre la siguiente puerta
+## El nombre facilita la siguiente oportunidad
 
 Aquí aparece un resultado particular: la reputación. La reputación es el final de un paso y, al mismo tiempo, el comienzo del siguiente.
 
 Si miras a tu alrededor, hay personas que hicieron un trabajo realmente excelente, pero que nadie puede señalar. Lo que hicieron fue sin duda sobresaliente, pero ese trabajo no tiene nombre. Si alguien pregunta "¿quién hizo eso?", la respuesta se traba. Al revés, hay trabajos que se vuelven algo con un nombre propio. Se vuelven algo que la gente puede señalar de inmediato: "Ah, esa es la manera de esa persona".
 
-Que algo tenga nombre quiere decir que quedó como reputación. La reputación tiene una razón para ser especial. Una vez que se acumula, eleva el punto de partida de todos los trabajos siguientes. Aunque hagas la misma propuesta, se lee primero la de la persona con nombre. Aunque saques el mismo producto, se vende primero el del lugar con nombre. La reputación abre la siguiente puerta. Y al otro lado de esa puerta empieza otro trabajo.
+Que algo tenga nombre quiere decir que quedó como reputación. La reputación tiene una razón para ser especial. Una vez que se acumula, eleva el punto de partida de todos los trabajos siguientes. Aunque hagas la misma propuesta, se lee primero la de la persona con nombre. Aunque saques el mismo producto, se vende primero el del lugar con nombre. La reputación facilita la siguiente oportunidad. Y a partir de ahí empieza otro trabajo.
 
 ## Déjalo ordenado en una forma que trabaje aunque tú no estés
 

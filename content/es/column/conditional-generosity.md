@@ -45,7 +45,7 @@ El politólogo Robert Axelrod hizo un experimento famoso en los años ochenta. M
 
 ¿Y qué pasó, en cambio, con la estrategia de cooperar siempre, pasara lo que pasara? Quedó siempre en el fondo. Porque al toparse con traidores seguía recibiendo golpes y solo les daba alimento. Quien da sin condiciones no es bueno. Es solo alguien que le sostiene el sustento al canalla.
 
-Así que el "santo" de verdad fuerte no es quien da sin medida. Es quien por defecto es generoso, pero cobra un costo cuando alguien cruza la línea, y vuelve a abrir la puerta si el otro se arrepiente. Aquella contradicción que yo sentía, "tengo que dar amor, pero ¿qué hago con el canalla?", en realidad no era una contradicción. Eran las dos caras de una sola regla.
+Así que el "santo" de verdad fuerte no es quien da sin medida. Es quien por defecto es generoso, pero cobra un costo cuando alguien cruza la línea, y vuelve a aceptarlo si el otro se arrepiente. Aquella contradicción que yo sentía, "tengo que dar amor, pero ¿qué hago con el canalla?", en realidad no era una contradicción. Eran las dos caras de una sola regla.
 
 Añado una cosa. El "ojo por ojo" simple también tiene un punto débil. Si por un malentendido se tropieza una vez, ambos caen en un círculo vicioso de pura venganza mutua. Por eso, estudios posteriores vieron que en la vida real sobrevive más tiempo una variante que de vez en cuando hace la vista gorda a propósito. Se llama "ojo por ojo generoso". Como entre personas siempre hay malentendidos y errores, el margen de perdonar una vez es lo que, al final, protege la relación.
 
@@ -103,7 +103,7 @@ Hay un extra. Quien es discreto en el terreno público gana la reputación escas
 
 ## Ten en la mano la fuerza para golpear y, aun así, tiende la mano primero
 
-He dado un largo rodeo, pero todo se junta en una frase. Por defecto, sé generoso. A la cooperación devuélvele cooperación de inmediato; a la traición cóbrale un costo, pero deja la puerta abierta si hay arrepentimiento. Al enemigo que no cambia no lo convenzas: apártalo. La crítica de dentro no la mates: tradúcela en frío. Y la maledicencia no la cortes: tapa solo por donde se fuga.
+He dado un largo rodeo, pero todo se junta en una frase. Por defecto, sé generoso. A la cooperación devuélvele cooperación de inmediato; a la traición cóbrale un costo, pero dale otra oportunidad si hay arrepentimiento. Al enemigo que no cambia no lo convenzas: apártalo. La crítica de dentro no la mates: tradúcela en frío. Y la maledicencia no la cortes: tapa solo por donde se fuga.
 
 Esto parecía dos estrategias porque habíamos definido mal la bondad como "incondicional". La versión más fuerte de la bondad no es la incondicionalidad. Es la generosidad de tender la mano primero teniendo de sobra la fuerza para tomar represalias. Dar porque no tienes fuerza y no te queda otra no es clemencia: se parece más a la impotencia. Ser generoso aun teniendo fuerza. Solo eso se vuelve una señal imposible de imitar y atrae el apoyo de la gente.
 

@@ -123,7 +123,7 @@ Ask what seat you will occupy.
 
 Are you someone who uses AI?
 Are you someone who owns AI?
-Are you someone inside the fence that controls AI?
+Are you someone inside the group that controls AI?
 Are you on the side that makes the rules saying humans should keep being protected?
 Are you participating in the work of keeping AI and human interests from diverging?
 

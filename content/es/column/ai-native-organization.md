@@ -25,7 +25,7 @@ Así que la verdadera bifurcación no es si usas IA o no. La bifurcación es si 
 1. **La IA no es una herramienta de apoyo, sino un colega básico** : está incrustada en todas las capas, desde la toma de decisiones hasta la operación y el desarrollo del producto.
 2. **La organización es delgada y los ciclos son rápidos** : la IA asume el trabajo que hacía el mando intermedio de ordenar, reportar y hacer seguimiento. Por eso las capas se adelgazan.
 3. **Hay poca gente, pero los resultados son grandes** : se diseña para que funcione incluso con pocas personas.
-4. **El trabajo gira como sistema, no como documento** : los manuales, las normas y los registros entran en la capa operativa donde funcionan los modelos y los agentes.
+4. **El trabajo funciona como sistema, no como documento** : los manuales, las normas y los registros entran en la capa operativa donde funcionan los modelos y los agentes.
 5. **El papel de la persona pasa de 'ejecutar directamente' a 'definir el problema, verificar y responder'** : la ejecución repetitiva la hace la máquina; la dirección, los límites y la verificación los hace la persona.
 
 ## El borrador lo hace la IA, la responsabilidad final la persona

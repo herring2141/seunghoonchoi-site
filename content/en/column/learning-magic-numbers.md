@@ -32,7 +32,7 @@ Once you have direction, reduce the core indicators. A new field seems to contai
 
 Reduce the core to roughly seven items. In writing, that might mean spelling, word choice, sentence length, paragraph structure, logic flow, reader, and title. As you get better, you bundle spelling and word choice into one chunk called sentence polishing. The more items you can bundle, the more room you have in your head for larger structure.
 
-The difference between a beginner and an intermediate learner is not only the amount of knowledge. It is whether you can bundle information into a few chunks. Once the core judgment criteria shrink to around seven, new information shakes you less.
+The difference between a beginner and an intermediate learner is not only the amount of knowledge. It is whether you can bundle information into a few chunks. Once the core judgment criteria shrink to around seven, new information unsettles you less.
 
 ## Gather thirty by kind, not by count
 

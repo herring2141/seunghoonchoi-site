@@ -89,7 +89,7 @@ La IA puede optimizar. Pero la sociedad humana debe decidir qué optimizar. Eso 
 
 Si miramos solo el pastel limitado dentro de la Tierra, la IA parece una tecnología que quita puestos. Pero si ampliamos el área de supervivencia humana hacia la Luna, Marte, la órbita, asteroides y espacio profundo, la historia cambia. Harán falta construcción espacial, ecosistemas cerrados, blindaje contra radiación, aleaciones de alto rendimiento, propulsión nuclear, almacenamiento criogénico, agricultura espacial, medicina espacial, comunicación interplanetaria, robots autónomos, derecho espacial, seguros espaciales, contabilidad espacial, educación espacial y logística espacial.
 
-La IA no es una tecnología para achicar eso. Es maquinaria pesada que permite a los humanos manejar problemas más grandes. No elimina al SCV; se parece más a una torre de control que permite abrir cien expansiones. El problema es que harán falta comandantes, ingenieros, técnicos de mantenimiento, estrategas, responsables de suministro y defensa para gestionar esas expansiones.
+La IA no es una tecnología para achicar eso. Es una capacidad que permite a los humanos manejar problemas más grandes. No elimina al SCV; más bien permite abrir cien expansiones a la vez. El problema es que harán falta comandantes, ingenieros, técnicos de mantenimiento, estrategas, responsables de suministro y defensa para gestionar esas expansiones.
 
 ## Al final, ¿por qué hacen falta los humanos?
 

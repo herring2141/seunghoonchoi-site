@@ -33,7 +33,7 @@ On top of that, everyone defends themselves with the very same line: "I was usin
 
 Waste does not come from grand gestures. It seeps out a little every day from small habits.
 
-First, using the most expensive top model for light tasks. Smoothing out a sentence in an email, a two or three line summary: even for these, people summon the heaviest model. It is like firing up a full size sedan every time for a trip a tiny city car could handle.
+First, using the most expensive top model for light tasks. Smoothing out a sentence in an email, a two or three line summary: even for these, people summon the heaviest model. The heaviest model costs far more to run, and for these light tasks a cheaper, smaller one would give the same result.
 
 Second, feeding in the whole thing every time when the key part would do. What you need is one paragraph of a report, but you paste in the entire PDF. You are curious about one line of a meeting, but you throw in the whole transcript. The amount you feed in is the cost, yet everyone loads it all "just in case."
 

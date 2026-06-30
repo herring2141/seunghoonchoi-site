@@ -4,7 +4,7 @@ description: "KAIST प्रोफेसर Joungho Kim के भाषण प
 date: 2026-06-25T23:40:00+09:00
 categories: ["AI"]
 tags: ["Joungho Kim", "KAIST", "AI संविधान", "AI सुरक्षा", "AI नियमन"]
-subtitle: "बिजली, याददाश्त, उम्र, कर और कॉपी। अगर AI और इंसान एक ही मैदान में उतरेंगे, तो किन चीजों पर लगाम लगेगी?"
+subtitle: "बिजली, याददाश्त, उम्र, कर और कॉपी। अगर AI और इंसान एक ही दुनिया में बराबरी से रहेंगे, तो किन चीजों पर सीमा रखनी होगी?"
 seoTitle: "KAIST प्रोफेसर Joungho Kim का AI संविधान पूरा पाठ"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"

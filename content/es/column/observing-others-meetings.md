@@ -4,7 +4,7 @@ seoTitle: "Cómo analizar con IA la transcripción de una reunión sobre un trab
 date: 2026-06-20
 categories: ["Ensayo"]
 tags: ["reuniones", "vida laboral", "junior", "carrera", "AI"]
-subtitle: "Cómo convertir una transcripción de reunión en un mapa de estructura del trabajo."
+subtitle: "Cómo convertir una transcripción de reunión en una estructura clara del trabajo."
 description: "Cómo usar IA para estructurar propósito, temas, decisiones, puntos pendientes, criterios de juicio, términos, responsables y acciones siguientes en una reunión de trabajo nueva."
 image: /images/col-meetings.jpg
 reviewStatus: "done"
@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Una mesa de reuniones vacía convertida en un lugar para observar una reunión ajena](/images/col-meetings.jpg)
 
-Cuando entras a una reunión de un trabajo que ves por primera vez, lo normal es quedarse en blanco. Conoces pocas palabras y los demás hablan como si ya compartieran todo el contexto. La reunión avanza y tú te sientes como alguien arrojado a la mitad.
+Cuando entras a una reunión de un trabajo que ves por primera vez, lo normal es quedarse en blanco. Conoces pocas palabras y los demás hablan como si ya compartieran todo el contexto. La reunión avanza y tú no sabes ni por dónde empezar a seguirla.
 
 Si eliges mal el objetivo, se vuelve más duro. No debes intentar entenderlo todo desde el principio. El objetivo de una primera reunión no es comprender cada detalle, sino reconstruir la estructura del trabajo. Primero hay que captar por qué existe ese trabajo, qué se está decidiendo y qué causa la división.
 
@@ -68,13 +68,13 @@ Al analizar la minuta con IA, pide extraer criterios de juicio por separado. Qu�
 
 Cuando conoces los criterios, la siguiente reunión se vuelve más fácil. Puedes anticipar dónde mirará la gente cuando aparezca un tema parecido. Entender un trabajo no es memorizar muchos materiales. Es entender con qué criterios elige esa organización.
 
-## Los términos desconocidos deben ubicarse en el mapa del trabajo con IA
+## Los términos desconocidos deben situarse dentro de la estructura del trabajo con IA
 
 Es normal que aparezcan palabras desconocidas en una primera reunión. El problema es intentar entenderlas todas en el momento. Si haces eso, pierdes el flujo de la reunión.
 
 Durante la reunión basta con marcar esos términos. Después puedes preguntarle a la IA. Pero si te quedas en "dime qué significa esta palabra", no alcanza. Hay que preguntar en qué contexto se usó dentro de la reunión, con qué etapa del trabajo se conecta y qué decisión afecta.
 
-Un término no es una ficha de vocabulario. Es una señal en el mapa. Algunos términos apuntan a pedidos del cliente, otros a restricciones técnicas, otros a procedimientos internos. Solo cuando pones cada término en su lugar, la estructura del trabajo aparece.
+Un término no es una ficha de vocabulario. Es una pista sobre el trabajo. Algunos términos remiten a pedidos del cliente, otros a restricciones técnicas, otros a procedimientos internos. Solo cuando entiendes a qué corresponde cada término, la estructura del trabajo aparece.
 
 ## Hay que dejar responsables y próximas acciones
 

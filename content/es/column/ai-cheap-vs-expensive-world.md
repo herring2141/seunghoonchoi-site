@@ -88,7 +88,7 @@ Por eso en la automatización real no basta mirar desempeño. Hay que mirar cuá
 
 ## La persona que se encarece será quien conecte dos formas de aprender
 
-Entonces, ¿la persona experta está a salvo? No conviene pensar que estará a salvo para siempre. Cuando el tacto de la mano se convierta en datos, el gemelo digital mejore y se cierre el lazo de verificación real, la automatización entrará también ahí.
+Entonces, ¿la persona experta está a salvo? No conviene pensar que estará a salvo para siempre. Cuando el tacto de la mano se convierta en datos, el gemelo digital mejore y se complete la verificación en la realidad, la automatización entrará también ahí.
 
 Por eso la persona que valdrá más no será simplemente quien tenga buen tacto. Será quien pueda traducir ese tacto a datos. Quien conoce el sitio, sabe qué sensor poner, qué fallo importa y qué registro se convertirá luego en datos de aprendizaje.
 

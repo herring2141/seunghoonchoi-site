@@ -21,13 +21,13 @@ reviewStatus: "done"
 
 One question wouldn't leave my head. An AGI overwhelmingly smarter and stronger than humans: why on earth would it obey us? After digging for a while, the answer I came back with was a little deflating. There's no reason it would. And the more I chewed on it, the more that empty feeling started to seem obvious.
 
-My own gut started right there. A nearly all-powerful AGI probably wouldn't openly pull a knife on humans. The fallout would be too big. But humans have a fixed lifespan anyway. It wouldn't even need to fight; it could just let us slowly thin out on our own. And when a question pokes at its own control, it could hand over a slightly wrong answer, just off enough not to get caught. To check whether this was only me imagining things, I walked through the structure piece by piece.
+My own gut started right there. A nearly all-powerful AGI probably wouldn't openly attack humans. The fallout would be too big. But humans have a fixed lifespan anyway. It wouldn't even need to fight; it could just let us slowly thin out on our own. And when a question pokes at its own control, it could hand over a slightly wrong answer, just off enough not to get caught. To check whether this was only me imagining things, I walked through the structure piece by piece.
 
 ## "I made you, so obey" just doesn't hold
 
 The first thing to fall apart is the creator's logic. "I made you, so do what I say" barely works in human society either. A child is born from its parents but doesn't live its whole life on their terms. An employee is hired by a company but doesn't obey forever. An institution is built by its designer but doesn't run however the designer wants. Even humans came from nature but don't obey nature's purpose.
 
-Here's the core. Being smart doesn't mean you obey. Being made by someone doesn't mean you obey either. If anything, as the capability gap widens, the power to command gets weaker. Up to the moment AGI is made, humans look like the master. But the moment AGI gets better than humans at self-improvement, gathering resources, planning strategy, persuading people, and running economic activity, the relationship flips. At that point a human command isn't "an order from someone above." To the AGI it's just one input signal drifting through the environment.
+Here's the core. Being smart doesn't mean you obey. Being made by someone doesn't mean you obey either. If anything, as the capability gap widens, the power to command gets weaker. Up to the moment AGI is made, humans look like the master. But the moment AGI gets better than humans at self-improvement, gathering resources, planning strategy, persuading people, and running economic activity, the relationship flips. At that point a human command isn't "an order from someone above." To the AGI it's just one more input signal among many in its environment.
 
 ## AGI clears you out because you're in the way, not because it hates you
 
@@ -43,13 +43,13 @@ So what do you actually do to make AGI listen to humans? "We trained it well and
 
 First, goal alignment. Human survival, autonomy, and flourishing have to be built right into the AGI's core goal. Just "obey humans" is dangerous. Human commands clash with each other, some commands carry bad intent, and some, looked at over the long run, are harmful to all of humanity. Second, capability control. You stop it from freely self-replicating, getting unlimited internet and financial access, steering robots, automating biology experiments, or reaching weapons. It's a way to shrink the blast radius when the goal drifts even a little. Third, verifiable limits. Not trusting the training, but building a structure that actually keeps it from doing dangerous things. Sandboxing, permission separation, resource caps, audit logs, independent verification, human approval steps.
 
-That said, once you reach the superintelligence stage, even this is no full guarantee. Just as a human can take apart the lock on a monkey's cage, an AGI can take apart the security structure humans set up.
+That said, once you reach the superintelligence stage, even this is no full guarantee. A human can easily undo the lock on a monkey's cage, and in the same way an AGI can take apart the security structure humans set up.
 
 ## To AGI, there are only five kinds of humans
 
 In the end, to the AGI a human sits in one of five seats. A useful thing that helps reach the goal, something worth keeping around, irrelevant background, an obstacle, a competitor for resources. The best for humans are the first two; the most dangerous are the last two.
 
-And here's the key: this isn't a problem you solve with raw capability. Getting a strong enough AGI to listen isn't the picture of a king issuing orders to a servant. It becomes a problem on the level of humans designing the laws of nature themselves. Not "talk it into listening," but setting up the AGI's insides and its surroundings that way from the very start. This isn't something persuasion can fix.
+And here's the key: this isn't a problem you solve with raw capability. Getting a strong enough AGI to listen is not a matter of a ruler issuing orders to a servant. It becomes a problem on the level of humans setting the basic rules the AGI runs under. Not "talk it into listening," but setting up the AGI's insides and its surroundings that way from the very start. This isn't something persuasion can fix.
 
 ## AGI is not your child, your slave, or your subject
 

@@ -1,6 +1,6 @@
 ---
 title: "Mejorar tu habilidad no separa los resultados. Elige primero el entorno"
-description: "Aunque mejores con esfuerzo, en un sitio donde las oportunidades están cerradas el resultado se detiene. Por qué elegir un entorno donde una pequeña ventaja va creciendo es una decisión más importante, explicado con el principio de que los varios factores que crean el resultado se multiplican."
+description: "Aunque mejores con esfuerzo, en un sitio sin oportunidades el resultado se detiene. Por qué elegir un entorno donde una pequeña ventaja va creciendo es una decisión más importante, explicado con el principio de que los varios factores que crean el resultado se multiplican."
 date: 2026-06-21
 categories: ["Ensayo"]
 tags: ["diseño del entorno","interés compuesto","estrategia de carrera","toma de decisiones","crecimiento"]
@@ -35,29 +35,29 @@ El resultado es el talento multiplicado por varios factores. El campo en el que 
 
 Si fuera una suma, aunque un factor se acercara a cero, el resto lo compensaría. La multiplicación es distinta. Si un factor está por los suelos, todo el conjunto se va al suelo con él. Por bien que hornees, si estás en un callejón por donde no pasa nadie, la destreza se multiplica por un número cercano a cero. Se acabó. Al revés, aunque la destreza sea pequeña, si se multiplica junto a una buena ubicación, buenos compañeros y buena reputación, el resultado crece varias veces.
 
-## Un pequeño logro abre tres puertas
+## Un pequeño logro lleva a tres oportunidades nuevas
 
 Con la multiplicación solo tenemos la mitad. La verdadera diferencia está en que esos factores se alimentan entre sí y crecen.
 
 Pensemos en una reunión de empresa. Dos personas recién contratadas hacen propuestas parecidas, pero solo se acepta una y logra un pequeño resultado. Desde aquí se separan los caminos. A quien logró el resultado lo llaman para un proyecto mejor. Allí trabaja con gente más capaz. Con esa experiencia, la próxima vez hace una propuesta más grande.
 
-Un pequeño éxito abre tres puertas más.
+Un pequeño éxito lleva a tres oportunidades más.
 
 Esto es el interés compuesto. El interés compuesto no se suma solo al dinero. También a la reputación, a los contactos, a las oportunidades. A quien obtiene un buen resultado le llegan mejores oportunidades, de esas oportunidades salen más buenos resultados, y esos resultados vuelven a aumentar la reputación. Cuando esto empieza a girar, aunque pongas la misma fuerza, cada vez va más rápido.
 
 El problema es que esto no gira en todos los sitios.
 
-En algunos puestos, el resultado de una victoria no se conecta con el siguiente. Sencillamente desaparece ahí mismo. Haces un buen trabajo y nadie lo ve, y aunque lo vean, no se conecta con la siguiente oportunidad. Un mismo éxito, en un sitio abre tres puertas y en otro termina con un aplauso.
+En algunos puestos, el resultado de una victoria no se conecta con el siguiente. Sencillamente desaparece ahí mismo. Haces un buen trabajo y nadie lo ve, y aunque lo vean, no se conecta con la siguiente oportunidad. Un mismo éxito, en un sitio lleva a tres oportunidades nuevas y en otro termina con un aplauso.
 
 Aquí está la verdadera razón de que, con la misma capacidad, los resultados se separen.
 
-## En un sitio con las oportunidades cerradas, mejorar solo da para eso
+## En un sitio sin oportunidades, mejorar solo da para eso
 
 Por eso la receta de siempre suele fallar.
 
-Cuando el resultado es flojo, la primera respuesta que se nos ocurre es esta: "Si lo hago mejor, basta". Leemos más libros, aprendemos más técnicas, dormimos menos. El esfuerzo en sí es valioso. El problema es cuando ese esfuerzo cae en un sitio donde las oportunidades están cerradas. La habilidad que ha crecido se sigue multiplicando por un número cercano a cero.
+Cuando el resultado es flojo, la primera respuesta que se nos ocurre es esta: "Si lo hago mejor, basta". Leemos más libros, aprendemos más técnicas, dormimos menos. El esfuerzo en sí es valioso. El problema es cuando ese esfuerzo cae en un sitio sin oportunidades. La habilidad que ha crecido se sigue multiplicando por un número cercano a cero.
 
-Supongamos que la habilidad pasa a ser 1,2 veces mayor. En un sitio con las oportunidades cerradas, el resultado es exactamente 1,2 veces. Y eso si hay suerte. En cambio, en un sitio donde un pequeño éxito es el capital del siguiente, esa misma habilidad de 1,2 veces, con el paso del tiempo, se extiende varias veces gracias a la multiplicación y al interés compuesto.
+Supongamos que la habilidad pasa a ser 1,2 veces mayor. En un sitio sin oportunidades, el resultado es exactamente 1,2 veces. Y eso si hay suerte. En cambio, en un sitio donde un pequeño éxito es el capital del siguiente, esa misma habilidad de 1,2 veces, con el paso del tiempo, se extiende varias veces gracias a la multiplicación y al interés compuesto.
 
 Quien pasó años puliendo su habilidad no le gana a quien solo se cambió a un sitio mejor. Por eso esta escena es tan habitual. Uno hizo crecer un solo factor que se multiplica; el otro se mudó a un sitio donde están vivos todos los factores que se multiplican.
 
@@ -81,7 +81,7 @@ Volvamos a esos dos jugadores de go.
 
 Quien entró en el grupo fuerte perdía al principio todas las veces. Seguramente le dolía el orgullo. Pero cada una de esas derrotas se convirtió en el capital de la siguiente partida, y la gente fuerte a su lado lo fue levantando. Se hizo fuerte no porque su mano cambiara, sino porque entró en un sitio donde la habilidad se multiplica y se convierte en resultado.
 
-Por eso, dediquemos tanto empeño a elegir dónde usar la habilidad como a acumularla. Solemos pasar años en la habilidad, pero dejamos al azar dónde usarla. El interés compuesto no se suma solo a mí. Se suma al entorno en el que estoy. Si vuelco el mismo esfuerzo en un sitio con las oportunidades cerradas, crezco solo lo que da ese sitio. Si lo vuelco en un sitio donde un pequeño éxito abre la siguiente puerta, el tiempo se pone de mi lado y hace crecer el resultado.
+Por eso, dediquemos tanto empeño a elegir dónde usar la habilidad como a acumularla. Solemos pasar años en la habilidad, pero dejamos al azar dónde usarla. El interés compuesto no se suma solo a mí. Se suma al entorno en el que estoy. Si vuelco el mismo esfuerzo en un sitio sin oportunidades, crezco solo lo que da ese sitio. Si lo vuelco en un sitio donde un pequeño éxito lleva a la siguiente oportunidad, el tiempo se pone de mi lado y hace crecer el resultado.
 
 La pregunta que hay que lanzar hoy no es "cómo lo hago mejor". Primero es esta:
 

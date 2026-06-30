@@ -38,13 +38,13 @@ En ese caso, la IA se vuelve una carga para la economía de mercado. La tecnolog
 
 ## Si la IA gana dinero reemplazando personas, el problema sigue
 
-¿Y si la IA sí gana dinero? Ahí el enigma se afila. Desde el punto de vista de una sola empresa, la IA es una herramienta muy racional. Si cuesta menos que contratar a una persona y el resultado es suficiente, la empresa contrata a menos gente. Reduce costos laborales y sube márgenes.
+¿Y si la IA sí gana dinero? Ahí el enigma se vuelve más difícil. Desde el punto de vista de una sola empresa, la IA es una herramienta muy racional. Si cuesta menos que contratar a una persona y el resultado es suficiente, la empresa contrata a menos gente. Reduce costos laborales y sube márgenes.
 
 Pero si todas las empresas toman la misma decisión, el problema crece. La reducción de costos laborales de una empresa es la ganancia de esa empresa. Las reducciones de costos laborales de muchas empresas pueden convertirse en una caída del ingreso de toda la sociedad. Esos salarios antes iban a restaurantes, alquiler, seguros, hospitales, clases particulares, autos y servicios de suscripción.
 
 Para una empresa, los salarios son un costo. Para la economía entera, los salarios son demanda.
 
-Si se pierde esa frase, se entiende mal la economía de la IA. No basta con decir que la IA sube la productividad. Lo importante es a dónde van los frutos de esa productividad. Si van a precios más bajos, gana el consumidor. Si van a salarios más altos, gana el trabajador. Si van a nuevos empleos, vive el mercado amplio. Si se acumulan solo como retorno al capital, gana solo un grupo pequeño.
+Si se pierde esa frase, se entiende mal la economía de la IA. No basta con decir que la IA sube la productividad. Lo importante es a dónde van los beneficios de esa productividad. Si van a precios más bajos, gana el consumidor. Si van a salarios más altos, gana el trabajador. Si van a nuevos empleos, vive el mercado amplio. Si se acumulan solo como retorno al capital, gana solo un grupo pequeño.
 
 ## Un auge sin empleo no dura mucho
 
@@ -52,9 +52,9 @@ Al principio, al mercado bursátil le puede gustar. Si las empresas dicen "la IA
 
 Pero con el tiempo aparece otra pregunta. ¿Dónde están los consumidores?
 
-La IA puede bajar precios. El problema es que una bajada de precios no compensa lo suficiente a alguien que perdió ingresos. Si el sueldo mensual de una persona se tambalea, ahorrar unos dólares en una suscripción no estabiliza su vida. Alquiler, salud, educación, seguros y pagos de deuda no bajan de inmediato solo porque la IA mejora.
+La IA puede bajar precios. El problema es que una bajada de precios no compensa lo suficiente a alguien que perdió ingresos. Si el sueldo mensual de una persona deja de ser seguro, ahorrar unos dólares en una suscripción no estabiliza su vida. Alquiler, salud, educación, seguros y pagos de deuda no bajan de inmediato solo porque la IA mejora.
 
-Un auge sin empleo puede verse brillante en los números. Pero la gente no vive de la productividad promedio. Vive con el alquiler de este mes y las ofertas de trabajo del mes que viene. Si el ingreso salarial se debilita, el consumo se debilita. Si el consumo se debilita, los ingresos de las empresas empiezan a temblar. Entonces el mercado pregunta: los márgenes mejoraron, ¿pero dónde está el crecimiento de ventas?
+Un auge sin empleo puede verse brillante en los números. Pero la gente no vive de la productividad promedio. Vive con el alquiler de este mes y las ofertas de trabajo del mes que viene. Si el ingreso salarial se debilita, el consumo se debilita. Si el consumo se debilita, los ingresos de las empresas empiezan a caer. Entonces el mercado pregunta: los márgenes mejoraron, ¿pero dónde está el crecimiento de ventas?
 
 ## Las respuestas habituales son demasiado lentas o demasiado débiles
 
@@ -102,7 +102,7 @@ Y por último, tienen que llevarse bien con la gente. Escuchar a quienes están 
 
 ## La pregunta tiene que volverse más concreta
 
-La IA eleva la productividad. Eso es casi seguro. Pero una productividad más alta no vuelve automáticamente más sana a la economía de mercado. Las ganancias tienen que fluir hacia salarios, precios más bajos, nuevos empleos, nuevos mercados o una propiedad más amplia.
+La IA eleva la productividad. Eso es casi seguro. Pero una productividad más alta no vuelve automáticamente más sana a la economía de mercado. Las ganancias tienen que repartirse en salarios, precios más bajos, nuevos empleos, nuevos mercados o una propiedad más amplia.
 
 Si no ocurre, la IA puede convertirse en una tecnología que permite producir más con menos personas mientras reduce el número de personas que pueden comprar lo producido. La tecnología triunfa, y aun así el mercado se vuelve inestable.
 

@@ -47,13 +47,13 @@ If literacy is weak, you believe the AI summary as-is. You are not reading the t
 
 Many people understand the material but not the work. They know the numbers in the table. They know the decision written in the minutes. They know who said what. But they do not have a picture in their head of how the work actually runs.
 
-You need to be able to draw where the work starts, who gives input, which department judges, and who executes. You also need to see where bottlenecks form and where the result feeds back. Without that picture, a report floats in the air.
+You need to be able to draw where the work starts, who gives input, which department judges, and who executes. You also need to see where bottlenecks form and where the result feeds back. Without that picture, a report has nothing real to stand on.
 
 The sentences may look right, but they do not fit the real process. The conclusion may sound good, but you do not know who will get stuck in execution. The solution may look attractive, but you do not know which department will absorb the cost. This is a common problem in AI-generated reports.
 
 The document logic is smooth, but it differs from how the company actually works. That is why you need to draw workflow. Input, processing, output, approval, bottleneck, and feedback have to be connected in your head.
 
-Even if AI writes the draft, a person has to check whether that draft sits on the real flow of work.
+Even if AI writes the draft, a person has to check whether that draft matches the real flow of work.
 
 ## 3. Structuring ability: binding scattered information into a usable shape
 
@@ -69,7 +69,7 @@ Structuring ability is the ability to bind scattered information into a usable s
 
 Only after this binding does information become useful. A person who cannot structure treats every piece of information with the same weight. The report gets long, the explanation gets blurry, and the conclusion gets weak.
 
-A person who can structure starts by setting the skeleton. AI can suggest a structure. But a person has to choose which structure fits the problem now. A good structure is not decoration. It is the skeleton that makes thought move.
+A person who can structure starts by setting the skeleton. AI can suggest a structure. But a person has to choose which structure fits the problem now. A good structure is not for show. It is the frame that lets thought move forward.
 
 ## 4. Handling abstract concepts: making the invisible graspable
 
@@ -79,9 +79,9 @@ Trust, risk, incentives, authority, responsibility, context, ownership, bottlene
 
 Handling abstract concepts means naming invisible forces and applying them to reality. For example, if you know the term `context debt`, you do not stop at "this report is hard." You can separate whether what you lack is knowledge, flow, responsibility structure, or the decision-maker's concern.
 
-If you know the term `trust capital`, you do not stop at "why does only that person get opportunities?" You can see that verified records, recommendations, reputation, and access work like real currency. Concepts are not for memorizing impressive words. They are for dividing complex reality so you can handle it.
+If you know the term `trust capital`, you do not stop at "why does only that person get opportunities?" You can see that verified records, recommendations, reputation, and access have real value you can spend. Concepts are not for memorizing impressive words. They are for dividing complex reality so you can handle it.
 
-AI can explain the definition of a concept. But a person has to judge whether that concept fits the situation and which part of reality it explains. If you cannot handle abstract concepts, every case in front of you drags you around. If you can, you see the same structure inside events that look different.
+AI can explain the definition of a concept. But a person has to judge whether that concept fits the situation and which part of reality it explains. If you cannot handle abstract concepts, every case in front of you controls you instead. If you can, you see the same structure inside events that look different.
 
 ## In the AI era, the gap in fundamentals gets larger
 

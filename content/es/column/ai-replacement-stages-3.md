@@ -82,7 +82,7 @@ El centro de las etapas 9 a 14 es uno: aunque la IA lo haga mejor, la autoridad 
 
 Primero la IA asiste. Luego la persona revisa a la IA. Después la persona aprueba resultados de la IA. Al final, la aprobación humana queda como forma.
 
-Ese proceso no ocurre de una sola vez. Avanza distinto según campo, regulación y tipo de accidente. Algunas IA peligrosas quizá no se abran a todo el mundo. En áreas donde un error causa gran daño, como ciberataques, riesgos biológicos o infraestructura crítica, pueden quedar bajo control de estados o grandes organizaciones. Entonces el mundo se divide entre "personas que usan IA" y "personas que controlan IA". La gente común usa IA limitada; la IA fuerte se usa dentro de cercas autorizadas.
+Ese proceso no ocurre de una sola vez. Avanza distinto según campo, regulación y tipo de accidente. Algunas IA peligrosas quizá no se abran a todo el mundo. En áreas donde un error causa gran daño, como ciberataques, riesgos biológicos o infraestructura crítica, pueden quedar bajo control de estados o grandes organizaciones. Entonces el mundo se divide entre "personas que usan IA" y "personas que controlan IA". La gente común usa IA limitada; la IA fuerte se usa dentro de límites autorizados.
 
 Aun así, el reemplazo no se detiene. Solo cambia quién lo dirige: pasa del usuario individual al Estado, la gran empresa o la organización autorizada. Por eso el lugar que queda para humanos no es el de simple usuario. Es el lugar de quien tiene autoridad, responde, controla y posee. Todo lo que converge hacia una respuesta termina yendo hacia la IA. Pero las decisiones sin respuesta, las decisiones que exigen responsabilidad y las decisiones que la sociedad debe autorizar se mueven despacio.
 

@@ -16,7 +16,7 @@ Cuanto más hablas con la IA, menos conocimiento te queda en la mano. Suena raro
 
 La razón es sencilla. La IA produce más de lo que tú puedes revisar y ordenar. Las buenas respuestas no paran de salir. Pero un mes después casi no puedes encontrar ninguna otra vez.
 
-Por eso, "ordenar mis notas con IA" casi siempre fracasa. Todo el mundo se concentra en sacar más. Cuanto más sacas, antes se convierten las notas en un cubo de basura. Nueve de cada diez notas no las vuelves a mirar.
+Por eso, "ordenar mis notas con IA" casi siempre fracasa. Todo el mundo se concentra en sacar más. Cuanto más sacas, antes se llenan las notas de cosas inútiles. Nueve de cada diez notas no las vuelves a mirar.
 
 Yo hice lo contrario. No construí una herramienta que saca mucho, sino una que descarta sin piedad. La verdadera clave de este sistema no es la capacidad de extraer, sino el criterio para descartar.
 

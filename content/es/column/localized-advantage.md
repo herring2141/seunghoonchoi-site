@@ -41,7 +41,7 @@ El experto no golpea donde está débil ahora. Lee de antemano dónde estará d�
 
 Aquí es donde se separan la persona normal y el experto.
 
-La persona insegura lo guarda todo. Por si acaso, levanta más defensa, abre más bases, prueba a hostigar un poco. Y así, justo en el momento decisivo, su fuerza queda dispersa por todos lados. Llega a esos 30 segundos con las manos vacías.
+La persona insegura lo guarda todo. Por si acaso, levanta más defensa, abre más bases, prueba a hostigar un poco. Y así, justo en el momento decisivo, su fuerza queda dispersa por todos lados. Llega a esos 30 segundos sin fuerza suficiente en ningún sitio.
 
 El experto abandona sin dudar lo que no aporta directamente a la victoria de ese momento. La capacidad de abandonar es la capacidad de concentrarse.
 
@@ -49,7 +49,7 @@ El experto abandona sin dudar lo que no aporta directamente a la victoria de ese
 
 Cuanto menos tiene una persona, más se dispersa al intentar ganar en todos los frentes a la vez.
 
-Quien intenta agarrar al mismo tiempo el inglés, el ejercicio, los certificados y los contactos es justo así. Si extiendes en una capa fina tu tiempo y tu fuerza limitados, no consigues una ventaja decisiva en ningún sitio. Acabas haciéndolo todo a medias.
+Quien intenta agarrar al mismo tiempo el inglés, el ejercicio, los certificados y los contactos es justo así. Si repartes en porciones mínimas tu tiempo y tu fuerza limitados, no consigues una ventaja decisiva en ningún sitio. Acabas haciéndolo todo a medias.
 
 Por eso, cuando empiezo algo, no digo "vamos a hacerlo todo bien". Me pregunto esto:
 

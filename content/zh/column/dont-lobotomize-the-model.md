@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
-文字伸出了幻灯片边界。直到发送前一刻，我才看见。
+文字超出了幻灯片边界。直到发送前一刻，我才看见。
 
 Excel 里还留着 `#REF!` 错误，表格边框有的单元格有、有的没有。Word 文档里，本该删掉的 Markdown 符号还原样留着。这不是审美问题，而是结果坏掉了。
 
@@ -64,6 +64,6 @@ AI 生成 Office 文件时，很多缺陷来自它看不到最终结果。模型
 
 目标不是把结果物做成一种模样，而是早点挡住明确失败，把更好选择的余地留给模型和人。
 
-审核工具不能变成削弱模型可能性的工具。好的审核抬高地板，不压低天花板。
+审核工具不能变成削弱模型可能性的工具。好的审核抬高下限，不压低上限。
 
 → [GitHub 上的 Office File Inspector](https://github.com/seunghoonchoi-phd/llm-office-qa)
