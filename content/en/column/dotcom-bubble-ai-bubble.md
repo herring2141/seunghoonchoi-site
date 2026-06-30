@@ -22,11 +22,11 @@ The trigger for the dot-com bubble was not disbelief in the internet. It was mon
 
 When a new technology arrives, companies with weak foundations can still make money for a while. That is not strange. Early on, nobody knows who the real winners will be. Capital spreads widely because the next Amazon might be somewhere in the pile. The problem is that Pets.com can be in the same pile.
 
-<p style="margin-block:1.1em 1.5em;margin-inline-start:1.4rem;color:var(--muted);font-style:italic;font-size:.95em;">Pets.com was an American online pet-supplies store. It spent heavily on ads, but the business leaked cash, and after the dot-com bubble burst it could not survive. That is why it is still used as shorthand for a weak company riding a hot technology trend.</p>
+<p style="margin-block:1.1em 1.5em;margin-inline-start:1.4rem;color:var(--muted);font-style:italic;font-size:.95em;">Pets.com was an American online pet-supplies store. It spent heavily on ads, but the business kept losing money, and after the dot-com bubble burst it could not survive. That is why it is still used as shorthand for a weak company that relies on a hot technology trend.</p>
 
-When rates are low, "the next funding round" can start to feel like a business model. Losses look like proof of growth. Advertising spend looks like the cost of winning the market. If stock prices rise and the IPO window is open, running out of cash feels less like a problem and more like a scheduling issue. Just survive a little longer, and the next check might arrive.
+When rates are low, "the next funding round" can start to feel like a business model. Losses look like proof of growth. Advertising spend looks like the cost of winning the market. If stock prices rise and companies can still go public easily, running out of cash feels less like a problem and more like a scheduling issue. Just survive a little longer, and the next check might arrive.
 
-When rates rise, that illusion ends. The next investor disappears. The path to raising money through a rising stock price closes. From that point, companies are judged less by their technology story and more by their bank balance. That is how the dot-com bubble broke. The internet was not wrong. The cash math around too many internet companies was wrong.
+When rates rise, that illusion ends. The next investor disappears. Raising money through a rising stock price stops working. From that point, companies are judged less by their technology story and more by their bank balance. That is how the dot-com bubble broke. The internet was not wrong. The cash math around too many internet companies was wrong.
 
 ## The Nasdaq overreacted to a technology humanity had never seen before
 

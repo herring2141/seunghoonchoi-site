@@ -20,9 +20,9 @@ The problem is not only that salary may be small. Salary stops when I stop. At s
 
 Salary has to be earned again every month. Working hard last month does not automatically make this month's paycheck grow. So salary can be stable, but it is hard for it to compound. Assets are different. Once built, they help the next round of growth. Money invested returns more money, writing gains readers, products add users, and a brand earns trust. What you have built up adds to the next result without making you start from zero every time. So the game of becoming wealthy is not the game of working longer. You have to turn salary into assets, and let those assets create the next assets.
 
-## Entering a big arena does not make you its owner
+## Entering a big field does not make you its owner
 
-There are fields that will clearly grow: AI, bio, platforms, finance. But working inside a growing field does not automatically make that growth yours. Entering the big arena and owning a piece of it are different. If the only thing written in my contract is salary, then my share is salary. My assets do not become more valuable just because the company becomes more valuable. The person who takes that difference is the person with equity. So finding a promising place is not enough. What matters more is what I own there. Do I only have salary, or do I have a remaining share such as equity, copyright, or a product?
+There are fields that will clearly grow: AI, bio, platforms, finance. But working inside a growing field does not automatically make that growth yours. Working in a big field and owning a piece of it are different. If the only thing written in my contract is salary, then my share is salary. My assets do not become more valuable just because the company becomes more valuable. The person who takes that difference is the person with equity. So finding a promising place is not enough. What matters more is what I own there. Do I only have salary, or do I have a remaining share such as equity, copyright, or a product?
 
 ## Salary is not money to spend, but material to turn into assets
 

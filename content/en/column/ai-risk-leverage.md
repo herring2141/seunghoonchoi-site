@@ -100,7 +100,7 @@ A good gate is not a device for blocking work. It is a device that lets people m
 
 ## Draft Fast, Release Strictly
 
-AI means more people will make more outputs: writing, code, apps, contract drafts, ad copy, training materials, customer replies. The change itself is good. The trouble begins when speed outruns responsibility.
+AI means more people will make more outputs: writing, code, apps, contract drafts, ad copy, training materials, customer replies. The change itself is good. The trouble begins when output gets faster than the review that should keep up with it.
 
 What AI makes is a draft. What goes outside is my action. That line has to stay clear. When it blurs, AI stops being a tool that expands achievement and becomes a tool that expands crisis.
 

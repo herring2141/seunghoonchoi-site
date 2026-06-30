@@ -57,7 +57,7 @@ Leave branding as a vague image and you can't get hold of it. Break it into five
 4. Repeated signal. Whether people remember you as someone pointing in the same direction.
 5. Trust. Whether your words and your output hold up over time.
 
-The order matters. Identity and problem have to be clear first, so that what you show as evidence is decided. Evidence has to build up before the repeated signal carries weight. Point in the same direction long enough, and it hardens into trust. Go the other way and it falls apart. Repeat the signal with no evidence and it's just self-promotion. Scatter evidence with no identity and you don't stay in people's heads as one sentence.
+The order matters. Identity and problem have to be clear first, so that what you show as evidence is decided. Evidence has to build up before the repeated signal carries weight. Point in the same direction long enough, and over time it becomes trust. Go the other way and it falls apart. Repeat the signal with no evidence and it's just self-promotion. Scatter evidence with no identity and you don't stay in people's heads as one sentence.
 
 Take a cook. Identity is "I make Korean food." Problem is "I bring the clean care of home cooking into a restaurant." Evidence is each bowl that goes out to a customer, day after day. The repeated signal is the diners who all call the place "the clean Korean spot." And when that taste does not waver for years, it becomes trust. Five pieces connected into one line.
 
@@ -75,7 +75,7 @@ Don't misread this. Narrowing does not mean getting smaller. Inside, you can be 
 
 Second, don't speak big, speak precisely.
 
-"I am going to transform this field." It sounds grand, but with no evidence behind it, it reads as bluster. And bluster cuts into trust. Once an inflated claim gets caught, people from then on discount even the truth you tell by half.
+"I am going to transform this field." It sounds grand, but with no evidence behind it, it reads as bluster. And bluster damages trust. Once an inflated claim gets caught, people from then on discount even the truth you tell by half.
 
 The opposite, small and specific and verifiable claims, builds trust. "I solved this one problem, this way, this much" is far stronger than "I'll change the world." It looks small, but it can be checked. Ten small promises that check out, stacked up, are firmer than a hundred shouts of "I'll change the world."
 

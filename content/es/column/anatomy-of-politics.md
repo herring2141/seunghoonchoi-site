@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Un micrófono de latón iluminado sobre un podio en una sala oscura](/images/col-anatomy-of-politics.jpg)
 
-Cuando miento, se me nota todo en la cara. Los elogios que no siento y las frases diplomáticas sin alma no me salen bien. Si me fuerzo a decirlas, yo mismo me incomodo y la expresión se me cae primero. Pero la política es ganar el corazón de la gente. Muchas veces hay que decir lo que mucha gente quiere oír, lo que la tranquiliza ahora mismo. Entonces, ¿alguien como yo, que no sabe decir frases vacías, no encaja en absoluto en la política?
+Cuando miento, se me nota todo en la cara. Los elogios que no siento y las frases diplomáticas sin alma no me salen bien. Si me fuerzo a decirlas, yo mismo me incomodo y la incomodidad se me nota en la cara antes que nada. Pero la política es ganar el corazón de la gente. Muchas veces hay que decir lo que mucha gente quiere oír, lo que la tranquiliza ahora mismo. Entonces, ¿alguien como yo, que no sabe decir frases vacías, no encaja en absoluto en la política?
 
 Lo pensé durante mucho tiempo. Pero cuanto más lo miraba, más distinta se veía la respuesta. Quien no sabe decir frases vacías también puede ganarse a la gente. Solo tiene que pasar del modo de engañar con palabras al modo de prometer y cumplir.
 
@@ -38,7 +38,7 @@ La política es, al final, orientar la dirección de la emoción. Se puede dirig
 
 Las buenas políticas suelen ser complejas. El efecto también llega tarde. La educación, la salud, la infraestructura, la ciencia y la tecnología, la reforma administrativa no dan resultado en un día. La inquietud y la rabia, en cambio, se mueven de inmediato.
 
-Por eso la buena política queda en desventaja injusta. Cuanto más útil es de verdad una política, más larga es su explicación, más tarde se siente y más ruidosos son quienes se oponen. La mayoría que se beneficia se queda callada; la minoría que pierde algo resiste con fuerza. Así que un buen político no puede limitarse a crear buenas políticas. Debe convertir esa política en palabras que la gente pueda sentir. Convertir los números en rostros de personas y mostrar el beneficio del futuro lejano como un pequeño cambio que se siente hoy. `Reducir el desempleo un 2%` es más débil que `un día de una persona que recuperó su trabajo`. La gente responde antes a una vida concreta que a una estadística.
+Por eso la buena política queda en desventaja injusta. Cuanto más útil es de verdad una política, más larga es su explicación, más tarde se siente y más ruidosos son quienes se oponen. La mayoría que se beneficia se queda callada; la minoría que pierde algo resiste con fuerza. Así que un buen político no puede limitarse a crear buenas políticas. Debe convertir esa política en palabras que la gente pueda sentir. Convertir los números en historias de personas concretas y mostrar el beneficio del futuro lejano como un pequeño cambio que se siente hoy. `Reducir el desempleo un 2%` es más débil que `un día de una persona que recuperó su trabajo`. La gente responde antes a una vida concreta que a una estadística.
 
 ## La capacidad de ganar popularidad y la de hacer bien el trabajo son distintas
 

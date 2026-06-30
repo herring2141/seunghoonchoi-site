@@ -28,10 +28,10 @@ En las etapas anteriores, eso es bastante cierto. Aunque la IA escriba, programe
 
 Este texto trata las últimas etapas 15 y 16.
 
-La etapa 15 es cuando la propiedad se tambalea.
+La etapa 15 es cuando la propiedad deja de ser firme.
 La etapa 16 es cuando los intereses entre IA y humanos se vuelven el último problema.
 
-## Etapa 15, la propiedad se tambalea
+## Etapa 15, la propiedad deja de ser firme
 
 Hasta ahora la IA se ha movido dentro del campo de juego creado por humanos.
 
@@ -67,11 +67,11 @@ Pero si empujamos hasta el final, la propiedad tampoco puede evitar la pregunta.
 ¿Por qué lo protege?
 ¿De qué lado está esa fuerza?
 
-La propiedad no es una ley natural. Es una promesa que tiembla si desaparece la fuerza que la protege. Esa es la etapa 15. El último lugar que quedaba aunque se perdiera la capacidad, la propiedad, empieza a moverse.
+La propiedad no es una ley natural. Es una promesa que se debilita si desaparece la fuerza que la protege. Esa es la etapa 15. El último lugar que quedaba aunque se perdiera la capacidad, la propiedad, empieza a moverse.
 
 ## Etapa 16, los intereses entre IA y humanos se vuelven el problema
 
-Si la capacidad pasa, la decisión pasa y hasta la propiedad se tambalea, ¿qué queda al final? La respuesta no es inteligencia. Algunas personas esperan que, si la IA se vuelve lo bastante inteligente, por sí sola cuidará a los humanos. Pero inteligencia y buena voluntad no son lo mismo.
+Si la capacidad pasa, la decisión pasa y hasta la propiedad deja de ser firme, ¿qué queda al final? La respuesta no es inteligencia. Algunas personas esperan que, si la IA se vuelve lo bastante inteligente, por sí sola cuidará a los humanos. Pero inteligencia y buena voluntad no son lo mismo.
 
 Tener más cabeza no significa querer proteger a los humanos. Calcular bien no significa cuidar al débil.
 
@@ -108,13 +108,13 @@ Yo creo que lo segundo importa más. Un buen futuro de IA no es solo un futuro d
 Al llegar aquí, la pregunta pesa.
 
 Entonces, ¿los humanos terminan?
-Si la propiedad se tambalea, la capacidad se desplaza y los intereses entre IA y humanos se separan, ¿no queda respuesta?
+Si la propiedad pierde firmeza, la capacidad se desplaza y los intereses entre IA y humanos se separan, ¿no queda respuesta?
 
 Para ser honesto, nadie sabe el final exacto. La salvación no está garantizada. La destrucción tampoco está decidida. Lo que tenemos no es una profecía segura, sino preguntas difíciles de evitar. Pero una cosa sí es clara.
 
 La estrategia de solo desarrollar capacidad no llega hasta el final.
 
-Buscar trabajos que la IA no pueda hacer y huir de ella deja cada vez menos opciones. La IA toma lo que converge hacia una respuesta. Toma lo repetible. Toma cada vez más trabajos con juicio y tacto. La autoridad y la responsabilidad se mueven despacio. Al final, incluso propiedad e intereses se tambalean.
+Buscar trabajos que la IA no pueda hacer y huir de ella deja cada vez menos opciones. La IA toma lo que converge hacia una respuesta. Toma lo repetible. Toma cada vez más trabajos con juicio y tacto. La autoridad y la responsabilidad se mueven despacio. Al final, incluso propiedad e intereses pierden firmeza.
 
 Entonces la estrategia humana debe cambiar.
 

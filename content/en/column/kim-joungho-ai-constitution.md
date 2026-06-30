@@ -28,7 +28,7 @@ Humans have limits to memory, while AI tries to expand without limit. Kim treate
 
 ## Article 4. AI must shut itself down after 100 years.
 
-Just as humans die, AI should not remain forever. Kim floated the idea that after 100 years, AI should destroy or shut itself down.
+Just as humans die, AI should not remain forever. Kim suggested that after 100 years, AI should destroy or shut itself down.
 
 ## Article 5. AI power use must be limited to the human level.
 

@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![Los trabajos que la IA reemplaza primero: desaparece antes el trabajo mental con respuesta](/images/col-ai-replacement-stages-1.jpg)
 
-¿La IA se llevará mi trabajo? Para responder, primero hay que mirar el orden. La IA no se lleva cualquier trabajo al azar. Hay trabajos que se reemplazan primero y otros que tiemblan mucho después. Entre ellos, lo primero que se mueve es el trabajo con respuesta.
+¿La IA se llevará mi trabajo? Para responder, primero hay que mirar el orden. La IA no se lleva cualquier trabajo al azar. Hay trabajos que se reemplazan primero y otros a los que les llega el turno mucho después. Entre ellos, lo primero que se mueve es el trabajo con respuesta.
 
 Si una traducción es correcta, si el código corre, si el cálculo cierra, si el diagnóstico fue acertado, si un anuncio provocó clics. Ese tipo de trabajo permite comprobar el resultado. Si el resultado se comprueba, se puede puntuar; si se puntúa, la IA aprende rápido.
 
@@ -64,7 +64,7 @@ La IA inicial tomaba piezas pequeñas: una frase, una línea de código, un resu
 
 Antes la persona dividía el trabajo: buscar materiales, ordenarlos, crear el documento, ajustar formato, enviar, pasar al siguiente paso. Ahora la IA puede procesar ese flujo junto. Dentro de una empresa, eso reduce trabajo operativo intermedio. Pequeños pasos que una persona tocaba uno por uno se agrupan y se automatizan. La persona se mueve hacia decidir qué hacer y con qué criterio se considera terminado. Es el cambio de "escribe esta frase" a "alcanza este objetivo".
 
-Lo inquietante no es que desaparezcan una o dos tareas. Es que se tambalea el puesto de quien unía muchas tareas pequeñas. Disminuye el trabajo de buscar, ordenar, meter en formato y convertir en algo presentable. Por supuesto, la IA no puede terminar todo por completo. Quedan autoridad, seguridad, responsabilidad, contexto organizacional y aprobación final. Pero el número de personas que hace girar las etapas intermedias puede disminuir.
+Lo inquietante no es que desaparezcan una o dos tareas. Es que se reduce el puesto de quien unía muchas tareas pequeñas. Disminuye el trabajo de buscar, ordenar, meter en formato y convertir en algo presentable. Por supuesto, la IA no puede terminar todo por completo. Quedan autoridad, seguridad, responsabilidad, contexto organizacional y aprobación final. Pero el número de personas que hace girar las etapas intermedias puede disminuir.
 
 ## Etapa 5, trabajos donde revisar con humanos vuelve más lento
 
@@ -78,7 +78,7 @@ La persona que responde, decide qué importa y asume el daño si algo sale mal p
 
 En ese momento, el puesto del revisor se reduce en silencio.
 
-## Por qué los trabajos con respuesta tiemblan primero
+## Por qué los trabajos con respuesta se reemplazan primero
 
 Si unimos las etapas 1 a 5 en una frase, queda así: los trabajos con respuesta se reemplazan primero. Tener respuesta no significa que exista una única respuesta. Significa que se puede comprobar el resultado, dar feedback y estrechar con el tiempo la dirección de una respuesta mejor.
 
@@ -90,6 +90,6 @@ Por eso "soy bueno en mi trabajo" no basta. Si ese trabajo tiene una respuesta q
 
 Hasta aquí llega la primera zona en que la IA toma el trabajo.
 
-Primero tiemblan las tareas con respuesta definida. Luego el análisis experto. Después la predicción de reacción masiva. Luego la IA procesa varias etapas por sí sola. Por último, en algunas áreas también se reduce el lugar de quien revisa una vez más.
+Primero se reemplazan las tareas con respuesta definida. Luego el análisis experto. Después la predicción de reacción masiva. Luego la IA procesa varias etapas por sí sola. Por último, en algunas áreas también se reduce el lugar de quien revisa una vez más.
 
 Entonces la siguiente pregunta aparece sola. ¿El trabajo físico está a salvo? ¿La destreza manual y el tacto del terreno serán difíciles de tomar para la IA? En el próximo texto veremos las etapas 6 a 8: trabajo físico repetitivo, destreza manual y prueba y error en terreno, y cómo empiezan a moverse el juicio y la sensación sin respuesta clara.

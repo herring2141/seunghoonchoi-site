@@ -28,7 +28,7 @@ Si desarrollo habilidad, sobrevivo.
 Si soy mejor, no me desplazan.
 Si destaco más que otros, seguiré siendo necesario.
 
-Hasta ahora era verdad en cierta medida. Quien era más rápido y exacto se llevaba más trabajo. Pero en la era de la IA esta creencia tiembla. Traducción, programación, resumen, análisis y lectura de imágenes fueron trabajos de personas buenas en eso. Ahora, justamente hacerlo bien se vuelve una de las zonas que la IA alcanza más rápido.
+Hasta ahora era verdad en cierta medida. Quien era más rápido y exacto se llevaba más trabajo. Pero en la era de la IA esta creencia se debilita. Traducción, programación, resumen, análisis y lectura de imágenes fueron trabajos de personas buenas en eso. Ahora, justamente hacerlo bien se vuelve una de las zonas que la IA alcanza más rápido.
 
 Las capacidades con respuesta, repetición y resultado verificable acaban entrando en la máquina. Por eso la habilidad es solo un punto de partida. Te permite empezar, pero no garantiza que te quedes.
 
@@ -138,7 +138,7 @@ La conclusión de los textos anteriores se junta en un punto. La IA seguirá tom
 Primero se reemplazan los trabajos con respuesta.
 También los trabajos repetitivos.
 El trabajo físico se reemplaza más despacio.
-El juicio y el tacto también tiemblan.
+El juicio y el tacto también se reemplazan.
 La autoridad de decisión se mueve poco a poco.
 Hasta la propiedad y los intereses entre humanos e IA se vuelven la última pregunta.
 

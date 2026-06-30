@@ -18,7 +18,7 @@ Aquí está, entero, el secreto de la competitividad en la era de la IA.
 
 Piensa en los problemas que resolvías en secundaria. x + 2 = 8. La respuesta es una sola: 6. La resuelva quien la resuelva, sale 6, y una vez que lo aprendes, las siguientes veces lo terminas en cinco segundos. Es un conocimiento que cuesta casi cero copiar. En el mundo hay muchísimas cosas así. Las buscas y aparecen, se escriben en una línea, y en cuanto están escritas cualquiera las repite.
 
-Pero si mezclas dos o tres variables, la cosa cambia por completo. Si no sabes el valor de x ni el de y, y el valor correcto de y depende de cómo fijes x, entonces la respuesta deja de ser una sola. Se convierte en un conjunto de respuestas que cambian según las condiciones. El verdadero saber práctico vive casi siempre en este segundo mundo. Y, sin embargo, una y otra vez intentamos escribirlo con el lenguaje del primer mundo, como si fuera una sola respuesta correcta. Por eso se copia. Y por eso, en la era de la IA, se copia aún más rápido.
+Pero si mezclas dos o tres variables, la cosa cambia por completo. Si no sabes el valor de x ni el de y, y el valor correcto de y depende de cómo fijes x, entonces la respuesta deja de ser una sola. Se convierte en un conjunto de respuestas que cambian según las condiciones. El verdadero saber práctico está casi siempre en este segundo caso. Y, sin embargo, una y otra vez intentamos escribirlo con el lenguaje del primer caso, como si fuera una sola respuesta correcta. Por eso se copia. Y por eso, en la era de la IA, se copia aún más rápido.
 
 ## La receta se copia, pero el toque de la mano no
 
@@ -46,7 +46,7 @@ Primero, qué es lo que derrumba el resultado. Qué variable, al tocarla, lo ech
 
 Segundo, cómo se encadena el orden. Los puntos donde, haciendo lo mismo con los mismos ingredientes, cambiar el orden cambia el resultado. Como cuando el pan sale distinto según si dejas reposar la masa antes o después.
 
-Tercero, y esto es lo más temible. Lo que ahora está bien pero muere más tarde. Lo que recién hecho es perfecto pero a los tres días se agrieta, lo que en la demostración funciona pero en el entorno real se viene abajo.
+Tercero, y esto es lo más temible. Lo que ahora está bien pero falla más tarde. Lo que recién hecho es perfecto pero a los tres días se estropea, lo que en la demostración funciona pero en el entorno real deja de funcionar.
 
 Este mapa del fracaso no aparece ni en el producto terminado, ni en el artículo publicado, ni en la receta hecha pública. Es lógico. El producto terminado solo enseña un punto, el del éxito. Los cientos de fracasos que se pisaron para llegar hasta ahí, y la línea de "aquí no hay que entrar" que esos fracasos dibujaron, no quedan en ninguna parte del resultado. Pero lo que de verdad te ahorra tiempo la próxima vez que haces algo parecido no es ese único punto de éxito, sino justo esa línea de frontera.
 
@@ -74,7 +74,7 @@ Por eso el secreto más débil es el conocimiento que se busca y aparece, y que 
 
 Volvamos ahora a lo nuestro. Mucha gente cree que "trabajar duro" es su ventaja competitiva. Pero si el resultado de ese trabajo duro es una receta que se acaba con escribirla, eso no es una ventaja. La IA lee, combina y vuelve a producir las recetas escritas mucho más rápido que una persona. El método hecho público deja de ser de nadie en el momento en que se hace público.
 
-Entonces, ¿qué hay que acumular? La respuesta es clara. Hay que acumular conocimiento cuyo redescubrimiento sea caro. Aunque hagas el mismo trabajo, debes trabajar de manera que grabes en el cuerpo en qué condiciones ese trabajo se arruina, qué hay que hacer y en qué orden, y qué es lo que por fuera está bien pero muere más tarde. En lugar de presumir de un único resultado exitoso, hay que tener el mapa de las condiciones que llevan a ese resultado.
+Entonces, ¿qué hay que acumular? La respuesta es clara. Hay que acumular conocimiento cuyo redescubrimiento sea caro. Aunque hagas el mismo trabajo, debes trabajar de manera que grabes en el cuerpo en qué condiciones ese trabajo se arruina, qué hay que hacer y en qué orden, y qué es lo que por fuera está bien pero falla más tarde. En lugar de presumir de un único resultado exitoso, hay que tener el mapa de las condiciones que llevan a ese resultado.
 
 Para eso, hay que cambiar la forma de trabajar. No anotes solo lo que salió bien. Anota lo que se arruinó. En vez de "haciéndolo así funciona", reúne los "esto no funcionó por esta razón". Vuelve a correr un ajuste que una vez tuvo éxito cambiando las condiciones, y dibuja tú mismo la frontera de hasta dónde aguanta y dónde se derrumba. Esa línea de frontera es, precisamente, tu activo: el que nadie podrá reconstruir mirando solo el producto terminado.
 

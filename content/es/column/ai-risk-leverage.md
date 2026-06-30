@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Pantalla de portátil con un flujo de trabajo de IA, documentos, un candado y una luz de advertencia sobre el escritorio](/images/col-ai-risk-leverage.png)
 
-Con IA, crear un texto toma muy poco. Sale un aviso para clientes, un comunicado de prensa, una respuesta de correo. Un borrador que antes tomaba un día aparece en diez minutos, y en varias versiones. Por eso el momento más peligroso no es cuando la IA se equivoca. Es cuando la IA produce algo demasiado rápido y demasiado convincente. Cuando una persona lo hace a mano, se detiene varias veces. Piensa si puede usar esa frase, si puede sacar esa información, cómo la leerá la otra parte. Es molesto y lento, pero esa pausa funciona como un pequeño seguro.
+Con IA, crear un texto toma muy poco. Sale un aviso para clientes, un comunicado de prensa, una respuesta de correo. Un borrador que antes tomaba un día aparece en diez minutos, y en varias versiones. Por eso el momento más peligroso no es cuando la IA se equivoca. Es cuando la IA produce algo demasiado rápido y demasiado convincente. Cuando una persona lo hace a mano, se detiene varias veces. Piensa si puede usar esa frase, si puede sacar esa información, cómo la leerá la otra parte. Es molesto y lento, pero esa pausa evita muchos errores.
 
 Cuando se conecta IA, esa pausa desaparece. El borrador sale demasiado rápido y corregirlo es demasiado fácil. Si uno quiere, puede producir diez textos, diez avisos o diez propuestas en un día. El problema es que los controles de verificación también tendrían que multiplicarse por diez, y muchas veces siguen igual.
 
@@ -20,7 +20,7 @@ Más producción significa más cosas que revisar.
 
 ## No solo se aceleró la ejecución
 
-Para una persona audaz y con mucha capacidad de acción, la IA es una herramienta enorme. Convierte una idea en documento, un documento en código y el código en algo casi listo para desplegar. Una persona sola puede moverse como un equipo pequeño. Si la dirección es correcta, esa velocidad se vuelve logro: se acumulan textos, salen productos, aparecen automatizaciones, y trabajos que antes quedaban pendientes se convierten en resultados reales.
+Para una persona audaz y con mucha capacidad de acción, la IA es una herramienta enorme. Convierte una idea en documento, un documento en código y el código en algo casi listo para desplegar. Una persona sola puede producir lo que antes hacía un equipo pequeño. Si la dirección es correcta, esa velocidad se vuelve logro: se acumulan textos, salen productos, aparecen automatizaciones, y trabajos que antes quedaban pendientes se convierten en resultados reales.
 
 Pero si la dirección está mal, los problemas se acumulan a la misma velocidad. Las afirmaciones falsas se difunden rápido, las frases riesgosas se publican rápido y la información sensible se copia rápido. Un error pequeño ya no queda en una nota interna. Sale directo al sitio web, al correo de clientes, al repositorio de código o al anuncio.
 
@@ -34,9 +34,9 @@ Un borrador en mis notas puede estar mal y luego corregirse. Un documento intern
 
 Ahí aparece la responsabilidad. Decir "la IA lo escribió así" no ayuda mucho frente a lectores, clientes, el equipo legal, seguridad o socios. Lo que salió afuera termina siendo mi palabra. Lo que sale con el nombre de la empresa es palabra de la empresa. Usar IA como herramienta de borrador está bien. De hecho, conviene usarla mucho. El problema es llevar la libertad del borrador hasta la etapa de publicación. Se puede experimentar rápido. Se puede lanzar lento. Cuando intentamos mover ambas cosas a la misma velocidad, aparece el accidente.
 
-## El riesgo legal se esconde dentro de la frase
+## El riesgo legal está dentro de la frase
 
-El riesgo legal no suele aparecer como una luz roja desde el principio. Normalmente está dentro de frases naturales: una promesa de producto un poco exagerada, una comparación con base débil, una imagen de derechos dudosos, un caso armado con datos de clientes, una frase que descalifica a un competidor con demasiada seguridad. En la etapa de borrador cada cosa parece un detalle de estilo. Afuera puede convertirse en un problema de publicidad, contrato, copyright, datos personales o difamación.
+El riesgo legal no suele ser evidente desde el principio. Normalmente está dentro de frases naturales: una promesa de producto un poco exagerada, una comparación con base débil, una imagen de derechos dudosos, un caso armado con datos de clientes, una frase que descalifica a un competidor con demasiada seguridad. En la etapa de borrador cada cosa parece un detalle de estilo. Afuera puede convertirse en un problema de publicidad, contrato, copyright, datos personales o difamación.
 
 La IA hace muy bien ese tipo de frases. Las hace más persuasivas, más seguras y más pulidas. El problema es que la fluidez no reemplaza la evidencia.
 
@@ -52,7 +52,7 @@ Una disculpa escrita por IA puede ser gramaticalmente perfecta. Pero si suena fr
 
 Lo mismo pasa con el tono de marca. En una página personal o en una cuenta de empresa, cada frase que sale al público deja ver una textura. La IA puede producir una buena frase promedio, pero ese promedio puede no encajar con mi contexto. Puede sonar demasiado publicitaria, demasiado defensiva, demasiado confiada o demasiado automática.
 
-Los daños de reputación no siempre estallan por una gran frase. A menudo nacen de pequeñas desalineaciones acumuladas, hasta que el lector siente: "aquí no me están mirando como persona, me están respondiendo en automático". Cuanto más rápido se escribe con IA, más importante es que una persona lea al final. No solo para ver si la frase es correcta, sino para ver cómo le sonará a quien la recibe. La reputación no es un problema de información. Es un problema de relación.
+Los daños de reputación no siempre surgen de una gran frase. A menudo nacen de pequeñas desalineaciones acumuladas, hasta que el lector siente: "aquí no me están mirando como persona, me están respondiendo en automático". Cuanto más rápido se escribe con IA, más importante es que una persona lea al final. No solo para ver si la frase es correcta, sino para ver cómo le sonará a quien la recibe. La reputación no es un problema de información. Es un problema de relación.
 
 ## El riesgo de seguridad también nace de la buena intención
 

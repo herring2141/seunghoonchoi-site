@@ -36,7 +36,7 @@ It is fine if you do not fully understand at first. Instead, leave enough materi
 
 ## First find why this work exists
 
-To see the structure of the work, start with the purpose. If you do not know why this work exists, everything else scatters. If you do not know who is trying to do what and why, the numbers, documents, and terms all float separately.
+To see the structure of the work, start with the purpose. If you do not know why this work exists, nothing else holds together. If you do not know who is trying to do what and why, the numbers, documents, and terms all stay disconnected.
 
 The first thing to ask AI after the meeting is this: "What is the purpose of the work discussed in this meeting?" "What problem is this work trying to solve?" "Is it closer to a customer problem, cost problem, schedule problem, quality problem, or risk problem?"
 
@@ -68,13 +68,13 @@ When analyzing minutes with AI, extract the decision criteria separately. Did co
 
 Once you know the decision criteria, the next meeting gets easier. You can predict what people will look at when a similar agenda appears. Understanding work is not memorizing many documents. It is knowing the criteria by which the organization chooses.
 
-## Put unknown terms into the work map with AI
+## Place unknown terms in the work structure with AI
 
 It is normal to hear unfamiliar terms in a first meeting. The mistake is trying to understand every term on the spot. That makes you lose the flow.
 
 During the meeting, just mark unknown terms. Afterward, ask AI. But do not stop at "what does this word mean?" Ask how the term was used in the meeting, which work stage it connects to, and which decision it affects.
 
-Terms are not vocabulary cards. They are markers on a map. One term points to a customer request, another to a technical constraint, another to an internal procedure. Put each term in the right place and the work structure becomes visible.
+Terms are not vocabulary cards. Each one marks a part of the work. One term refers to a customer request, another to a technical constraint, another to an internal procedure. Connect each term to the right part and the work structure becomes clear.
 
 ## Leave owners and next actions
 

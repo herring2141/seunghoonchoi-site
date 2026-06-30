@@ -106,4 +106,4 @@ La IA eleva la productividad. Eso es casi seguro. Pero una productividad más al
 
 Si no ocurre, la IA puede convertirse en una tecnología que permite producir más con menos personas mientras reduce el número de personas que pueden comprar lo producido. La tecnología triunfa, y aun así el mercado se vuelve inestable.
 
-Así que la pregunta ya no debería ser "¿qué tan inteligente será la IA?". Las preguntas son más concretas: ¿qué problema físico resolverá la IA? ¿Quién seguirá pagando por esa solución? ¿Y en ingreso de quién se convertirá ese dinero? Si no podemos responder esas tres preguntas, la IA puede triunfar y aun así sacudir el mercado.
+Así que la pregunta ya no debería ser "¿qué tan inteligente será la IA?". Las preguntas son más concretas: ¿qué problema físico resolverá la IA? ¿Quién seguirá pagando por esa solución? ¿Y en ingreso de quién se convertirá ese dinero? Si no podemos responder esas tres preguntas, la IA puede triunfar y aun así desestabilizar el mercado.

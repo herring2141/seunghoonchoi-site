@@ -59,7 +59,7 @@ Cuando el resultado es flojo, la primera respuesta que se nos ocurre es esta: "S
 
 Supongamos que la habilidad pasa a ser 1,2 veces mayor. En un sitio sin oportunidades, el resultado es exactamente 1,2 veces. Y eso si hay suerte. En cambio, en un sitio donde un pequeño éxito es el capital del siguiente, esa misma habilidad de 1,2 veces, con el paso del tiempo, se extiende varias veces gracias a la multiplicación y al interés compuesto.
 
-Quien pasó años puliendo su habilidad no le gana a quien solo se cambió a un sitio mejor. Por eso esta escena es tan habitual. Uno hizo crecer un solo factor que se multiplica; el otro se mudó a un sitio donde están vivos todos los factores que se multiplican.
+Quien pasó años puliendo su habilidad no le gana a quien solo se cambió a un sitio mejor. Por eso esta escena es tan habitual. Uno hizo crecer un solo factor que se multiplica; el otro se mudó a un sitio donde funcionan todos los factores que se multiplican.
 
 Por eso, la decisión más fuerte muchas veces no es "cómo lo hago mejor". Lo primero que hay que preguntarse es esto: ¿en qué sitio estoy ahora? ¿Este sitio hace crecer mi pequeña ventaja?
 
@@ -73,7 +73,7 @@ El fatalismo deja el entorno como un fondo que no se puede cambiar. Pero el ento
 
 Quien venera la suerte se detiene diciendo "mi sitio ya está fijado". Quien ve el entorno como una elección se pregunta "¿este sitio me hace crecer?" y se cambia.
 
-Claro que no todos pueden elegir el sitio con el mismo margen. La línea de salida es distinta para cada uno. Aun así, dentro de las opciones más estrechas casi siempre existe la diferencia entre un sitio donde la pequeña ventaja muere y otro donde vive. Educar la mirada para ver esa diferencia: esa es quizá la mayor habilidad.
+Claro que no todos pueden elegir el sitio con el mismo margen. La línea de salida es distinta para cada uno. Aun así, dentro de las opciones más estrechas casi siempre existe la diferencia entre un sitio donde la pequeña ventaja se pierde y otro donde crece. Educar la mirada para ver esa diferencia: esa es quizá la mayor habilidad.
 
 ## No dejes al azar dónde usas tu habilidad
 
@@ -81,7 +81,7 @@ Volvamos a esos dos jugadores de go.
 
 Quien entró en el grupo fuerte perdía al principio todas las veces. Seguramente le dolía el orgullo. Pero cada una de esas derrotas se convirtió en el capital de la siguiente partida, y la gente fuerte a su lado lo fue levantando. Se hizo fuerte no porque su mano cambiara, sino porque entró en un sitio donde la habilidad se multiplica y se convierte en resultado.
 
-Por eso, dediquemos tanto empeño a elegir dónde usar la habilidad como a acumularla. Solemos pasar años en la habilidad, pero dejamos al azar dónde usarla. El interés compuesto no se suma solo a mí. Se suma al entorno en el que estoy. Si vuelco el mismo esfuerzo en un sitio sin oportunidades, crezco solo lo que da ese sitio. Si lo vuelco en un sitio donde un pequeño éxito lleva a la siguiente oportunidad, el tiempo se pone de mi lado y hace crecer el resultado.
+Por eso, dediquemos tanto empeño a elegir dónde usar la habilidad como a acumularla. Solemos pasar años en la habilidad, pero dejamos al azar dónde usarla. El interés compuesto no se suma solo a mí. Se suma al entorno en el que estoy. Si vuelco el mismo esfuerzo en un sitio sin oportunidades, crezco solo lo que da ese sitio. Si lo vuelco en un sitio donde un pequeño éxito lleva a la siguiente oportunidad, con el tiempo el resultado crece.
 
 La pregunta que hay que lanzar hoy no es "cómo lo hago mejor". Primero es esta:
 

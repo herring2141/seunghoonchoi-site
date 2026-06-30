@@ -62,14 +62,14 @@ Having more information does not mean you understand. In fact, the more informat
 Structuring ability is the ability to bind scattered information into a usable shape.
 
 - Separate cause and effect
-- Separate the core from the side branches
+- Separate the core from the secondary points
 - Separate fact from interpretation
 - Separate problem from solution
 - Separate what must be decided from what is only reference
 
 Only after this binding does information become useful. A person who cannot structure treats every piece of information with the same weight. The report gets long, the explanation gets blurry, and the conclusion gets weak.
 
-A person who can structure starts by setting the skeleton. AI can suggest a structure. But a person has to choose which structure fits the problem now. A good structure is not for show. It is the frame that lets thought move forward.
+A person who can structure starts by setting the framework. AI can suggest a structure. But a person has to choose which structure fits the problem now. A good structure is not for show. It is the frame that lets thought move forward.
 
 ## 4. Handling abstract concepts: making the invisible graspable
 
@@ -89,7 +89,7 @@ Before AI, weak fundamentals meant outputs came late. In the AI era, outputs com
 
 Even with weak literacy, a summary appears. Even without workflow understanding, a report appears. Even with weak structuring ability, an outline appears. Even without a grip on abstract concepts, plausible sentences appear. But the difference shows the moment someone asks questions.
 
-Why did you judge it that way? How does the work actually run? What is the core and what is a side branch? Does this concept fit this situation? If you cannot answer, the AI-made output is not yours.
+Why did you judge it that way? How does the work actually run? What is the core and what is a secondary point? Does this concept fit this situation? If you cannot answer, the AI-made output is not yours.
 
 AI can lighten the load. But it does not decide where I am going. In the AI era, the four fundamentals that remain are:
 

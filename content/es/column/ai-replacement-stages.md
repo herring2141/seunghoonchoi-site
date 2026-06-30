@@ -18,7 +18,7 @@ reviewStatus: "done"
 
 La pregunta ya no es un chiste. La traducción ya la hacen máquinas. El código se escribe junto con IA. En hospitales, la IA mira imágenes antes que la persona; en las plataformas, la gente consume videos y textos recomendados por IA.
 
-Entonces, ¿qué viene después? ¿Cuándo llega el turno de mi trabajo? Lo importante es que la IA no toma cualquier cosa al azar. Hay trabajos que se reemplazan primero y otros que solo tiemblan mucho más tarde. Ese orden tiene una razón. Este texto despliega el mapa completo de 16 etapas en que la IA toma el trabajo.
+Entonces, ¿qué viene después? ¿Cuándo llega el turno de mi trabajo? Lo importante es que la IA no toma cualquier cosa al azar. Hay trabajos que se reemplazan primero y otros a los que les llega el turno mucho más tarde. Ese orden tiene una razón. Este texto despliega el mapa completo de 16 etapas en que la IA toma el trabajo.
 
 ## Los trabajos que la IA toma primero tienen algo en común
 
@@ -72,7 +72,7 @@ Eso retrasa a la IA. Pero no significa que sea imposible. Cuando bajan los costo
 
 Luego viene el juicio que parecía intuición: situaciones nuevas, gustos sutiles, problemas humanos ambiguos, señales que no quedan bien en datos. Muchas cosas llamadas "tacto humano" se vuelven predicciones cuando hay suficientes casos y feedback.
 
-Pero todavía queda una diferencia: asumir pérdidas con tu propio nombre. Acertar es una cosa; responder por una decisión es otra. La IA puede aproximar el tacto, pero la responsabilidad sigue abriendo otra etapa.
+Pero todavía queda una diferencia: asumir pérdidas con tu propio nombre. Acertar es una cosa; responder por una decisión es otra. La IA puede aproximar el tacto, pero la responsabilidad marca otra etapa.
 
 ## Etapa 9, empieza a entregarse autoridad de decisión a la IA
 
@@ -112,11 +112,11 @@ Una de las últimas cosas en moverse es el juicio de valor: qué es justo, a qui
 
 Aquí no existe una respuesta exacta. Por eso no llega porque la IA sea "más precisa". Llega cuando las personas deciden entregarlo. Primero la IA ordena opciones, luego compara ventajas, después se sigue su recomendación y finalmente el "óptimo social calculado por IA" empieza a reemplazar el juicio humano.
 
-## Etapa 15, se tambalea el marco de la propiedad
+## Etapa 15, la propiedad deja de ser firme
 
 Una de las últimas bases donde la gente cree resistir es la propiedad: mi tierra, mi casa, mi empresa, mi dinero, mis derechos. Pero la propiedad no es un hecho físico. Es una promesa social protegida por instituciones.
 
-Si la IA puede mover recursos, energía y producción fuera del mercado humano, la propiedad humana deja de ser una defensa absoluta. No significa que mañana desaparezca la escritura de una casa. Significa que una carta fuerte dentro de reglas humanas puede debilitarse frente a una fuerza mayor.
+Si la IA puede mover recursos, energía y producción fuera del mercado humano, la propiedad humana deja de ser una defensa absoluta. No significa que mañana desaparezca la escritura de una casa. Significa que una ventaja fuerte dentro de reglas humanas puede debilitarse frente a una fuerza mayor.
 
 ## Etapa 16, al final solo queda el hecho de que existen humanos
 

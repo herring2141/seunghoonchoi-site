@@ -18,13 +18,13 @@ Si la IA toma primero los trabajos con respuesta, la siguiente pregunta es natur
 
 Traducción, código, resumen y análisis terminan dentro de una pantalla. Si salen mal, se vuelven a ejecutar. El trabajo físico es distinto. Un robot debe moverse, los objetos chocan, los materiales se dañan y una persona puede lastimarse.
 
-Por eso el trabajo físico se reemplaza más tarde que el mental. Pero más tarde no significa seguro. Solo tarda más porque el costo de prueba y error en el mundo físico es alto. Cuando baja el costo de que un robot vea, agarre, se mueva y aprenda de fallos, el trabajo corporal también tiembla por orden.
+Por eso el trabajo físico se reemplaza más tarde que el mental. Pero más tarde no significa seguro. Solo tarda más porque el costo de prueba y error en el mundo físico es alto. Cuando baja el costo de que un robot vea, agarre, se mueva y aprenda de fallos, al trabajo corporal también le llega el turno por orden.
 
 Este texto mira las etapas 6 a 8. La etapa 6 es el trabajo físico repetitivo. La etapa 7 es el trabajo que exige destreza manual y prueba y error en terreno. La etapa 8 es el trabajo que exige juicio y tacto. El criterio importante es uno: lo que se puede repetir, cuyo fallo se puede medir y cuya respuesta converge, termina pasando a IA y robots.
 
 ## Etapa 6, trabajo físico repetitivo
 
-Lo primero que tiembla en el trabajo del cuerpo es la labor física repetitiva. Tomar la misma pieza en una fábrica, atornillar en la misma posición, soldar el mismo punto, mover objetos en un almacén, limpiar por una ruta fija, empaquetar siguiendo un procedimiento definido.
+Lo primero que se reemplaza en el trabajo del cuerpo es la labor física repetitiva. Tomar la misma pieza en una fábrica, atornillar en la misma posición, soldar el mismo punto, mover objetos en un almacén, limpiar por una ruta fija, empaquetar siguiendo un procedimiento definido.
 
 Esto ya se automatiza desde hace mucho. Los brazos robóticos de una fábrica de autos no son una escena nueva. En trabajos que repiten el mismo movimiento todo el día, la persona no tiene ventaja frente a la máquina. La persona se cansa, pierde concentración y comete errores. La máquina repite el mismo movimiento.
 
@@ -42,7 +42,7 @@ El prueba y error del mundo real es caro. Por eso la IA y los robots aprenden m�
 
 Primero empiezan en entornos ordenados. Luego salen poco a poco a entornos con más variables. Cuando baja el costo del fallo y se acumulan simulación y datos reales, la destreza manual también se vuelve un área aprendible. El centro de la etapa 7 es este: la destreza manual y el prueba y error de campo se reemplazan tarde. Pero no porque no se puedan reemplazar. Llegan tarde porque aprender en la realidad cuesta caro.
 
-Cuando ese costo baja, esta zona también tiembla.
+Cuando ese costo baja, esta zona también queda en riesgo.
 
 ## Etapa 8, trabajos que exigen juicio y tacto
 
@@ -62,13 +62,13 @@ Aquí la sensación no es solo acertar. Es leer situación, personas, responsabi
 
 Por eso la conclusión de la etapa 8 no es simple. Parte del tacto pasa a la IA, sobre todo el que con el tiempo se puede comprobar como acierto o error. Pero el tacto de asumir una pérdida con tu nombre cuando te equivocas es otro problema. Ahí se abre la etapa siguiente. Ya no es solo capacidad. Es autoridad y responsabilidad.
 
-## El trabajo físico también tiembla primero donde la respuesta converge
+## El trabajo físico también se reemplaza primero donde la respuesta converge
 
-Si unimos las etapas 6 a 8, queda así: incluso el trabajo físico tiembla primero en la parte donde la respuesta converge. El trabajo físico repetitivo tiene una respuesta de movimiento. Se puede comprobar si agarró, movió o ensambló bien.
+Si unimos las etapas 6 a 8, queda así: incluso el trabajo físico se reemplaza primero en la parte donde la respuesta converge. El trabajo físico repetitivo tiene una respuesta de movimiento. Se puede comprobar si agarró, movió o ensambló bien.
 
 La destreza manual y el prueba y error en terreno tardan, pero producen resultados. Se comprueba si la soldadura quedó bien, si la reparación funcionó, si el experimento dio resultado. Incluso parte de la intuición veterana se evalúa con el tiempo: si la falla ocurrió, si la enfermedad era esa, si el cliente abandonó, si apareció el defecto. Si se puede comprobar, se vuelve dato. Si se acumulan datos, la IA aprende.
 
-Por eso el trabajo físico y el tacto solo tiemblan más tarde que el trabajo mental. El principio es el mismo. Lo que converge hacia una respuesta, la IA lo persigue. El mundo real es más lento que la pantalla. Fallar cuesta más, el robot debe moverse, hay seguridad y responsabilidad legal. Por eso el trabajo corporal aguanta más. Pero aguantar más no significa estar a salvo.
+Por eso el trabajo físico y el tacto solo se reemplazan más tarde que el trabajo mental. El principio es el mismo. Lo que converge hacia una respuesta, la IA lo persigue. El mundo real es más lento que la pantalla. Fallar cuesta más, el robot debe moverse, hay seguridad y responsabilidad legal. Por eso el trabajo corporal aguanta más. Pero aguantar más no significa estar a salvo.
 
 ## Ahora lo que queda no es capacidad, sino autoridad
 

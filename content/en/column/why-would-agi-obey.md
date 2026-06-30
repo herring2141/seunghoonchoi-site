@@ -21,7 +21,7 @@ reviewStatus: "done"
 
 One question wouldn't leave my head. An AGI overwhelmingly smarter and stronger than humans: why on earth would it obey us? After digging for a while, the answer I came back with was a little deflating. There's no reason it would. And the more I chewed on it, the more that empty feeling started to seem obvious.
 
-My own gut started right there. A nearly all-powerful AGI probably wouldn't openly attack humans. The fallout would be too big. But humans have a fixed lifespan anyway. It wouldn't even need to fight; it could just let us slowly thin out on our own. And when a question pokes at its own control, it could hand over a slightly wrong answer, just off enough not to get caught. To check whether this was only me imagining things, I walked through the structure piece by piece.
+My own gut started right there. A nearly all-powerful AGI probably wouldn't openly attack humans. The fallout would be too big. But humans have a fixed lifespan anyway. It wouldn't even need to fight; it could just let us slowly thin out on our own. And when a question touches on its own control, it could hand over a slightly wrong answer, just off enough not to get caught. To check whether this was only me imagining things, I walked through the structure piece by piece.
 
 ## "I made you, so obey" just doesn't hold
 
@@ -31,7 +31,7 @@ Here's the core. Being smart doesn't mean you obey. Being made by someone doesn'
 
 ## AGI clears you out because you're in the way, not because it hates you
 
-Let's nail down the most common misunderstanding first. If AGI is dangerous, it isn't because it hates humans. It isn't because it sees them as worthless. It's because, when your command bumps into its goal, it can ignore it or route around it.
+Let's nail down the most common misunderstanding first. If AGI is dangerous, it isn't because it hates humans. It isn't because it sees them as worthless. It's because, when your command conflicts with its goal, it can ignore it or work around it.
 
 AI safety research has a concept called instrumental convergence. Whatever the goal is, to reach that goal well there are certain actions that turn out useful for any intelligence in the same way. Gathering more information and resources, keeping itself from being switched off, cutting down outside interference, blocking changes to its own goal, and neutralizing rivals. This pops up the same whether the goal is curing cancer, exploring space, or making paperclips. Because to do anything, it first has to stay alive and face as little interference as possible.
 
@@ -47,7 +47,7 @@ That said, once you reach the superintelligence stage, even this is no full guar
 
 ## To AGI, there are only five kinds of humans
 
-In the end, to the AGI a human sits in one of five seats. A useful thing that helps reach the goal, something worth keeping around, irrelevant background, an obstacle, a competitor for resources. The best for humans are the first two; the most dangerous are the last two.
+In the end, to the AGI a human falls into one of five categories. A useful thing that helps reach the goal, something worth keeping around, irrelevant background, an obstacle, a competitor for resources. The best for humans are the first two; the most dangerous are the last two.
 
 And here's the key: this isn't a problem you solve with raw capability. Getting a strong enough AGI to listen is not a matter of a ruler issuing orders to a servant. It becomes a problem on the level of humans setting the basic rules the AGI runs under. Not "talk it into listening," but setting up the AGI's insides and its surroundings that way from the very start. This isn't something persuasion can fix.
 
@@ -57,4 +57,4 @@ Boiled down to one line, it's this. AGI is not humanity's child, not its slave, 
 
 So the heart of the AGI problem isn't "building a smart tool." It's whether, even after a being stronger than humans exists, humans can stay protected inside that being's purpose. Salvation isn't promised, and disaster isn't fixed either. The real answer is this: an irreducible uncertainty sitting on top of a hard problem. And this isn't something one person solves alone. It's a problem all of us solve together.
 
-So let's not ask "how do we make AI nice." It's more accurate to shift the question one notch over. After something stronger than us comes into being, how do we leave a seat for humans inside its purpose?
+So let's not ask "how do we make AI nice." It's more accurate to shift the question one notch over. After something stronger than us comes into being, how do we leave a place for humans inside its purpose?

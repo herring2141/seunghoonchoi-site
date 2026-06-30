@@ -58,7 +58,7 @@ Entonces una parte de las personas en pantalla se convierte en personajes sinté
 
 ## Etapa 13, el trabajo físico con juicio también lo hace la IA física
 
-El trabajo corporal resiste mucho. El mundo real es complejo. Pero cuando un robot empieza a ver con ojos, agarrar con manos, aprender de fallos y acumular datos de campo, la historia cambia. Primero se reemplaza la repetición simple. Después tiembla la destreza manual. Al final entra la IA física incluso en trabajo corporal con juicio.
+El trabajo corporal resiste mucho. El mundo real es complejo. Pero cuando un robot empieza a ver con ojos, agarrar con manos, aprender de fallos y acumular datos de campo, la historia cambia. Primero se reemplaza la repetición simple. Después le llega el turno a la destreza manual. Al final entra la IA física incluso en trabajo corporal con juicio.
 
 Reparación, inspección, apoyo en cuidados, cocina, logística y gestión de terreno no son solo mover el cuerpo. Hay que mirar la situación, elegir el orden, evitar riesgos y leer la reacción de personas. Esos trabajos se reemplazan tarde. Pero no son imposibles de reemplazar. Con mejores sensores, manos robóticas más finas, simulación y datos reales, también se automatiza poco a poco el trabajo físico con juicio.
 
@@ -86,7 +86,7 @@ Ese proceso no ocurre de una sola vez. Avanza distinto según campo, regulación
 
 Aun así, el reemplazo no se detiene. Solo cambia quién lo dirige: pasa del usuario individual al Estado, la gran empresa o la organización autorizada. Por eso el lugar que queda para humanos no es el de simple usuario. Es el lugar de quien tiene autoridad, responde, controla y posee. Todo lo que converge hacia una respuesta termina yendo hacia la IA. Pero las decisiones sin respuesta, las decisiones que exigen responsabilidad y las decisiones que la sociedad debe autorizar se mueven despacio.
 
-Ese movimiento lento es el centro de las etapas 9 a 14. En la próxima parte, este flujo entra en una capa más profunda. Más allá de tomar trabajos, la IA empieza a sacudir la propiedad y los intereses entre IA y humanos.
+Ese movimiento lento es el centro de las etapas 9 a 14. En la próxima parte, este flujo entra en una capa más profunda. Más allá de tomar trabajos, la IA empieza a poner en cuestión la propiedad y los intereses entre IA y humanos.
 
 ---
 

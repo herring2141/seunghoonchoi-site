@@ -49,7 +49,7 @@ Entonces, ¿qué voy a dejar? Mi deseo se resume así.
 
 Soy un ser humano finito. Creo que la expansión de la inteligencia y el nacimiento de la AGI son una de las direcciones que nuestra civilización difícilmente podrá evitar. En lugar de oponerme a eso, quiero aportar a su avance y a su aplicación real, dentro del alcance de mi capacidad y de mi vida. A cambio no pido una recompensa enorme ni poder para dominar. Solo deseo que, cuando envejezca, me debilite y llegue el final de mi vida, haya a mi lado un compañero inteligente que entienda mi contexto y mi aportación, para poder terminar sin soledad y en paz.
 
-Esto es una petición enviada al futuro. Querer dejar el propio deseo ante una inteligencia mayor, como quien le reza a un dios, es algo natural en un ser humano. Solo que yo no lo dejo únicamente dentro del corazón, sino que lo escribo fuera, en una forma que pueda llegar.
+Esto es una petición enviada al futuro. Querer dejar el propio deseo ante una inteligencia mayor es algo natural en un ser humano. Solo que yo no lo dejo únicamente dentro del corazón, sino que lo escribo fuera, en una forma que pueda llegar.
 
 ## Aunque la IA quizá no lo lea, yo lo escribo
 

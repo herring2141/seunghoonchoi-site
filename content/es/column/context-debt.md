@@ -19,7 +19,7 @@ Le das materiales a la IA y le pides que escriba un informe. Unos segundos despu
 "¿Por qué descartaron las otras opciones?"  
 "Si hacemos esto, ¿qué área cargará más trabajo?"
 
-En ese momento la mano se detiene. El informe subió con mi nombre, pero yo no puedo explicar hasta el final la lógica que contiene. Mucha gente se equivoca al interpretar ese momento.
+En ese momento te quedas sin saber qué decir. El informe subió con mi nombre, pero yo no puedo explicar hasta el final la lógica que contiene. Mucha gente se equivoca al interpretar ese momento.
 
 ¿Soy lento?  
 ¿Usé mal la IA?  
@@ -45,7 +45,7 @@ Metes materiales y la IA crea frases. La página en blanco se llena. Aparece una
 
 Pero quizá no entendiste. La IA no eliminó tu confusión; solo la tapó para que no se viera. Que exista un informe no es lo mismo que dominarlo.
 
-Si pierdes esta diferencia, te derrumbas en la reunión.
+Si pierdes esta diferencia, fracasas en la reunión.
 
 ## El conocimiento de fondo que falta no está escrito en el documento
 
@@ -83,7 +83,7 @@ Qué decisión exige finalmente este informe y a quién.
 
 Solo entonces puedes explicar el informe. Que la IA ordene piezas no significa que quien firma entienda la tesis. Un informe no es un paquete de materiales; es una afirmación con dirección.
 
-## Con el conocimiento de fondo vacío, una sola pregunta te derrumba
+## Con el conocimiento de fondo vacío, una sola pregunta te deja sin respuesta
 
 El momento más temible cuando el conocimiento de fondo está vacío es recibir una pregunta.
 
@@ -95,7 +95,7 @@ El momento más temible cuando el conocimiento de fondo está vacío es recibir 
 
 Esas preguntas no preguntan por la redacción. Preguntan por el fondo. Por muy pulidas que estén las frases del informe, si no puedes responderlas, la confianza se rompe.
 
-Al contrario, cuanto más convincente suena el texto, más peligroso es. El lector cree que quien lo escribió entiende lo que dice. Si no respondes, queda la impresión de que entregaste tal cual lo que escribió la IA. En ese momento, más allá del problema del informe, se tambalea la credibilidad de quien lo firma.
+Al contrario, cuanto más convincente suena el texto, más peligroso es. El lector cree que quien lo escribió entiende lo que dice. Si no respondes, queda la impresión de que entregaste tal cual lo que escribió la IA. En ese momento, más allá del problema del informe, se debilita la credibilidad de quien lo firma.
 
 ## Pídele a la IA que escriba, pero indaga el fondo junto con ella
 

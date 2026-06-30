@@ -30,11 +30,11 @@ The problem is that this pump can weaken.
 
 For water to sink well in the North Atlantic, two things matter. It has to be cold, and it has to be salty enough. Global warming works against both. The ocean warms, while melting Greenland ice and Arctic ice add freshwater. Freshwater has less salt. The surface water becomes less salty and less heavy. Then the sinking force weakens.
 
-The motor of the pump starts losing power.
+The pumping action starts losing power.
 
-## The Arctic is a switch, not the final destination
+## The Arctic is a control point, not the final destination
 
-Cooling the Arctic is not only about protecting the Arctic. The Arctic is Earth's white reflector, and one of the switches that can affect AMOC.
+Cooling the Arctic is not only about protecting the Arctic. The Arctic is Earth's white reflector, and one of the control points that can affect AMOC.
 
 White ice reflects a lot of sunlight. Dark ocean absorbs it. When ice retreats and ocean appears, the ocean takes in more heat. Then the ice melts faster. That loop is frightening.
 
@@ -60,7 +60,7 @@ Still, we should not treat this device as the cure. Reducing sunlight does not r
 
 A space blind is a fever reducer. It is an emergency drug to lower Earth's heat quickly enough for AMOC to survive. The real treatment is to stop CO2 emissions and remove the CO2 already in the air.
 
-## Cool first, then remove the poison
+## Cool first, then remove the CO2
 
 When a patient has a dangerous fever, doctors use fever reducers. That does not mean the fever reducer cured the disease. It lowers the temperature so organs do not fail while the cause is treated.
 
@@ -114,4 +114,4 @@ The core is not the fantasy of blocking the Sun. The core is keeping Earth's oce
 
 The first reason to build stronger AI should not be AI itself. More ads, cheaper content, and faster automation are not enough. Goals that small cannot justify the electricity, capital, and talent humanity is pouring into AI.
 
-AI's first customer should be AMOC, not advertisers. The first mission of rockets should be protecting Earth's circulation, not promoting Mars. From now on, we have to observe that organ, predict its danger, and buy time to keep it alive.
+AI's first job should be AMOC, not advertisers. The first mission of rockets should be protecting Earth's circulation, not promoting Mars. From now on, we have to observe that organ, predict its danger, and buy time to keep it alive.

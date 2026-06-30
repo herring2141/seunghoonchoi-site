@@ -16,7 +16,7 @@ I want to live as a good person. But honestly, sometimes I also want to curse so
 
 For a while I thought those two feelings could not go together. If I was good, I had to endure. If I was firm, I became a bad person. But after thinking about it, that was not true. Goodness and firmness are not opposites. They are one rule: be generous to good people, and charge a cost to people who cross the line.
 
-Living well does not mean handing yourself over to anyone. It means offering your hand first, but not offering it again to someone who bites it. This piece is for setting that standard.
+Living well does not mean handing yourself over to anyone. It means cooperating first, but not cooperating again with someone who takes advantage of it. This piece is for setting that standard.
 
 ## Good people win because the world leaves records
 
@@ -32,7 +32,7 @@ So goodness is not only a losing attitude. In an age when trust turns into money
 
 ## Giving without conditions is not good. It is dangerous.
 
-But do not confuse the point. Saying goodness is a strategy does not mean giving endlessly to anyone. A person who gives without conditions cannot survive for long. They feed exploiters.
+But do not confuse the point. Saying goodness is a strategy does not mean giving endlessly to anyone. A person who gives without conditions cannot survive for long. They end up rewarding people who exploit them.
 
 The strong rule in relationships is simple. Cooperate first. If the other person cooperates too, keep cooperating. If they betray you, do not just let it pass. But if they return, give them another chance.
 
@@ -52,7 +52,7 @@ Some relationships cannot be easily escaped: a boss, a family member, or someone
 
 The goal is not to defeat the villain. It is not to turn them into a decent person. The goal is to stop losing your time, emotion, focus, and reputation to them.
 
-The end of distance is not hatred. It is indifference. They no longer shake your day. Their weight in your inner accounting gets close to zero. Only then are you free from them.
+The end of distance is not hatred. It is indifference. They no longer disturb your day. How much they matter to you gets close to zero. Only then are you free from them.
 
 ## Turn anger and blame into information instead of killing them
 

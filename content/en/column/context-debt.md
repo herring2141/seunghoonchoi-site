@@ -44,7 +44,7 @@ You put material in and AI makes the sentences. The blank page fills. A plausibl
 
 But you may not have understood it at all. AI did not remove your helplessness; it only hid it from view. The fact that a report came out and the fact that you have a grip on that report are two different things.
 
-Miss this difference and you fall apart in the meeting.
+Miss this difference and you get caught out in the meeting.
 
 ## Missing background knowledge is not written in the document
 
@@ -82,7 +82,7 @@ Whom this report ultimately asks for what decision.
 
 You have to know this to explain the report. The fact that AI organized the pieces does not mean the writer understood the argument. A report is not a bundle of material; it is an argument with a direction.
 
-## When the background knowledge is empty, a single question knocks you down
+## When the background knowledge is empty, a single question is enough to expose it
 
 When the background knowledge is empty, the most frightening moment is when you get a question.
 

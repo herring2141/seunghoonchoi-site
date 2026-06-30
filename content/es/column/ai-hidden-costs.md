@@ -33,7 +33,7 @@ Además, todos se defienden con la misma frase: "Lo usé para trabajar". Al prin
 
 El derroche no nace de las grandes cosas. Se escapa cada día, poco a poco, en los hábitos pequeños.
 
-Primero, usar el modelo más caro y más potente para tareas sencillas. Para pulir la redacción de un correo o hacer un resumen de dos o tres líneas, llaman al modelo más pesado. Es como arrancar cada vez un coche grande para un trayecto que se haría de sobra con un coche pequeño.
+Primero, usar el modelo más caro y más potente para tareas sencillas. Para pulir la redacción de un correo o hacer un resumen de dos o tres líneas, llaman al modelo más pesado. Es usar el modelo más pesado donde bastaría de sobra uno más ligero y barato.
 
 Segundo, meter el documento entero cuando bastaría con lo esencial. Solo necesitan un párrafo del informe, pero pegan el PDF completo. Quieren saber una línea del acta, pero lanzan toda la grabación. La cantidad que metes es justo el coste, y aun así todos meten todo "por si acaso".
 
@@ -79,4 +79,4 @@ Imagina que te pasas el día entero haciendo veinte versiones, sacando resúmene
 
 La IA vale lo que cuesta solo cuando te quita trabajo. Si lo que produces creció pero las decisiones no se aceleraron, eso no es automatización. Es ruido que ha crecido. Solo sube el volumen y el trabajo sigue igual.
 
-Por eso quien gana al final no es quien más usa la IA. Es quien saca mejores resultados con menos tokens. La posición fuerte no está en "yo uso mucho la IA", sino en "yo diseño el rendimiento de la IA frente a su coste". Quien tiene presente ese consumo invisible, como la electricidad que corre por dentro de la pared, es quien al final saca más provecho del mismo gasto.
+Por eso quien gana al final no es quien más usa la IA. Es quien saca mejores resultados con menos tokens. La posición fuerte no está en "yo uso mucho la IA", sino en "yo diseño el rendimiento de la IA frente a su coste". Quien tiene presente ese consumo invisible es quien al final saca más provecho del mismo gasto.

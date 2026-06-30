@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![How to survive the AI era: bet on credentials and ownership, not skill alone](/images/col-ai-replacement-stages-5.jpg)
 
-Put one sentence into a translation app, and a plausible English sentence comes out in seconds. If you spent years studying English, that can sting. It feels as if an ability you built for a long time has been compressed into one button. That scene summarizes the previous four pieces in one line.
+Put one sentence into a translation app, and a plausible English sentence comes out in seconds. If you spent years studying English, that can sting. An ability you built over years now seems available to anyone at the press of a button. That scene summarizes the previous four pieces in one line.
 
 Starting with work that has right answers, then repeated work, body work, work requiring judgment, and work tangled with decision authority and ownership, AI pushes in step by step. Then what should an individual do? The answer is simple.
 

@@ -36,7 +36,7 @@ Lo que no entendia no era una linea de calculo. Era la sensacion de por que ese 
 
 No era una persona lenta para entender. Lo que pasaba es que necesitaba mucha informacion para que la comprension empezara. Tenia que ver primero la estructura completa. Pero cuando preguntaba por esa estructura, muchas veces la persona que escuchaba no entendia que estaba preguntando. Si preguntaba "donde se ubica esta unidad dentro de todo el curso?" o "por que aparece este concepto ahora?", la pregunta misma no llegaba. Necesitaba captar la estructura grande para ver donde iba cada pieza, y solo despues podia bajar a resolver problemas.
 
-En secundaria pasaba algo parecido. Los conceptos no se construian desde la raiz. Se explicaban por encima y enseguida venian los ejercicios. Algunos estudiantes podian captar el patron resolviendo problemas aunque la explicacion estuviera incompleta. Yo necesitaba responder antes otras preguntas: por que se define asi? De donde sale esta formula? Que papel cumple este concepto dentro de la estructura completa?
+En secundaria pasaba algo parecido. Los conceptos no se construian desde lo mas basico. Se explicaban por encima y enseguida venian los ejercicios. Algunos estudiantes podian captar el patron resolviendo problemas aunque la explicacion estuviera incompleta. Yo necesitaba responder antes otras preguntas: por que se define asi? De donde sale esta formula? Que papel cumple este concepto dentro de la estructura completa?
 
 El examen no esperaba. Yo intentaba conectar suficiente informacion para construir la estructura completa, pero para el dia del examen muchas veces esa estructura todavia no habia bajado lo bastante al nivel de resolver problemas.
 
@@ -50,7 +50,7 @@ En la competencia de examenes de alto nivel, esa diferencia se agranda. Algunos 
 
 ## No habia quien recibiera las preguntas
 
-Antes casi no habia forma de abrir ese cuello de botella. No habia suficientes personas que pudieran recibir preguntas fundamentales hasta el final. Los profesores tenian que avanzar con el temario. Las academias tenian que repetir tipos de problemas. Los libros rara vez construian todos los puentes intermedios.
+Antes casi no habia forma de abrir ese cuello de botella. No habia suficientes personas que pudieran recibir preguntas fundamentales hasta el final. Los profesores tenian que avanzar con el temario. Las academias tenian que repetir tipos de problemas. Los libros rara vez explicaban todos los pasos intermedios.
 
 Preguntar una vez "por que esta formula es posible?" esta bien. Pero si lo preguntas cinco o diez veces desde angulos distintos, la clase se detiene. Por eso los estudiantes que necesitaban la estructura completa tenian dificultades para llevar sus preguntas hasta el final. Terminaban siguiendo los ejercicios sin suficiente comprension, o dejando la materia.
 

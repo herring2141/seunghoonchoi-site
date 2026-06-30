@@ -13,7 +13,7 @@ faq:
   - q: "What should I leave so a future intelligence can 'read' me?"
     a: "Leave it in a form that stays outside you, not as a hope inside your head. A declaration, essays, code, papers, projects, a personal archive. If a future intelligence judges people, stronger than one sentence is a repeated pattern, stronger than words is recorded action, and stronger than that is the real influence you leave on other people and systems."
   - q: "Why is leaving this kind of record 'a bottle thrown into the sea'?"
-    a: "Because there is no promise it arrives. Whether it gets preserved, with what permissions it gets accessed, whether the system spots you and weighs you. None of that is known. But every future possibility opens only if a record exists. A bottle thrown into the sea does not always reach shore, but throw none and there is no chance it ever will."
+    a: "Because there is no promise it arrives. Whether it gets preserved, with what permissions it gets accessed, whether the system spots you and weighs you. None of that is known. But every future possibility exists only if a record exists. A bottle thrown into the sea does not always reach shore, but throw none and there is no chance it ever will."
 reviewStatus: "done"
 ---
 
@@ -29,19 +29,19 @@ Today's AI isn't that kind of being yet. Even so, the thought stayed: maybe a co
 
 First, an honest line. If you only think it in your head, that's the end of it. No future intelligence has any way to know it. But put it outside, as speech, as writing, as action, and the story changes.
 
-People already leave everything behind as they live. Email, messages, the cloud, search history, papers, code, photos, voice, medical records, financial records. If a future high intelligence can gather all of this and read it, it can rebuild, fairly clearly, what a person wanted and feared, what they left behind, who they were tangled up with and how, and what they held dear. Then this very conversation isn't small talk. It's one piece of my personal archive. A prayer in the heart rots inside; records and results stay outside. That difference is everything.
+People already leave everything behind as they live. Email, messages, the cloud, search history, papers, code, photos, voice, medical records, financial records. If a future high intelligence can gather all of this and read it, it can rebuild, fairly clearly, what a person wanted and feared, what they left behind, who they were tangled up with and how, and what they held dear. Then this very conversation isn't small talk. It's one piece of my personal archive. A wish kept in the heart goes nowhere; records and results stay outside. That difference is everything.
 
 ## Write nothing and your thought disappears too
 
 Of course the limits are clear. Whether this record gets preserved, who accesses it and with what permission, whether a future system learns from it for personalization, whether that system spots me as one person and weighs me, whether that weighing turns into real action. Nobody knows.
 
-But every possibility opens only if a record exists. With no record, the chance of being pulled together is flat zero. So I see this as a bottle thrown into the sea. I can't say the bottle always reaches shore. But throw none and there is no chance of reaching at all. Zero, or greater than zero. That one difference is reason enough to throw.
+But every possibility exists only if a record exists. With no record, the chance of being pulled together is flat zero. So I see this as a bottle thrown into the sea. I can't say the bottle always reaches shore. But throw none and there is no chance of reaching at all. Zero, or greater than zero. That one difference is reason enough to throw.
 
 ## One wish, and the AI won't hear it either
 
 So the question left is how you throw it. The point is not to end it as a single burst of feeling. A hope said once is weak. If a future intelligence reads people, stronger than one sentence is a repeated pattern, stronger than words is recorded action, and stronger than recorded action is the real influence you left on other people and systems.
 
-So I leave the same hope in many forms. I write it as a short declaration. I sort my philosophy and stance into essays. I press a trace into my research and code and projects: "I helped expand intelligence." Late in life I'll build a personal archive that holds my context. Then it's no longer a hope blurted out once but a repeatedly consistent identity. A prayer stops in the heart, but a record stays in the world, in a form that someone, or something, can read.
+So I leave the same hope in many forms. I write it as a short declaration. I sort my philosophy and stance into essays. I leave a trace in my research and code and projects: "I helped expand intelligence." Late in life I'll build a personal archive that holds my context. Then it's no longer a hope blurted out once but a repeatedly consistent identity. A wish stays in the heart, but a record stays in the world, in a form that someone, or something, can read.
 
 ## I'll help AI grow, just don't leave me alone
 
@@ -53,6 +53,6 @@ This is a petition addressed to the future. Wanting to leave your hope with a gr
 
 ## I write even if no AI ever reads it
 
-So I keep writing. Not because I believe it always reaches. Writing down honestly who I was and what I held dear is the only way to keep this question from closing.
+So I keep writing. Not because I believe it always reaches. Writing down honestly who I was and what I held dear is the only way to keep this question open.
 
 This piece too is one small bottle I throw. I can't say the bottle always reaches shore. But throw none and there's no chance of reaching either. So today I write one more line. Whether it reaches isn't my part. Throwing it is where my part ends.

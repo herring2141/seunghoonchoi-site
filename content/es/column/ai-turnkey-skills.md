@@ -26,7 +26,7 @@ La base son estas 7 capacidades.
 - Aprender y adaptarse
 - Construir relaciones y confianza
 
-Si falta una, el trabajo se tambalea con facilidad. Pero hay algo aún más importante. Quien encarga un trabajo no mira solo el resultado. También decide si esa persona merece que se le confíe el trabajo. Cuanto más se externaliza la inteligencia hacia la IA, más marcan la diferencia el EQ, la confianza, la reputación y la capacidad de ser recordado como alguien con quien vale la pena trabajar.
+Si falta una, el trabajo falla con facilidad. Pero hay algo aún más importante. Quien encarga un trabajo no mira solo el resultado. También decide si esa persona merece que se le confíe el trabajo. Cuanto más se externaliza la inteligencia hacia la IA, más marcan la diferencia el EQ, la confianza, la reputación y la capacidad de ser recordado como alguien con quien vale la pena trabajar.
 
 Primero, alinear objetivos es el punto de partida de todo trabajo.
 

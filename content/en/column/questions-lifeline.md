@@ -34,11 +34,11 @@ What I did not know was not one line of calculation. It was the sense of why tha
 
 ## It Was Not Slowness, It Was the Amount of Information I Needed
 
-I was not slow to understand. I simply needed a lot of information before understanding could begin. I had to see the whole map first. But when I asked for that structure, the person hearing the question often did not understand what I was asking. If I asked, "Where does this unit sit in the whole subject?" or "Why is this concept appearing now?", the question itself did not land. I needed the larger structure before I could see where each piece belonged, and only then could I descend into problem solving.
+I was not slow to understand. I simply needed a lot of information before understanding could begin. I had to see the whole structure first. But when I asked for that structure, the person hearing the question often did not understand what I was asking. If I asked, "Where does this unit fit in the whole subject?" or "Why is this concept appearing now?", the question itself did not land. I needed the larger structure before I could see where each piece belonged, and only then could I move on to solving problems.
 
 Middle school and high school felt similar. Concepts were not built up from the basics. They were explained shallowly and then immediately turned into problems. Some students could catch the pattern through the problems even if the explanation was incomplete. I needed different questions answered first: Why define it this way? Where did this formula come from? What role does this concept play in the whole structure?
 
-Exams did not wait. I tried to connect enough information to build the full structure, but by exam day I often had not brought that structure down far enough into problem solving.
+Exams did not wait. I tried to connect enough information to build the full structure, but by exam day I often had not applied that structure far enough to actual problems.
 
 ## Older Exams Favored Intuitive Learners
 
@@ -52,22 +52,22 @@ At the top end of exams, this difference becomes large. Some students can see th
 
 In the past, there was almost no way to open this bottleneck. There were not enough people who could receive fundamental questions all the way to the end. Teachers had to move through the syllabus. Academies had to drill problem types. Textbooks rarely filled in every missing piece.
 
-Asking "Why is this formula possible?" once is fine. But if you ask it five times or ten times from different angles, the class stops. So students who needed the whole map had trouble pushing their questions to the end. They either followed the problem solving without enough understanding or gave up.
+Asking "Why is this formula possible?" once is fine. But if you ask it five times or ten times from different angles, the class stops. So students who needed the whole structure had trouble pushing their questions to the end. They either followed the problem solving without enough understanding or gave up.
 
 This is where AI changes the situation. Now the same question can be asked ten different ways. You can ask for a simpler example, a counterexample, or a new practice problem built exactly around the point where you are stuck.
 
 ## Questions Can Now Become Scores
 
-In the past, you had to draw the whole map alone. Now you can draw it with AI. You can ask, "What is the goal of this subject?", "Why do we need this concept?", "How does it connect to the units before and after it?", and then descend from there into problem solving.
+In the past, you had to build the whole structure alone. Now you can build it with AI. You can ask, "What is the goal of this subject?", "Why do we need this concept?", "How does it connect to the units before and after it?", and then move from there into solving problems.
 
-If AI is used shallowly, it is just a tool that does homework for you. But when it is used deeply, something different happens. A person who needs the whole map before moving can study in their own way. They can grasp the big picture faster, push fundamental questions further, and connect that understanding to actual problems.
+If AI is used shallowly, it is just a tool that does homework for you. But when it is used deeply, something different happens. A person who needs the whole structure before moving can study in their own way. They can grasp the big picture faster, push fundamental questions further, and connect that understanding to actual problems.
 
 Then a person who used to lose points can start scoring higher. Having many questions is not a strength by itself. But if those questions can be carried all the way to real understanding and application, the questions can become scores.
 
 ## It May No Longer Be a Weakness
 
-In the past, people who needed the whole map before moving had a hard time getting scores. People who could accept the parts quickly and apply them right away were favored by exams. But for people whose concepts and problems connect only after the whole structure is visible, the amount of information needed for understanding was larger. If that structure did not descend into problem solving by exam day, ability did not turn into scores.
+In the past, people who needed the whole structure before moving had a hard time getting scores. People who could accept the parts quickly and apply them right away were favored by exams. But for people whose concepts and problems connect only after the whole structure is visible, the amount of information needed for understanding was larger. If that structure was not applied to actual problems by exam day, ability did not turn into scores.
 
-Now the shape of the game changes. People who need the whole map can grasp the big picture faster, push fundamental questions to the end, and connect that understanding to real problem solving.
+Now the situation changes. People who need the whole structure can grasp the big picture faster, push fundamental questions to the end, and connect that understanding to real problem solving.
 
 A way of thinking that once looked like a weakness can become your biggest strength when AI is taken seriously.

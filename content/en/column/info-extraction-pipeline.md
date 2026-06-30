@@ -14,9 +14,9 @@ build: {list: never, render: always}
 
 The more I talk to AI, the less knowledge I actually keep. Strange, but true.
 
-The reason is simple. AI pours out more than I can check and file. The good lines keep coming. Yet a month later, there is almost nothing I can find again.
+The reason is simple. AI produces more than I can check and file. The good lines keep coming. Yet a month later, there is almost nothing I can find again.
 
-That is why "use AI to organize my notes" almost always fails. Everyone chases the same thing: pull more. The more you pull, the faster your notes turn into a trash can. Nine out of ten memos never get opened again.
+That is why "use AI to organize my notes" almost always fails. Everyone chases the same thing: pull more. The more you pull, the faster your notes fill up with junk. Nine out of ten memos never get opened again.
 
 I went the other way. I didn't build a tool that grabs more. I built one that throws away hard. The real heart of this system isn't its power to extract. It's the rule for what to throw out.
 
@@ -39,7 +39,7 @@ Try telling an LLM "organize the important parts of this chat" in one shot. The 
 
 So I split it into stages. Each stage makes it throw away again.
 
-Stage 1 pulls candidates only. It doesn't file anything. Stage 2 attaches meaning to the candidates, but when a guess sneaks in, it has to mark it "estimate." Stage 3 files everything into hierarchical bullets you can paste straight into Notion, and throws away one last time. Whatever survives has to make sense on its own, with no surrounding context.
+Stage 1 pulls candidates only. It doesn't file anything. Stage 2 attaches meaning to the candidates, but when a guess is involved, it has to mark it "estimate." Stage 3 files everything into hierarchical bullets you can paste straight into Notion, and throws away one last time. Whatever survives has to make sense on its own, with no surrounding context.
 
 The key device is the "estimate flag." It forces apart the structure the AI made up from the structure the chat actually backs up, so the two never blend.
 
@@ -115,10 +115,10 @@ don't force items in just to fill a category / if there's nothing, output "nothi
 - For [Phrase], give the title + meaning + original text (add pinyin for Chinese)
 ```
 
-Run an important conversation through all three stages. Do it in one shot and the throwing-away loses its bite.
+Run an important conversation through all three stages. Do it in one shot and the throwing-away barely works.
 
 ## What's valuable is the rule for throwing away
 
-The worth of this system isn't a flashy output. It's the rule that hands a machine the job of deciding "what not to keep."
+The worth of this system isn't a flashy output. It's the rule that gives a machine the job of deciding "what not to keep."
 
 AI is going to make more and more from here on. The more it makes, the more precious it becomes to pick and to throw away, not to generate. So I version-control that throw-away rule like code.

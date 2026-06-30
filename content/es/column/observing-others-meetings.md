@@ -36,7 +36,7 @@ Al principio no necesitas entenderlo perfecto. Necesitas dejar material para ana
 
 ## Primero debes entender por qué existe este trabajo
 
-Para ver la estructura de un trabajo, hay que empezar por el propósito. Si no sabes por qué existe, todo lo demás queda disperso. Sin saber quién quiere hacer qué y por qué, los números, materiales y palabras flotan separados.
+Para ver la estructura de un trabajo, hay que empezar por el propósito. Si no sabes por qué existe, todo lo demás queda disperso. Sin saber quién quiere hacer qué y por qué, los números, materiales y palabras quedan sueltos y sin conexión.
 
 Lo primero que debes preguntar a la IA después de la reunión es esto: "¿Cuál es el propósito del trabajo tratado en esta reunión?" "¿Qué problema intenta resolver?" "¿Es más un problema de cliente, costo, calendario, calidad o riesgo?"
 

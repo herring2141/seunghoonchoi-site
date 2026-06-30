@@ -24,7 +24,7 @@ This isn't a gap in skill. You could watch them both plane a board and barely te
 
 We usually explain a market economy with money. You buy and sell, you earn and spend, and you save what's left. That isn't wrong. But money is only the result. What moves things at a deeper level is the habit of organizing what you've done once into a form you can use again.
 
-Follow the flow slowly. Knowledge you read in a book gets practiced until your body remembers it as skill. With that skill you make a product other people will pay for. The product sells and becomes sales, and sales pile up into capital. With capital you can buy other people's time and labor. That labor produces a big result you could never have made on your own. A big result builds reputation. And that reputation opens the door to the next piece of work.
+Follow the flow slowly. Knowledge you read in a book gets practiced until your body remembers it as skill. With that skill you make a product other people will pay for. The product sells and becomes sales, and sales pile up into capital. With capital you can buy other people's time and labor. That labor produces a big result you could never have made on your own. A big result builds reputation. And that reputation leads to the next piece of work.
 
 At each step there's work that takes the result of the step before and organizes it into a form the next step can use. Each time, you shape it into something that can go a little farther. The people who last in a market are the ones who keep extending this chain of steps. They are not the ones who simply work hardest in the first step.
 
@@ -52,13 +52,13 @@ The same recipe, used only inside one alley, earns only as much as that alley is
 
 If the result does the work, the size of the audience multiplies that outcome several times over. So the question one level higher is this: "Where will I use this result?" The person who used an ordinary result in a wide place often goes farther than the person holding a brilliant result in a narrow one.
 
-## A Name Opens the Next Door
+## A Name Leads to the Next Piece of Work
 
 Here a peculiar result shows up: reputation. Reputation is the end of one step and, at the same time, the start of the next.
 
 Look around and you'll find people who did genuinely excellent work that nobody can point to. What they did was clearly outstanding, but the work has no name. When someone asks "who did that?" the answer gets stuck. The opposite also happens. Some work becomes a thing with a single name on it. It becomes something people can point straight at and say, "Oh, that's his way of doing it."
 
-When a name gets attached, it means the work has stayed as reputation. There's a reason reputation is special. Once it builds up, it raises the starting point of every piece of work that follows. Make the same proposal, and the proposal from the person with a name gets read first. Ship the same product, and the product from the place with a name sells first. Reputation opens the next door. And beyond that door, yet another piece of work begins.
+When a name gets attached, it means the work has stayed as reputation. There's a reason reputation is special. Once it builds up, it raises the starting point of every piece of work that follows. Make the same proposal, and the proposal from the person with a name gets read first. Ship the same product, and the product from the place with a name sells first. Reputation leads to the next piece of work. And out of that work, yet another piece of work begins.
 
 ## Organize It Into a Form That Works When You're Gone
 

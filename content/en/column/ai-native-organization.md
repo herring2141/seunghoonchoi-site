@@ -18,7 +18,7 @@ When someone asks me what an AI-native organization is, I ask back. What happens
 
 Most companies add a thin layer of AI on top of the work they already do. The cost structure stays the same. The reporting lines stay the same. The work just gets a little faster. An AI-native organization starts from a different place. "People do this part. A model or an agent does that part." It rebuilds the organization from scratch around that one rule.
 
-So the real fork in the road isn't whether you use AI. It's whether the organization has been **rebuilt around AI (rewired).** Almost nobody gets all the way to folding AI fully into how work flows and pulling real results out of it. The companies that can honestly claim they're there? You can still count them on your fingers.
+So the real dividing line isn't whether you use AI. It's whether the organization has been **rebuilt around AI (rewired).** Almost nobody gets all the way to folding AI fully into how work flows and pulling real results out of it. The companies that can honestly claim they're there? You can still count them on your fingers.
 
 ## The 5 marks that tell a real AI-native apart
 

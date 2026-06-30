@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Estructura geométrica de un edificio, lo que significa reconstruir una organización desde cero](/images/col-ai-native-org.jpg)
 
-Cuando me preguntan qué es una organización nativa de IA, yo respondo con otra pregunta. Si quitamos toda la IA que usan ahora, ¿qué le pasa a la empresa? Si solo se vuelve un poco más lenta, entonces es simplemente una empresa que usa IA. **Si en el momento en que quitas la IA se derrumban la velocidad, la estructura, los costos y la experiencia del producto**, eso es una organización nativa de IA.
+Cuando me preguntan qué es una organización nativa de IA, yo respondo con otra pregunta. Si quitamos toda la IA que usan ahora, ¿qué le pasa a la empresa? Si solo se vuelve un poco más lenta, entonces es simplemente una empresa que usa IA. **Si en el momento en que quitas la IA ya no se sostienen la velocidad, la estructura, los costos y la experiencia del producto**, eso es una organización nativa de IA.
 
 ## La empresa que le pone IA encima y la que se reconstruye
 
@@ -54,9 +54,9 @@ La clave es una sola. **Sacar el borrador y ayudar a juzgar lo hace la IA; la re
 
 La mayoría se detiene en los niveles 1 y 2. La verdadera brecha se abre a partir del nivel 3. En ese punto en que *se vuelve a dibujar el trabajo de verdad*.
 
-## Si todo se concentra en unos pocos expertos, el cuello de botella revienta
+## Si todo se concentra en unos pocos expertos, se forma un cuello de botella
 
-La **alfabetización en IA** es el estado de *saber* qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La **fluidez en IA** es el estado de aplicarla de verdad a mi trabajo y *sacar resultados*. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza se cae y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino **un estado en el que varias personas pueden manejarla directamente**. El orden también es claro. Muchas personas tienen que tener práctica directa para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
+La **alfabetización en IA** es el estado de *saber* qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La **fluidez en IA** es el estado de aplicarla de verdad a mi trabajo y *sacar resultados*. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza falla y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino **un estado en el que varias personas pueden manejarla directamente**. El orden también es claro. Muchas personas tienen que tener práctica directa para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
 
 ## Si te confundes, solo tiras el dinero
 

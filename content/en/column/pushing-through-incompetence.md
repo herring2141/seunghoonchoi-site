@@ -58,11 +58,11 @@ Repetition works differently from understanding. Understanding can arrive in one
 
 So at first, several clumsy tries are better than one perfect attempt. A clumsy attempt gives you something to fix. If you do nothing, you make no mistakes, but you also do not improve.
 
-## Feedback is not a wound, but the next correction
+## Feedback is not an attack, but the next correction
 
 The most painful part of the bad stretch is feedback. When someone says, "This is wrong," it can feel like a judgment on your whole self. So people want to avoid feedback.
 
-But if you receive feedback only as a wound, skill is hard to build. Feedback is not a verdict that you are worthless. It is information about what to fix next. "There was too much salt" does not mean you have no talent for cooking. It means reduce the salt next time.
+But if you receive feedback only as a personal attack, skill is hard to build. Feedback is not a verdict that you are worthless. It is information about what to fix next. "There was too much salt" does not mean you have no talent for cooking. It means reduce the salt next time.
 
 Of course, feedback rarely feels good. That is why you need to receive it smaller. Do not hear it as an evaluation of your entire life. Hear it as one thing to fix on the next attempt. The moment you translate feedback that way, failure stops hurting your pride and starts showing you where to go.
 

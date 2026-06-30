@@ -49,7 +49,7 @@ A strong player boldly throws away anything that doesn't directly help the win a
 
 The fewer resources someone has, the more they scatter trying to win everywhere at once.
 
-That's exactly the person who tries to grip English, exercise, certifications, and connections all at the same time. Spread limited time and strength thin and you get a decisive edge nowhere. Do everything, and everything ends up half done.
+That's exactly the person who tries to take on English, exercise, certifications, and connections all at the same time. Spread limited time and strength thin and you get a decisive edge nowhere. Do everything, and everything ends up half done.
 
 So when I start something, I don't say "let's be good at all of it." I ask this.
 

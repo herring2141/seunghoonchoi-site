@@ -87,7 +87,7 @@ La IA puede optimizar. Pero la sociedad humana debe decidir qué optimizar. Eso 
 
 ## Si nos expandimos al espacio, ¿por qué el empleo vuelve a explotar?
 
-Si miramos solo el pastel limitado dentro de la Tierra, la IA parece una tecnología que quita puestos. Pero si ampliamos el área de supervivencia humana hacia la Luna, Marte, la órbita, asteroides y espacio profundo, la historia cambia. Harán falta construcción espacial, ecosistemas cerrados, blindaje contra radiación, aleaciones de alto rendimiento, propulsión nuclear, almacenamiento criogénico, agricultura espacial, medicina espacial, comunicación interplanetaria, robots autónomos, derecho espacial, seguros espaciales, contabilidad espacial, educación espacial y logística espacial.
+Si miramos solo el espacio limitado dentro de la Tierra, la IA parece una tecnología que quita puestos. Pero si ampliamos el área de supervivencia humana hacia la Luna, Marte, la órbita, asteroides y espacio profundo, la historia cambia. Harán falta construcción espacial, ecosistemas cerrados, blindaje contra radiación, aleaciones de alto rendimiento, propulsión nuclear, almacenamiento criogénico, agricultura espacial, medicina espacial, comunicación interplanetaria, robots autónomos, derecho espacial, seguros espaciales, contabilidad espacial, educación espacial y logística espacial.
 
 La IA no es una tecnología para achicar eso. Es una capacidad que permite a los humanos manejar problemas más grandes. No elimina al SCV; más bien permite abrir cien expansiones a la vez. El problema es que harán falta comandantes, ingenieros, técnicos de mantenimiento, estrategas, responsables de suministro y defensa para gestionar esas expansiones.
 

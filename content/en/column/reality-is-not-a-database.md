@@ -41,7 +41,7 @@ Climate action alone makes this clear. [IPCC AR6 WGIII](https://www.ipcc.ch/repo
 
 But what comes next is human work: securing land, negotiating with residents, construction, safety management, quality control, maintenance, regulatory response, accident responsibility, cost adjustment, and long-term operation. That is employment.
 
-Employment is not simply a seat for earning money. It is the execution structure that keeps civilization projects running in reality.
+Employment is not simply a way to earn money. It is the execution structure that keeps civilization projects running in reality.
 
 ## Why Is the Energy Transition a Human Problem?
 
@@ -65,7 +65,7 @@ This is the core of high-level employment going forward. We do not only need peo
 
 Employment is not merely "feeding people." Large-scale unemployment and exclusion make civilization projects impossible to sustain for long. When people lose jobs, income, and meaning, climate action or space development becomes politically hard to hold together. The tax base weakens, social trust erodes, extremism grows, and long-term projects can be reversed by one election.
 
-That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems explode politically when people are excluded. Employment is the social stabilizer that lets civilization-scale projects keep running.
+That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems fall apart politically when people are excluded. Employment is the social stabilizer that lets civilization-scale projects keep running.
 
 ## Does AI Remove Humans, or Lower-Level Work?
 
@@ -95,4 +95,4 @@ AI is not a technology that reduces this. It is a tool that lets humans handle l
 
 The conclusion is simple. AI creates possibilities. Humans fix those possibilities into reality. AI makes answers. Employment turns answers into civilization.
 
-Humans are needed not because they are smarter than AI. They are needed because they are responsible for reality. What disappears in the AI era is not the need for humans, but the human role trapped inside small problems. If humanity is to overcome global crises and expand its zone of survival into space, humans should become not AI's competitor, but the execution layer of civilization.
+Humans are needed not because they are smarter than AI. They are needed because they are responsible for reality. What disappears in the AI era is not the need for humans, but the human role limited to small problems. If humanity is to overcome global crises and expand its zone of survival into space, humans should become not AI's competitor, but the execution layer of civilization.

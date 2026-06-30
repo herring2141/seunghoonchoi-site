@@ -57,7 +57,7 @@ This is why the common prescription so often comes up empty.
 
 When results are disappointing, the first answer we reach for is this. "I just need to get better." Read more books, learn more skills, pull more all-nighters. The effort itself is precious. The problem is when that effort goes into a position where opportunity is blocked. The skill you grew is still multiplied by a number close to zero.
 
-Say your skill becomes 1.2 times what it was. In a position where opportunity is blocked, the result is exactly 1.2 times too. And only if you are lucky. But in a position where a small success becomes the stake for the next success, that same 1.2 times skill rides multiplication and compounding and spreads out several times over as time passes.
+Say your skill becomes 1.2 times what it was. In a position where opportunity is blocked, the result is exactly 1.2 times too. And only if you are lucky. But in a position where a small success sets up the next success, that same 1.2 times skill gets multiplied and compounded, and spreads out several times over as time passes.
 
 Someone who poured years into building skill cannot beat someone who simply moved to a better position. This is why the sight is so common. One person grew a single factor that gets multiplied in. The other moved to a position where every factor that gets multiplied in is alive.
 
@@ -71,17 +71,17 @@ The opposite is true.
 
 Fatalism treats environment as a backdrop you cannot change. But the environment we are talking about is different. Which market to open a shop in, which group to show up to, which team to join, which field to turn toward. These are mostly things you can study and choose. You can put in the legwork to see which path people actually walk down, and after showing up once or twice you can tell which group goes back over the game with you honestly.
 
-The person who bows to luck stops, saying "my position is already fixed." The person who sees environment as a choice asks "does this position build me up?" and moves.
+The person who blames luck stops, saying "my position is already fixed." The person who sees environment as a choice asks "does this position build me up?" and moves.
 
-Of course, not everyone can choose positions across the same range. Starting lines differ from person to person. Even so, inside even the narrowest set of options, the difference between a position where a small edge dies and one where it lives almost always exists. Training the eye to see that difference. That may be the biggest skill of all.
+Of course, not everyone can choose positions across the same range. Starting lines differ from person to person. Even so, inside even the narrowest set of options, the difference between a position where a small edge fades out and one where it keeps building almost always exists. Training the eye to see that difference. That may be the biggest skill of all.
 
 ## Don't Leave Where Your Skill Goes to Luck.
 
 Back to those two go players.
 
-The one who joined the strong group lost every game at first. It must have hurt his pride. But each of those losses became the stake for the next game, and the strong people beside him pulled him up. He got stronger not because his touch changed. He got stronger because he entered a position where his skill was multiplied into a result.
+The one who joined the strong group lost every game at first. It must have hurt his pride. But each of those losses set up the next game, and the strong people beside him helped him improve. He got stronger not because his touch changed. He got stronger because he entered a position where his skill was multiplied into a result.
 
-So along with building skill, put real effort into choosing where you will use that skill. We usually spend years on the skill and leave where we will use it to chance. Compounding does not attach only to you. It attaches to the environment you stand in. Pour the same effort into a position where opportunity is blocked and you grow only as much as that position allows. Pour it into a position where a small success leads to the next chance, and time works in your favor and builds up the result.
+So along with building skill, put real effort into choosing where you will use that skill. We usually spend years on the skill and leave where we will use it to chance. Compounding does not attach only to you. It attaches to the environment you stand in. Pour the same effort into a position where opportunity is blocked and you grow only as much as that position allows. Pour it into a position where a small success leads to the next chance, and the result builds up further the longer you stay.
 
 The question to ask today is not "how do I do better?" First, this.
 

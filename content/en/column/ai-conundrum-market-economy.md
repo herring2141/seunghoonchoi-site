@@ -28,7 +28,7 @@ But there is a clear difference from dot-com. AI actually does work. It already 
 
 ## If AI does not make money, it cannot pay back the investment
 
-If AI does not make money, the story is simple. The investment cannot be recovered. Data centers, GPUs, power, cooling, talent, and model training cost too much. If customers do not keep paying enough to justify those costs, the market eventually asks a blunt question.
+If AI does not make money, the story is simple. The investment cannot be recovered. Data centers, GPUs, power, cooling, talent, and model training cost too much. If customers do not keep paying enough to justify those costs, one blunt question eventually has to be answered.
 
 Who pays for all of this in the end?
 
@@ -54,7 +54,7 @@ But over time, another question appears. Where are the consumers?
 
 AI can lower prices. The problem is that lower prices are not enough compensation for someone who lost income. If a person's monthly paycheck is shaken, saving a few dollars on an app subscription does not stabilize life. Rent, healthcare, education, insurance, and loan payments do not fall immediately just because AI gets better.
 
-A jobless boom can look impressive in the numbers. But people do not live on average productivity. They live with this month's rent and next month's job postings. If wage income weakens, consumption weakens. If consumption weakens, corporate revenue starts to shake as well. Then the market asks: margins improved, but where is the revenue growth?
+A jobless boom can look impressive in the numbers. But people do not live on average productivity. They live with this month's rent and next month's job postings. If wage income weakens, consumption weakens. If consumption weakens, corporate revenue starts to weaken as well. Then one question remains: margins improved, but where is the revenue growth?
 
 ## The usual answers are too slow or too weak
 

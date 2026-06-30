@@ -33,9 +33,9 @@ Imagina que en un barrio hay diez restaurantes. Nueve quedan agrupados como "bue
 
 El núcleo de ese acuerdo es la confianza. No hace falta verla como algo grandioso. Hay una definición muy práctica: la creencia, acumulada con el tiempo, de que "si le encargo algo a esta persona, salen menos cosas mal".
 
-Quien ha trabajado en equipo lo sabe. A algún compañero le pasas una tarea y te quedas tranquilo. Se da cuenta de lo que falta y lo cubre, dice "no sé" cuando no sabe, y en la fecha acordada llega lo acordado. En cambio, a otro compañero le pasas algo y siempre te queda una espina. Tienes que revisar otra vez lo que ya hizo, y eres tú quien tapa los huecos. El primero ha acumulado confianza. No por su labia, sino por el tiempo en que cada resultado aguantó tanto como había prometido.
+Quien ha trabajado en equipo lo sabe. A algún compañero le pasas una tarea y te quedas tranquilo. Se da cuenta de lo que falta y lo cubre, dice "no sé" cuando no sabe, y en la fecha acordada llega lo acordado. En cambio, a otro compañero le pasas algo y siempre te queda una inquietud. Tienes que revisar otra vez lo que ya hizo, y eres tú quien cubre lo que falta. El primero ha acumulado confianza. No por su labia, sino por el tiempo en que cada resultado aguantó tanto como había prometido.
 
-Esa confianza no surge de golpe. Se acumula cumpliendo muchas promesas pequeñas, y se derrumba al romper una sola promesa grande. Por eso es escasa. No se consigue de una vez ni con dinero ni con palabras.
+Esa confianza no surge de golpe. Se acumula cumpliendo muchas promesas pequeñas, y se pierde al romper una sola promesa grande. Por eso es escasa. No se consigue de una vez ni con dinero ni con palabras.
 
 ## Ahora un buen texto solo significa que la IA lo pulió
 
@@ -57,7 +57,7 @@ Si dejas la marca como una imagen difusa, no la puedes agarrar. Si la divides en
 4. Señal repetida. Si la gente te recuerda como alguien que apunta siempre en la misma dirección.
 5. Confianza. Si tus palabras y tus resultados aguantan con el paso del tiempo.
 
-El orden importa. La identidad y el problema deben quedar claros primero para que se decida con qué pruebas mostrarlo. Solo cuando se acumulan las pruebas, la señal repetida cobra peso. Y si apuntas en la misma dirección durante el tiempo suficiente, eso se solidifica en confianza. Al revés, se derrumba. Repetir la señal sin pruebas es simple autopromoción, y dejar pruebas sueltas sin identidad no deja en la cabeza de la gente una sola frase.
+El orden importa. La identidad y el problema deben quedar claros primero para que se decida con qué pruebas mostrarlo. Solo cuando se acumulan las pruebas, la señal repetida cobra peso. Y si apuntas en la misma dirección durante el tiempo suficiente, eso se convierte en confianza. Al revés, se pierde. Repetir la señal sin pruebas es simple autopromoción, y dejar pruebas sueltas sin identidad no deja en la cabeza de la gente una sola frase.
 
 Veamos a un cocinero. La identidad es "yo hago comida coreana". El problema es "llevar al restaurante el cuidado de la comida casera". La prueba es cada plato que sale cada día ante los clientes. La señal repetida son los clientes que describen ese local igual: "un sitio de comida coreana cuidada". Y cuando ese sabor se mantiene constante durante varios años, se convierte en confianza. Las cinco piezas quedan unidas en una sola línea.
 

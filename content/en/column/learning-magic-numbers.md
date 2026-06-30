@@ -46,7 +46,7 @@ For example, if you look at thirty photos of well-cooked steaks, you still do no
 
 Seeing with your eyes and doing with your hands are different. Just because patterns start to appear does not mean your hands will follow right away. In the beginner phase, results swing around. It worked yesterday but not today. You think you did the same thing, but the result is different.
 
-The stretch where this instability starts to shrink is roughly around one hundred repetitions. It is like playing the same passage on an instrument until your hands move more naturally. Sports form, less shaky presentations, and other skills also begin to stabilize around this area.
+The stretch where this instability starts to shrink is roughly around one hundred repetitions. You play the same passage on an instrument again and again until your hands move more naturally. Sports form, less shaky presentations, and other skills also begin to stabilize around this point.
 
 But simply repeating something one hundred times is not enough. If you repeat the wrong form one hundred times without knowing it is wrong, the wrong form hardens. Do it once, check what went off, correct it, and try again. What matters is not the number of repetitions. It is repetition with feedback attached.
 
@@ -54,9 +54,9 @@ But simply repeating something one hundred times is not enough. If you repeat th
 
 When learning a new field, there comes a moment when a feel suddenly appears. It is not because you have more information. It is because scattered information connects. You see, "Ah, these were all the same story."
 
-A chess master remembers a board at a glance not because they memorize every piece separately. They see pieces as attack shapes, defensive structures, and familiar patterns. What looks to a beginner like scattered dots appears to an expert as a few meaningful chunks.
+A chess master remembers a board at a glance not because they memorize every piece separately. They see pieces as attack shapes, defensive structures, and familiar patterns. What a beginner sees as scattered, unrelated pieces, an expert sees as a few meaningful chunks.
 
-Fast learners are not people who simply pour in more information. They compare often, connect often, and correct often. Seeing differently comes before seeing more.
+Fast learners are not people who simply take in more information. They compare often, connect often, and correct often. Seeing differently comes before seeing more.
 
 ## The order is 3, 7, 30, 100
 
