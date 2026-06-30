@@ -34,7 +34,7 @@ La soldadura es distinta. Solo probar ya cuesta. Cuestan materiales, equipos y t
 
 El problema más grande es el riesgo. Un fallo en soldadura no termina como una respuesta incorrecta. Una soldadura defectuosa puede causar accidentes. Por fuera puede verse bien y esconder una falla interna que aparece meses después.
 
-Entonces se rompe la estructura de aprendizaje que le gusta a la máquina. Para aprender necesita muchos intentos, pero no puede fallar muchas veces. Para corregir necesita saber pronto el resultado, pero el resultado puede llegar tarde o verse solo en parte. Los datos de fracaso más importantes son peligrosos de crear a propósito.
+Entonces se rompe la estructura de aprendizaje que le conviene a la máquina. Para aprender necesita muchos intentos, pero no puede fallar muchas veces. Para corregir necesita saber pronto el resultado, pero el resultado puede llegar tarde o verse solo en parte. Los datos de fracaso más importantes son peligrosos de crear a propósito.
 
 En Go puedes jugar un millón de malas jugadas. En soldadura no puedes crear un millón de malas soldaduras. Por eso la automatización del mundo real avanza más lento que la automatización dentro de una pantalla.
 

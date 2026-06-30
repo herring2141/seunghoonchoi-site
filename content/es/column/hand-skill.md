@@ -47,7 +47,7 @@ El temblor que no se controla es un ruido que tuerce la línea. Pero hay otra vi
 
 Que la IA haya aplastado a la persona en el go tiene una razón. Practicó jugando cientos de millones de partidas en un mundo virtual. No gasta tiempo ni materiales, y fallar no le supone ninguna pérdida.
 
-La habilidad manual es distinta. Es contacto en el mundo físico. Cada intento gasta tiempo, gasta materiales, y si falla hay una pérdida real. Además, el resultado no se ve ahí mismo como éxito o fracaso. Se revela más tarde. Es justo la estructura que más detesta la forma en que la máquina aprende a base de prueba y error.
+La habilidad manual es distinta. Es contacto en el mundo físico. Cada intento gasta tiempo, gasta materiales, y si falla hay una pérdida real. Además, el resultado no se ve ahí mismo como éxito o fracaso. Se revela más tarde. Es justo la estructura que peor se adapta a la forma en que la máquina aprende a base de prueba y error.
 
 Así que la habilidad manual no resiste por ser algo misterioso o imposible de reemplazar. Resiste porque la prueba y error sale cara y lenta, y no se puede conquistar de una sola vez.
 

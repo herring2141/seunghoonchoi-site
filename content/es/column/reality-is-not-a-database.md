@@ -65,7 +65,7 @@ Ese será el núcleo del empleo avanzado. No bastará con "saber usar IA". Hará
 
 El empleo no es solo "dar de comer a la gente". El desempleo masivo y la exclusión hacen que los proyectos civilizatorios no puedan sostenerse por mucho tiempo. Si la gente pierde trabajo, ingresos y sentido, la acción climática o el desarrollo espacial se vuelven políticamente frágiles. Se debilita la base fiscal, se rompe la confianza social, crecen los extremos y un proyecto de largo plazo puede caer con una sola elección.
 
-Las [directrices de transición justa de la OIT](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) importan por eso. La transición verde no es solo transición tecnológica. Debe ir con trabajo, formación, salarios, comunidades y diálogo social. La gente tiene que participar para que el sistema dure. Si queda excluida, el sistema explota políticamente. En ese sentido, el empleo es una batería social para sostener proyectos de escala civilizatoria.
+Las [directrices de transición justa de la OIT](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) importan por eso. La transición verde no es solo transición tecnológica. Debe ir con trabajo, formación, salarios, comunidades y diálogo social. La gente tiene que participar para que el sistema dure. Si queda excluida, el sistema explota políticamente. En ese sentido, el empleo es lo que da estabilidad social para sostener proyectos de escala civilizatoria.
 
 ## ¿La IA elimina a los humanos, o elimina trabajo de bajo nivel?
 

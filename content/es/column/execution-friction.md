@@ -33,7 +33,7 @@ Desde la mañana hay reuniones agendadas. Cuando te sientas, el mensajero no par
 
 Cada una parece insignificante. Una reunión, un mensaje, un paso de aprobación. Pero cuando todo esto se solapa a la vez, lo que llamamos concentración desaparece por completo. Por muy bien que manejes la IA, el lugar mismo donde desplegar esa habilidad está reducido.
 
-## Quien trabaja solo muerde un problema hasta el final
+## Quien trabaja solo se concentra en un problema hasta el final
 
 En el mismo tiempo, quien trabaja solo o en un equipo pequeño vive justo al revés.
 

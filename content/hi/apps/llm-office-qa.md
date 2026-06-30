@@ -29,4 +29,4 @@ LLM को स्लाइड या स्प्रेडशीट बनान
 
 [GitHub पर देखें →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-इसे ऐसा क्यों बनाया — QA की यह परत ज़्यादा होशियार मॉडल की बेड़ी क्यों नहीं बननी चाहिए → [मॉडल को कुंद मत बनाओ](/hi/column/dont-lobotomize-the-model/)
+इसे ऐसा क्यों बनाया — QA की यह परत ज़्यादा होशियार मॉडल को क्यों नहीं सीमित करना चाहिए → [मॉडल को कुंद मत बनाओ](/hi/column/dont-lobotomize-the-model/)

@@ -14,7 +14,7 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">Installable web app (PWA)</span>
     <h3>ReadFast · Reading speed and comprehension trainer</h3>
-    <p>Read English and Chinese faster without throwing comprehension away.</p>
+    <p>Read English and Chinese faster without losing comprehension.</p>
     <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>

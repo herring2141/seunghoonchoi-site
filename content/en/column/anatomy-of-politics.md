@@ -38,7 +38,7 @@ Politics is ultimately the work of directing emotion. Anger can be aimed at peop
 
 Good policy is usually complex. Its effects arrive late. Education, health care, infrastructure, science and technology, and administrative reform do not show results in one day. Anxiety and anger move immediately.
 
-That is why good politics is unfair. The more useful a policy is, the longer the explanation, the later the feeling of benefit, and the louder the people who oppose it. The many who benefit are quiet, and the few who lose fight hard. So a good politician cannot only make good policy. They have to translate that policy into words people can feel. They have to turn numbers into faces, and distant future gains into small changes people can feel now. `A 2% drop in unemployment` is weaker than `one day in the life of a person who got a job back`. People react first to a concrete life, not to a statistic.
+That is why good politics is unfair. The more useful a policy is, the longer the explanation, the later the feeling of benefit, and the louder the people who oppose it. The many who benefit are quiet, and the few who lose fight hard. So a good politician cannot only make good policy. They have to translate that policy into words people can feel. They have to turn numbers into real people, and distant future gains into small changes people can feel now. `A 2% drop in unemployment` is weaker than `one day in the life of a person who got a job back`. People react first to a concrete life, not to a statistic.
 
 ## Winning popularity and doing the work are different abilities
 

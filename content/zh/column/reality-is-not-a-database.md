@@ -65,7 +65,7 @@ AI 给出的答案一旦错了，损害规模也会变大。
 
 就业不只是“让人有饭吃”。大规模失业和排除，会让文明项目无法长期维持。当人失去工作、收入和意义时，无论是气候行动还是太空开发，政治上都很难撑住。税基变弱，社会信任崩塌，极端主义变大，长期项目可能被一次选举推翻。
 
-[ILO 的 just transition 指南](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) 之所以重要，原因也在这里。绿色转型不只是技术转型，它必须和劳动、教育、工资、社区、社会对话一起走。人参与，系统才能持久。人被排除，系统会在政治上爆炸。所以就业是让文明级项目持续运行的社会电池。
+[ILO 的 just transition 指南](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) 之所以重要，原因也在这里。绿色转型不只是技术转型，它必须和劳动、教育、工资、社区、社会对话一起走。人参与，系统才能持久。人被排除，系统在政治上就难以维系。所以就业是让文明级项目长期持续运行的支撑结构。
 
 ## AI 消灭的是人，还是低层次工作？
 

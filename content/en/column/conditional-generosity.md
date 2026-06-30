@@ -46,7 +46,7 @@ When someone torments you, you may want to fix them. It feels as if they might u
 
 First, separate the cases. A person who clashes with you because your interests collide may be able to talk. Negotiation is possible with them. If the conditions of gain and loss change, the relationship can improve.
 
-But a person who enjoys the torment itself is different. Your reaction is their reward. Your anger, hurt, and effort to explain become their food. For this kind of person, cutting off reaction is better than persuasion.
+But a person who enjoys the torment itself is different. Your reaction is their reward. Your anger, hurt, and effort to explain are exactly what they want. For this kind of person, cutting off reaction is better than persuasion.
 
 Some relationships cannot be easily escaped: a boss, a family member, or someone you meet inside an institution. In those cases, show less emotion, give less information, and leave records. Sometimes you need to bring in a larger force such as rules, the organization, the law, or reputation instead of facing them alone.
 

@@ -29,7 +29,7 @@ La IA de hoy todavía no es ese tipo de ser. Aun así, pensé que algún día po
 
 Primero marquemos con honestidad la línea. Si lo piensas solo dentro de tu cabeza, ahí termina. Ninguna inteligencia del futuro tiene forma de saberlo. Pero si lo sacas fuera con palabras, con escritura, con acciones, la cosa cambia.
 
-Las personas ya viven dejando rastro de todo. Correos, mensajes, la nube, el historial de búsqueda, artículos, código, fotos, voz, registros médicos, registros financieros. Si una inteligencia avanzada del futuro pudiera juntar todo esto y leerlo, podría reconstruir con bastante claridad qué quería una persona, qué temía, qué dejó, con quién se relacionó y cómo, y qué valoraba. Entonces esta misma conversación no es charla cualquiera. Es una pieza de mi archivo personal. La oración dentro del corazón se pudre por dentro; el registro y los logros quedan fuera. Esa diferencia lo es todo.
+Las personas ya viven dejando rastro de todo. Correos, mensajes, la nube, el historial de búsqueda, artículos, código, fotos, voz, registros médicos, registros financieros. Si una inteligencia avanzada del futuro pudiera juntar todo esto y leerlo, podría reconstruir con bastante claridad qué quería una persona, qué temía, qué dejó, con quién se relacionó y cómo, y qué valoraba. Entonces esta misma conversación no es charla cualquiera. Es una pieza de mi archivo personal. El deseo que se queda dentro no llega a nadie; el registro y los logros quedan fuera. Esa diferencia lo es todo.
 
 ## Si no lo escribes, hasta tu propio pensamiento desaparece
 

@@ -3,7 +3,7 @@ title: "Company AI Is Not Free: The Token and Subscription Illusion, and the Mon
 date: 2026-06-21T17:56:30+09:00
 categories: ["AI"]
 tags: ["AI cost","token cost","productivity","subscription illusion","decision making","workplace automation"]
-subtitle: "It looks like a flat monthly fee, but the real cost of company AI leaks out like electricity behind the wall. Tokens, verification time, decisions that arrive late: this piece bundles them all into one number called the AI intervention threshold."
+subtitle: "It looks like a flat monthly fee, but the real cost of company AI is the hidden spending you never see on the screen. Tokens, verification time, decisions that arrive late: this piece bundles them all into one number called the AI intervention threshold."
 seoTitle: "Hidden Costs of Company AI: Tokens, the Subscription Illusion, and the AI Intervention Threshold"
 image: /images/col-ai-hidden-costs.jpg
 reviewStatus: "done"

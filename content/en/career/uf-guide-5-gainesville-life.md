@@ -76,7 +76,7 @@ UF medical costs split into **two pockets**:
 
 The takeaway is simple: **for GatorGradCare members, getting care at SHCC is almost always the cheapest option.** Billing questions: SHCC PFS **(352) 273-4546 / insurance@shcc.ufl.edu**.
 
-### ★ The Waiver Trap — Get the Direction Wrong and Money Leaks
+### ★ The Waiver Trap — Get the Direction Wrong and You Pay More
 
 A GA (.25 FTE+, 10+ hours/week) is **auto-enrolled (Employee Only)** in **GatorGradCare** (BlueCross BlueShield FL) when newly eligible. Your share is **about $12/month** (payroll deduction); UF covers the rest.
 

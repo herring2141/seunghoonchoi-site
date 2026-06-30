@@ -60,7 +60,7 @@ No veo como algo puramente malo que las empresas que deben caer caigan. Si empre
 
 La IA puede pasar por una selección parecida. La IA puede ser real. Eso no significa que toda empresa de IA sea un negocio real.
 
-Si los tipos vuelven a subir, el mercado no mirará solo el rendimiento de los modelos. Mirará si los clientes pagan. Mirará si queda dinero después del coste de GPU. Mirará cuántos meses puede sobrevivir una empresa sin la próxima ronda. En ese momento, la operación de IA sale de la demo y se sienta frente a la calculadora.
+Si los tipos vuelven a subir, el mercado no mirará solo el rendimiento de los modelos. Mirará si los clientes pagan. Mirará si queda dinero después del coste de GPU. Mirará cuántos meses puede sobrevivir una empresa sin la próxima ronda. En ese momento, la operación de IA deja de medirse por la demo y pasa a medirse por las cuentas.
 
 En este ciclo de tipos, la pregunta que me importa es simple. No quién habla de IA. Quién gana dinero con IA.
 

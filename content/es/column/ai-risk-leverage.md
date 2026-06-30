@@ -24,7 +24,7 @@ Para una persona audaz y con mucha capacidad de acción, la IA es una herramient
 
 Pero si la dirección está mal, los problemas se acumulan a la misma velocidad. Las afirmaciones falsas se difunden rápido, las frases riesgosas se publican rápido y la información sensible se copia rápido. Un error pequeño ya no queda en una nota interna. Sale directo al sitio web, al correo de clientes, al repositorio de código o al anuncio.
 
-La IA no es tanto un aparato que mejora el juicio de una persona. Es más bien un amplificador del juicio y de la capacidad de ejecución que esa persona ya tiene. Si el juicio es bueno, el resultado crece. Si el juicio tiembla, también crece el temblor. Por eso el riesgo de la era de la IA no está en que una persona incompetente fracase lentamente. Está en que una persona bastante inteligente y muy ejecutora saque cosas al mundo sin verificación.
+La IA no es tanto un aparato que mejora el juicio de una persona. Es más bien un amplificador del juicio y de la capacidad de ejecución que esa persona ya tiene. Si el juicio es bueno, el resultado crece. Si el juicio es deficiente, el daño también crece. Por eso el riesgo de la era de la IA no está en que una persona incompetente fracase lentamente. Está en que una persona bastante inteligente y muy ejecutora saque cosas al mundo sin verificación.
 
 ## El borrador interno y la publicación externa son cosas distintas
 

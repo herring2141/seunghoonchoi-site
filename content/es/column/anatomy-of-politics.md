@@ -28,7 +28,7 @@ Por eso la popularidad política no nace solo de la lógica. Empieza en emoción
 
 Las palabras que ganan corazones suelen repetir una estructura. Primero reconocen el dolor: "sé que lo estás pasando mal". Luego señalan una causa: "ese dolor tiene una razón". Por último dan una dirección: "podemos cambiarlo así".
 
-Un mal político crea ahí un enemigo fácil. Carga un problema complejo sobre alguien, porque la gente responde más rápido a un enemigo claro que a una explicación compleja. Cuando el enemigo es claro, la ira se reúne; cuando la ira se reúne, el apoyo crece rápido.
+Un mal político crea ahí un enemigo fácil. Carga un problema complejo sobre alguien, porque la gente responde más rápido a un enemigo claro que a una explicación compleja. Cuando el enemigo es claro, la gente se enfada de forma unida; cuando ese enfado se concentra, el apoyo crece rápido.
 
 Pero la buena política también debe ganar corazones. La diferencia está en a quién convierte en enemigo. Si el enemigo es un grupo de personas, se parte a la sociedad. Si el enemigo es la corrupción, el despilfarro, la ineficiencia o la irresponsabilidad, aparece una política que se puede arreglar en conjunto.
 
@@ -38,7 +38,7 @@ La política es, al final, orientar emociones. Puedes dirigir la ira contra las 
 
 Las buenas políticas suelen ser complejas. Sus efectos llegan tarde. Educación, salud, infraestructura, ciencia y tecnología, reforma administrativa: nada da resultado en un día. La ansiedad y la rabia, en cambio, se mueven de inmediato.
 
-Por eso la buena política vive una injusticia. Cuanto más útil puede ser una política, más larga suele ser la explicación, más tarde se siente el efecto y más ruidosa puede ser la oposición. La mayoría beneficiada se queda callada; la minoría que pierde algo resiste fuerte. Así que un buen político no puede limitarse a crear buenas políticas. Debe traducirlas a palabras que la gente pueda sentir. Convertir números en rostros humanos y beneficios lejanos en cambios pequeños que se perciben hoy. `Bajar el desempleo 2%` es menos fuerte que `un día en la vida de una persona que recuperó trabajo`. La gente responde antes a vidas concretas que a estadísticas.
+Por eso la buena política queda en desventaja injusta. Cuanto más útil puede ser una política, más larga suele ser la explicación, más tarde se siente el efecto y más ruidosa puede ser la oposición. La mayoría beneficiada se queda callada; la minoría que pierde algo resiste fuerte. Así que un buen político no puede limitarse a crear buenas políticas. Debe traducirlas a palabras que la gente pueda sentir. Convertir números en rostros humanos y beneficios lejanos en cambios pequeños que se perciben hoy. `Bajar el desempleo 2%` es menos fuerte que `un día en la vida de una persona que recuperó trabajo`. La gente responde antes a vidas concretas que a estadísticas.
 
 ## Ganar popularidad y hacer bien el trabajo son habilidades distintas
 
@@ -50,7 +50,7 @@ Si uno entra en política, debe reconocer esa diferencia. Debe saber si es algui
 
 Alguien como yo está en desventaja en el juego político rápido. Me cuesta ensalzar a alguien en el momento, repartir palabras agradables y lanzar promesas ambiguas con seguridad. Se me nota.
 
-Pero esa debilidad se vuelve activo en otro juego. En un lugar donde todos pueden decir frases vacías, la palabra pierde precio. Cualquiera puede decir "trabajaré por el pueblo". Por eso la gente no cree esa frase tal cual.
+Pero esa debilidad se vuelve activo en otro juego. En un lugar donde todos pueden decir frases vacías, las palabras dejan de tener valor. Cualquiera puede decir "trabajaré por el pueblo". Por eso la gente no cree esa frase tal cual.
 
 En cambio, la promesa de quien no sabe mentir bien es distinta. Esa persona muestra con claridad qué puede decir y qué no. No promete fácilmente que algo imposible será posible. Con el tiempo, eso se vuelve una señal.
 

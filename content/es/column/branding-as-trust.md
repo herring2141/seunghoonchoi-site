@@ -59,7 +59,7 @@ Si dejas la marca como una imagen difusa, no la puedes agarrar. Si la divides en
 
 El orden importa. La identidad y el problema deben quedar claros primero para que se decida con qué pruebas mostrarlo. Solo cuando se acumulan las pruebas, la señal repetida cobra peso. Y si apuntas en la misma dirección durante el tiempo suficiente, eso se solidifica en confianza. Al revés, se derrumba. Repetir la señal sin pruebas es simple autopromoción, y dejar pruebas sueltas sin identidad no deja en la cabeza de la gente una sola frase.
 
-Veamos a un cocinero. La identidad es "yo hago comida coreana". El problema es "llevar al restaurante el cuidado de la comida casera". La prueba es cada plato que sale cada día ante los clientes. La señal repetida son los clientes que describen ese local igual: "un sitio de comida coreana cuidada". Y cuando ese sabor no tiembla durante varios años, se convierte en confianza. Las cinco piezas quedan ensartadas en una sola línea.
+Veamos a un cocinero. La identidad es "yo hago comida coreana". El problema es "llevar al restaurante el cuidado de la comida casera". La prueba es cada plato que sale cada día ante los clientes. La señal repetida son los clientes que describen ese local igual: "un sitio de comida coreana cuidada". Y cuando ese sabor se mantiene constante durante varios años, se convierte en confianza. Las cinco piezas quedan ensartadas en una sola línea.
 
 ## Regla uno: estrecha el letrero y ensancha lo de dentro
 
@@ -79,7 +79,7 @@ Segunda: no hables a lo grande, habla con precisión.
 
 Al revés, lo pequeño, concreto y comprobable construye confianza. "He resuelto este único problema, de esta manera, hasta este punto" es mucho más fuerte que "voy a cambiar el mundo". Parece pequeño, pero se comprueba. Si se acumulan diez promesas pequeñas que sí se comprueban, eso es más firme que cien gritos de "voy a cambiar el mundo".
 
-Piensa en correr. Decir "soy el mejor corredor" no da ninguna información. En cambio, decir "corro cinco kilómetros en veintidós minutos de forma constante" se comprueba, y por eso se cree. El que es claro aunque su número sea pequeño le gana siempre al que solo tiene adjetivos grandilocuentes. La precisión es la moneda de la confianza.
+Piensa en correr. Decir "soy el mejor corredor" no da ninguna información. En cambio, decir "corro cinco kilómetros en veintidós minutos de forma constante" se comprueba, y por eso se cree. El que es claro aunque su número sea pequeño le gana siempre al que solo tiene adjetivos grandilocuentes. La precisión es lo que de verdad genera confianza.
 
 ## La marca no es descartar, es reunir
 

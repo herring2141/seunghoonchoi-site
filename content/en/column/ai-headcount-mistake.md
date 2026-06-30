@@ -81,7 +81,7 @@ When companies reduce people, they often touch the middle. Juniors are cut becau
 
 Where numbers often go wrong, which department is sensitive to which wording, which customer dislikes which phrase, and which past decision caused trouble. These things are not perfectly written down. AI reads organized documents well. But it does not easily know the tacit knowledge that builds up between people inside the company. Someone has to know that context so AI outputs can be corrected to fit reality. Cut the middle layer and that memory disappears too. Then AI outputs miss the point more often, and the people left spend more time fixing them.
 
-The company thinks it lowered cost by reducing people, but in reality it sold off its memory.
+The company thinks it lowered cost by reducing people, but in reality it gave up its accumulated knowledge.
 
 ## Headcount cuts belong at the end, not the front
 

@@ -26,7 +26,7 @@ The catch is the payment method. U.S. rent portals usually take two:
 
 But before you fly out, if you don't have a U.S. bank account yet, you can't use ACH. That leaves only the card. And if you set up a full year of AutoPay on a card, **you get hit with a fee every single month.** If your rent is high, those fees alone can run into the hundreds of dollars over a year.
 
-A Korean card makes it worse. On top of the processing fee, you stack a **foreign transaction fee** and the **exchange-rate loss from converting won to dollars**, plus there's the risk that **your card company flags a recurring overseas charge as fraud and blocks it.** If the payment gets blocked, it counts as a missed payment, and you can end up paying a declined-transaction fee (often around $40) plus the late fee. AutoPay, the thing you set up to make life easier, ends up **quietly running up your costs.**
+A Korean card makes it worse. On top of the processing fee, you stack a **foreign transaction fee** and the **exchange-rate loss from converting won to dollars**, plus there's the risk that **your card company flags a recurring overseas charge as fraud and blocks it.** If the payment gets blocked, it counts as a missed payment, and you can end up paying a declined-transaction fee (often around $40) plus the late fee. AutoPay, the thing you set up to make life easier, ends up **quietly increasing your costs.**
 
 ## The Right Order
 
@@ -40,6 +40,6 @@ The key is **not setting up a full year of card AutoPay.** Even if you cover an 
 
 ## The One-Line Takeaway
 
-Automating isn't always the right move. Before you set it up, ask the real question first: "how much does this leak every month?" Especially right after you arrive, when your only payment method is a stopgap, holding off on AutoPay for a while saves you money. It's worth weighing convenience and cost together before you decide.
+Automating isn't always the right move. Before you set it up, ask the real question first: "how much does this cost every month?" Especially right after you arrive, when your only payment method is a stopgap, holding off on AutoPay for a while saves you money. It's worth weighing convenience and cost together before you decide.
 
 In the end, I finished up that day without setting up AutoPay. Instead I wrote down: "after arrival, account first, then AutoPay." It seems like a small thing, but over a year it adds up to real money, and more than that, it's how you avoid a missed-payment mess.

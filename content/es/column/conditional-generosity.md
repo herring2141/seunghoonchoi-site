@@ -55,7 +55,7 @@ El problema es el canalla de verdad. Quien se empeña en hacerte daño y con qui
 
 Primero, el enemigo por choque de intereses. Te hace daño porque hacerlo le da una ventaja real. Hay algo en juego: un puesto, dinero, reputación. Con esta persona se puede hablar. Basta con cambiarle las cuentas de lo que gana y pierde. Haz que hacerte daño le salga más caro, o que cooperar le salga más a cuenta, o sepárate hacia un sitio donde directamente no choquéis.
 
-Segundo, el enemigo cuyo objetivo es hacer daño en sí mismo. Para él, esa reacción tuya de sentirte sacudido ya es el premio. Quiere verte saltar, protestar, dolerte. Aquí lo clave es cruel pero simple. Si le cortas la reacción, esa conducta se queda sin alimento y se marchita. Convencerlo, protestar, suplicar: todo eso es darle de comer. Por eso decirle "no lo hagas" no funciona. Esas palabras son, justamente, la reacción que él buscaba.
+Segundo, el enemigo cuyo objetivo es hacer daño en sí mismo. Para él, esa reacción tuya de sentirte sacudido ya es el premio. Quiere verte saltar, protestar, dolerte. Aquí lo clave es cruel pero simple. Si le cortas la reacción, esa conducta se queda sin lo que la sostiene y se acaba apagando. Convencerlo, protestar, suplicar: todo eso es darle de comer. Por eso decirle "no lo hagas" no funciona. Esas palabras son, justamente, la reacción que él buscaba.
 
 Tercero, el enemigo inevitable. Casos como el jefe en el trabajo, la familia o una relación atada por una institución, donde poner distancia es físicamente imposible. Aquí filtras lo menos posible de tus emociones e información (para atacar hace falta ver el blanco). Dejas todo por escrito. Si hace falta, no te enfrentas solo, sino que traes una fuerza mayor. Recursos humanos, el reglamento, la ley, la reputación.
 
@@ -79,7 +79,7 @@ Primero, traduzco el impulso a información. Cuando sube el "quiero despotricar 
 
 Segundo, cambio la expresión por una acción. Si quiero criticar, en su lugar marco con claridad el límite ("eso me resulta difícil de aceptar"). Si quiero destapar algo, en su lugar lo registro. Cuando en vez de emoción quedan hechos, eso se vuelve después poder de negociación. Si quiero rebajar a alguien, en su lugar ajusto la distancia. La ira es una fuerza, y la acción es la salida. La diferencia está en si con esa misma fuerza haces daño o impulsas algo adelante.
 
-Tercero, lo dejo reposar un día. El momento en que el impulso es más fuerte es el peor momento para hablar. Pongo como filtro la pregunta "¿querría decir esto también mañana?". Si lo pasa, ya no es impulso sino criterio, así que puedo decirlo. Si no lo pasa, era solo humo negro, así que lo tiro.
+Tercero, lo dejo reposar un día. El momento en que el impulso es más fuerte es el peor momento para hablar. Pongo como filtro la pregunta "¿querría decir esto también mañana?". Si lo pasa, ya no es impulso sino criterio, así que puedo decirlo. Si no lo pasa, era solo un impulso pasajero, así que lo descarto.
 
 Aun así, hay momentos en que toca ser firme. Lo clave es no hacerlo en caliente, sino en frío. Un mismo rechazo, si le cargas emoción, es señal de débil; si le cargas solo hechos, es señal de fuerte. "Eres un irresponsable" es una crítica. "Este plazo hay que cumplirlo. Si no, lo llevamos así" son hechos, un límite y una consecuencia. Lo segundo es más fuerte y además no daña la reputación. Al quitarle la emoción, suena incluso más temible. Es como que un perro que mira en silencio parece más peligroso que uno que gruñe.
 

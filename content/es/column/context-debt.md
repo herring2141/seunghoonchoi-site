@@ -97,11 +97,11 @@ Esas preguntas no preguntan por redacción. Preguntan por contexto. Si no puedes
 
 De hecho, cuanto más convincente suena el texto, más peligroso es. El lector cree que quien lo escribió entiende lo que dice. Si no respondes, queda la impresión de que entregaste tal cual lo que escribió la IA. En ese momento no solo se daña el informe. Se daña tu credibilidad.
 
-## Pídele a la IA que escriba, pero cava el contexto con ella
+## Pídele a la IA que escriba, pero indaga el contexto con ella
 
 La solución no es dejar de pedir informes a la IA. La IA sirve muchísimo para crear borradores. También ayuda a armar índices, ordenar frases y encontrar puntos faltantes. El problema es pedir "escríbeme el informe" y detenerse ahí. Las frases llegan rápido, pero la deuda de contexto sigue intacta.
 
-Hay que cavar el contexto junto con la IA. Después de darle materiales, hay que preguntar:
+Hay que indagar el contexto junto con la IA. Después de darle materiales, hay que preguntar:
 
 Quién es el decisor final de este informe.
 Cuál es la evidencia más fuerte y cuál la más débil.

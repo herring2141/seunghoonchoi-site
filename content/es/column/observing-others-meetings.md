@@ -68,7 +68,7 @@ Al analizar la minuta con IA, pide extraer criterios de juicio por separado. Qu�
 
 Cuando conoces los criterios, la siguiente reunión se vuelve más fácil. Puedes anticipar dónde mirará la gente cuando aparezca un tema parecido. Entender un trabajo no es memorizar muchos materiales. Es entender con qué criterios elige esa organización.
 
-## Los términos desconocidos deben clavarse en el mapa del trabajo con IA
+## Los términos desconocidos deben ubicarse en el mapa del trabajo con IA
 
 Es normal que aparezcan palabras desconocidas en una primera reunión. El problema es intentar entenderlas todas en el momento. Si haces eso, pierdes el flujo de la reunión.
 

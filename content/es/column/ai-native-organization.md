@@ -56,7 +56,7 @@ La mayoría se detiene en los niveles 1 y 2. La verdadera brecha se abre a parti
 
 ## Si todo se concentra en unos pocos expertos, el cuello de botella revienta
 
-La **alfabetización en IA** es el estado de *saber* qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La **fluidez en IA** es el estado de aplicarla de verdad a mi trabajo y *sacar resultados*. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza se cae y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino **un estado en el que varias personas pueden tomar el volante directamente**. El orden también es claro. Muchas personas tienen que tener la práctica en las manos para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
+La **alfabetización en IA** es el estado de *saber* qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La **fluidez en IA** es el estado de aplicarla de verdad a mi trabajo y *sacar resultados*. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza se cae y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino **un estado en el que varias personas pueden manejarla directamente**. El orden también es claro. Muchas personas tienen que tener práctica directa para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
 
 ## Si te confundes, solo tiras el dinero
 

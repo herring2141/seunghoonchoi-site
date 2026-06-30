@@ -86,7 +86,7 @@ AI should not become a god that governs Earth for us. But it can take on the rol
 
 ## SpaceX should look at Earth's circulation before Mars
 
-If any company can turn this kind of work into real industry, SpaceX is one of the first names that comes to mind. It launches rockets often, operates satellites at scale, and builds space infrastructure like a factory. The first use of that capability should be Earth's climate emergency network, not a Mars city.
+If any company can turn this kind of work into real industry, SpaceX is one of the first names that comes to mind. It launches rockets often, operates satellites at scale, and builds space infrastructure at industrial scale. The first use of that capability should be Earth's climate emergency network, not a Mars city.
 
 We need a dense climate observation satellite network. We need stronger ocean observation for AMOC. We need small space-blind module tests, including solar pressure, attitude control, and long-term durability. AI models need to keep receiving that data and calculating from it.
 

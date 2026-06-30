@@ -3,7 +3,7 @@ title: "La IA de la empresa no es gratis. El espejismo de los tokens y la suscri
 date: 2026-06-21T17:56:30+09:00
 categories: ["IA"]
 tags: ["Costes de la IA","Coste de tokens","Productividad","Espejismo de la suscripción","Toma de decisiones","Automatización del trabajo"]
-subtitle: "Parece una tarifa mensual fija, pero el coste real de la IA en la empresa se escapa como la electricidad que corre por dentro de la pared. Vamos a sumar tokens, tiempo de revisión y decisiones que se retrasan, y a calcularlo todo de nuevo con una sola idea: el umbral para usar la IA."
+subtitle: "Parece una tarifa mensual fija, pero el coste real de la IA en la empresa no se ve directamente, igual que el consumo eléctrico que corre por dentro de la pared. Vamos a sumar tokens, tiempo de revisión y decisiones que se retrasan, y a calcularlo todo de nuevo con una sola idea: el umbral para usar la IA."
 seoTitle: "Costes ocultos de la IA en la empresa: tokens, espejismo de la suscripción y umbral de uso"
 image: /images/col-ai-hidden-costs.jpg
 reviewStatus: "done"
@@ -79,4 +79,4 @@ Imagina que te pasas el día entero haciendo veinte versiones, sacando resúmene
 
 La IA vale lo que cuesta solo cuando te quita trabajo. Si lo que produces creció pero las decisiones no se aceleraron, eso no es automatización. Es ruido que ha crecido. Solo sube el volumen y el trabajo sigue igual.
 
-Por eso quien gana al final no es quien más usa la IA. Es quien saca mejores resultados con menos tokens. La posición fuerte no está en "yo uso mucho la IA", sino en "yo diseño el rendimiento de la IA frente a su coste". Quien es consciente de la electricidad que se escapa por dentro de la pared acaba trabajando en la habitación más luminosa.
+Por eso quien gana al final no es quien más usa la IA. Es quien saca mejores resultados con menos tokens. La posición fuerte no está en "yo uso mucho la IA", sino en "yo diseño el rendimiento de la IA frente a su coste". Quien tiene presente ese consumo invisible, como la electricidad que corre por dentro de la pared, es quien al final saca más provecho del mismo gasto.

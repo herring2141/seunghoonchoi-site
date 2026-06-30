@@ -46,7 +46,7 @@ Put material in and AI makes sentences. The blank page fills up. A plausible str
 
 But you may not actually understand. AI did not remove your confusion. It only covered it so you could no longer see it. The fact that a report exists and the fact that you control the report are different.
 
-Miss that difference and the meeting collapses you.
+Miss that difference and the meeting exposes you.
 
 ## Context debt is the debt not written in the document
 

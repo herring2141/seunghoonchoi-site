@@ -56,7 +56,7 @@ Reputation risk is more ambiguous than factual error. A sentence can be true and
 
 An AI-written apology can be grammatically perfect. But if it reads too cold, it can create more anger. A customer notice can contain the right information. But if it sounds like the company is dodging responsibility, people will not receive it as an explanation.
 
-Brand tone works the same way. Whether it is a personal website or a company account, words that go outside carry the grain of the person behind them. AI may produce an average good sentence, but that average may not fit this context. It may sound too promotional, too defensive, too confident, or too careless.
+Brand tone works the same way. Whether it is a personal website or a company account, words that go outside reflect the character of the person behind them. AI may produce an average good sentence, but that average may not fit this context. It may sound too promotional, too defensive, too confident, or too careless.
 
 Reputation failures usually do not come from one dramatic sentence alone. Small mismatches accumulate until a reader feels, "No human is actually seeing me here. This is just automatic speech." The faster we write with AI, the more the final read has to be human. We have to ask not only whether the sentence is correct, but how it will sound to this person, now. Reputation is not only an information problem. It is a relationship problem.
 
