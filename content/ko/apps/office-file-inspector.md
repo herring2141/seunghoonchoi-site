@@ -1,5 +1,5 @@
 ---
-title: "Office File Inspector — AI가 만든 PPT·엑셀·워드 결함 검사기"
+title: "Office File Inspector: AI가 만든 PPT·엑셀·워드 결함 검사기"
 seoTitle: "Office File Inspector: AI 생성 PPT·엑셀·워드 결함 검사 오픈소스"
 date: 2026-06-16
 categories: ["도구"]
@@ -39,4 +39,4 @@ GitHub 저장소 주소는 기존 링크 유지를 위해 `llm-office-qa` 그대
 
 [GitHub에서 보기 →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-왜 이렇게 만들었는지 — 검수 도구가 왜 더 좋은 결과의 가능성을 막으면 안 되는지 → [AI 결과물 검수의 함정](/ko/column/dont-lobotomize-the-model/)
+왜 이렇게 만들었는지, 검수 도구가 왜 더 좋은 결과의 가능성을 막으면 안 되는지 → [AI 결과물 검수의 함정](/ko/column/dont-lobotomize-the-model/)

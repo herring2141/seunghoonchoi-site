@@ -1,5 +1,5 @@
 ---
-title: "Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar — móvil, banco, SSN, licencia y crédito"
+title: "Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar (móvil, banco, SSN, licencia y crédito)"
 description: "Lista de tareas para que un estudiante con visa F1 resuelva en orden, tras llegar a Estados Unidos, el móvil, la cuenta bancaria, el SSN, la licencia de conducir de Florida (reconocimiento mutuo con Corea) y la tarjeta de crédito."
 seoTitle: "Trámites tras llegar a estudiar en Estados Unidos: banco, SSN, licencia y crédito"
 date: 2026-06-17T15:00:00+09:00
@@ -52,7 +52,7 @@ Como asistente de cátedra (GA) recibes salario, así que te corresponde un SSN.
   4. Unas 2 a 4 semanas después, la tarjeta te llega por correo.
 - Lleva: pasaporte · I-94 · I-20 · carta de apoyo para el SSN · cuestionario para no ciudadanos · carta de oferta (offer letter) con el EIN, el cargo, los días de trabajo y el supervisor.
 
-## 4. Licencia de conducir — reconocimiento mutuo entre Corea y Florida (sin examen)
+## 4. Licencia de conducir: reconocimiento mutuo entre Corea y Florida (sin examen)
 
 Florida tiene reconocimiento mutuo con la licencia coreana, así que casi no hay examen.
 

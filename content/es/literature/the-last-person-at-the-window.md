@@ -1,5 +1,5 @@
 ---
-title: "La última persona junto a la ventana — Después de que la IA se llevó todo el trabajo"
+title: "La última persona junto a la ventana: después de que la IA se llevó todo el trabajo"
 date: 2026-06-21
 categories: ["Ficción"]
 tags: ["Relato corto"]

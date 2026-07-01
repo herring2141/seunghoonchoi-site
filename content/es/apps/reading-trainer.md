@@ -1,5 +1,5 @@
 ---
-title: "ReadFast — App para leer rápido en idiomas extranjeros"
+title: "ReadFast: app para leer rápido en idiomas extranjeros"
 seoTitle: "App de lectura rápida en inglés y chino, entrenamiento basado en evidencia"
 date: 2026-06-16
 categories: ["Herramientas"]
@@ -23,12 +23,12 @@ Yo también quería leer rápido en inglés y en chino, pero ninguno de los mét
 
 La idea de fondo es una sola: lo que limita la velocidad de lectura no son “los ojos”, sino “cómo procesa el cerebro las palabras”. Por eso, afirmaciones como ampliar el campo visual, que el RSVP sirve para todo, leer 10.000 palabras por minuto o el photoreading se explican con claridad en la pestaña «Principios», donde muestro por qué no funcionan. En su lugar, la app entrena las partes que sí dan resultado.
 
-- Automatización del vocabulario + cobertura — reconocimiento de palabras rápido y constante mediante repetición espaciada por orden de frecuencia
-- Lectura atenta ERR — puntuación = velocidad × comprensión (si la comprensión es menor al 60 %, son 0 puntos). Leer por encima no sirve
-- Modo Conquistar (Conquer) — comprende por completo un texto difícil con una primera lectura, luego léelo rápido varias veces y transfiere lo aprendido a un texto nuevo
+- Automatización del vocabulario + cobertura: reconocimiento de palabras rápido y constante mediante repetición espaciada por orden de frecuencia
+- Lectura atenta ERR: puntuación = velocidad × comprensión (si la comprensión es menor al 60 %, son 0 puntos). Leer por encima no sirve
+- Modo Conquistar (Conquer): comprende por completo un texto difícil con una primera lectura, luego léelo rápido varias veces y transfiere lo aprendido a un texto nuevo
 - Tres pasadas para artículos académicos · autoexplicación y recuperación · segmentación y reconocimiento de caracteres en chino
-- Pestaña «Principios» — por qué funciona, con la fuerza de la evidencia y las fuentes
-- PWA instalable — agrégala a la pantalla de inicio y funciona como una app, incluso sin conexión
+- Pestaña «Principios»: por qué funciona, con la fuerza de la evidencia y las fuentes
+- PWA instalable: agrégala a la pantalla de inicio y funciona como una app, incluso sin conexión
 
 [Abrir la app →](/reading-trainer/)
 

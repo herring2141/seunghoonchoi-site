@@ -1,11 +1,11 @@
 ---
-title: "美国研究生院落地指南 Part 3：到美后的行政办理顺序 — 手机、银行、SSN、驾照、信用"
+title: "美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）"
 description: "F1 留学生到美后按顺序办理：美国手机、银行卡、SSN、佛罗里达驾照（中韩互认、免笔试和路考），以及从零开始积累信用记录的完整落地行政清单。"
 seoTitle: "美国留学落地行政顺序：银行·SSN·驾照·信用"
 date: 2026-06-17T15:00:00+09:00
 categories: ["Settling In"]
 tags: ["SSN","bank account","driver license","credit score"]
-subtitle: "从手机到银行、SSN、佛罗里达驾照（中韩互认）、再到积累信用 — 按顺序照做的落地行政清单"
+subtitle: "从手机到银行、SSN、佛罗里达驾照（中韩互认）、再到积累信用，按顺序照做的落地行政清单"
 hidden: true
 build: {list: never, render: always}
 ---
@@ -52,7 +52,7 @@ build: {list: never, render: always}
   4. 约 2~4 周 后，卡片会通过邮寄送达。
 - 需携带：护照 · I-94 · I-20 · SSN 支持信 · 非公民问卷 · 写明 EIN、职位、工作日期和主管的 offer letter。
 
-## 4. 驾照 — 韩国-佛罗里达互认（免试）
+## 4. 驾照：韩国-佛罗里达互认（免试）
 
 这一步对韩国留学生来说尤其令人欣慰。佛罗里达与韩国驾照互认，所以几乎不用考试。
 
@@ -68,7 +68,7 @@ build: {list: never, render: always}
 最后一步是个需要时间的活儿，越早开始越好。在美国，信用分悄悄地左右着相当多的事。
 
 - 美国信用分会影响 租房、买车、后付费通信。外国新人的信用是从零开始的。
-- 有 SSN 之前：担保卡（secured，押金即额度）或留学生卡（Deserve EDU、Zolve、Firstcard 等 — 凭 ITIN 或无 SSN 也能办）。
+- 有 SSN 之前：担保卡（secured，押金即额度）或留学生卡（Deserve EDU、Zolve、Firstcard 等，凭 ITIN 或无 SSN 也能办）。
 - 有 SSN 之后：升级到 Discover it Student / Capital One 学生卡。
 - 核心习惯只有一个：每月全额还款 + 保持低使用率，这样通常 6~12 个月内就能建立起信用。
 

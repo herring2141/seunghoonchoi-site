@@ -24,7 +24,7 @@ En la ley fiscal de Estados Unidos, un estudiante F-1 parte de un punto distinto
 
 ## Artículo 21 del tratado fiscal Corea-Estados Unidos: exención de $2,000 al año
 
-Para un estudiante F-1 que llega de Corea a Estados Unidos, el tratado fiscal Corea-Estados Unidos (Korea–U.S. Tax Treaty) ofrece un beneficio más.
+Para un estudiante F-1 que llega de Corea a Estados Unidos, el tratado fiscal Corea-Estados Unidos (Korea-U.S. Tax Treaty) ofrece un beneficio más.
 
 - Un estudiante F-1 que era residente en Corea puede quedar exento del impuesto federal sobre hasta $2,000 al año de ingresos por servicios personales (incluido el salario de asistente), y este beneficio se aplica hasta 5 años.
 - Se aplica en dos pasos. Primero presentas el formulario 8233 al equipo de nóminas (payroll) para obtener la reducción en la etapa de retención; después, al declarar los impuestos, anotas que aplicaste el tratado en la línea 1k del 1040-NR y en el Schedule OI.

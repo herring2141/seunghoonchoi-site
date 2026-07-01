@@ -12,22 +12,22 @@ reviewStatus: "done"
 
 ## 경력
 
-- 2026 – · 박사과정 입학 예정, 계산재료과학 — _플로리다대학교(UF)_, 게인즈빌, FL
-- 2025 – 2026 · 방문연구원, 전자전기-로봇공학 — _한국교통대학교_, 충주
-- 2023 – 2025 · 전극 공정 기술자문 — _EV 배터리 합작법인_, 중국 옌청 — 프리미엄 EV 라인 런칭
-- 2021 – 2023 · 전극 공정 엔지니어 — _대형 EV 배터리 제조사_, 서산 — 양산 공정 관리
-- 2017 – 2019 · 공학석사, 나노과학·공학 — _성균관대학교(SKKU)_, 수원
-- 2010 – 2017 · 공학사, 신소재공학 — _성균관대학교(SKKU)_, 수원
+- 2026~ · 박사과정 입학 예정, 계산재료과학, _플로리다대학교(UF)_, 게인즈빌, FL
+- 2025~2026 · 방문연구원, 전자전기-로봇공학, _한국교통대학교_, 충주
+- 2023~2025 · 전극 공정 기술자문, _EV 배터리 합작법인_, 중국 옌청. 프리미엄 EV 라인 런칭
+- 2021~2023 · 전극 공정 엔지니어, _대형 EV 배터리 제조사_, 서산. 양산 공정 관리
+- 2017~2019 · 공학석사, 나노과학·공학, _성균관대학교(SKKU)_, 수원
+- 2010~2017 · 공학사, 신소재공학, _성균관대학교(SKKU)_, 수원
 
 ## 산업 경험
 
-리튬이온 배터리 전극 제조 분야 7년 이상 — 공정 최적화, 양산 스케일업, 데이터 기반 표준화를 한국·중국 생산 거점에서 주도했습니다. 전극 전체 공정(슬러리 제조·코팅·캘린더링·슬리팅), 프리미엄 EV 프로그램의 신규 라인 셋업과 양산 준비, 안정적인 데이터 흐름과 추적성을 위한 제조 시스템(MES, Manufacturing Execution System / ERP, Enterprise Resource Planning / QMS, Quality Management System) 통합까지 담당했습니다.
+리튬이온 배터리 전극 제조 분야 7년 이상. 공정 최적화, 양산 스케일업, 데이터 기반 표준화를 한국·중국 생산 거점에서 주도했습니다. 전극 전체 공정(슬러리 제조·코팅·캘린더링·슬리팅), 프리미엄 EV 프로그램의 신규 라인 셋업과 양산 준비, 안정적인 데이터 흐름과 추적성을 위한 제조 시스템(MES, Manufacturing Execution System / ERP, Enterprise Resource Planning / QMS, Quality Management System) 통합까지 담당했습니다.
 
 ## 연락처
 
-- 이력서(CV) — [PDF 다운로드 ↗](/cv/Seunghoon_Choi_CV.pdf)
-- 대학 — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
-- 개인 — [herring2141@gmail.com](mailto:herring2141@gmail.com)
-- 링크드인 — [연결하기 ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
-- ORCID — [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
-- Google Scholar — [프로필 ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)
+- 이력서(CV): [PDF 다운로드 ↗](/cv/Seunghoon_Choi_CV.pdf)
+- 대학: [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
+- 개인: [herring2141@gmail.com](mailto:herring2141@gmail.com)
+- 링크드인: [연결하기 ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
+- ORCID: [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
+- Google Scholar: [프로필 ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)

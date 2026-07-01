@@ -1,6 +1,6 @@
 ---
-title: "AIが作るPowerPoint・Excel・WordのオープンソースQA — llm-office-qa"
-seoTitle: "AIのPowerPoint・Excel・Word QA — オープンソースのリンター"
+title: "AIが作るPowerPoint・Excel・WordのオープンソースQA：llm-office-qa"
+seoTitle: "AIのPowerPoint・Excel・Word QA：オープンソースのリンター"
 date: 2026-06-16
 categories: ["ツール"]
 tags: ["オープンソース", "AI"]
@@ -20,13 +20,13 @@ build: {list: never, render: always}
   </div>
 </div>
 
-LLMがスライドや表計算を作ると、決まった種類のミスが出ます。文字がスライドからはみ出る、`#REF!`エラーが残る、数値が文字列として保存される、MarkdownがWord文書に紛れ込む——。llm-office-qaは、こうしたミスだけを拾います。それ以外には触れません。
+LLMがスライドや表計算を作ると、決まった種類のミスが出ます。文字がスライドからはみ出る、`#REF!`エラーが残る、数値が文字列として保存される、MarkdownがWord文書に紛れ込む。llm-office-qaは、こうしたミスだけを拾います。それ以外には触れません。
 
-- 客観的な不具合だけ — 画面外にはみ出た文字、壊れた数式、ガタついた表、引き伸ばされた画像、途切れた罫線、消し忘れのMarkdown
-- 好みは押しつけない — 情報の詰め込み具合、配色、フォントの選び方、文章の質はモデルの仕事であって、リンターの仕事ではありません
-- 決定論的 — ファイルを読んで測るだけ。ネットワーク通信も、モデル呼び出しもありません
+- 客観的な不具合だけ：画面外にはみ出た文字、壊れた数式、ガタついた表、引き伸ばされた画像、途切れた罫線、消し忘れのMarkdown
+- 好みは押しつけない：情報の詰め込み具合、配色、フォントの選び方、文章の質はモデルの仕事であって、リンターの仕事ではありません
+- 決定論的：ファイルを読んで測るだけ。ネットワーク通信も、モデル呼び出しもありません
 - MITライセンス。納品前に不具合をモデルに差し戻して直させる[Claude Code](https://docs.claude.com/en/docs/claude-code)のフックとして動きます
 
 [GitHubで見る →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-考え方の背景——QAの層が、より賢いモデルの足かせになってはいけない理由 → [モデルをロボトミーにするな](/ja/column/dont-lobotomize-the-model/)
+考え方の背景：QAの層が、より賢いモデルの足かせになってはいけない理由 → [モデルをロボトミーにするな](/ja/column/dont-lobotomize-the-model/)

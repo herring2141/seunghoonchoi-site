@@ -1,6 +1,6 @@
 ---
 title: "Práctica para el examen integral de ciudadanía coreana"
-seoTitle: "Examen de práctica de ciudadanía coreana — app de escrito, redacción y oral"
+seoTitle: "Examen de práctica de ciudadanía coreana: app de escrito, redacción y oral"
 date: 2026-06-14
 categories: ["Herramientas"]
 tags: ["ciudadanía coreana", "app"]

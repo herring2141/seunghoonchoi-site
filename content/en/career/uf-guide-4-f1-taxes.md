@@ -14,17 +14,17 @@ build: {list: never, render: always}
 
 Once your admission and most of your relocation prep are settled, one area tends to leave nearly everyone stuck: taxes. The rules for F-1 students differ from those for U.S. citizens and permanent residents, and in many cases those differences work in a student's favor. This post lays out just the essentials. Because tax law and policy change often, confirm with UFIC and a tax professional before you actually file.
 
-## Your status and your exemptions — starting as a nonresident
+## Your status and your exemptions: starting as a nonresident
 
 Under U.S. tax law, F-1 students start from a different line than ordinary taxpayers. Three points matter most.
 
-- First 5 calendar years = nonresident alien for tax purposes — When you enter on F-1, you are classified as a nonresident alien for tax purposes for your first 5 calendar years. This status is what makes the exemptions below possible.
-- FICA (Social Security + Medicare, 7.65%) exemption — As a nonresident-alien F-1 student, FICA is not withheld from your pay. If it is withheld by mistake, you can get it refunded.
-- Florida state income tax: 0% — Florida has no state income tax, so you only need to deal with federal tax. That is a meaningful advantage.
+- First 5 calendar years = nonresident alien for tax purposes: When you enter on F-1, you are classified as a nonresident alien for tax purposes for your first 5 calendar years. This status is what makes the exemptions below possible.
+- FICA (Social Security + Medicare, 7.65%) exemption: As a nonresident-alien F-1 student, FICA is not withheld from your pay. If it is withheld by mistake, you can get it refunded.
+- Florida state income tax: 0%. Florida has no state income tax, so you only need to deal with federal tax. That is a meaningful advantage.
 
-## Korea-U.S. tax treaty, Article 21 — $2,000/year exemption
+## Korea-U.S. tax treaty, Article 21: $2,000/year exemption
 
-For an F-1 student who came from Korea, the Korea–U.S. tax treaty adds a further benefit.
+For an F-1 student who came from Korea, the Korea-U.S. tax treaty adds a further benefit.
 
 - An F-1 student who was a resident of Korea can have up to $2,000/year of personal-services income (including assistantship pay) exempt from federal tax, and this benefit applies for up to 5 years.
 - Claiming it is a two-step process. First, file Form 8233 with payroll to reduce withholding at the source; then, at filing time, report the treaty claim on 1040-NR Line 1k and Schedule OI.
@@ -40,8 +40,8 @@ Which forms you owe depends on whether you have income. Here is the breakdown.
 | Form 1040-NR | If you have income (assistantship pay) |
 | Documents you receive | W-2 · 1042-S |
 
-- Sprintax — UFIC provides free access for federal filing and Form 8843 starting in early February each year (state filing may be paid, though Florida has no state income tax).
-- Deadlines — If you have income, 4/15; if you have no income and are filing only Form 8843, 6/15. The postmark date governs.
+- Sprintax: UFIC provides free access for federal filing and Form 8843 starting in early February each year (state filing may be paid, though Florida has no state income tax).
+- Deadlines: If you have income, 4/15; if you have no income and are filing only Form 8843, 6/15. The postmark date governs.
 - Assistantship holders are eligible for an SSN, so no ITIN is needed.
 
 In short, F-1 student taxes boil down to one line: "nonresident alien for 5 years → FICA exemption + 0% Florida state tax + Article 21 $2,000 exemption → Form 8843 (everyone) and 1040-NR (if you have income) → deadline 4/15 or 6/15." Get this framework straight and your first filing season will go much more smoothly.
