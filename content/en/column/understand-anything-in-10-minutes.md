@@ -18,15 +18,15 @@ A summary is, in the end, a conclusion someone else organized for you. Understan
 
 ## Force Any Concept Into These Nine Boxes
 
-1. **Essence**: What is the core of this? Not the label. Stated as role and structure, what is it?
-2. **Need**: Why is it needed? Without it, what can't you explain, distinguish, or solve?
-3. **Purpose**: What is it ultimately trying to do? (Explain, measure, predict, control, design, classify, judge, or connect.)
-4. **Mechanism**: Why and how does it run? Through what way of working does the result come out?
-5. **Components**: What is it made of? The main elements, steps, and variables, and what goes in and what comes out?
-6. **Relations**: What does it connect to? What sits above it, below it, beside it?
-7. **Boundaries**: What is it set apart from? How does it differ from concepts that look similar but aren't?
-8. **Application**: Where is it used? When does it hold, and where does it break?
-9. **Questions That Came Up**: What don't you know yet, what's still confusing, what evidence do you need to check?
+1. Essence: What is the core of this? Not the label. Stated as role and structure, what is it?
+2. Need: Why is it needed? Without it, what can't you explain, distinguish, or solve?
+3. Purpose: What is it ultimately trying to do? (Explain, measure, predict, control, design, classify, judge, or connect.)
+4. Mechanism: Why and how does it run? Through what way of working does the result come out?
+5. Components: What is it made of? The main elements, steps, and variables, and what goes in and what comes out?
+6. Relations: What does it connect to? What sits above it, below it, beside it?
+7. Boundaries: What is it set apart from? How does it differ from concepts that look similar but aren't?
+8. Application: Where is it used? When does it hold, and where does it break?
+9. Questions That Came Up: What don't you know yet, what's still confusing, what evidence do you need to check?
 
 The ninth box is the real one. Most notes stop at "I know this." This template makes you write down, out in the open, what you still don't know. That becomes the very question you raise in the class or the meeting.
 
@@ -53,8 +53,8 @@ someone seeing it for the first time can get oriented within 10 minutes.
 
 Frameworks for organizing a concept are everywhere. Exactly three things make this one different.
 
-First, **Boundaries**. It forces you, even if you have to push, to write down how a concept differs from its look alikes. That's how the confusion finally stops.
+First, Boundaries. It forces you, even if you have to push, to write down how a concept differs from its look alikes. That's how the confusion finally stops.
 
-Second, the **inferred and needs verification flag**. It doesn't treat the blanks an AI or a source filled in the same way as the facts that have actually been confirmed.
+Second, the inferred and needs verification flag. It doesn't treat the blanks an AI or a source filled in the same way as the facts that have actually been confirmed.
 
-Third, **it ends on a question**. It leaves understanding not as "done" but as "the next thing to do." The moment you close it off thinking you know it, the studying stops right there.
+Third, it ends on a question. It leaves understanding not as "done" but as "the next thing to do." The moment you close it off thinking you know it, the studying stops right there.

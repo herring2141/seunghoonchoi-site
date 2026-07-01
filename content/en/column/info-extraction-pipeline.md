@@ -29,7 +29,7 @@ My extraction rules start with "throw it out," from the first line to the last.
 - Throw out anything a quick search would turn up (this is the strongest filter)
 - Throw out anything that becomes a plain, common line once you remove the proper nouns
 - If there's nothing worth saving, output only "nothing to save"
-- **A miss is better than an over-pull**
+- A miss is better than an over-pull
 
 Only six things stay, and only when they clearly fit: an action you actually have to take, info a first-timer wouldn't know, the structure that shows how a system runs, a phrase you can reuse word for word, a fact that serves as proof, and a realization big enough to change how you judge things.
 

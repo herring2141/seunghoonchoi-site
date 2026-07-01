@@ -90,7 +90,7 @@ Ese movimiento lento es el centro de las etapas 9 a 14. En la próxima parte, es
 
 ---
 
-**Serie "16 etapas del reemplazo laboral por IA" · Parte 3**
+Serie "16 etapas del reemplazo laboral por IA" · Parte 3
 
 - Mapa completo: [En qué orden reemplaza la IA el trabajo humano (mapa completo)](/es/column/ai-replacement-stages/)
 - Texto anterior: [Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8](/es/column/ai-replacement-stages-2/)

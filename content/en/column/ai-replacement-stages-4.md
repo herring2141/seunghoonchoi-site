@@ -137,7 +137,7 @@ Where should we spend time now so we do not regret it no matter what future arri
 
 The final question is this. In an age when AI becomes smarter than humans, what position should I move toward?
 
-**Series: The 16 Stages of AI Job Replacement, Part 4**
+Series: The 16 Stages of AI Job Replacement, Part 4
 
 - Full map: [In what order does AI replace human work?](/column/ai-replacement-stages/)
 - Previous: [Decision authority does not move all at once: stages 9 to 14](/column/ai-replacement-stages-3/)

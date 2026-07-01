@@ -15,28 +15,28 @@ Acababa de firmar el contrato de un apartamento en Estados Unidos. Aún faltaba 
 
 ## La domiciliación no es obligatoria
 
-Empecemos por un malentendido. La domiciliación de pagos (AutoPay) casi nunca es **obligatoria.** Lo que el contrato suele exigir es esto: pagar dentro del plazo, a través del portal indicado, con tarjeta o por transferencia bancaria. Que lo configure de forma automática o que lo pague a mano cada mes es cosa mía. La domiciliación no es "una obligación que, si incumples, te trae un problema grave", sino "un seguro para que no se te olvide". (Los recargos suelen salir caros. Se acumulan por días y, si el pago se rechaza, se añade una comisión por cada intento. Por eso ese seguro resulta tan tentador.)
+Empecemos por un malentendido. La domiciliación de pagos (AutoPay) casi nunca es obligatoria. Lo que el contrato suele exigir es esto: pagar dentro del plazo, a través del portal indicado, con tarjeta o por transferencia bancaria. Que lo configure de forma automática o que lo pague a mano cada mes es cosa mía. La domiciliación no es "una obligación que, si incumples, te trae un problema grave", sino "un seguro para que no se te olvide". (Los recargos suelen salir caros. Se acumulan por días y, si el pago se rechaza, se añade una comisión por cada intento. Por eso ese seguro resulta tan tentador.)
 
 ## La trampa: sin cuenta solo te queda la tarjeta, y la tarjeta cobra comisión cada mes
 
 El problema es el medio de pago. Los portales de alquiler estadounidenses suelen aceptar dos opciones.
 
-- **Transferencia bancaria (ACH, Automated Clearing House: el sistema con el que los bancos de EE. UU. se mueven dinero entre sí de forma automática):** prácticamente no tiene comisión (entre cero y una cantidad mínima).
-- **Tarjeta de crédito o débito:** suele llevar una comisión por pago (en torno al 3 %).
+- Transferencia bancaria (ACH, Automated Clearing House: el sistema con el que los bancos de EE. UU. se mueven dinero entre sí de forma automática): prácticamente no tiene comisión (entre cero y una cantidad mínima).
+- Tarjeta de crédito o débito: suele llevar una comisión por pago (en torno al 3 %).
 
-El detalle está aquí: antes de salir del país, si todavía no tienes una cuenta bancaria americana, no puedes usar la transferencia (ACH). Solo te queda la tarjeta. Y si dejas configurada la domiciliación con tarjeta para todo un año, **te cobran una comisión cada mes.** Si el alquiler es alto, solo en comisiones se te van varios cientos de dólares al año.
+El detalle está aquí: antes de salir del país, si todavía no tienes una cuenta bancaria americana, no puedes usar la transferencia (ACH). Solo te queda la tarjeta. Y si dejas configurada la domiciliación con tarjeta para todo un año, te cobran una comisión cada mes. Si el alquiler es alto, solo en comisiones se te van varios cientos de dólares al año.
 
-Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le suman la **comisión por uso en el extranjero** y la **pérdida por el tipo de cambio al convertir wones a dólares**, y existe incluso el **riesgo de que el banco bloquee la tarjeta**: ve un cargo que sale todos los meses desde el extranjero y sospecha que es un uso fraudulento. Si el pago se bloquea, eso se convierte directamente en un impago, y a la comisión por cada rechazo (suelen ser unos 40 dólares) se le puede sumar el recargo por mora. La domiciliación que configuraste para vivir más tranquilo acaba siendo, en realidad, una estructura que **te encarece todo**.
+Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le suman la comisión por uso en el extranjero y la pérdida por el tipo de cambio al convertir wones a dólares, y existe incluso el riesgo de que el banco bloquee la tarjeta: ve un cargo que sale todos los meses desde el extranjero y sospecha que es un uso fraudulento. Si el pago se bloquea, eso se convierte directamente en un impago, y a la comisión por cada rechazo (suelen ser unos 40 dólares) se le puede sumar el recargo por mora. La domiciliación que configuraste para vivir más tranquilo acaba siendo, en realidad, una estructura que te encarece todo.
 
 ## El orden correcto
 
 Por eso lo más limpio es plantearlo así.
 
-1. **Nada más llegar a EE. UU., lo primero es abrir una cuenta bancaria.** Los estudiantes internacionales suelen poder abrirla sin demasiada dificultad con el pasaporte y el I-20 (el documento que acredita la admisión y la solvencia económica). Hay muchos bancos y cooperativas de crédito (credit union: una entidad financiera local de tipo cooperativo) que la abren aunque todavía no tengas el SSN (el número de la seguridad social estadounidense).
-2. **Una vez tengas la cuenta, regístrala en el portal para pagar por transferencia (ACH) y entonces activa la domiciliación.** Comisión: cero.
-3. **Si la cuenta no está abierta para la fecha del primer alquiler, paga solo ese primer mes con tarjeta de forma "manual", una sola vez,** y pásalo a domiciliación por transferencia en cuanto tengas la cuenta.
+1. Nada más llegar a EE. UU., lo primero es abrir una cuenta bancaria. Los estudiantes internacionales suelen poder abrirla sin demasiada dificultad con el pasaporte y el I-20 (el documento que acredita la admisión y la solvencia económica). Hay muchos bancos y cooperativas de crédito (credit union: una entidad financiera local de tipo cooperativo) que la abren aunque todavía no tengas el SSN (el número de la seguridad social estadounidense).
+2. Una vez tengas la cuenta, regístrala en el portal para pagar por transferencia (ACH) y entonces activa la domiciliación. Comisión: cero.
+3. Si la cuenta no está abierta para la fecha del primer alquiler, paga solo ese primer mes con tarjeta de forma "manual", una sola vez, y pásalo a domiciliación por transferencia en cuanto tengas la cuenta.
 
-La clave es **no dejar configurada la domiciliación con tarjeta para todo un año**. Aunque ese pago urgente del primer mes lo cubras con tarjeta, conviene dejar los pagos recurrentes por transferencia bancaria, que no tiene comisión.
+La clave es no dejar configurada la domiciliación con tarjeta para todo un año. Aunque ese pago urgente del primer mes lo cubras con tarjeta, conviene dejar los pagos recurrentes por transferencia bancaria, que no tiene comisión.
 
 ## La lección, en una línea
 

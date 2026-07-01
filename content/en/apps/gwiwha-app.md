@@ -21,10 +21,10 @@ reviewStatus: "done"
 
 I started building this while my wife was preparing for Korean citizenship. Written questions, essay topics, and oral practice materials were scattered everywhere, so I built one place where she could practice them repeatedly. No payment, no sign-up.
 
-- **Written practice** - repeat multiple-choice questions until they feel familiar
-- **Essay and oral practice** - look at expected topics and practice writing or speaking your own answers
-- **Korean-Chinese side-by-side text** - easier for users who are still building Korean fluency
-- **Installable web app (PWA, Progressive Web App)** - add it to your phone's home screen and use it like an app, even offline
+- Written practice - repeat multiple-choice questions until they feel familiar
+- Essay and oral practice - look at expected topics and practice writing or speaking your own answers
+- Korean-Chinese side-by-side text - easier for users who are still building Korean fluency
+- Installable web app (PWA, Progressive Web App) - add it to your phone's home screen and use it like an app, even offline
 
 [Open the app →](https://seunghoonchoi-phd.github.io/gwiwha/)
 

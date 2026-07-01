@@ -29,7 +29,7 @@ Mi regla de extracción empieza con "descarta" de principio a fin.
 - La información que encuentras rápido buscando en internet, descártala (este es el filtro más fuerte).
 - Si al quitar los nombres propios queda algo trivial, descártalo.
 - Si no hay nada que guardar, escribe solo "Nada que guardar".
-- **Es mejor dejar algo fuera que sacar de más.**
+- Es mejor dejar algo fuera que sacar de más.
 
 Solo se queda lo que encaja con claridad en una de seis cosas. Una acción que de verdad tienes que hacer; información que quien lo hace por primera vez no conoce; una estructura que muestra cómo funciona un sistema; una frase que puedes reutilizar tal cual; un hecho que sirve como prueba; y una idea capaz de cambiar tu criterio para decidir.
 

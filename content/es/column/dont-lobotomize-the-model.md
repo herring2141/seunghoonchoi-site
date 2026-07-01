@@ -36,9 +36,9 @@ Cuando esas reglas se vuelven criterios absolutos, pasa algo raro. Aunque el mod
 
 Antes de agregar una comprobación, hay que hacerse dos preguntas.
 
-**Primera: aunque cambien la intención o el gusto del usuario, ¿casi siempre sería un defecto?** Un `#REF!` en una fórmula, una forma fuera de la diapositiva o un placeholder sin resolver casi nunca deberían entregarse así.
+Primera: aunque cambien la intención o el gusto del usuario, ¿casi siempre sería un defecto? Un `#REF!` en una fórmula, una forma fuera de la diapositiva o un placeholder sin resolver casi nunca deberían entregarse así.
 
-**Segunda: ¿un modelo más competente también querría evitar este problema?** Si una regla puede romperse a propósito para lograr un resultado mejor, no conviene declararla error. La densidad de información, la combinación de colores, el número de fuentes, los márgenes o la longitud de las frases entran aquí.
+Segunda: ¿un modelo más competente también querría evitar este problema? Si una regla puede romperse a propósito para lograr un resultado mejor, no conviene declararla error. La densidad de información, la combinación de colores, el número de fuentes, los márgenes o la longitud de las frases entran aquí.
 
 La idea es simple. Si hasta un modelo mejor intentaría evitar ese fallo, hay que detectarlo. Pero si un modelo mejor podría elegirlo deliberadamente, la herramienta no debe bloquearlo.
 
@@ -60,7 +60,7 @@ Pero esa revisión automática no puede reemplazar el juicio final. El contexto,
 
 ## Por qué hice Office File Inspector
 
-Con ese principio ordené **Office File Inspector**. Es una herramienta open source que busca defectos claros en archivos de PowerPoint, Excel y Word creados por IA.
+Con ese principio ordené Office File Inspector. Es una herramienta open source que busca defectos claros en archivos de PowerPoint, Excel y Word creados por IA.
 
 El objetivo no es hacer que todos los resultados tengan la misma forma. Es bloquear pronto los fallos evidentes y dejar espacio para que el modelo y la persona tomen mejores decisiones.
 

@@ -139,7 +139,7 @@ AI 时代，个人该做什么？
 
 ---
 
-**系列《AI 工作替代 16 阶段》· 第 4 篇**
+系列《AI 工作替代 16 阶段》· 第 4 篇
 
 - 全图：[AI 会按什么顺序替代人的工作（全图）](/zh/column/ai-replacement-stages/)
 - 上一篇：[决定权不会一次性交出去：AI 接管工作的第 9~14 阶段](/zh/column/ai-replacement-stages-3/)

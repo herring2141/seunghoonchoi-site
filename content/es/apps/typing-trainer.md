@@ -21,10 +21,10 @@ reviewStatus: "done"
 
 La hice para que mi esposa pudiera practicar escribiendo ella misma las redacciones modelo de ciudadanía. No hace falta conocer el teclado coreano: ni siquiera tienes que cambiar el idioma de entrada del ordenador. La pantalla te indica la siguiente tecla y qué dedo usar.
 
-- **Práctica de posición** — aprende dónde está cada letra (ㅎ, ㅁ, ㅂ, ㅕ …), con guía de dedos
-- **Práctica de sílabas y frases cortas** — combina consonantes y vocales letra a letra, y luego frases cortas
-- **Práctica de redacción** — copia las redacciones modelo de 200 caracteres de los temas del examen, con el significado a la vista
-- **Cuatro idiomas** — coreano, chino, vietnamita y tailandés; sigue el idioma que elegiste en la app de ciudadanía
+- Práctica de posición — aprende dónde está cada letra (ㅎ, ㅁ, ㅂ, ㅕ …), con guía de dedos
+- Práctica de sílabas y frases cortas — combina consonantes y vocales letra a letra, y luego frases cortas
+- Práctica de redacción — copia las redacciones modelo de 200 caracteres de los temas del examen, con el significado a la vista
+- Cuatro idiomas — coreano, chino, vietnamita y tailandés; sigue el idioma que elegiste en la app de ciudadanía
 
 [Abrir la app →](https://seunghoonchoi-phd.github.io/gwiwha/typing/)
 

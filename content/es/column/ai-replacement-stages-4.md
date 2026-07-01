@@ -139,7 +139,7 @@ La última pregunta es esta: en una era donde la IA se vuelve más inteligente q
 
 ---
 
-**Serie "16 etapas del reemplazo laboral por IA" · Parte 4**
+Serie "16 etapas del reemplazo laboral por IA" · Parte 4
 
 - Mapa completo: [En qué orden reemplaza la IA el trabajo humano (mapa completo)](/es/column/ai-replacement-stages/)
 - Texto anterior: [La autoridad de decidir no se entrega de golpe: etapas 9 a 14](/es/column/ai-replacement-stages-3/)

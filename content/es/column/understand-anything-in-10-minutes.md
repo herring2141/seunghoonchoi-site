@@ -18,15 +18,15 @@ Al final, un resumen es una conclusión que ya organizó otro. La comprensión t
 
 ## Mete cualquier concepto en estas nueve casillas
 
-1. **Esencia**: ¿cuál es el núcleo de esto? No la etiqueta, sino: ¿qué es si lo describes por su función y su estructura?
-2. **Necesidad**: ¿por qué hace falta? Si esto no existiera, ¿qué no podrías explicar, distinguir o resolver?
-3. **Propósito**: ¿qué busca lograr al final? (Entre estos: explicar, medir, predecir, controlar, diseñar, clasificar, juzgar o conectar).
-4. **Principio**: ¿por qué y cómo funciona? ¿Con qué mecanismo se produce el resultado?
-5. **Composición**: ¿de qué está hecho? Sus elementos, etapas y variables principales; ¿qué entra y qué sale?
-6. **Relación**: ¿con qué se conecta? ¿Qué conceptos están por encima, por debajo y al lado?
-7. **Límite**: ¿de qué se distingue? Frente a un concepto parecido pero distinto, ¿en qué se diferencia?
-8. **Aplicación**: ¿dónde se usa? ¿Cuándo funciona y dónde falla?
-9. **Preguntas que surgen**: ¿qué es lo que todavía no sabes, lo que te confunde y lo que tienes que verificar?
+1. Esencia: ¿cuál es el núcleo de esto? No la etiqueta, sino: ¿qué es si lo describes por su función y su estructura?
+2. Necesidad: ¿por qué hace falta? Si esto no existiera, ¿qué no podrías explicar, distinguir o resolver?
+3. Propósito: ¿qué busca lograr al final? (Entre estos: explicar, medir, predecir, controlar, diseñar, clasificar, juzgar o conectar).
+4. Principio: ¿por qué y cómo funciona? ¿Con qué mecanismo se produce el resultado?
+5. Composición: ¿de qué está hecho? Sus elementos, etapas y variables principales; ¿qué entra y qué sale?
+6. Relación: ¿con qué se conecta? ¿Qué conceptos están por encima, por debajo y al lado?
+7. Límite: ¿de qué se distingue? Frente a un concepto parecido pero distinto, ¿en qué se diferencia?
+8. Aplicación: ¿dónde se usa? ¿Cuándo funciona y dónde falla?
+9. Preguntas que surgen: ¿qué es lo que todavía no sabes, lo que te confunde y lo que tienes que verificar?
 
 La novena casilla es la que de verdad importa. Un repaso normal se detiene en "ya lo sé". Esta plantilla te obliga a escribir, de forma clara, qué es lo que todavía no sabes. Y eso se convierte en la pregunta que vas a hacer en la clase o en la reunión.
 
@@ -52,8 +52,8 @@ Organiza el siguiente material con la "plantilla común para entender conceptos"
 
 Hay de sobra plantillas para organizar conceptos en el mundo. Lo que hace distinta a esta son solo tres cosas.
 
-Primero, el **límite**. Te obliga a anotar, aunque sea a la fuerza, la diferencia con un concepto parecido. Solo así desaparece la confusión.
+Primero, el límite. Te obliga a anotar, aunque sea a la fuerza, la diferencia con un concepto parecido. Solo así desaparece la confusión.
 
-Segundo, la **marca de "supuesto" o "por verificar"**. No mezclas en un mismo grupo los huecos que llenó la IA o el material con los hechos ya comprobados.
+Segundo, la marca de "supuesto" o "por verificar". No mezclas en un mismo grupo los huecos que llenó la IA o el material con los hechos ya comprobados.
 
-Tercero, **termina con preguntas**. Deja la comprensión no como algo "terminado", sino como "lo que toca hacer después". En el momento en que la das por cerrada creyendo que ya sabes, el estudio se detiene ahí.
+Tercero, termina con preguntas. Deja la comprensión no como algo "terminado", sino como "lo que toca hacer después". En el momento en que la das por cerrada creyendo que ya sabes, el estudio se detiene ahí.

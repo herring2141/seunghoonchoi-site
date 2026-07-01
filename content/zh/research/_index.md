@@ -7,7 +7,7 @@ reviewStatus: "done"
 
 今后，我想用计算材料科学与机器学习，缩小原子尺度特征与真实工艺、性能之间的差距。
 
-[**完整简历（CV）PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
+[完整简历（CV）PDF ↗](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## 研究方向
 
@@ -43,35 +43,35 @@ reviewStatus: "done"
 
 <p class="publication-note">标注: † 共同第一作者 · * 通讯作者 · 粗体为本人</p>
 
-1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
-   **Seunghoon Choi**†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **共同第一作者**
-2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
-   **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **共同第一作者**
-3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.**
-   Subi Jeon†, **Seunghoon Choi**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — **共同第一作者**
-4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
-   Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **共同第一作者**
-5. **Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.**
-   **Seunghoon Choi**, Hyung-ki Park, Jaehwan Ahn, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology*（已录用），2026. — **第一作者**
+1. Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.
+   Seunghoon Choi†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — 共同第一作者
+2. Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.
+   Seunghoon Choi†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — 共同第一作者
+3. Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.
+   Subi Jeon†, Seunghoon Choi†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — 共同第一作者
+4. Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.
+   Subi Jeon†, Seunghoon Choi†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — 共同第一作者
+5. Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.
+   Seunghoon Choi, Hyung-ki Park, Jaehwan Ahn, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology*（已录用），2026. — 第一作者
 
 ## 专利
 
-- **纤维型传感器及其制造方法** — KR 10-2026011 · 2019.09.20 注册
-- **具有微结构表面的功能性手术缝合线及其制造方法** — KR 10-2019-0061944 · 申请 (2019)
+- 纤维型传感器及其制造方法 — KR 10-2026011 · 2019.09.20 注册
+- 具有微结构表面的功能性手术缝合线及其制造方法 — KR 10-2019-0061944 · 申请 (2019)
 
 ## 获奖与发表
 
-- **政府奖学金 — 本硕连读课程** · *成均馆大学 (Sungkyunkwan University)，2017* — 成绩优异全额奖学金，含在巴黎高等物理化工学院 (ESPCI Paris) 为期 8 周的研究研修。
-- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *MRS Fall Meeting, Boston, 2018*
-- **基于混合纳米复合材料的纤维型多模态传感器** · *韩国高分子学会秋季学术大会，釜山，2017*
+- 政府奖学金 — 本硕连读课程 · *成均馆大学 (Sungkyunkwan University)，2017* — 成绩优异全额奖学金，含在巴黎高等物理化工学院 (ESPCI Paris) 为期 8 周的研究研修。
+- Best Poster Award — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *MRS Fall Meeting, Boston, 2018*
+- 基于混合纳米复合材料的纤维型多模态传感器 · *韩国高分子学会秋季学术大会，釜山，2017*
 
 ## 技术栈
 
-- **分析与结构表征** — SEM (EDS) · AFM · 光学显微镜 · XRD · FT-IR · UV-Vis · 接触角
-- **工艺与微结构制备** — 微结构压印 · 高分子表面图案化 · 可拉伸复合材料制备 · 表面涂层
-- **浆料与胶体** — 浆料流变学 · 胶体分散稳定性 · 颗粒悬浮 · 工业混合
-- **建模与数据分析** — COMSOL Multiphysics (FEM) · MATLAB · Minitab (SPC) · OriginPro · Excel VBA
-- **编程与系统** — Python (PyTorch) · C++ · SPC · FAT / SAT
+- 分析与结构表征 — SEM (EDS) · AFM · 光学显微镜 · XRD · FT-IR · UV-Vis · 接触角
+- 工艺与微结构制备 — 微结构压印 · 高分子表面图案化 · 可拉伸复合材料制备 · 表面涂层
+- 浆料与胶体 — 浆料流变学 · 胶体分散稳定性 · 颗粒悬浮 · 工业混合
+- 建模与数据分析 — COMSOL Multiphysics (FEM) · MATLAB · Minitab (SPC) · OriginPro · Excel VBA
+- 编程与系统 — Python (PyTorch) · C++ · SPC · FAT / SAT
 
 ---
 

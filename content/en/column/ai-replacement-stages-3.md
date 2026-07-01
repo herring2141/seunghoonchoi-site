@@ -88,7 +88,7 @@ Still, replacement does not stop. The actor doing the replacement shifts from in
 
 That slow movement is the core of stages 9 through 14. In the next part, this flow goes deeper. AI begins not only to take work, but to shake ownership and the interests between AI and humans.
 
-**Series: The 16 Stages of AI Job Replacement, Part 3**
+Series: The 16 Stages of AI Job Replacement, Part 3
 
 - Full map: [In what order does AI replace human work?](/column/ai-replacement-stages/)
 - Previous: [From repetitive physical labor to work that needs judgment and sense: stages 6 to 8](/column/ai-replacement-stages-2/)

@@ -12,12 +12,12 @@ reviewStatus: "done"
 
 ## 경력
 
-- **2026 –** · 박사과정 입학 예정, 계산재료과학 — _플로리다대학교(UF)_, 게인즈빌, FL
-- **2025 – 2026** · 방문연구원, 전자전기-로봇공학 — _한국교통대학교_, 충주
-- **2023 – 2025** · 전극 공정 기술자문 — _EV 배터리 합작법인_, 중국 옌청 — 프리미엄 EV 라인 런칭
-- **2021 – 2023** · 전극 공정 엔지니어 — _대형 EV 배터리 제조사_, 서산 — 양산 공정 관리
-- **2017 – 2019** · 공학석사, 나노과학·공학 — _성균관대학교(SKKU)_, 수원
-- **2010 – 2017** · 공학사, 신소재공학 — _성균관대학교(SKKU)_, 수원
+- 2026 – · 박사과정 입학 예정, 계산재료과학 — _플로리다대학교(UF)_, 게인즈빌, FL
+- 2025 – 2026 · 방문연구원, 전자전기-로봇공학 — _한국교통대학교_, 충주
+- 2023 – 2025 · 전극 공정 기술자문 — _EV 배터리 합작법인_, 중국 옌청 — 프리미엄 EV 라인 런칭
+- 2021 – 2023 · 전극 공정 엔지니어 — _대형 EV 배터리 제조사_, 서산 — 양산 공정 관리
+- 2017 – 2019 · 공학석사, 나노과학·공학 — _성균관대학교(SKKU)_, 수원
+- 2010 – 2017 · 공학사, 신소재공학 — _성균관대학교(SKKU)_, 수원
 
 ## 산업 경험
 
@@ -25,9 +25,9 @@ reviewStatus: "done"
 
 ## 연락처
 
-- **이력서(CV)** — [PDF 다운로드 ↗](/cv/Seunghoon_Choi_CV.pdf)
-- **대학** — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
-- **개인** — [herring2141@gmail.com](mailto:herring2141@gmail.com)
-- **링크드인** — [연결하기 ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
-- **ORCID** — [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
-- **Google Scholar** — [프로필 ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)
+- 이력서(CV) — [PDF 다운로드 ↗](/cv/Seunghoon_Choi_CV.pdf)
+- 대학 — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
+- 개인 — [herring2141@gmail.com](mailto:herring2141@gmail.com)
+- 링크드인 — [연결하기 ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
+- ORCID — [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
+- Google Scholar — [프로필 ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)

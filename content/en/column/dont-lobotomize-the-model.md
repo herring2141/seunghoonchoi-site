@@ -36,9 +36,9 @@ When these rules become absolute standards, something strange happens. Even if t
 
 Before adding a check, ask two questions.
 
-**First, is this almost always a defect even if user intent or taste changes?** A `#REF!` formula error, a shape pushed outside the slide, and an unresolved placeholder are rarely things anyone should deliver as-is.
+First, is this almost always a defect even if user intent or taste changes? A `#REF!` formula error, a shape pushed outside the slide, and an unresolved placeholder are rarely things anyone should deliver as-is.
 
-**Second, would a more capable model also try to avoid this problem?** If a better output might intentionally break the rule, do not call it an error. Information density, color combinations, number of fonts, margins, and sentence length belong here.
+Second, would a more capable model also try to avoid this problem? If a better output might intentionally break the rule, do not call it an error. Information density, color combinations, number of fonts, margins, and sentence length belong here.
 
 The core is simple. If a stronger model would also want to avoid the failure, catch it. But if a stronger model might deliberately choose that expression, the review tool should not block it.
 
@@ -60,7 +60,7 @@ But automated checks cannot replace final judgment. Context, intent, audience, a
 
 ## Why I made Office File Inspector
 
-I organized **Office File Inspector** around this principle. It is an open-source tool that finds obvious defects in AI-generated PowerPoint, Excel, and Word files.
+I organized Office File Inspector around this principle. It is an open-source tool that finds obvious defects in AI-generated PowerPoint, Excel, and Word files.
 
 The goal is not to force every output into one shape. The goal is to stop clear failures early and leave room for better choices by the model and the person.
 

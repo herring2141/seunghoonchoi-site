@@ -20,12 +20,12 @@ build: {list: never, render: always}
   </div>
 </div>
 
-Cuando le pides a un modelo de lenguaje que prepare diapositivas o una hoja de cálculo, siempre salen los mismos errores. Texto que se sale de la diapositiva, errores `#REF!`, celdas que son números pero están guardadas como texto, markdown que se cuela tal cual en un documento de Word. **llm-office-qa** detecta justo eso. No toca nada más.
+Cuando le pides a un modelo de lenguaje que prepare diapositivas o una hoja de cálculo, siempre salen los mismos errores. Texto que se sale de la diapositiva, errores `#REF!`, celdas que son números pero están guardadas como texto, markdown que se cuela tal cual en un documento de Word. llm-office-qa detecta justo eso. No toca nada más.
 
-- **Solo defectos objetivos**: texto que se sale del marco, fórmulas rotas, tablas con un número de columnas que no cuadra, imágenes con la proporción deformada, bordes que quedaron a medias, markdown que no se borró
-- **Deja el estilo en manos del modelo**: la densidad, el color, la fuente, las frases; eso lo decide el modelo, no es tarea del linter
-- **Determinista**: lee el archivo y solo mide. No usa la red ni llama a ningún modelo
-- **Licencia MIT** y funciona como hook de [Claude Code](https://docs.claude.com/en/docs/claude-code): antes de entregar el archivo, le devuelve los defectos al modelo para que él mismo los corrija
+- Solo defectos objetivos: texto que se sale del marco, fórmulas rotas, tablas con un número de columnas que no cuadra, imágenes con la proporción deformada, bordes que quedaron a medias, markdown que no se borró
+- Deja el estilo en manos del modelo: la densidad, el color, la fuente, las frases; eso lo decide el modelo, no es tarea del linter
+- Determinista: lee el archivo y solo mide. No usa la red ni llama a ningún modelo
+- Licencia MIT y funciona como hook de [Claude Code](https://docs.claude.com/en/docs/claude-code): antes de entregar el archivo, le devuelve los defectos al modelo para que él mismo los corrija
 
 [Ver en GitHub →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 

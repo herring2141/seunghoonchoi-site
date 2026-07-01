@@ -12,12 +12,12 @@ reviewStatus: "done"
 
 ## 経歴
 
-- **2026 –** · 博士課程入学予定、計算材料科学 — _フロリダ大学(UF)_、ゲインズビル、FL
-- **2025 – 2026** · 客員研究員、電子電気・ロボット工学 — _韓国交通大学校_、忠州
-- **2023 – 2025** · 電極工程の技術顧問 — _EVバッテリー合弁法人_、中国・塩城 — プレミアムEVラインの立ち上げ
-- **2021 – 2023** · 電極工程エンジニア — _大型EVバッテリーメーカー_、瑞山 — 量産工程の管理
-- **2017 – 2019** · 工学修士、ナノ科学・工学 — _成均館大学校(SKKU)_、水原
-- **2010 – 2017** · 工学士、新素材工学 — _成均館大学校(SKKU)_、水原
+- 2026 – · 博士課程入学予定、計算材料科学 — _フロリダ大学(UF)_、ゲインズビル、FL
+- 2025 – 2026 · 客員研究員、電子電気・ロボット工学 — _韓国交通大学校_、忠州
+- 2023 – 2025 · 電極工程の技術顧問 — _EVバッテリー合弁法人_、中国・塩城 — プレミアムEVラインの立ち上げ
+- 2021 – 2023 · 電極工程エンジニア — _大型EVバッテリーメーカー_、瑞山 — 量産工程の管理
+- 2017 – 2019 · 工学修士、ナノ科学・工学 — _成均館大学校(SKKU)_、水原
+- 2010 – 2017 · 工学士、新素材工学 — _成均館大学校(SKKU)_、水原
 
 ## 産業経験
 
@@ -25,9 +25,9 @@ reviewStatus: "done"
 
 ## 連絡先
 
-- **履歴書(CV)** — [PDFダウンロード ↗](/cv/Seunghoon_Choi_CV.pdf)
-- **大学** — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
-- **個人** — [herring2141@gmail.com](mailto:herring2141@gmail.com)
-- **LinkedIn** — [つながる ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
-- **ORCID** — [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
-- **Google Scholar** — [プロフィール ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)
+- 履歴書(CV) — [PDFダウンロード ↗](/cv/Seunghoon_Choi_CV.pdf)
+- 大学 — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
+- 個人 — [herring2141@gmail.com](mailto:herring2141@gmail.com)
+- LinkedIn — [つながる ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)
+- ORCID — [0009-0007-8324-2943 ↗](https://orcid.org/0009-0007-8324-2943)
+- Google Scholar — [プロフィール ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ)

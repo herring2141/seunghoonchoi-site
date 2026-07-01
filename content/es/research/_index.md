@@ -6,7 +6,7 @@ Me interesa encontrar maneras de hacer que los materiales y los procesos de fabr
 
 De aquí en adelante quiero seguir investigando cómo reducir la distancia entre las propiedades a escala atómica y el proceso y el rendimiento reales, usando la ciencia de materiales computacional y el aprendizaje automático.
 
-[**Currículum (CV) completo en PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
+[Currículum (CV) completo en PDF ↗](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## Líneas de investigación
 
@@ -42,35 +42,35 @@ Es una reseña que resume la investigación sobre pinzas blandas inspiradas en l
 
 <p class="publication-note">Notación: † coprimer autor · * autor de correspondencia · en negrita, Seunghoon Choi</p>
 
-1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
-   **Seunghoon Choi**†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **Coprimer autor**
-2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
-   **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **Coprimer autor**
-3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.**
-   Subi Jeon†, **Seunghoon Choi**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — **Coprimer autor**
-4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
-   Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **Coprimer autor**
-5. **Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.**
-   **Seunghoon Choi**, Hyung-ki Park, Jaehwan Ahn, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology* (aceptado), 2026. — **Primer autor**
+1. Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.
+   Seunghoon Choi†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — Coprimer autor
+2. Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.
+   Seunghoon Choi†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — Coprimer autor
+3. Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.
+   Subi Jeon†, Seunghoon Choi†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — Coprimer autor
+4. Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.
+   Subi Jeon†, Seunghoon Choi†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — Coprimer autor
+5. Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.
+   Seunghoon Choi, Hyung-ki Park, Jaehwan Ahn, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology* (aceptado), 2026. — Primer autor
 
 ## Patentes
 
-- **Sensor de tipo fibra y su método de fabricación** — KR 10-2026011 · registrada el 20-09-2019
-- **Sutura quirúrgica funcional con superficie microestructurada y su método de fabricación** — KR 10-2019-0061944 · solicitud presentada (2019)
+- Sensor de tipo fibra y su método de fabricación — KR 10-2026011 · registrada el 20-09-2019
+- Sutura quirúrgica funcional con superficie microestructurada y su método de fabricación — KR 10-2019-0061944 · solicitud presentada (2019)
 
 ## Premios y presentaciones
 
-- **Beca del Gobierno — programa combinado de grado y maestría** · *Universidad Sungkyunkwan, 2017* — beca completa por excelencia académica, incluida una estancia de investigación de 8 semanas en la ESPCI Paris.
-- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *MRS Fall Meeting, Boston, 2018*
-- **Sensor multimodal de tipo fibra basado en nanocompuesto híbrido** · *Congreso de Otoño de la Sociedad Coreana de Polímeros, Busan, 2017*
+- Beca del Gobierno — programa combinado de grado y maestría · *Universidad Sungkyunkwan, 2017* — beca completa por excelencia académica, incluida una estancia de investigación de 8 semanas en la ESPCI Paris.
+- Best Poster Award — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *MRS Fall Meeting, Boston, 2018*
+- Sensor multimodal de tipo fibra basado en nanocompuesto híbrido · *Congreso de Otoño de la Sociedad Coreana de Polímeros, Busan, 2017*
 
 ## Competencias técnicas
 
-- **Análisis y evaluación estructural** — SEM (EDS) · AFM · microscopía óptica · XRD · FT-IR · UV-Vis · ángulo de contacto
-- **Procesos y fabricación de microestructuras** — impresión (imprinting) de microestructuras · texturizado de superficies poliméricas · fabricación de compuestos elásticos · recubrimiento de superficies
-- **Pastas y coloides** — reología de pastas (slurry) · estabilidad de la dispersión coloidal · suspensión de partículas · mezclado industrial
-- **Modelado y análisis de datos** — COMSOL Multiphysics (FEM) · MATLAB · Minitab (SPC) · OriginPro · Excel VBA
-- **Programación y sistemas** — Python (PyTorch) · C++ · SPC · FAT / SAT
+- Análisis y evaluación estructural — SEM (EDS) · AFM · microscopía óptica · XRD · FT-IR · UV-Vis · ángulo de contacto
+- Procesos y fabricación de microestructuras — impresión (imprinting) de microestructuras · texturizado de superficies poliméricas · fabricación de compuestos elásticos · recubrimiento de superficies
+- Pastas y coloides — reología de pastas (slurry) · estabilidad de la dispersión coloidal · suspensión de partículas · mezclado industrial
+- Modelado y análisis de datos — COMSOL Multiphysics (FEM) · MATLAB · Minitab (SPC) · OriginPro · Excel VBA
+- Programación y sistemas — Python (PyTorch) · C++ · SPC · FAT / SAT
 
 ---
 

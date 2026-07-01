@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Estructura geométrica de un edificio, lo que significa reconstruir una organización desde cero](/images/col-ai-native-org.jpg)
 
-Cuando me preguntan qué es una organización nativa de IA, yo respondo con otra pregunta. Si quitamos toda la IA que usan ahora, ¿qué le pasa a la empresa? Si solo se vuelve un poco más lenta, entonces es simplemente una empresa que usa IA. **Si en el momento en que quitas la IA ya no se sostienen la velocidad, la estructura, los costos y la experiencia del producto**, eso es una organización nativa de IA.
+Cuando me preguntan qué es una organización nativa de IA, yo respondo con otra pregunta. Si quitamos toda la IA que usan ahora, ¿qué le pasa a la empresa? Si solo se vuelve un poco más lenta, entonces es simplemente una empresa que usa IA. Si en el momento en que quitas la IA ya no se sostienen la velocidad, la estructura, los costos y la experiencia del producto, eso es una organización nativa de IA.
 
 ## La empresa que le pone IA encima y la que se reconstruye
 
@@ -22,11 +22,11 @@ Así que la verdadera bifurcación no es si usas IA o no. La bifurcación es si 
 
 ## Las 5 señales que distinguen lo que es de verdad nativo de IA
 
-1. **La IA no es una herramienta de apoyo, sino un colega básico** : está incrustada en todas las capas, desde la toma de decisiones hasta la operación y el desarrollo del producto.
-2. **La organización es delgada y los ciclos son rápidos** : la IA asume el trabajo que hacía el mando intermedio de ordenar, reportar y hacer seguimiento. Por eso las capas se adelgazan.
-3. **Hay poca gente, pero los resultados son grandes** : se diseña para que funcione incluso con pocas personas.
-4. **El trabajo funciona como sistema, no como documento** : los manuales, las normas y los registros entran en la capa operativa donde funcionan los modelos y los agentes.
-5. **El papel de la persona pasa de 'ejecutar directamente' a 'definir el problema, verificar y responder'** : la ejecución repetitiva la hace la máquina; la dirección, los límites y la verificación los hace la persona.
+1. La IA no es una herramienta de apoyo, sino un colega básico : está incrustada en todas las capas, desde la toma de decisiones hasta la operación y el desarrollo del producto.
+2. La organización es delgada y los ciclos son rápidos : la IA asume el trabajo que hacía el mando intermedio de ordenar, reportar y hacer seguimiento. Por eso las capas se adelgazan.
+3. Hay poca gente, pero los resultados son grandes : se diseña para que funcione incluso con pocas personas.
+4. El trabajo funciona como sistema, no como documento : los manuales, las normas y los registros entran en la capa operativa donde funcionan los modelos y los agentes.
+5. El papel de la persona pasa de 'ejecutar directamente' a 'definir el problema, verificar y responder' : la ejecución repetitiva la hace la máquina; la dirección, los límites y la verificación los hace la persona.
 
 ## El borrador lo hace la IA, la responsabilidad final la persona
 
@@ -39,7 +39,7 @@ Compartir el contexto de la organización con la IA de forma continua
  → Registro de resultados y acumulación de retroalimentación
 ```
 
-La clave es una sola. **Sacar el borrador y ayudar a juzgar lo hace la IA; la responsabilidad final siempre es de la persona.**
+La clave es una sola. Sacar el borrador y ayudar a juzgar lo hace la IA; la responsabilidad final siempre es de la persona.
 
 ## La brecha se abre a partir del nivel 3
 
@@ -56,16 +56,16 @@ La mayoría se detiene en los niveles 1 y 2. La verdadera brecha se abre a parti
 
 ## Si todo se concentra en unos pocos expertos, se forma un cuello de botella
 
-La **alfabetización en IA** es el estado de *saber* qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La **fluidez en IA** es el estado de aplicarla de verdad a mi trabajo y *sacar resultados*. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza falla y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino **un estado en el que varias personas pueden manejarla directamente**. El orden también es claro. Muchas personas tienen que tener práctica directa para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
+La alfabetización en IA es el estado de *saber* qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La fluidez en IA es el estado de aplicarla de verdad a mi trabajo y *sacar resultados*. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza falla y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino un estado en el que varias personas pueden manejarla directamente. El orden también es claro. Muchas personas tienen que tener práctica directa para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
 
 ## Si te confundes, solo tiras el dinero
 
-- ❌ "Nativo de IA = empresa que usa poca gente" → la clave no es reducir personal, sino **volver a montar la forma de crear valor**.
-- ❌ "Si usas muchas herramientas, eres nativo de IA" → lo que importa no es el número de herramientas, sino **si están conectadas dentro del flujo de trabajo**.
+- ❌ "Nativo de IA = empresa que usa poca gente" → la clave no es reducir personal, sino volver a montar la forma de crear valor.
+- ❌ "Si usas muchas herramientas, eres nativo de IA" → lo que importa no es el número de herramientas, sino si están conectadas dentro del flujo de trabajo.
 - ❌ "Eso solo sirve para una startup" → una empresa grande también puede. Solo que le cuesta más porque los sistemas viejos la frenan.
 
 ## Divide el trabajo que recibes en 4 partes
 
-Parece un tema de organización, pero a nivel personal aplica igual. **Pasar de "lo hago todo yo mismo" a "yo superviso y diseño, y la ejecución la hace la IA".** Desde el momento en que recibes un trabajo, lo divides así. ¿En qué unidades parto este problema? ¿Qué partes le dejo a la IA y qué partes juzgo yo mismo? ¿Con qué criterio verifico el resultado? Si se repite, ¿puedo pasarlo a una plantilla, un agente o una automatización?
+Parece un tema de organización, pero a nivel personal aplica igual. Pasar de "lo hago todo yo mismo" a "yo superviso y diseño, y la ejecución la hace la IA". Desde el momento en que recibes un trabajo, lo divides así. ¿En qué unidades parto este problema? ¿Qué partes le dejo a la IA y qué partes juzgo yo mismo? ¿Con qué criterio verifico el resultado? Si se repite, ¿puedo pasarlo a una plantilla, un agente o una automatización?
 
-Una organización nativa de IA no se hace de un día para otro. Pero **una persona nativa de IA** sí, desde hoy. No esperes a que la empresa cambie; empieza a dividir así el trabajo que recibas mañana.
+Una organización nativa de IA no se hace de un día para otro. Pero una persona nativa de IA sí, desde hoy. No esperes a que la empresa cambie; empieza a dividir así el trabajo que recibas mañana.
