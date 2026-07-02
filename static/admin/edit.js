@@ -188,7 +188,7 @@
   function setCardHidden(rk, card, hb, hide, info){
     if (!tokenValid()){ ensureAuth().then(function(){ setCardHidden(rk, card, hb, hide, info); }).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
     if (hide && !confirm('이 글을 공개 목록에서 숨길까요?\n모든 언어에서 숨겨집니다. (이 버튼으로 언제든 다시 공개할 수 있어요.)')) return;
-    var langs=['ko','en','zh','es','hi','ar'], i=0;
+    var langs=['ko','en','zh','es','hi','ar','ja'], i=0;
     hb.textContent = hide ? '숨기는 중…' : '해제하는 중…'; hb.style.opacity='.6'; hb.style.pointerEvents='none';
     function finish(){
       hb.style.opacity='1'; hb.style.pointerEvents='auto';

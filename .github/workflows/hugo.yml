@@ -37,6 +37,8 @@ jobs:
         uses: actions/configure-pages@v6
       - name: Run layout harness
         run: node tools/check-rtl-layout.cjs
+      - name: Check language sync
+        run: node tools/check-language-sync.js
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
